@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #13",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibsjhgmb4zzpsxghxkndehas6ae3dsvg56n6aasxz4xqk3i42l63q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

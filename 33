@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #33",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqiycjrgqm36mcpzi3yhkbyji3ma27iw5ktercvfuvthe6qxyqxm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

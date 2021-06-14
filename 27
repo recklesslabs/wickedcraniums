@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #27",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid7ugthaq6vf4x67tvoukjd44lgz22ujyvel3dbiwauzhddfbi3he.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #23",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicbjaji3hyuwui72pd4eppllhacbgtgyus3wsojtb2xq3caes3z4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

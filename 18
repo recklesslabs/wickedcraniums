@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #18",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignutgg2y4xv5bvywl7j3zplrbnyggljyovo5iy6wnjhwsrw4jh5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

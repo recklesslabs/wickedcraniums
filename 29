@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #29",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihscqr6ws3x2yezh2hc5c5liip4gzrkr5l5vjdmatgxsy26vr27oy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

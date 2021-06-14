@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #14",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidcdphbp2tkpljdtx5idumgvwyvo37gz26y2sxh7gnplh7rde2ade.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

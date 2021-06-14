@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #38",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifk75ubojghrky4vxiru3jezifksnotwi2odiyr4tf5vl47jzutla.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

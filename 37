@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #37",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjuen3ibpwjnp5tprl5bh25ljc5mmhsblirsv6ldulc5xwdijifu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

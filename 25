@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #25",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexrwd3mbcfzwdu7dpb7tbvufxd5axyuzzecw4qzm6qopvxqblote.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

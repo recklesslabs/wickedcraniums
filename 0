@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #0",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpcfvpxmu5kphjw67lvcvfqj543axqwgo65an7pucvgzg6l3cpwe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

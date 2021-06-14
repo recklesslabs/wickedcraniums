@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #30",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5edwopqnz2wnkdscqecdt2xo4u7mlf4hs73b3s3ogtv6pal3eb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #22",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibrbmtmwlccnkijxty2fhftyz4smqkv2fx5l5z3by75ysvbq7pl4i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

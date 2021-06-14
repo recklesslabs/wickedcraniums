@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #36",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidp4j6cf67il7lyvxcem3jbxk2x7xdyearzj3ven4kofyvir4ucfq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}
