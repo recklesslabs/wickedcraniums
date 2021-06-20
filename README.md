@@ -4,3 +4,4 @@ The metadata will be hosted on Github initially to control visibility, eventuall
 
 
 Initially the reserved craniums - which are for drops and stuff — will be visible. 
+
