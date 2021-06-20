@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3989",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlwxsj3j2mtk7vbeltlbdvfwzfxrviyo6oqwdrevhdth2s4bs3kq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9604",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiaqjwsqbqdtq52hnx26rbdyp44npbc6jyseuosjgdnvsicg2egu3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

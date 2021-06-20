@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10402",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieur36u7n4fzanxdagrvwwxmn7lz4vaub2xzbi6eijfn3zsukzq3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

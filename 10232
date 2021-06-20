@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10232",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifnax6ax522nvrbpwdcsx6km7b6xe6ldbuhwnc7ewn2aytms2a4q4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

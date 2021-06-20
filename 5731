@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5731",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeie23khdxctarv6hhscwocsyquxcygegtoihbblcnaqxvlboywf62e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

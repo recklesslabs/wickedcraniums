@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8556",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih4nptxzcbvdwl64hggza5pdshqn2tbidvgmk3ylffdszlu5my6sq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

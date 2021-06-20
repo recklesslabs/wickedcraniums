@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6813",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeid5zkao3dwugn2euokjgjauwzknytdyywkkp3t475uw7ufczobn4e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

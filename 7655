@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7655",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicxusythbxiideykyvsbrpw5or55nildtavnodcjhgw4a2mhypbie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

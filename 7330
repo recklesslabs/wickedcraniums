@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7330",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiblzyjhwcj3lzlpdm4c2x7mnkrmz3cexrn5gf7ifhuh5xr25zaioy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

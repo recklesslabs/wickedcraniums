@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8563",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicmerbf3twffwqblglp7zg6wlcsoxoktml5en3ui6pyxudktkcbte.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

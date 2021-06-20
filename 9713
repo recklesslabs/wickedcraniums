@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9713",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidpt6ob24ifmx7xy4tu5y6puxth65kjzxuuivwgybuwaxdqr65esm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

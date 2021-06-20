@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3412",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibi7rdf7qk64vvsh2yxamjnjhyw35pmrdooxjuhmz4o4drj3p4v3u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

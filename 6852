@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6852",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicq3amazbwn5bh3377rxpadqqao2i6xsjdeivmy2656z5cbd4346i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

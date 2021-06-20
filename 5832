@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5832",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifuzb5rlcq5r2ab2ffv7dnghlaj7nup6capn4ibtmfm5fi2mgwahm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

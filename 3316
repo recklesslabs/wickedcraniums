@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3316",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihvxelkd3kztlhnttmpofzxvhvyzwc2buisgjxsax52rwrw6ktrye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

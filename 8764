@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8764",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzsrhkednj5mamg5eypjmfgfnxf73qg6dgwp4lmjq54hheqogpb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

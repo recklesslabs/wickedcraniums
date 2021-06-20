@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9754",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiezvlrlexdxfag7pvbk66hw2yr2cn2a7wej5mra3hctqqn5fgcnfe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

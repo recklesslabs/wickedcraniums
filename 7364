@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7364",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasfdeyy7gl752djqvchxtrmgpvp7im5ybngrkhwkmg24kzgoxsjm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5571",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicykxsi2d6qcb4azes23vpugyifd2t3qmoo5ti5e3yv6hganlewvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

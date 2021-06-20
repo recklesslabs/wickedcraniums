@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7196",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidmpqfbj6hnqasw4il2uy3zl2zvzlx7ov4jsrvdykqx4l7ddjkscq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

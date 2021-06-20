@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5221",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkn6y3tvphbt4wkinwuq57ewisnqlyiblnm52sf246apy4e2mjg4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

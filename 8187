@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8187",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2dyrju6glkxxxg3tcgodniaqqkv4movjifvakztgsc7i6xsilci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9094",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihvgikvk53yqxoxiyfrep3zobosfr3bopanw3ebpwnb2lktt4lb3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

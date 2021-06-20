@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10456",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicnoryq2iolaktajdpmns2enomlosgc6frrdjnn65a6st4tn4ln3e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

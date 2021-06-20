@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10687",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic57mkfyyu46ch467jpvsclschalq6j6zao7x6hvbok6wsj3kq62u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6566",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7oadzm7ytqt2ol2oq42rt6hdjqhhes2skdc56i7b6quttx2ek7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

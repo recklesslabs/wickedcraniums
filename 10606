@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10606",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiafsj4wllv3zxqg4scjytt7727kksoj4s3vznwdxrax3dayvqfwlq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10296",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibfgb2txddn5fpjyuhb3fagoqyr4jpml37jclgqfnbn3c24de65mi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6955",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbqnfibj6d2agiacdl5dbpird7kwt33yyin46wrslo4ub3wtyhte.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

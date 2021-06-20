@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10478",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiafpuk2bhfdlxa67sfsi4leai46j7vxywut3sg7yskyhoxs3qjlwy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

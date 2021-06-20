@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10147",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibk26dpt2mqrxchocjz47wldq4am6denadk6cby5g3dykbyofnc7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4174",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibs7akf6ojqb7hzm6lay3apty4gucnnaqq7kce6wztgzzs75fv32i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

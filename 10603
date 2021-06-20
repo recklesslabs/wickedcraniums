@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10603",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihlbwwm6r5yy6jrmmilt2qjob2miz7lmtmwciainvtgokrv5g3nwq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

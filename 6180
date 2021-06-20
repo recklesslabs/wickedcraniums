@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6180",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie2ylonnddkvm32dmxd6lfhguyzycgnei5kc3eci4shu5ftyh2s2a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

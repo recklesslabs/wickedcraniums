@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7702",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic44ke7fo654mknd36ujxbnu3gpmrmt7egjslaiznl4xrxu6dea7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

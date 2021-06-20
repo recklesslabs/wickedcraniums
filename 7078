@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7078",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvxsnhbm4x2edrmgzutm2hihdb6mioc7esb2igmjsucgugxzyyqa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

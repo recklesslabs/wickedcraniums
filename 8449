@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8449",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihhrnrxqeor7hjaurj3bwxy3tulolohwh6aydazxzcjl2n4k7g5da.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

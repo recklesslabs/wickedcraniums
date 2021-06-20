@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7343",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiezzwsvoci75vnsh5jx7jwz77tnfqajrg3coxkayntsehw57mdgle.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

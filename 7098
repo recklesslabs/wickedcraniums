@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7098",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibcnwrh7oonjs4y4l63atijafn6cmwdrc3zocw3g4wd3rtsice3cy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

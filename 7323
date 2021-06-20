@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7323",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaiokpjvqahm6maodjbfbm7r7fj4zzbjg5jkqgn3klzaqx3psavvm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

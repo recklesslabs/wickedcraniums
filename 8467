@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8467",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaqws5xeputkdogkljhm5ku4j7wxrwd7gnost6kbu5huhjmuupi7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

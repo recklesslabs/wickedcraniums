@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8273",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigzor32dnnhzs26j2bnjoap43gudtjhvk53yq3vugtgz5f4zwxrta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

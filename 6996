@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6996",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4coqsicq4pjtgkl4bwmv2hgjqlbdtgqhzdsvbq4rusv3vtfl4oy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

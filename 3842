@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3842",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicmkyd3lscm3wrntlqpflsgv4awps7hmfzqthttyt64qks6wap5pu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3273",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigrhpzomomnzmrwlte3wf63ch6j4xrr5e62x2siinc42ehfobgaye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

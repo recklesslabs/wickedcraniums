@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7897",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic434377troqr7gn5q4ctg5h5lmth4nei3tizcismfrwxw55ubwum.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

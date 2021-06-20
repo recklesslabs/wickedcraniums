@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7056",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicke5j3r6ctj2kero7wseervhinyzhxifoin7dmxyqsa7ktrgwila.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7652",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiawfzr35lxeifidzt5pg2ytwh6yw62ia457bn437lql7odlxxn454.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

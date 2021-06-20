@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7311",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib3tlskhl5owc4vyoftm6jwd5bl3jyjcm7vb4hud6kr62rtinj5bm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

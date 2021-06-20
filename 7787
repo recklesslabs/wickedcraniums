@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7787",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie7pnwiv6mds2qosrdfabnjzi3dq55qmebkmatrr3jgtvlzbdp45m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

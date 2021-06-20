@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5045",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie6l2y6q2ed7a2kum7zql6drlgbjzafoucn5zastjufoucun2eb6u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

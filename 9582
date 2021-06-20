@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9582",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidedyo7urevaapjfpz7fbcj7kufsqoioaqu7j3mct3i7j2rcbks2a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7301",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifoneqhh4yrqj7hfc3xfwmjabzmubd45ysvarmw2scegs6vzphy2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

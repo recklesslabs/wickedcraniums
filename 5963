@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5963",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiavdinwmwgesthep3byputbqnlwdvk57ymd7hc3f35o6fdogywqku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3535",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiatn3sd4g6kdnrl2rvpa3rzdvoebuoo3vwkx3bl2yutd32x3eomb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

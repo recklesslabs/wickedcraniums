@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5482",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifbdgqhr6gxm7kx3hbugqee7mxqe4exjf6scoo2gmwhdhiltyzq7a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

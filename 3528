@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3528",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihz6ed7bmwglwyipcc325uqz6tsgja7hqyz7ki5tuorephv26uboy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

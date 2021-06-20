@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5194",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidzsskenkz3vrrz5m2wvqain63ohvficmzjtjlsj4ork2itens5tu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

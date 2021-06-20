@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9969",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiggzx7toiyhyulhqkvjjhunvph6hyeh4kjg7w2oueeg7dsrwawqoy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

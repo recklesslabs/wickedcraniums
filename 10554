@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10554",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeic4dr6vuzutxvwegevldjt4ohgc7lw4dqcxvif3zzj3gk6fisbgyu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

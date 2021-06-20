@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3718",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigvkaxhuz4xgu4dmmnzsuuali6wqnojnplaa6d4wgf4i54ivu7q2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

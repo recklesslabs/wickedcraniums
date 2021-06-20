@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3795",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiepocos4wewxkbenvrx6vbudaxwvabisqcrugzvjzoasb7a7w765a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

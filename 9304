@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9304",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiah4erda7emndbj75a3gszpfqogc3ynwuaf6ub25zyprh2hksxfcm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

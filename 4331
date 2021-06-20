@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4331",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidvrd4muo4cvxblp343g6qsywhtgqub2h3rxwuqqosiutrekhg56i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

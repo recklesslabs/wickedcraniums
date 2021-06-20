@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10121",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih253elhmebvqb7trunuev62ugauj6n7er6fwkrt7yq6erdk5z6vu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

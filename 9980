@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9980",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigt35y3iydxhnkdyoj74dh2tmvfrei56ly74xuwtj5hx3p2ois3ia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

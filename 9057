@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9057",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifyxz5rl32b3gkm6sktbgohpk7ip6hnsu3ykfz6gluwdfbib367i4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

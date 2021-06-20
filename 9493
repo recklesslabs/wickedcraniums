@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9493",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie65nz2zzbr647bcpbbqre6l2twdkejkngqxpprglxbrp667lw244.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

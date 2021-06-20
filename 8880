@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8880",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihgao5tlh25mqzzr6wbqihv3crzs6eoca6b2uarbyiwi2vljcdwgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

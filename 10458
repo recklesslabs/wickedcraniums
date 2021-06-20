@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10458",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig2bofqcmlgsvug7bbbowlcdlxva6cyvsyjxqvdq2dgmkgvppeffe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

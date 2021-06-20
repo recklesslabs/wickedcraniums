@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5124",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7liqublskhglg33hc4mfrtkuskdyyr4nx72x3xyi265vp6w6v64.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

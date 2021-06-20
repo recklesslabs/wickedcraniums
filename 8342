@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8342",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeie752m3kkiffq7n3iwvoeffk67izedar2t6e6u4xypznkioej3joq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

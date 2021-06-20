@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9447",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvt5srk6x6wfwq335nkzrr3uwsy7tg5isnhljxpevxirbgpg6eqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

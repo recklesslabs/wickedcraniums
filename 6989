@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6989",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiex5oqfnfz4r5tj5oabzyfox5ipdhm3wek5lottduprc5n5bbv5rm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3295",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihazhg7vrvcysdw5rsb3qob7cau2oujqq6pba6in5xnn5mpghq44u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

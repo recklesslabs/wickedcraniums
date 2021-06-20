@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5699",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2arhb5p75ft7dmn4lo7smsl4kzwvdixutcr3a7sfehqdq2amube.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

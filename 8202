@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8202",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia2t4iomz37ybpaiei274qp3rkqjmdtbei7agdgulewugl6asx23m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

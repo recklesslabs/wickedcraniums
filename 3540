@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3540",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigfgc2ur4nkejtkffhj4alubh7d3igxzi4vnbagyb2gonvx3qt2ly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

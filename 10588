@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10588",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidn5vrlmjgiiajh7d6bsyuuwhxh77v5cufcbfzbwdqgex7u5oqiv4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

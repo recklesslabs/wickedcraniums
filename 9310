@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9310",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihog2utkeuub3gavdnteuxvlqldhktdhrven3gbkuhnw6art6w3hq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

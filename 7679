@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7679",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih743w4zkxmejpew6rqdie54fksopywvj5jjl5svqe2wswkjip2yi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

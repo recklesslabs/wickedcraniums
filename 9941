@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9941",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihekeczqtubdewafuapks7sr3e75wsufwnpfmfyij73x7jakorxwe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

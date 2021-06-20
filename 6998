@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6998",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicgayaalyk5iatcbga5hnl3hvayih66v5ampd64wvdq7b4thiy6qa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

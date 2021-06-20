@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9286",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih5fhydyfs6c4vzuwwokwsqwld4oc4rky22fjqrvcbmxaxu2dblkm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7878",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiabvbkrdqkb2kcfruljaq4gnj4xg2vyekrrcp7i6iy7e4kq6p6ize.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

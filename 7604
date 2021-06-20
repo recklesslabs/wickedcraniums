@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7604",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebm5an2xkqia2rlxlbzchzj4573rbuxvudfwajkdcevbcchhyzd4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

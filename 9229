@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9229",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigowgtzvl2rdgaxztfa5grb7hd3zyug5wozdu5o62p2ggo3uzlfda.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

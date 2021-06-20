@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10647",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5acb2idmsftlrhenhrrc77nkhfr5esibfbq34xoecyn6ur2ul3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4230",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnknyj6l5pju6vme5abfy5utfor5cegsuan2v4qak265e4p7tbea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

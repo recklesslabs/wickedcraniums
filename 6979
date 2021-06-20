@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6979",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibmqqdv23lkentcd6jzidkxdjkqt26jbhh2qbimxkw7hib3mvp5je.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

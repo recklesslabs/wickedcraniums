@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3745",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihaqed5k7glueue3gb53ys33rvwzg6vcd23ewhyhuld5tejv4x5cy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

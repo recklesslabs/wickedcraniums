@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8510",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifqe3og37a7knwnsvz2ohdihhh2kfrpxgdwsb6pyztfni6jb5kzky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

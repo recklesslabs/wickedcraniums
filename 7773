@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7773",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiej4q3qyfbx7awfsun42fkkgl5rxc4ytmq7ki7rep3okdarbjsfgy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

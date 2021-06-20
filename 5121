@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5121",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiguy7mokier55mkbhtxyjgdmz6tzbysqrkoxoofrzqhiwucpsv2ti.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

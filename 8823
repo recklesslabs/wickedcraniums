@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8823",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicwur7cblotck7nhgtlnohoqg3y2u5mzvqkd4xhuqvktoxuefb37y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

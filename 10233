@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10233",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif6gdkzi24ipbzq3pqawejbbfj7ph2ygvvoci5ml5cabckhnjanhq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8038",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3kjohi3wxebivwi5fdy6fusklyaxcmz5elkvgtky6vw5d6bgaq4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

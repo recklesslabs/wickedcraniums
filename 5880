@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5880",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqv3qrvrbobvw2vzudupf5wjif6i6urhnno7e46dahmftdqp7dgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

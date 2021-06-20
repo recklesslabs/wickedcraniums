@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5532",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidx2bdb7bimhf57omvv5375cnw3zpflze6pyz6nr56vtdsoqga2h4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

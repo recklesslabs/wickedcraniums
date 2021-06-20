@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5780",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidupf3frlqf5h76us55diwuuf3kxxobkroc6lp6oyirmwaamri5im.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

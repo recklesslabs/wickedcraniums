@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7600",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifcq2kh3ljx3s4m22jtihumglrcz7q2gceexb5wr7m6p45gdyxw3u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

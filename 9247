@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9247",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig3b2e36tgq57nwcurb4ta47iwicr6oi25xh2iymxispcipvc34rm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

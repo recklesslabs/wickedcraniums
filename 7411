@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7411",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibhgfgx4xb6jzv6ifydnxazftmrk3z3gbb5qhbql3jpwrhovflyuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

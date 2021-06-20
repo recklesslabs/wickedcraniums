@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3838",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidpr7lys7wf3yizrue3jn4mbcizen77tkjmjpoce3ji3phzaeg33m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

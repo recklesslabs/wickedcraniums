@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8236",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibz3u5f25cw3ftdgrt3itl27nkuc3txtg6dj6xkyhwhsre7b4yhk4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

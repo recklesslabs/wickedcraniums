@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6013",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifxd7xb4yweugducvl7yp5osgwj3qzlpaljy5tzfgjt7inr5odx7e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

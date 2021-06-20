@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4889",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibttrlu222rqm76csvpvliqu2szapbznmd7fwzfmlrlf3j6bsexo4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

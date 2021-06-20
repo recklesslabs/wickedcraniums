@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7141",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihnwzo5io2nvg6j5ctf6welgstbm2pgyiioqxfezxci37xwtiqs7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

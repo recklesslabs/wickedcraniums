@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10244",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5zaof6i4uuvzefxtlejqbpu6ougmb672gnyfeiz7zshfbwy6o5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

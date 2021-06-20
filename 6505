@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6505",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnk4l6boe54677cjoi3yldvknoqzhuypydmky3jm3xoyjwo65caa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

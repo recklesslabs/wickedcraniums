@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4380",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiagw5l5q2zoidjcse6f6ntg6e44k6kf2jphxqhppgyy37g6qubwmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

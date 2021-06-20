@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6974",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3hnil4vc7od6sfdldehwea7vcrvguzup54p5wgihp6ok7cklqji.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

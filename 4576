@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4576",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib5555cghoz2i7elpdib6p3pkr66zkamvqhfajlcjb2l247jbjfyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

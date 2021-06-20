@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7662",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicsrhuxhrazpvfunlcv4uvryoc27wiy3xj7yoc7azapyfkpt255nq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

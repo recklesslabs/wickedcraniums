@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8114",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreienmim33kfk7h5q2x24segeptsvqa2cbnso3dulnwy3oa6tl6iyme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

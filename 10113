@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10113",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreies5lfzg4j46l3zdeljdz2sktz3xp5cs55j6oinmlkgsk4y5fpixu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

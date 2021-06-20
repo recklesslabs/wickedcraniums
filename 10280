@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10280",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyz643cdb5tscoqcvgc3vvc4fdvyw233o5ltdfauqk6qrdpe4jj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

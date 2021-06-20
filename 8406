@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8406",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtntcph2izxa43gehfx6yan74m4krfeqd7nfl2iahhaevxo4eyem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

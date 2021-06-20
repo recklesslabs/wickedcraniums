@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5203",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxuztl6fkc55ptbb73vlcq57qfzf4xcwr5hvs7qnpvy77b26gsim.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

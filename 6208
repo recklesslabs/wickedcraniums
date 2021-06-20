@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6208",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibe44minyvfm3bdpxlgtanopzteo7avzto2vrfdcqvior3q3c6olq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

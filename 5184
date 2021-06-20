@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5184",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidke63hts5u3hbzmjl665m2hbqpkkz47m7xx5crcqdkm4nglx7ccy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

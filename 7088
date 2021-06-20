@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7088",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdu7l7drz7nxpfulcv4zvxc5oyton2fqaxvlezs5khknxx2o4qaq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

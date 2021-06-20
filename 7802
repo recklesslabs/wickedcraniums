@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7802",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihrnew6nweaxy4kxoifaydbgjeeohjdljmno2747hbfxuxv2m4kge.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

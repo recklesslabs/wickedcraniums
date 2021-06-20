@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6725",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib5pcaygxz762qfy5d3mej6gxj4e6ijruuoh6gijsbpj42qbyyhju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

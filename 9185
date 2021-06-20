@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9185",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihebxs33vk6mcgs4663zaittbisj3p2aas6ywzbluo6wzwuawzdye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

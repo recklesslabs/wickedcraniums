@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10748",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2pdejc4u7lk5nr6rpey5bw6t2hyho7lctj7pptxyznf4qp2qtvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

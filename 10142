@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10142",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicf2wfuedjp45omuabhugsacjmvr5t5c4pmgoe6qfw6imq2qcnaiu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

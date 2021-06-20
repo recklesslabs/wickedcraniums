@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7106",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidre4hvcrpe22gzrul3ac4x52qngq57v7ofqxhd4tddcava4qqewu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

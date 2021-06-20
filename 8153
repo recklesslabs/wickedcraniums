@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8153",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbtf7k26ybufscwhxzne7x3oqsfs6qymjpmhdoxqmtzl5sotcopa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

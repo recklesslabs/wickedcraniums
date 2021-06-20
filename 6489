@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6489",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5oejatugwjs3o44xpfmiql3arg4jeogtx4vyrbvfszwzumj33bi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

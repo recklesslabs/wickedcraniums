@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5115",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihckocpsti4i22bw2jmfzfgy5arcs3rtrfrpyrd3nmyedlv7dlg6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

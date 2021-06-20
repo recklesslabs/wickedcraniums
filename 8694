@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8694",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7txsxen4d6xw2s4nwcaxe3bs3gdwzwaajka6u4wh7lvjp3i2oka.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

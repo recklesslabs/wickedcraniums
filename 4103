@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4103",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiejemlgozk2op6iqqkxoay5rbz7onueqlxx7uugczrrj4to4dz2py.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

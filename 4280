@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4280",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiat5rbijgzkceojlhg4sdz3tbnunrfz56yo6kefazwtutpjuldwey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9334",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwvchbb7ocvngah2wrm76mmu5gyjbt2zeddueec2tdzkwei6pa7u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

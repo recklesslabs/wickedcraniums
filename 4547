@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4547",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif6p5vsjogucxrvopvnapmgyarkp5u3lirk6w7wt24aj2aedaligm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

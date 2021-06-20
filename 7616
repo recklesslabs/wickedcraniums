@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7616",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibv2dwsr7gugy2gp3mms3iqzx4lgtsqaun54hcrwk3cn35uhx5l6i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

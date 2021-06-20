@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7523",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieoykacl6ipqokhlxngydm4ce5ze5dbzzhrboksyegxv26kks537m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5848",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdri35vh4eqvtxiq7pqzblikniifzzzk4b4xvnfiefmqxl6wx6ha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

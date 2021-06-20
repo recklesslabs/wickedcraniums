@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3848",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigyktkmuohjs2vp5eapmop5covhpzhypk5uggogr3n7e2s6fe74ui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

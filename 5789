@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5789",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidli7rrlwhal65bjkn4gnwcbvj7xvxf3phlmgpkew3hwjmwtevfym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

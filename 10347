@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10347",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih4ug7tuvuthgjolwc6mnyl677sreu5tx4dprzrnkm3fznwashwhy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

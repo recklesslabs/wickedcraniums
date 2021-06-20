@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3559",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihjavzi7q2wkduf5a4kbqaftubdgyxdsnnuizo57wu32sf3eykvqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

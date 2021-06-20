@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4679",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieee6vxh2gtq3yu7smncohrwlw7wn4yhdxklvfgf7umdj4545jc4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

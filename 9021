@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9021",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibiao6xjxid2mninrbw63q74qqpzhbj3t2dzxwjd6wplzllqjtica.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

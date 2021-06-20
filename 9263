@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9263",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidjz36zh2fvapnh6n6zjkm2kbzsvcixonngembx37dsrqhuhzvb5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

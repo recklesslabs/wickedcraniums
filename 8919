@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8919",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib33gud34p74iocu426zbokolnmejxlnc7ntx47uk4hdnuux5qata.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

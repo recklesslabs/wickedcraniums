@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10663",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaok7om2aghahsphsnlrv4tcwug3ndm4meskz3hw6fhnwbihg52qy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

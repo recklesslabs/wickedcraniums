@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9430",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiatodi67huzadyiyl7vkatni4si4e32dfngyrdd7hhrnheegegwmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

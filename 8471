@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8471",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieebwug273j7h4c44x2veddka3qmja245d3yb5ka5l4bzzszufjpa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

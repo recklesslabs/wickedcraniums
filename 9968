@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9968",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiff3dv55yzlwen27mzi25gysd7l6ayq6zl6727xcc6lgdtgfoeani.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

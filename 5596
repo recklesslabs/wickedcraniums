@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5596",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib2ekjbcr7s2tzhv2ulpugluo6wju5wutrspgpavgtxiycxfn4fqa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

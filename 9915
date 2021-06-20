@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9915",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiazcheejsnpik7i7leeke3vw454vzoqy6diezh552enfsgk7w5j7a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

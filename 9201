@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9201",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibki2wee75adkul5lgisnvndzhhtsm5tq674odheyid7ojl3xknpu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

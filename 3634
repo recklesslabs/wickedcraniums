@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3634",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeied5dwgb35oh56ethjc57ksikljwxpcyvq3ryctp7feaz2kmszade.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

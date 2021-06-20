@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9173",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidir3hhmhhe6kcbdilnuxt2c7y7ptjde7nylhorygxjteknvfq4be.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

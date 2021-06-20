@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9076",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihimvvsknif5pv6yl2kisi7ltjcug3af5tpmttbtlc7oywn32hiti.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

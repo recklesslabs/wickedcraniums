@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7910",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid7jqfusbt5xjhjzdtakpgws2e24gtwlb5y3hhupkir3ixlkmx7ja.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

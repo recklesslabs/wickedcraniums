@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6286",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicdcch4cef5m4h5iercz35a25l3hspnhmfdrxofejh7o5l2yry77e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

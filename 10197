@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10197",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3xsbba3joswoezpzzozxdngxa7umr3hz62uedavg6czvq6qhneu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

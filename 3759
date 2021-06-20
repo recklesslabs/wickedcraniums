@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3759",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreialu6xf4jcmye5csyos3k6saxt74aiycyrtherli2ais75qglyoee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4908",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiakbxqv3uuaunyq3fjxn7yqvwhri7cedbekekmraaypirvo5pvbpa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

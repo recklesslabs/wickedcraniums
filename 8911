@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8911",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihg6fjgj47smeczy2jx2bf2eevelrumpkv6pr34ba6l5e5uazvhca.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

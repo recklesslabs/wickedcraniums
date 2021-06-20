@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10102",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicuxbicswygijg7vzme3ppabpzkvkfm3h25j5md2jyg7nrls4k3ri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

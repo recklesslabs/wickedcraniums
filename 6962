@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6962",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmjtw3cld2zbm4gdpd63m76mcu7fjfeouqlspukve7yunwhw3nve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

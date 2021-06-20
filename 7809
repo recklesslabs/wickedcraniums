@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7809",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiey2wjj7qzeugc6o3cevdpkm63kkf4bamjx44bf7uq7c727ol3uru.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

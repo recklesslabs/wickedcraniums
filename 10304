@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10304",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibqn6y3qekrqxxv3pczm4x77d7qiaua3tqpsdeybuutjfokt4ypaa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

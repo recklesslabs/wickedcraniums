@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7945",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicojlucm6ghobr5pmosg6ctgviyhufkf5fauql6gbhiln2cgtk3ii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

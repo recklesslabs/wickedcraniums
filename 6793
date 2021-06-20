@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6793",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibljie2ybdvzanvepbgycqavwrr42kbkfbjyw2owvt3xsmvxphzay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

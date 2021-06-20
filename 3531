@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3531",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiey5tfeuyxib2dlvkmrrfpx332rolhvswb66mtzp6quzf7pm3i7lq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

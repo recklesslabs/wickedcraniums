@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7427",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicdx3dtmd2y7tlkpsczamjooonvgfpx7myovxjrmf4smokni4xnyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

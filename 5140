@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5140",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibifebxxxbsyz2heyuty6mywb3upaazzjtpfm2ygmobg2ve3jcwfy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

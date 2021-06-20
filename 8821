@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8821",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiak6fqmiq65euwprsgtvexqd2r4jf2xg4g35tnwk3vewrjcqxoraa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

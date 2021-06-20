@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10483",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifbabu5cltebbasgiu4wodc77744katf46taasa4pa74hvl6jtphe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10625",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaolmwp6bs4spzaxfxq7nihvgryjida6cxj72tzlib7jeerkspkxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6825",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibcvk6cucsugtnj7dvqdei3zddumngq4t77u4f576yemfrhhkq2fq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

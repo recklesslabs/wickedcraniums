@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5711",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib44heqpyidrzxsxaf6szqgl37gebmiua4slcmcszq3hipwcdkbia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

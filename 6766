@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6766",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic4sv7cuq7ise3zscjvbcbldy4qw7ulrtg2zhlhklonkbraagfgp4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

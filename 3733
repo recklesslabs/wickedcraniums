@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3733",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihrtvww3t4ytoiznbnpsm2m5cqeaqxsqrzackfhsxovictammepjy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

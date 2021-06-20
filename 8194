@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8194",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicwxberzzahwkmv6lgsln4ufphmrdilm4mv55ty2wu23teid4m35a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

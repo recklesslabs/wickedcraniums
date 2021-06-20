@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6822",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifpgnfav525gr4ugk5ev6xeiv7gbkmqxkos65hdh3n7lqlqmlv5gq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

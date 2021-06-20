@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5013",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjirftygrif3fzaaca57qoirioh2hbpeh577r2ad7zusry5tzzby.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7985",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5ct4xek4v6thqpgqpnhpxu5d2vloi5atspprla7uttrudkseoe4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

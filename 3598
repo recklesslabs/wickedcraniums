@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3598",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdg6l6uw67ak64acqiwqt2odcfhskokzogupbxckokdswkeyj6wu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

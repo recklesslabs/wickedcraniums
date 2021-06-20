@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6992",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihasyljfoeqk365ent7d3osse2v24d2thr533ptifyjxxt6lgzavm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

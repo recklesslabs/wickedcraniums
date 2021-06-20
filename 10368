@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10368",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihoudnsrvc3ogsxa3kgmikxsxcs26nzjoisgfdrkor4nbbpxd77n4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

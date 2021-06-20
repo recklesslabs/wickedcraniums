@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6493",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3idas6pqbbu6uqnbtievqlss73rrvfxpaighb2wy7ezap3bfix4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

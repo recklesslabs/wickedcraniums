@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5785",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigeejpqlvvffuzbhoyzbs56flmquibz3zlef246lglnc73bmxfccu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

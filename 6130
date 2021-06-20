@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6130",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigfiphgaid2zdturchkn4cyo3bfmxynusgs6vxnb4m2c72jmgyxa4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9918",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieamncd4ivjebbbiixxognvwwx4pugy2qojbnlglv7r7uolmkyqsy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8358",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieiq4cxf3fkknqksvd6wjovfzy5yhxfvt6jnwke635wjshdyhgy5i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

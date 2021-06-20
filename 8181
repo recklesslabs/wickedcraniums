@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8181",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwfffzqknrp523vhtzgnkd2rvhzpwwvwl67kdhtgusy6rfkefqui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

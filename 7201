@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7201",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie7nwyr7j5hso6ilnvp37m7jlo6irry4vo4dst24yf5ldoomvuijm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

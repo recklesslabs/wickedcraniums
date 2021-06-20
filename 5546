@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5546",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibecjiaqwrvtaaiy27fy44pcy7hrakkca2tq72tppedggnjo3hnyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

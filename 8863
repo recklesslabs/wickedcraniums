@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8863",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif6x6gqbwweypckw2tpfddcdd3hjxwaboceaaom5wbxam6m6gipbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

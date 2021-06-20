@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7332",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigeyjtgfsw5cj22y7ss44ab4xxu6bvjvq67b6cg7lb7ajz3g4ukd4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

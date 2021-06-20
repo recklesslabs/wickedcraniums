@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6042",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifg2wpyxzepifrct46vojizk4eddpl32bhoqrww7t3qynhrq7j6ae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

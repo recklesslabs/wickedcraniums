@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10234",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreige2aq53uvjtee5n6yebxz63a62fkgadtdcflnbvyrw2ahxl3zgai.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

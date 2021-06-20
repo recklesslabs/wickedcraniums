@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5356",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvxfnlbs2rupcxifh5yntchig6ybfbk5qqgdjawbdv6i37rikip4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10319",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicalosup2csj2dttcmszxo4oc45wo2ocwn77hvzcw6z437k6w6zmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

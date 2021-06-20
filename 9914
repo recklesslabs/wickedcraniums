@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9914",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicigq4lrjnmnmxyxaf4glp7vsjnp36nn5jldqcn6ocgr6owt6bmby.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

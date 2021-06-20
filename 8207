@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8207",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqmeb5z6bosmj2linngb6xbjtdmb5aetdx5pcrj5emldmxkoyspu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

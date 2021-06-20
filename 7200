@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7200",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibs6t5ycjxj3scngmwdb5oafbcf6ue2sw76oenktlzjmdvwbtqh3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5493",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicyz2r2bztmnjwlqp4r3avpg4ji2ds4vfllbswcuto74oncxnh3fe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

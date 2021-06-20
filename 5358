@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5358",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifuc6vpltxoamjn5l2us6iexoltnofe2uc6wt2nshm4oboonyq47e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

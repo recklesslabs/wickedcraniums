@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10252",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifm7gkbpyorxq6egywtakqfevaoych5tjep6sboxaqcao4h6wezka.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

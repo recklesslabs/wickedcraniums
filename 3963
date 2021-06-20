@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3963",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicyufbbfoanee6s3ojbbin7ezr22fpcifbf634ncqjtadpomwelxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

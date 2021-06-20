@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8996",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibcewxgtwu4cmkszdmdcjbof2i6dmpwonbx4fezbcio3wzehoxri4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

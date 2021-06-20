@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9348",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdnxppaflbdlrkx54hazwdsvyxxa5ag6k5url62xpox5zxmed3se.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

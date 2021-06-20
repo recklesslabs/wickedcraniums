@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7116",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihhwfibuhr4rxvyw6wb66zkypfgqjecyh4ezvqofcw6znaafs2vdy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

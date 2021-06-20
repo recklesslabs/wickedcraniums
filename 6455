@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6455",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzjvxd5zhwagglgmvjipxvcpjnwd3g47l4km4dur2zhlhfpdm4zq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

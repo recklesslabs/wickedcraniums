@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5237",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie3puyo75tjeknbxnu76bgwwdustg4ynt5pr4khw4unz2dkiczaua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

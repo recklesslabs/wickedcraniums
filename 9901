@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9901",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigmdaziaiblu5rt736iokckpsa3pgooosbp5woa4tuarq5rrjd4z4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

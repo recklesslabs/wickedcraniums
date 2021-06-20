@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10451",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiayp5ss2fou5hdodqn3z3m3kle7flnkrtwv2rg2aqq7udf6tedo3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

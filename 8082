@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8082",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihqcrbil5kcliao3576w62z5o2cbdxczzrmypiwgptkl5wiiebvdu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

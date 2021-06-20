@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7533",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignwigpcaejetznxzahwddxva7ebio4oxacc4dtdzwaaqtsfgvqeq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

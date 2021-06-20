@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7101",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiapdrx7c5f5th5zk66puwvx7sfajcnga6fldsmcct4yfujajdzzqu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9691",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihnapl5wflaqkdbw3cnwljxix5c5j5n7fdsreztjcfjborh5rwrym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

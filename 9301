@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9301",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidh7aqm6cjifptg2f44h2663rdbn333nr3yyueka5g2ygj6k5tisy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

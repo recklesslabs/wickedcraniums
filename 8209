@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8209",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifj5accmqogih37n6n7eoryww2s7l2gf7evruoovmxqjv6z2tumsq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

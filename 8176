@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8176",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig2rdu5sqzisfttkod744hy6uhfcegnabcbggg5niuh7mc3asmz5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

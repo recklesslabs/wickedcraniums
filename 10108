@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10108",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibcszqpyxsz7nnsmgl22k7jicdhyyh6oxy5hjm4svscya2xummnei.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

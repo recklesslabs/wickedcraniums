@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5105",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigxzywsndjocttze7cf4xhsqcrfi3zhblahuhejt6n2c3t7ltxxyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

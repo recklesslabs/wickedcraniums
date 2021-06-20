@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6532",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7rxz2lz5klptuqdjaasdof7lq5lrabj6jxv4sob7iecgdzrwasa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

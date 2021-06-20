@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9596",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibeqct4wva7swywjfm2gxyf3vhkgyt7tjr4dcqk6bqysaz7ymamna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7811",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid4b5wxfpa6aulrqem4ezuvofzc4nmpqldqko3p6lvpyqpghme7ea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

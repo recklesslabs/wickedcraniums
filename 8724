@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8724",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpi66lurky3r433s7yj3zvz5kdq6ttes2o2an6tk5rn4ov62p7za.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

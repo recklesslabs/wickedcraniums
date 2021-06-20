@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5490",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiatynfbodlilrbybv3lyqtmdowqnpgjc4xhxijzi6jatdkmrfzkz4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

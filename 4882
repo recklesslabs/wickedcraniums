@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4882",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigo4ovfhci4v6nmj7ufb2guj7g5aun6gnd5h3t3cceiht4ye4wrpa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

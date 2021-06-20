@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10405",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig3tbx6k7rla4gcirv27lamz52s7m6o6sqgb65z5xqwp7ol33zqeq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

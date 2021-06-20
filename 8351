@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8351",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiccmysyl6jnceuyya4fq22rif5tchruu43jwvuevrqbpm42ib5fwu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

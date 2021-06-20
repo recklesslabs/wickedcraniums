@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8461",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif4tidk2lzfutkskh2a7nscnlwbh24buu4usf3cdtjmupibxyislu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

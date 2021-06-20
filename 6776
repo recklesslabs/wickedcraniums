@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6776",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifk5klib7sqy4wuurtrlz2sdkwtgpdipo4mstks6nlrw34c4pgzd4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

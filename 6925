@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6925",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4hs63qwdwcsel3ibzdmt2rkpru7alxffixcdm3gn7raf3u4lrk4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

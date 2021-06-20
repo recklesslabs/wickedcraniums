@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3992",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicji6nddumreavurvaw5bufh644srjxlwkaqkaxwtwk4quggxfiry.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

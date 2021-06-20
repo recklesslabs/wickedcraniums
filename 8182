@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8182",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaw4jvdnpzjdtslrye2fjx4ibdw7l3w4n4tk7rkt5dq5cepgu6wbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

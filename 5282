@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5282",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5xz32uwyal7kodaslgjmbcxhhrwswrs2p3iiln6awb5s53begty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

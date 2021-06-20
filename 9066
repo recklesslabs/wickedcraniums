@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9066",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihzruef2eghbw5roxq3zudjcv2dpylhkutsd7yalhevakbpsd7sle.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5730",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibsyb5od6fkl6sl2wshbx2p2rz7tvktuhy7xain2rnzikzads3jmi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

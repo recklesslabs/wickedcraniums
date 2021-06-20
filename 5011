@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5011",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia6lb5ebndnwz7ptgl53vvveqj6qnw7ql5cdbjdqsyytj2tmgdrby.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

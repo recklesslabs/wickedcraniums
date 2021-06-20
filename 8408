@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8408",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiczacajfjwvhvyu5pjvcss6wlgjoffaqeucyj6mnoztwzvfgmmzb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

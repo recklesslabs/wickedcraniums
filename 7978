@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7978",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiditpya47plpsf4ke6ackwjbrqogundbcmy5arj4lil33w3jmuvuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

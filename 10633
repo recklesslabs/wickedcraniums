@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10633",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxbuikmdc74w6qc7ugmvy76kistgfmtrksxjxmulwo4qbxjc2jwq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

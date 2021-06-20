@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6200",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie6jtal6ymvbtlrptqzwq6l3mkyznoeazeqshcjm6g6dz57fe774e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

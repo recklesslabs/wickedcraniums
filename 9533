@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9533",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiggb7tux54xpq275u42ptobhnzcvs45ru2x52ucjaueyq3j6fr6py.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

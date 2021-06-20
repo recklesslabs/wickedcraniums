@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5765",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiev5spujp36xb3jw5667ab5orhtb5pneffneaoa6cim6r26yv747e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

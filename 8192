@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8192",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqcyagyshirsq6s6kd2va6cwqrenisb7b4w32qadbzetj72aqatu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

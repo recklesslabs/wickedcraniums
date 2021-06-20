@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8301",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicbbuswpfpp5ttqyvkrtlcyh2btpmutx7pnbhxwlkqjlyjw52nbwi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

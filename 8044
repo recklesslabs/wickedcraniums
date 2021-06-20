@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8044",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihpknfde7v6eehwalm5lpd266crikvvtnqzudbtigmcky5qcagwqq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

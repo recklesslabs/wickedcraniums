@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5455",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigcwak66tuxnddm3xbuy5hgxckem4jjb3s2tliswdc2jalfgbcqru.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

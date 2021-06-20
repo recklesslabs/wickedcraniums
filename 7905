@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7905",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif77exs4vsapobu3a3cogeugdt67cxcare5b24ircojyym7ikuhx4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5158",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbjnvqbqciujrfus4xrqwybri4n6wq5qkzfmjxbmkpyaojfsmqoi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

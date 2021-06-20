@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6001",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2se3mcot5qqpty2uig4acndbcjaf25cdhrfgavjgscmuz5qdlqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

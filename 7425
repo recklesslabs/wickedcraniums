@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7425",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigg72ovjkzppv5ley6daf7caadgmarvwgv3tab3s4segjug6d7cia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

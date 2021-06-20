@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7605",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2eep44oqdikvcqbqsgaesxmyqgqxjuhaxhv3mbkd2slxavxylmi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8180",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicz6p5fvjltee73zcrtl2u5sej2c3gorxre5hxmm72fz2dtj5i3h4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

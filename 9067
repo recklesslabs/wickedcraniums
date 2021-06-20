@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9067",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifded25a4waptu2jeaedwgfs5abmmn76gh2mm4cpd7pl3qqjl7mie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

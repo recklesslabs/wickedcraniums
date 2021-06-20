@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5669",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicgy7hqlhqave5wgawetdabyjir5wxkbddw3rmqtfipy4ok5tkfkq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

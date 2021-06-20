@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3596",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicr6auntsizifpebye3ufnxjbxta3gf35dzcrmbhqztu75f2oipni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

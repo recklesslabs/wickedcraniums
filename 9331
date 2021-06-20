@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9331",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaulqpgjrzd4x62trd5rb7jhrldhiltvewtvlq4ltrqwnugco7k3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

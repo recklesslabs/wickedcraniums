@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4764",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigmtcnf66roxw2ch6cnmrlosqxg2mnynj5eii3k5lerqsebrf6qtu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

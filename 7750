@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7750",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreictwctda7vwi5xvw6eqtk3vl3cjkcw7tca7tdmt7tbzq5erad65gy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

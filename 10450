@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10450",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigsf365hxvydo33gcbi5d4qfb4xhri4iofu7hyqreycihwvkv27nq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

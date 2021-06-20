@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7391",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie2vlk4qqj27wgnuo7rogwxjbdrxb5zib6a35kqlghn3hb73v3tnq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

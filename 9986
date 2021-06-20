@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9986",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreich2odvk272cvgfccx42vhl2zr3p35kl4tiy7n6qlijfpvniyghca.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

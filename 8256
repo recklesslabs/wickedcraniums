@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8256",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7qfxz3kt4rgfpqzzslagnb2whbme2ocvpfdrok64zjehvgxvt4m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

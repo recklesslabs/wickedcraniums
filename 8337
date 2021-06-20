@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8337",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiapnvkrz2j5asra22ctt2vvv6ebciuljnvutz733eo2aght2taq6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

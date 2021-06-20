@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5574",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibxg7e5np7tg75vhrpohsmow2u2kdjercbxdcmy5wds5kk7i647iy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

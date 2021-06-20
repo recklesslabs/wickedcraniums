@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7765",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifsuwtgku5zxm7skbdx4f7knaw4554csfjnpausjpy3u24x2tiare.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

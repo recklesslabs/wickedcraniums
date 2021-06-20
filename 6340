@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6340",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3w5aaecwonimijfds37uxfriqrn6zy5wm3hvqih6o7lwfwrxl64.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

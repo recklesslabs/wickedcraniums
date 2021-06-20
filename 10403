@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10403",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigu7jgyt7ps33ox4pra55uozdos4s7e3czj46ccyijetiz7n44frm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

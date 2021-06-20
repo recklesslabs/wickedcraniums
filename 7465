@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7465",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaaoecq3nch7zhgpcy7qdxwin6ecde7ftqzgqe25jkfenkwqlhhpy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

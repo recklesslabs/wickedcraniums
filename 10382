@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10382",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidh4codzcmn7p5jsaurjiul2p3e5ppm2y2otxndn7wn4xdf6s2cp4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

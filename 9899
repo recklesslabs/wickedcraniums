@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9899",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigzd55mzg5x5anz5l7cpx64fj5xibjd22uvmlc4raj6bemwabxde4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

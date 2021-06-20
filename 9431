@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9431",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiekxkwaato2o4fnalicazaxg5wwmz7sd4ziqtdxbaxiv7b6tjg3ea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9536",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie3urttf6ztybwsqccq2k7wyu5yo6tvzrblrsjrc6q43iqmxkws2q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

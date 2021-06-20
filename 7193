@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7193",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeie6c3mjphy5luqcvrp7g52rs25yyosrgisjbnwr77jdcmiidatjqa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

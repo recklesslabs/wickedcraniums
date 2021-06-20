@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5956",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiho5ne3uoaf2srtgia55fqaj36in4ivv6zlf3uacuuk4b6clyv6m4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

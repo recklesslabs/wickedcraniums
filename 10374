@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10374",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihfd3nf7eykmb673ot4kj63ufbgujrbt5hnpxqel554cb5hr2ifym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4694",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihxn7vdnwxzbbiuvmpnxkoc6f7jr33sx44a6v4kw7b5qlxcedzgey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

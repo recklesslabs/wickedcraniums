@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3432",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibh7ftlhi2sk7krmh7u3ebhgokeeylnlkjewt3vst7s5u6w7ir5qa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

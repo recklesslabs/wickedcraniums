@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10058",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidp26pk4e4dpb4gb5zndcrsn2hbs6u3fqtobvelwvg4wlcabt4jwa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

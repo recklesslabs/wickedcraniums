@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8131",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifenhtzgw33zwwy2q3c7rtrmfgdta7tbqppz6vxstocgi2qxmcl3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

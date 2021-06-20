@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5550",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigepgsqf35d6aikqhlyvd776az2njblhptlou62sqx6myvqz3xhf4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

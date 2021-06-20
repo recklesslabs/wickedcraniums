@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9938",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7mi7mqxocipso44sqqwurqk4gzgbf7g4qaeci57eujgh6irtaci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

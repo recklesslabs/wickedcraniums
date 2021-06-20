@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5664",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgfe6rgapou62lcdc6n5bhz5hf2l7mldwlpec65hvryiaqzeqj3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

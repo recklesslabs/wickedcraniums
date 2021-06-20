@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8183",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidsublzebadrbhdrno646htj6esepjornegsee6tmt3t4cmkrspgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

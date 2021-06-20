@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10723",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeias3wy2jtzcnznwt73rau75cn324hwk67xn5vcni6rk6rhgmlnce4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

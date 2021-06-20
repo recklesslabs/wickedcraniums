@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7059",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtdj27f64fvwm4x7nowsjchspcnyxo5kz6nxsmfyxg326xdq3aj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

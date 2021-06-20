@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6885",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasofufw24sbxugt4p7zugsc7wmpevykle7xjbbmzi65vv5btp72q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

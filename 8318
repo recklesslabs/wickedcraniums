@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8318",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihplmebapwvuzf2cbcmmxb2av3vggogaaubokgoc7vkhd7pq54ixa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

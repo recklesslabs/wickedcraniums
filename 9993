@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9993",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiesn3nsgz5mgu5pv4n3sdxrfxhadi7jihu4wtm7zukix2dylo2xju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10739",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiep724n3ifwpxfvprgp5mey6dbghzyxf5ymajiiw2ntpxetcij7iq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8696",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigiduac3oegovydzw5fjnwn4ciseblscha2adk6hcls4hcrdakq5e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

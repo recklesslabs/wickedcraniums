@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4122",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifmi54okymm7mdbczeyus7hkhxtcyfq2el3pqvbsium3za3l4qgj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

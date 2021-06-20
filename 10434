@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10434",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibnkx4fb6hytql6gv6dydwvrukkdwobiuvxgrsd3wx5uhxj4qyjom.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

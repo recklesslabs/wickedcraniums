@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5520",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzyv5xmu3jxib24xwf5hl6ykdhkupmi2vrstis5vohfyt4kllce4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5548",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic6otvgpl3y5zqzcgzxs2pusk2x7ioo3vn6ql32jx3f562nl5t46i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3541",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreienbfecysikim64hb7zl2wc3xnf7d2qehgno5tynrbropi7zkazqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

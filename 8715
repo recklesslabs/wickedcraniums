@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8715",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7qtcptm6gq5grc76ajd642mw4kfmto4gdd2qk6gdquc4hedndnm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

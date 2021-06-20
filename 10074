@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10074",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihwcz63u544zogy774xvzioa5om6zhdtnjhnibwo4tm54v4rriwoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

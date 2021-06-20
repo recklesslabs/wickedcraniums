@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3605",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpor5tqbzo7lsvzzbu24snf43hhzyrzhojqtymzl2y7hcdt3ipgq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7313",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeial2wrylxt7bpzzmi7dlhieo6isx77yfkcis77ljrwri5giz2tjqq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

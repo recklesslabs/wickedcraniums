@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5278",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid5uiqkfj4g7acooey4xjx7ahqxb2mw6gdozqgtn7jrkfhiom334i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5979",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdre5ermsbbrrqqub3dzy6rs64yozfp24hkubyf2wbpvxswdxtvq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

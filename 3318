@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3318",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieabe7rjmks53yacl5je33ap5dat7fxia4ub5iydrgyiqeyn7v6ey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

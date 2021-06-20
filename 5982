@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5982",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibjcsn3cecxga4dglzljbhnsgjp5lhvoiq2zz7y3diov5ywjimnpy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

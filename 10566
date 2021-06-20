@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10566",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2lw3j4okhy6qtuylzlehrwwm7m3egqmnl7cs45yosa3l4yyrraa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

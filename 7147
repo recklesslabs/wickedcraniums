@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7147",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3n2dhmrge5gkciwsgfyfjhksymyrvcnpvcqhjfyad5wzn37mtiq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

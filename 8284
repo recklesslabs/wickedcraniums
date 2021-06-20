@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8284",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaboky4bvytkg23behkvidzdwl4ayl4hmcv27ssuyj3eqj64kbrxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

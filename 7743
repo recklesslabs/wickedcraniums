@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7743",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigana5s35wujxv74z43tee3x25367zx3xy6swrlki44rgqpexr5ce.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

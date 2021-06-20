@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6646",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieba3v4musn2jrno4ajxbepghmeftj3ju6xhsvkrcl5g3yhllvswi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

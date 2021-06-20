@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6394",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihi3ocw5wendb4z2pn4cijg34h2o4dmhtc3c2erjo3deu4gcuclfu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

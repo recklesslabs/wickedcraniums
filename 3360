@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3360",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihnx2ymt3cue2mstxqzwscz6fro4ecfb436q4s2jkzk4f42rfaqoq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

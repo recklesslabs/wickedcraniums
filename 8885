@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8885",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqch72hf6mgt6epr3xvmfa3db2pklsdsi4su3i66nkdg625ssdyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

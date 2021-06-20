@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5449",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib64uufagmg6qaxjdfc2lpwxkr4miqgiiwbwp3dh3pxkm7w4ghqza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

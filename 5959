@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5959",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihenn4dnvc4ibfqp7rxwvngmstn72flsephldwhnb7i5vi4amvxyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

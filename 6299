@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6299",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiheu6znwrbvpkx4twcu5sikbxu7quqnyogppghhsducutqb22prmu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

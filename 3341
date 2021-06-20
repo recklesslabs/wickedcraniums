@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3341",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidyub2e7tsqzhepnojfemdtn75tllxg4b4i6fqsed6dwbmj23xop4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

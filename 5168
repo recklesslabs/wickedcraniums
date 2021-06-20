@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5168",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvpfk72hsgdrt67prwt6h3x56qourpcdnimfzoobcjmz6u3hmpz4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

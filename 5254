@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5254",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic6m3xm26mchzmobjkf4yn6iawfllrjw3rlvb32qlmuzkbzdw6fhi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

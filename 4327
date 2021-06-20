@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4327",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihs6eqqdsxtkidmwhscikhy7e7s5rgufqhl55yx4lgetesa6tcrnm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

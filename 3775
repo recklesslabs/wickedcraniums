@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3775",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibs3w6b4fvmea6qybcqbfw76mas22jl6pvne2zsonjku2jpzdst3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

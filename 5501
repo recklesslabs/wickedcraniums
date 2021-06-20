@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5501",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiddgivs3kuqyjzim5xnfyrwptp2ikzcse4nky4madzxuq4jdk2kgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

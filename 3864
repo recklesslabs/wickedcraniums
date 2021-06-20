@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3864",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5m4vjzphqpbg5jbqpvjmbh6zozvnexx3f54cokhy4yyoggq5b2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

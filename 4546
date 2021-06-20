@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4546",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih5dxyqaosixtz72qmn36impthw23vmodgdfzpakplsny63iajmay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

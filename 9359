@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9359",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicrgr3zmutsl64yikooxrww3gjpxdrxlaw2hog4sltakskmoqwzre.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

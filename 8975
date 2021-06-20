@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8975",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigbhgtova3m7jr5aaglsic66gfcldmr5jr27cvgcazeb4himlk3ry.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

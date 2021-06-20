@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7434",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihcymwqqqwxguakgqge4cj7ymdknc7jsjv3muqz6hjodyjqku6pie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

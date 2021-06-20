@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9928",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiglcd3ogm4ajxb7iu5mzio2r3bdofmsowmri4rr6rnmnbon3x653y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

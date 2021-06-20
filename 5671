@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5671",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidpcjjmcdkzqpzuwbxx4r7wy42y7axtrvdjkedqwlp4ruvp3lnsmi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

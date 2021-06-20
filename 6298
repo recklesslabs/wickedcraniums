@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6298",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid457pedfp7l5yt77mufjokrr62dxlsc7axhh6xxnhstzek6nqtmi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

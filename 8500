@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8500",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6osf526pqp5suhtbwxs3kddi2y2ucq7kugcb2r6cj4uhvsaqyre.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

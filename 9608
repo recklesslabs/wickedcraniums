@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9608",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidz77ki2wt5jvknbeqe6kectpub36zsmeb7pcwfw2kyasocx3a4vm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

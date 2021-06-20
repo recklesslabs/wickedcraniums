@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9763",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibpo6dhc5q4jtgbcnde3xuqg3quw4edffks5wff3sljbrecy2667q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8954",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihzosydobin6gomxxpco2e3dsfcv4zmkpmsooiufejjd6ycsjlsie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

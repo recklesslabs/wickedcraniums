@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7733",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiebaqgbfub45lwnbjoydkb2p3feb25o7vhln5ck3opag6jt5ha5li.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

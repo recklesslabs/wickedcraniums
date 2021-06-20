@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8921",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiar42727swmlcy2avlsav5jnrejsvp7cbhhzvmeh3wlkw3ytcgddm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

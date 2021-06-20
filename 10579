@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10579",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig2es3jkmxzimrdmf6zkkfdexn2ypucuyk7hsur5fboxl4iwv6a7e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

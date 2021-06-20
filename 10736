@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10736",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicooel7pvbpshd5sexgzpayityeemnkvuzqyonlpt4bg53gz4dchm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

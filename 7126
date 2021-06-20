@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7126",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigsxro3khyxzi7q7dnaja4izmtsl3bcnkmf4d66l5236cppigrgly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

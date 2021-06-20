@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7334",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigaoduvu2mznydmfzhdyz4pvixxat7yea6z3ryh5cn3eb3yrfbad4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

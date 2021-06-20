@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8846",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiez27wvog4oqboggvorsa4uw5kfylreevfmqoaxgsvfwdthfjnnlq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

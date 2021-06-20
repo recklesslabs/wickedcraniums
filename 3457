@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3457",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaim26reh67fn7rkbrixgbo3l6qbo3rgjq2yhzs5mkiw5ng5233bu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

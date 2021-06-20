@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3277",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifuykjd7b5twshlxc4nshyvagfw6jwfyetlzcqzcnrjebmyrtxfwi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

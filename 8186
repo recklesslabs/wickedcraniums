@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8186",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreietq5yiprr7f7jgcs5kpw3dtn7xdvlo53eamtpflt534hmij6n45i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

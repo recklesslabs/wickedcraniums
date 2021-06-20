@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9597",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibwdtn57pn5inxw4dr3ocj3wlfblb7z2j4fdrl7qh7bjnytxxecla.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

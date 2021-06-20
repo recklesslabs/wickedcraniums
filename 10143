@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10143",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasiazqx37kutzz4zqhhh723exmb7j3imqkpcv4vppe5byql4jcue.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

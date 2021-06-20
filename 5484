@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5484",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifbd7l3kvce55nsy356rnkjmdyqhgh7cgbns56igm7caipvlphuzi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

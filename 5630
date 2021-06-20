@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5630",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreialfhvy6vog2aafukq2z25tetfozx6rkpzfzt3whwycylz6n6pdo4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

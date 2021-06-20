@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9208",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif2vegxxlubvwux2bp3ff7rkyqzaq65xsfarntgofxeosicpq2vyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

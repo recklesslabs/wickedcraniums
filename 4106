@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4106",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihke7vucaxhltr7rs7tf3jdor4kyrqjufpfcn4xx7tur6ylwnxyjm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

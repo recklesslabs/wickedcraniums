@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9843",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieozv3jz24tdiblei5safewusta4ujqhb76xjwdjmlhsvemo74ynq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

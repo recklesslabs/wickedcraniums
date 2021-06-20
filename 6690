@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6690",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicnnd32q4qsoyjxnmi75lyyptpvxzv3o5tmtme6jk53y7yzx5q2iu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

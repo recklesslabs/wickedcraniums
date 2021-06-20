@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8968",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexswpsgajyn4gwbu2q6xxj2lvsy2x7u4xezg7s3secglrk2p7gze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

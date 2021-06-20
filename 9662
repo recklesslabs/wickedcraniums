@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9662",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigkmq3cmw45sawahhkgg6czabcvmmdhju5g4yboyzkksqcovkui6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

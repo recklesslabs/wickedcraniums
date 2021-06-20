@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5816",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiettrkgwu7xtdtpa3uyzpq6yecck7zlq7wpyl6sdkhyele2wdsrfa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

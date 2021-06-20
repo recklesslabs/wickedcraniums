@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8296",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiajikuyhr3b5dfhur26dvq6l4j3kweyvdbfgscb6umvytzkwpv3he.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

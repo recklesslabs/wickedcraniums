@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7208",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigsnvmfolhwf72ja2ngh2o5g7u3wuqu33x3cfshiw7oahrflmt4ve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

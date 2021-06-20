@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6618",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicinsscikblyw2mdywh5zelzpy7a35hym6yp6d4vdgts4a3xwk6je.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5553",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibak7cbdkmk5xdc7gqscbj5tp6xtmamhcwqeovq4yfxxy4rz775c4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

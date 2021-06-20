@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9511",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifaqbdzdjp3m6scvzze7rcjcabz63spus35uiprz6h4m5gkfmjolq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6462",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihlv3a6c4hmjgylkcmqfvluuaipuv7cnfildvx64bjmczmk6vn2h4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

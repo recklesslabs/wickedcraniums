@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5706",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeic6wgnmmpqzkr2mmu4mqlstrwo5hh3fc63vf5ioc62tylunniez5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

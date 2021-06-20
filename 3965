@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3965",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielnoym663y5zowivtmbxx7d2ms325s5z4a2lsnnsu767futkedhm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

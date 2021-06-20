@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7443",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic55mcggcenpvdp7n37luiumvbcqps3c2tboora66fhcewbpgqsq4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

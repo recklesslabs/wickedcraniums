@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3336",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicjmubpq3v3uch6tgcpraggdasunkefezuynzke2ibutkakh2oci4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

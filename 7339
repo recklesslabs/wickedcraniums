@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7339",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib4idqjannfwrdytpyllbaj4qku6dn5njdxka6syaapp2lgqrvcxu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

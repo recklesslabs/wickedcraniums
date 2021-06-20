@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6800",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicolg4cccwzmjbhwfbzfj7jqxkrioew4wqbe3aolp5io6lrrwzmr4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

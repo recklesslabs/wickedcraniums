@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5565",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifggzedlb7oaculnznhgo4rncbuww4z7hsv63r4xwtouzjklo7e5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

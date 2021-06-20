@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4293",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidgte7lczearqwryfk2cqkew6yzlpl6tfgqxqg2szmcn2yt7ogxn4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

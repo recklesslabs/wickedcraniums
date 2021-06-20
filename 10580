@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10580",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreichdf7egas7shrak3g5qhh5anw5vgt2dvqin3x5ohnozfw3z5anya.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

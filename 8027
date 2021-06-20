@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8027",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifidqdefeshoizcawmm7bztvuds6fb3akpijr2gbxolbpwoc5zxqa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

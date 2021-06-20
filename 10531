@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10531",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiekwkfvahcpqfyduzo6ib5fpg4blxy6gl36rfhry5czszmsizvfxq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6361",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgywsffu4p36m2tifs4cdgfssq6mglwnrye6trvbpo6rgis3nagu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

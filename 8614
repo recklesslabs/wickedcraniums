@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8614",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidks4fihwe3uwjpkrujbjgmjxbnyor3utt3ammxgi5xpagu7hgaca.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

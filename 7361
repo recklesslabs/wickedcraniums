@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7361",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieftweegyq3e6u33kg5ruz3xaanjn6pywh3msoklatwbey5awbkza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

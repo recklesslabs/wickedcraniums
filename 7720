@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7720",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7gxjgzm72qi4727fwktg6or532gzdmfw5gqbtg5odfvulzj6uqu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

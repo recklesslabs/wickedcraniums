@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6415",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicfc4rqwusr2p2rspwmn2bbipalorqoy2caue2aha3s6sgpxe3f7u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

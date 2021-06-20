@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3655",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicukn2bulsp6v7vdpoufcfyuupcu7jl6iwuwrxv2xcobwsokqzzza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

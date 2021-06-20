@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7913",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibs6db4ui7yoibaq6ztn2kunqlltrcu26tuko4kjll4uqtayfefkq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

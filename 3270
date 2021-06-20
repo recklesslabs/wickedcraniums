@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3270",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieraanij463afxj4ulfgjpxw37lrmhutiphqxp6rhksaokshrxsg4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

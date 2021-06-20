@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6251",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigy3hfwcy7pqt7mi4etn25j46qvpkbuxxojmk2hht5cnlpqfsnisy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

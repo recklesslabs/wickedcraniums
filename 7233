@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7233",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicfzbaddd3kcoifs4vfxqk5abvjzll5e352bluzugv7ax7o43x2qa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5803",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2lclbqeqp5ppm2m3cpv3t3uuj5k7rsd4p4a47fwb5tk5aaqnrii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

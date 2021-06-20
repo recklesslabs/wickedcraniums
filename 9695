@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9695",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5iiegs3kpb33iqyufvuicqwdtibhgtiak23tfgkc6dioqbmujla.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

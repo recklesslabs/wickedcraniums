@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8470",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifvzq5kloz2ggy6sbaexm5pw6lhefsxzsvc6gcl7wf4gx7hoja6o4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3709",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifhnihtlodywyggqsofxqdqi7i52x447khccpfvx4azdtibxa3idy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

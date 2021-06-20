@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7346",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicluqksps6rvhmmlkkcdv3wqbht6kf4hor5nev2dsulkxjavdt4xq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

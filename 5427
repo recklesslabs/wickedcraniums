@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5427",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5fgkkzrjwzsc4tjjblc26vvqxlxswucuqnu2txvaqota63phbya.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

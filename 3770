@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3770",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigo3ochpsgj4p45pevammvsknrdiov7xp42udr3p3nyv32ig2yzfu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

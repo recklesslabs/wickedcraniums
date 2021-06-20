@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8184",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigg6xpgixdaloxeoegadvupqaodfshuvnbrtb4ezsa5xc4g2ufvyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7429",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia2u2tcnvngr4zcqvjyvxuvuvooezponidovsqxdg3x6inw4nc43q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6985",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibphwpedgv6luzz4omes73wg5ukgemdwdqovzhdvd3rbxfnk2fzxu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3629",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7hotcryrkovooq3us7hpso6bzws54aaue5sg4i7cdlhfndg5hrq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5579",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie55wczecni5ehp2tsdmivopeaxgq3cpwfijw5twa3yqhshcpy4ha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

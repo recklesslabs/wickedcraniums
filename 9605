@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9605",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreico6tciea2fe2elbv5emnroxkxts3sqc5dm3fil2vxfs67i4j7h34.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

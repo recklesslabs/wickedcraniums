@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7124",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehhhhsbxhhjbl5mborx2f6r55pxhcs46ymtw73iys63vffqhsape.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

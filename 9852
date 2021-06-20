@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9852",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbyek7xsykbc2vpiokt7w44ovmuy27zi4xzlo4s2xlawnfxjpj2i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

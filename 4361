@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4361",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibns6vziyhcgdkentrkedokks54o3l52445xxjwajneqk7bdlz6xe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

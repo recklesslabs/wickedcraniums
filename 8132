@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8132",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaxczv565s3mzwtw2bsetwrpxegri5oqeq5eliw2bbltqhry6dggy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

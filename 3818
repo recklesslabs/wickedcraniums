@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3818",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigpmbmazvsnk6mrhh57hz2j6iu7r5bgsycuf5bdscpt52uaqcxuaa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

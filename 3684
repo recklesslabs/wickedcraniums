@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3684",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibk6yo2nkoish7c3jbkw2nbutnt53wv35ria73h3ridb2mjvplizq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

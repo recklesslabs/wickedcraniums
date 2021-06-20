@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5746",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibebsy2risc26zrrk3bnlfiebxsr6py4fbmjtcdgkrgrpgqbu3oaq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

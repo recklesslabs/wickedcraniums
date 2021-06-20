@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3866",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicmkt3jlueq7jfjwr26mdutyf7dl74cb4t2mmu3nlzpmklxxbkrf4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

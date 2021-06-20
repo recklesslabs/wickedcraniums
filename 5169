@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5169",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkrkr4cxtcb5r7a5kezghqfakvpxru4rd7joh5lyuzslfyfpnyae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

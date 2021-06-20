@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6627",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5cdmv3sivnoprdt7irtjxx2trml7gd7wmtrejixjbswwqnmoyli.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

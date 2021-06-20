@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7327",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifbst5o5cuslyav7yu6xcknju4eyi3a3rml2zwg6jvrr3cjhm2r2q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

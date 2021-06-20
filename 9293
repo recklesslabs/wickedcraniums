@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9293",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpysz6vkew6ohpw4dzfmoaitqnaljw2ako7bsnik5o6f347qcdvq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

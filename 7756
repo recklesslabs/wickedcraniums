@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7756",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiei7vlaetkcb634zakzih52ng7ua5axg4zyoexd3amh5tbmkjzvbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

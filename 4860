@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4860",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreier7ah2i6vnfho2eaqal3p2q4juh25k7ynd75iqshghzph4iqviie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

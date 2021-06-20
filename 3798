@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3798",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3q4ndpmvxvmlvogn2gicz67kqtp3watjco74mkhp2v5f3lakvei.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

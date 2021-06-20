@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10263",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqwl5kcstvqwzumwpln74nmkx7kt3cggtshj6vl3kf44uz5fk6ra.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

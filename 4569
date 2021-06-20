@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4569",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3jvsydvefhj47hqg2x3onj2yhm55merw5bukng57hlwy2hsfdou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9937",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqbybltij6aen3ysrdrxlbdrnqgxdfd4tfafxla2xsvqpyrg4w3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

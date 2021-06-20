@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9489",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaq4eieskwpjsgyqiwyqlnajnglsump4excc63g4z4rbmrqupvaiy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

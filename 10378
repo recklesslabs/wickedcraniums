@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10378",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnhonp4mfpm7sfxpk5hhgcjb4pxamvo5usbrwhj6w5rtcw63xs2i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5102",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidmsi2yl6uhojdz5d4osvd4ymdhrzsl7uwvbcqfzrt2b3teztjvyu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

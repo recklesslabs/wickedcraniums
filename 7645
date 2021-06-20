@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7645",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2jton5p6mmpfbcv7yeusq7wgdpls3shw2jy3ypsgtqr4uezlony.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

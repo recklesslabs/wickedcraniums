@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10163",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifngnyqq7ixgy5pkfta4ggajqnan7btpc37ggrt5dywaybrvjeece.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

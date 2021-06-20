@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7550",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib5zacv7eruf34zvjcjratugnij6hqj535rx2eddbme3i3yj3cb6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

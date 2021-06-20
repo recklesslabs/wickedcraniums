@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8839",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicwvlkwfw3eavt32lhu4z762gvqjmog63xbd6zcikjfiek52j3efa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

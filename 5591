@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5591",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignaqypaxg2ag73kkn3d26qajpvuozvrti7rxgyhu62khkvpnff7a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

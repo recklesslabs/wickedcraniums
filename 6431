@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6431",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnadwfwmmep2iemztmlwv7m36raoimfnn76t6opqslz357dhexwy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

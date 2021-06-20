@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9152",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieib72hi6p37fjkywotur6gml57xmsc5evdyqrne2ion7k6whbzbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3530",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieatqi5wyst77vlqo6iamzkjww5tm4e4f7qq3jn6uq3atufyqypwi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

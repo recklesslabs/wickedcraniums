@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8601",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibpfdasz54oyhkhq2gmrobsrmcnjjbdd4pxsne3cjpfs2mtldmcfm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

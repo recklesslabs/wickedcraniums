@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5444",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiflm7k2g2ph3l3yexot63agnclw63iq2khgf7rwz7wepm7mz2gtwy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

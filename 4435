@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4435",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibhwonu5vnd4wjkjip24fzs7hfxfelxovp54x775umq22csamwqm4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

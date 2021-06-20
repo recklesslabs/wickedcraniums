@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9009",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjl7ef3g7xocmlt2zbygutiszkbuevhy7dhe6vl44lgll46vac6u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

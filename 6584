@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6584",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjfbxaloghynoogsvhzqposb73xsza442df5syousj3q76skwwgi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

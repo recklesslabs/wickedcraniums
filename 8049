@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8049",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehl5r5dynebv5qbeecxpmboocgqanujos4j3dl3x6upjq6nmf2ou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

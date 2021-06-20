@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3497",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibas32va222gdoeku6z3szfgvmghjrn6s6hm4v3f267w63pnazdaa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

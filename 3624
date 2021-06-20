@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3624",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihzqcdesykmmyd6d2unwbpvrjqk22m62nvvefj5xpoto43vwaiuym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

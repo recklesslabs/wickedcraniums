@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5874",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiccjkh6ljwhxmk3s7vtu6zz5ppstonfe5r2bdqygzxxlp37b22kta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

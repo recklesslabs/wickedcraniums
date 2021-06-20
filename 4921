@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4921",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibymnmahh35jbs6mr7dc7f24mw44ijiw32nwawyxoblzkpskbx7wi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

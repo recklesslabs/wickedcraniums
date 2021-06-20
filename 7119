@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7119",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif6wuqx67zx2mkkj62c4pbvn7vdiaig2eti2rwso33dgsqz5vdrqe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

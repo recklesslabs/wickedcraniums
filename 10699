@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10699",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih33fphjhl4zeaapljzispacq5lhxhgq4uafdh2m74x7r365pgz6a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8731",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidbhbigqjtfl43zdnwo4w2e4xgmclrhdklnyhja7bmlhkirbhobeq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

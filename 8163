@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8163",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicown6scikrkw7vy2ihbq2bvmvz4ldgzljxsluhn3mhe3dicdub2u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

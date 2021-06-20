@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9342",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifcvrl2pyzibml4hontfnnfg3nm64vgyuxlzyv7io2yvlbmupc77i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

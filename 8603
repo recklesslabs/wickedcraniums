@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8603",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif6t2orn7qoke5k2zhmp5tmpqh6dc5vy6gifdqahedi5j5sxx7px4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

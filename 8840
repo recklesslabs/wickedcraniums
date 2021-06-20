@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8840",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihddfs6cejn23womsjsshk3x7hcmgrjmx3yyydeij4jd6xlodhzbq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

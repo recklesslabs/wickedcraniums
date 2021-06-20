@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7182",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigag7jc6pnaxuxbqdhggnn5i4xp2dtpgdig53inticokurtuipyky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

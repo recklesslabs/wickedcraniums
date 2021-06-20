@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9079",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtvkfu32halnx53qvhlagdz2txwsl2l4qx77txfpqkpg2fweu5vy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

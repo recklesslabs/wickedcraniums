@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10500",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihhucnif4ywglertjl7nphxo3bf56i3vjdim3mieuaj6hfidyceqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

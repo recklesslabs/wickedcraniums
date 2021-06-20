@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8827",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzm7yeimktvlvb6kn5w5ubkm45fe6ohhgvlxwjkvsfdfmqd2xm2m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7838",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebzc3zx7o7mhwkp3qwo3h3hr6mfxstrxgjeuliwspf45odczdbfa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

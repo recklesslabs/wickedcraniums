@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6591",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigys2faivwfsurdvp2gdb6jrjp7d3kerufzjhvtajqklqvkdh7aai.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

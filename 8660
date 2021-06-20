@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8660",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidi57hb7xjn7rmoag6ezb67ghpdin6zlgjaqkrs4ymtaug7rsaxdq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

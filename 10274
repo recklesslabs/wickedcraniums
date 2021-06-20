@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10274",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigip54hkdthsvtw4x6q7qddpyfunt46pv3im5krxomm5dl3obi5va.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

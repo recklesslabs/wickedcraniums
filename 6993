@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6993",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4qpe257oi2maysrpca3xvcepp7gooxtt44sg6q67huwfoczjdx4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

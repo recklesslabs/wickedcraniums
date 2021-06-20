@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8028",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiayd6hoeq5hhkwbi4jfcl7bufsf2khjjfqhzbsagkiyxmuebxheri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9462",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihb42ma6dp2zgd3y4zitzxpjfn6f5tpybgpmbbcxumcl2dfo2dprm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

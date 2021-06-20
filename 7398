@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7398",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadtmkx3k2ovgmmifctgn3hjw2scqndnjwvjth5g7go5zcbxoxxbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

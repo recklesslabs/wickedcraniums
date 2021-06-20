@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3627",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiarav6lvvgu6jp5qhuq27caofg7oaq7dwzku3lgu3b5jasypvsk44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

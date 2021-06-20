@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6234",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibthoywwerdyvx27tulan4anleemhudooznf3d4f3bhbvzb7abn5m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

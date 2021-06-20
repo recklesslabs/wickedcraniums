@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8594",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigradyz4kp67q54bco4xobuictosz435fhawwlnvsos6w3te4uefa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

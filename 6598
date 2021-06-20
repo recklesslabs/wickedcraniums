@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6598",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigiak7657zxz6vh2z7bgzhib26dtafwxkljuksjytfn7lrguktscu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5899",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid7unqsvvwi7dawpulrlhls6n7mpjwbxkgbucb67ozor5e6ujo7ae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

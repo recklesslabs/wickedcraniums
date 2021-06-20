@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5934",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvqpsqjcrgikxhrsz7vk2vw43zx6qs6isd3m676owvylxdi7phq4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7445",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvhbwzowfkmvhqyxyvuusima2s3euyfcao7thnfn7tphacqjpyoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

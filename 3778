@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3778",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigm6mavdy6zj234g563wjuthhazs2vbwuczogroqvxd3n2vrqt6ri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

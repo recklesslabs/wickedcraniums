@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5157",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebcsvfsvwxgfuodb2dez2b3rqckfgh4qqt7q2tzmtwk5if6w2dei.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

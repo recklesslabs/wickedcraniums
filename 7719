@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7719",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidokapkuikxbec22oqob75g2x7ghcaerxv2d5jorbqwu4knm6u2nm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

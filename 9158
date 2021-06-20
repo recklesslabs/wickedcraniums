@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9158",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicyrugmtus6tu7tg5q2g4j6j7tu57tjuabbguvfpfwz7jgiwwh5xi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

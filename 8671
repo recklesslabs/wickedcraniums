@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8671",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigrnvjzypmi7wgjksxq6adgyafa3guh222vsld6byztc4nziiaxpq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

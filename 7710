@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7710",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif6cxgltvvvqzfqhccgbl5ay2ul5mfoxufqx4nw6j47lnechfhyvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

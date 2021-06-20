@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10100",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia44qkupaqywx4wnl5e3ui53bxfhf3rrkx2htgsa7bb7a4zs5ynem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6849",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifln5j5zcfmjvdbxrekweal4soxps5naesxmcpuxz4owc7kkhwx3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

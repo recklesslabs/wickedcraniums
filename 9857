@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9857",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicf3iszhjh5fxzmwtiuzpq6be24y63hzqc6ozv7qacde6tmo5nj6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

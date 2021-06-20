@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3849",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidey7c7ds3qqmoyoiuc7scg36cutzcchnvxrfh335vhwwpr56eru4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

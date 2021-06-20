@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6809",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifile4kw7t3x6zn7jo7os2sziaiegtp6f6h2son4e3i2knrvssfpa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

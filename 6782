@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6782",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5ecd34tevs6lvolrkygtb2bgootwje3usrk562tuokpvptrvuyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

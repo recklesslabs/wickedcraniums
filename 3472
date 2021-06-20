@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3472",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiepjdhvqadu2w52hp7p5qshoypj443wbihejch3h3q76woz6dw4ay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

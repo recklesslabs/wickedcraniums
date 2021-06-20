@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7487",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieyuukbdkepbalo6rgfsf5g3qzzh45gqmvmp3zs5wv2owntiytuhm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

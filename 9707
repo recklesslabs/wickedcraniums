@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9707",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreice3y7zo3e4nnndvwucvogej3p3ijqi7emvfcoh6nk4iqsflbqoea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

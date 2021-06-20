@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7409",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiccp2uisbd7pe3wygqzsbra73i43ubcze5erdjjdo5sxgupw5fc6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

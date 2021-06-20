@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6581",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicrn6yz4vacw424udc5fbdkmgtdkw6gdku7ej525qivk2yimllzl4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

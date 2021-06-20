@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7694",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicmsph22hzn6mc3nadtdnxs2spchwaofd5zcgbysiwdkc3aniy3su.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

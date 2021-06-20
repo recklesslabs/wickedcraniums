@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9791",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiex4ogjlkpj2c27zg4czt5lmzjw6g4x6ja7xja2wwke6kpcgdtccm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

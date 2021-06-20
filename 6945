@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6945",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidozg7mwt2tfnw3vatq52lnzgf4f5egamuuh5b7g4dmzs4oxiclt4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

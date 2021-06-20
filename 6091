@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6091",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemyb44gzq3cznzwpvjpdewsowq5r6l42smksgw6hwervlfqafqxq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

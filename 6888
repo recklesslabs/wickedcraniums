@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6888",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidml3ioy5w5oinnp4n32trhkmedwxllkupux3rbid7o3rsmpitdlm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

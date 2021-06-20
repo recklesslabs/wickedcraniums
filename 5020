@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5020",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid4d673g6c4ksjyq2ywnyrotkpr2sylbnkux57rqfaqkznp26xlnq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

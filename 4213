@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4213",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7emg5mljl73ab5nziuwkq3vqkbhrsmmwbk6car2qn7c4fduwnei.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

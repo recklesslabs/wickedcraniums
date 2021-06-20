@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6302",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2czklem5ajmt26fuczo4p4pokc54jigfilgv6nuh63elg5rv2zy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

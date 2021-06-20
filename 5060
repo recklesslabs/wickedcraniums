@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5060",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieygu6stmr4sxvzkkwkgfbovri3pzywc6x6f3dnylnbo6cask5r2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5223",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif33eladq6e7afudgvbbmphaq3vahwgbqvze5brx5ca25scr7iqkq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9591",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiaeshcdhir4w32v5wyk2ylx4pbyrls3onku3k35rux6ms57yeia34.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

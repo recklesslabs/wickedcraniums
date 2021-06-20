@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7629",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaqhqbpk4dlw2iiz3ggtpvmui45swxu6455m66zt2suzamruf4tea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

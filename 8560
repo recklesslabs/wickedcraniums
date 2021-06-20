@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8560",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbwltnmrsu4lk2icbz5wi6or45h3pejve7wczvleglx3m4hczb4m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

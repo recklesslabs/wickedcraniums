@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3401",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifx6d5ipfpumjwcr3ke5b6hhn7egjo4mzigqnxsxxj36rddgchcsq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

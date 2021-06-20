@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10641",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzkuqi4ml7qj7bphrnoliaodhudxbxg4w25fv6wfly26w5yqj72y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

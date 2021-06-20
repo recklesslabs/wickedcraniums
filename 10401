@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10401",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigp4hjs64jz5koc5odncqrxvc5544f4co37odz4o6ypi3id5o4qmm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

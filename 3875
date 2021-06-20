@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3875",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihnrznzusqtyjgnj4sa5opvagiif63ks3kuoukf625wtxyedaiuoa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8221",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib5cxapoftw3ihhrt6vbrvearz5vyqoq4t3ptafligisw2cynlnyu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

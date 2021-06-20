@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4464",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6s6pyoxlpezvprwbsoq4zzabjqyui3htzgww3c664bdmms2myv4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

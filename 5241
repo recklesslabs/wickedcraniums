@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5241",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib5f2xejasufymr3bkjghg5yxagtmlvlcw23j6kg7cyxvfuc6j2xe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

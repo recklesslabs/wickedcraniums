@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6641",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih7dr7bpsu3ograw7ibiz7fgsgctge2jkyqzopjvr3itj3ohyxjve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

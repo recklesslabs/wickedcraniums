@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7618",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiainkf2q2rzkbiebgo6golzzrr55nrdcvmnc3d5lvwqm46gt2uym4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5698",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigmypn754yo5xs3hjmnvrc737rafn5spunl6vhc5nqig2vqcjf4fq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

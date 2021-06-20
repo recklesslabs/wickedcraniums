@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7635",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemede4cf2iufpvqoipi4iuuwbpimvdtbcq7j4a2yfeajva5ihbjq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

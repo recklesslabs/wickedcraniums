@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9655",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreichb56u6yccd6rqcdtbxpnu45wyg3zl75azwlyxfuygoqko6cqopq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

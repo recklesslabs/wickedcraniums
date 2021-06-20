@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8076",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5vi6dov3nl5kv5vmnwwt56h3sb2lbkfac3joaeoubcaguoron4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

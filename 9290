@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9290",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihul4kdbcfwsxi47vezg44tmu7tzqfpx6t4horrrtscz2iskjcnf4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

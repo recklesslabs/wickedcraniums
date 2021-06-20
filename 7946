@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7946",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2gqpf5p7levo4slzm2djx2d7a2hivqdzedg4xdxgfdwj7u7ubfq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8663",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib22go242sqbtuu74ouxpftc375xnkoairvs7fgdrnwe7anhpnqti.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

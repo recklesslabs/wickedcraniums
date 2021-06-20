@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9500",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibd25dbdpmvpyznqrgyo6cuciglv7n24z4yjsdxyf37bnc6p46b7u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

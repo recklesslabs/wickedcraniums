@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7186",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiauclpjvrp5hpvtfw6dcfx6emwg563lk4grfbhwosxgjetz5acrri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

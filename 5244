@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5244",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreich6vejqjuk42fipk3o4huv4n32g6gybtthmfyudoubwwrv74nl3u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

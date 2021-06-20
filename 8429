@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8429",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjeznhq6ctglfazcpdlmqu3tddclai4ciya6zbnxfqfrfnldf45i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

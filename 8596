@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8596",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihuwfe5j2uupklp427kymbseox5seed6zbm5vvrnynsuj5mwqjdi4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9765",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehf5jkbvdtbpbcgw735dc7ktotgqb6t6uiqa32uwgaaxvwbbrpja.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

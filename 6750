@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6750",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidl4wfahtuzz2oqvp36vggjnamyrlegpczo34xncwvv4rrsyb2lhe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

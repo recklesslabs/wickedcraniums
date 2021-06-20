@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9553",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreianiolzra54xqazitxa6u5lgysaq3qzr3kzdqdye2vm6xaufpcx2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

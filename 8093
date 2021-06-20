@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8093",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibx7lzxutgy2z7ti5wom3evklx224cwxl5k6x3qfiubsmlyygwdzi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

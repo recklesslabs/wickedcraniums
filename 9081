@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9081",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiflo25fgb4pkolaigcpwp2doblp2rfe3iy7gispejgt5sdpspfc4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

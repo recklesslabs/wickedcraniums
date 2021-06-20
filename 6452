@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6452",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibzbvuykr5hqpqyn372tdo7xb6lxglpmtzuv3xya6ix7ueoonx34y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

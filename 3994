@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3994",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiapzqekya3647yztyceurmd6lovi34bqtv7ni64qaysxq27ddtxna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

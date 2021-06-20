@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4386",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignvn4xd7vxwgadxxjy3zn4opft4qj6weibr7cw2bzt3rpvywvqau.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

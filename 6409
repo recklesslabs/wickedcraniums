@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6409",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidnuwtlgyd4nruz6c4tyvmyubm2hngij4asrc3py7tr3mabgf3one.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

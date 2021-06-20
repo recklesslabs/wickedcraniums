@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5824",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidxij7qd2fdi3eyjdbnu2ijbwmjvhy3yoahj4n7slmn57c4uc3kom.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

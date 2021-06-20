@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5552",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqatnanujhviv3j7fpshfxczynqmlu3oan6zfniws7hh62z6rhhe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

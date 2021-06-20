@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9664",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreictdpw7ircw6er2f7nygnmytx5tegb46vqe5rfhrlai4cr5a5my3e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

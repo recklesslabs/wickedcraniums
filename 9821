@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9821",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiam5ux4w44xzbtheqcyc4md5wsf4guzwkdoffwavnmc2qtypa7jgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

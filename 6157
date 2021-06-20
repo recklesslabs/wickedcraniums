@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6157",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicmpqdsjvegnin5wvvc5v6efs6ev435usjtspy35qp7m7w554l2am.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

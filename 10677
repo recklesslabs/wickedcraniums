@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10677",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigshvlejdjqbctqz6ljqq2pjvd5vuvf6wvvrlg6i6zmdbklt4mvve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

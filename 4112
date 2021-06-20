@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4112",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieb5a6onzfsvqd425q6cb72hkdnsknvvet4swh7bniq3anxltic2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

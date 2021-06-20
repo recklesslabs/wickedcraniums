@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6086",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibfrauje57fjain2q7kotuptswthwvwrwcml2yffbghj4tdsxykzu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

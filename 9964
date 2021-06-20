@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9964",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifx5huc7u7za5ocytscx2yctf5tidobo7ha2oatzofdpew3ue5xhy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

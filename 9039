@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9039",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibro5hswigwptzuslbdpj36ldzg6ogew22snv6xk2ymzgwtnmlobi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

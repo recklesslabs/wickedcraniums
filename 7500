@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7500",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigqmqlypy2cot3zmqmxgbphwufqeosqkzsccspfahk3zjpccuftte.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7184",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreier737lsk6vxr6u7sgn6fsvpujeu7mhkxrbkoyliy2snhyzykdijm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

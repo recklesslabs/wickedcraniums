@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9455",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihuau63spzls6y3pmm4emuu7uzmtdn2mcwkvgyi2qv225uk4yaeie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

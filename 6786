@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6786",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreievviotplhi3d3pswksq4inryljim5jphhwhfqlu6aoakewkedu3e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

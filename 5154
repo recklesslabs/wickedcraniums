@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5154",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic6jdu3bjipbs7mimhtue72efdaycvuxcoanhwpec5ly75rjfvotq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

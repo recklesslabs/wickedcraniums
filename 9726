@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9726",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighltyqvxr5rzlhacdp4eogphgnoevccuwdymrv4uom6x3gqgnxam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

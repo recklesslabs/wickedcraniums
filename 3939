@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3939",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidpsehcmu3ky4vlleq2wplojlg3yxkldbvdq3rv4eqam6gjvf7in4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

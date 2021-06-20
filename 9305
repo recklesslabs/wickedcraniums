@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9305",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihnvef6enfeez6negqmdav3broajvc5ubyujoswx6g54mi2aps2gy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

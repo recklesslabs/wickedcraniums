@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6871",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigptalqfv7dyfe7l7xet5b7rbdin2xjeodileiyjkt3mo2p76kt2a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

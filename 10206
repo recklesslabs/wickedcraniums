@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10206",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpepdcj6h2zs5os7ocx2xy5tz5r2n27ouqj7elj6tfn3qzaoor74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

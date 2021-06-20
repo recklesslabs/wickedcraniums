@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9283",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigc2qe72szhrd4qso77rpc4o52snwq2tq3a5sysa55cr7igrusfba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

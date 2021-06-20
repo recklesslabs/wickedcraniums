@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3960",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieacntmshke22koelomiyjbwt4rbxsfjhztnjxw36l62zz6zwy6je.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

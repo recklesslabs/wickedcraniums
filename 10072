@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10072",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtydtnpodh2im4fyt2le4i3v3khvhnee5valhrjv5tqvakkzeyxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

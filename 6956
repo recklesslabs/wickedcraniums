@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6956",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigg5fnijjnh7hf6fjkfuo6n2e5ju5ydy25lgv6iiqzfpqg7laxlsu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9457",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicr4jz4awjqstdygbpidrnfcowruhsrke6pxmc6fre7hr2mrmvtl4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

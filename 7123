@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7123",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigl4wfw5kyrgrzyybgclktmklrdk4jsxjjixtlrymtztgazgss4ou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

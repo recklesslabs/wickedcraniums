@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6155",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic36n4r5jrtgvst23j4umlkvvfahgllvuerizlpth6sphetodbjma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

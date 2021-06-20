@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5969",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicfgg2gll5msrwvtsk7lt3i5nfgofeit7n2a5jftmcnpk2hxsvtfm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

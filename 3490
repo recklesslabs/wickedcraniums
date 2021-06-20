@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3490",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigktpbfyi7kouvxnnhb3ue6fh6pwaceywxtt6fx3l5a5pd6g2n6gu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

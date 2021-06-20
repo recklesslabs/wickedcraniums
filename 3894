@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3894",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaqkb7lncji7hvhz5bmfkb7hcov5x56vkmosfdt7xlkkt3gamprcy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

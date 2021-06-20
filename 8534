@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8534",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreick5jjadpbg3ywtouqzzddndgme2edkuadq6yfjlmpjrngl2kyh5e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5159",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrcmbdtrnyp44jco2nuk5ugcxyalpzmri54truwn2t2fdnp25sfu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

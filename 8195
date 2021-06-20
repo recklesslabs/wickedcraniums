@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8195",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqabw4tyipzmars2qqnl2j4x42s5eew5zlemqsv7e24cmdnw3av4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

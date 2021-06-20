@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8361",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgx4mkp4szwqjyohrnkmsrzqaeissfpzhrye3sqjnkhmz5qd7xsu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

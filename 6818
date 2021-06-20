@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6818",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicedvdhuy267g46xqwtmgbfg5f44me34kpfb6rncww77ljrohu4km.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

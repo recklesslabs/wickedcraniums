@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8001",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2f27ys3di6uzllawkyfjeiiidqhgoq2gwzgnkzg7peoq4fgh3ju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

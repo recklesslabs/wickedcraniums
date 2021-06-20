@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7239",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiafz7jfnpepfzwdt6pvaxgi7sbaszqw57l5zya2vhkv7xlg3ostry.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

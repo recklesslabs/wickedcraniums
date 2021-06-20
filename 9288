@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9288",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie6m23p5zl7gm6mi5ulqume7nr5atpsuy7ce6wuqofqihrgcgzqbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

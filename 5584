@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5584",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibghvjqnhplqvgh2s2nqzgaygxqzvhnyjykeiq6reeaucpp42bzxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

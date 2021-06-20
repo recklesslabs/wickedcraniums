@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5150",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeie57dhzcjmjmidejcbqesgiqaalpug7nwpl6ixctpjsv3zxlchveu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

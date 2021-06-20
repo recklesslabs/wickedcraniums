@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5604",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicz2i27g36bf3xw6plabja5xc3gkrii7vqafxm6pdlco4ng357qyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5970",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexhmjbtzmkrlfn747kdkhrtixcroecvyfll7v25m2mli5egzzyrq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

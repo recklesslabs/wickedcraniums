@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3797",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiacxpbbwl26usn2kmce2klgpna5ejx4z5mwzznjox5nrkxbihb2r4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

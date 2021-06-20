@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5054",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicztu2uzk2areocctbld2imxer4wjqecddrfezjmiqwp33dyk5qki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

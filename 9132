@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9132",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqptw5hwd6bnemwzedb4w6tj4fblwu7cejynk4nufdbdo6b4a4le.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

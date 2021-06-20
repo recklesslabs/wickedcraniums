@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6926",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5e6k2rjsk27764a3ehuo4yjqks4mkqxo6ioxcfkqxro63jllbb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

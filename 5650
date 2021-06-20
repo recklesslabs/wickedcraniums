@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5650",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicjtjutxffchqjuilq5xdgv4dktvwmax3a4grrs3f664dqao5vh6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5218",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiei64iakcyaykgphdcgfhbcv7p4omg7x4rennl6ldh5yuaiwyotzm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

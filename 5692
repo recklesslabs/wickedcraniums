@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5692",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7wdcxgjqudqlpd46q4a4lglkw7onk3alrx7rv4qirr4ctj7mz2q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

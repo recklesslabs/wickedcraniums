@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3985",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiastcxw4prutm3tqq5uh77o22isekedhuh273yplvuiiisqapiyxq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

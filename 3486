@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3486",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiecpjmmjk4a5hryi3zawgyjodyrhqm6szfuedb6xohovxtljhksbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

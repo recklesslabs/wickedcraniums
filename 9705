@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9705",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifvx2u44kcf65eesyldyge5t6dbtylzndizeibfzpvq5ztef2dwam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

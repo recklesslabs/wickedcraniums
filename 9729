@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9729",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaitwnynvi3ezhohbnu6jrycc7i7rmsq7tnj3gv5dlje4ahsuenhq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

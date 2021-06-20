@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7541",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7yl4lzyocl23ljko5eqe3v2a4mb7ftqxtcfeqve52skimzmtkza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

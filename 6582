@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6582",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiga442pf6opsh5qmo2byrvmvsmrizifswzxj6nvdchjtfuu6b6mwe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6343",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihdnqel4mi2ipptzwi7jahlrdcd2fhp34lwamdef5zfrjwxekv3bm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

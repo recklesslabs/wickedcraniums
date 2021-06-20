@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3561",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6hup3knxdemx7n2fbjp2xmoiz5rqww6fvmp3m3pvu46wg6ddqcu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

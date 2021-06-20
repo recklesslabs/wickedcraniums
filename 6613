@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6613",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigz5eufychwusku3dnviasmocpk2vlvufobuzp5t7w5fid3wphq44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

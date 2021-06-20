@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8501",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif6tlkt7epsstuktdapsye6eowbwtzjpz5pz3yyvssczujvh4veve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

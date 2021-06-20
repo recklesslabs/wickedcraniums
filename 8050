@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8050",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifhmjnfdwqsyhuwgdr6phfx5avbkjugonyee55mpn3kodtmqawpva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

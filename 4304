@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4304",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiguw7jcwl4z232yjyev3mieg7lk3f4njeyh455j32h422z64gg2zm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

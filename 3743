@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3743",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwzcmyn7ebcobbg2j5tmq2vydjj2hbbtzntgdmu3c2ulum4syl2m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

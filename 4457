@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4457",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2uc4cg4laqkswtgelrf6a5pagrnpivgewu7zkfhcnfmxibcgnnu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

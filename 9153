@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9153",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifznoeg33voqnh3tbuyz3ft2uf6xr6y3vycjmekorpr4yc3k5fhkq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

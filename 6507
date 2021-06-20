@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6507",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib62kplwbuyoi2anyelf3a7vrzey3tnkmmhfy53mnezornvx7q7pa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8925",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7c3f3ztyfsiq3plbuts5hbzj64k5x7ejiq4xd3ol7tyhohxi6w4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

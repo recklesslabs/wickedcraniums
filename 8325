@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8325",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicms2qzolv3mc4gavamie74kdcinwm2ttbxphuqk2jokzwbyfdr6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

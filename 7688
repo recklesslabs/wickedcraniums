@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7688",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreierhnarbu2bytrmvwkci57xy4c7bl3666mwxbk6ux36mfq4lexb3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

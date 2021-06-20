@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6487",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3kpfb5t6qm7epz4ixjwatfo4dwxiiml63o7gg7hmvxwsydpcatu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

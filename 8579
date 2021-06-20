@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8579",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibvufo5r3dieppcbut6rh3jlobeze7xofpxy4dczrmzkvwe3sxu2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

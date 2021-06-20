@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9469",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbz2lf7zpnjnjxxxxj3fveced7vtp46a5t4lj5g7p22x5xg5n4h4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

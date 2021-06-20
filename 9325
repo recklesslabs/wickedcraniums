@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9325",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiawwy47vlcrieczxiy6uepnfwjow5akrifteujb3rnohgva7amjba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

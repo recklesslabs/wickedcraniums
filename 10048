@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10048",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiag7iawaq6muir7ezow73p5v6lx6kz52jcuvvximm6dbdcqw75uzq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

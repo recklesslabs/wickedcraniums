@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9906",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibaau5iwqvq74sddikmlouokfu73dkinpzvftgcyeix7ivgub56wq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

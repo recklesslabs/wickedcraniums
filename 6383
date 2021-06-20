@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6383",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiameqydqk62xf7qxm2ed24k5pbvr7iibrwzsnimghzruxr74xeaxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

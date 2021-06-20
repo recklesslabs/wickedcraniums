@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6169",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpmnpxk6zr4chnytqaie4dnmiukvu7hi4szzdyqje7746bjxb5pa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

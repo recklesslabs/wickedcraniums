@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10154",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicnpbr6djppulbpvo5stlmx2y4y3l75qzwmzt5zfuo66bde7os4le.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

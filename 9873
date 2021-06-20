@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9873",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6jgskuixbtwgbajbqgtc36hdihxsrpsc5qbl6r7nzi2vzmbyvvq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

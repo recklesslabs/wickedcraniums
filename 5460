@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5460",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieean6gagsgvxchkth4hqkbdv6i5vjopxx3udo73ypdxaneij3yxu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

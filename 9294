@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9294",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifcuwljwbwyf3ljlfswebibjozmldrm2mnzysne4yj4vx2jn4fm7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

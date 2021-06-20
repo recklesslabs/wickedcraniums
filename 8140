@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8140",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie7ikihbppz4kgzrjekcllmxwsbfzcw6ry5mpxranctjsaiesa22e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

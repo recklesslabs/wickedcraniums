@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8037",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiepeozzf5lczb4db5dnmxsctrttlvysb27ddykvdg7oaphjcijx44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

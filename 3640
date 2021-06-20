@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3640",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2owlomljlhfc7gm2nt7pgj5rypidpb5vgnafaybtmoljdapyksq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

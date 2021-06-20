@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7749",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifm3nuk4j66dzhpb2zwgunfgru2u5dpqzzgmm6mrebqbwa5lp6sme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

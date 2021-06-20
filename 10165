@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10165",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihipwsb7qj37xyvatmt3eovbqqur5eh35ho44quawhcjt6omstlgq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

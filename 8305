@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8305",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5dp2u65u3acckqmzb2vemjwvpwpzpgb7cgpbyu72utrowdgvsnu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

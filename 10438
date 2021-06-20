@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10438",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreida7cq2sypo3ursjz7lhsh4vvihea3y7xxqur5kzheo7knrczowc4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

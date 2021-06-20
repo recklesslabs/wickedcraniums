@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8169",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexv5bwg6wdp6ttonwihtqc2hj26jkfrmbvbbkkarkzljnjeeefpq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

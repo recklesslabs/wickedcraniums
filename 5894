@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5894",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihq57c2kagoxj67kjhwchdi4i2rhlys56ri7aquwlscfxvlea5rri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9418",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia76aeatsnlxxfdyqfmgzs6ps6ddtlloo2swe75wxl43ufqy5twm4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

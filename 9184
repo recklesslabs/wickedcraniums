@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9184",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgrweg25ywcvje5m74okjwihsqiyp5isimh37jh4tqmpvfyqgf4i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

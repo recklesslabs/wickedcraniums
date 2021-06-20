@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4244",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreienbnhdeh3p2c27cap2zyseonys5r2wwkcld7yliqnx3pxqdwkehe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

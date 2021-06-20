@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7940",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigaq7ufermzlqyhpefbo4ju654x4otsyovginz5bx36gfjaftyoru.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10586",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiewwk552txavlpmo4koxbjvg3itbepsbokd5lbv2dtgakj3e7ewlm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

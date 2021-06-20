@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7806",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidbpwwxkipw6poc45o26mqv7b223xk6rjkw6o7sbun77zotyzwat4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

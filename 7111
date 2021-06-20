@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7111",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifyorlrljwiiiqjbnnp4navuk47mm3hj3ww74mlbv5pnp6af73s2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

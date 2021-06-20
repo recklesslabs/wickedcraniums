@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6576",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifcz4iqoscefwegzhe2gmw4wo6ulszihmtjdefiavhzpsowaczp3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

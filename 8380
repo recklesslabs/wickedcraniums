@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8380",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia2os4flg2up4b6hukpclr4mkc3pposc6hogfya3boko4pwwfjski.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8793",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielo63tas2nliggyuhnlvavlu553f7pg6kdwaaqa2vouueshg476q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4728",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibq3oxellbm47doymt4ndu5ojbeu6ghwmgz2q6odzx277lapzvuwq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

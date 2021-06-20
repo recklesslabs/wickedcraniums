@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9549",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaojxfmlikoghevwdsvgqina726fv46risnotp7prgqjlctpr3rpi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

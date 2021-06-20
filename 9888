@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9888",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreice76o2nz7bvz42ifjnhrphgxomddheok3iqysnvvvi6a4huo2n54.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

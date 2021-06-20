@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3463",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibcs5ajkrdnxwv52fdsz76povg6otz2qaqg6gshbomjxz27bcte3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

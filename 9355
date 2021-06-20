@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9355",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidppucxiz54mslgrhujndaccoyl5niu5egz6kkeb4atnpeetvn3vu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9217",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifp6ls543sgwloez67jxptccn2uzdka4uchvmaer2tse6pf7papki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

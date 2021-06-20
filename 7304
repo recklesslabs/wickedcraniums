@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7304",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2545ggs2sra252j7u2u73azna6s3fcptv72gpfrfc6kbrthuhxi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

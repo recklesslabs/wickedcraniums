@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4348",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6omm5ivwwjz3nok5it73ypbnry5endohy6ch5im3pm62q4bjs74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

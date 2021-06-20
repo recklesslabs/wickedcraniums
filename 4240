@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4240",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihibzmueb7itd3aeabijkc4as63666qbpgn6iedx5pzz24veamxka.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

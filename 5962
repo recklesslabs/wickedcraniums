@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5962",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihson4kudoal3cjtjh23og2536yf7oprhvetn3m4aj2mfdywljg2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

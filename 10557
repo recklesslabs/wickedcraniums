@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10557",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5odinoowfbq6yciztvu7eoqd6fws2ejj3rkmqvqb64zm4upxzny.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

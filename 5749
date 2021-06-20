@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5749",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaunxgt3iwysuturgcgervnyrzzr3rzdts2dm3jbfqv64224stkda.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

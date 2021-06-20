@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3355",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreickaww5aecmrl6ptirtrbunq5nxrcmflr4gq7gt3vizugpd7lupua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

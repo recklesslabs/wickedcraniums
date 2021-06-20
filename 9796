@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9796",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie2ejn3v3quusteidpewkb3jnhlv7qpg2iwragt7g2kw62sry56uq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

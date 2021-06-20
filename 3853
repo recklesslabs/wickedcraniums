@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3853",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiewjt5374aoozeacsnrsw36tu2mnkr3f3apzhgoolwf5digyapqye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

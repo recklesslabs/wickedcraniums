@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6458",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeice7flatkin6nisbooca2g4thy3rvu6u4dpyt6b3nvzg3ivh6aeam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

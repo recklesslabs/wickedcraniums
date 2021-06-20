@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4718",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigfp3moa36772df42pkoelidd3qa7emgln2r3jlqtorw3sgvijghq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

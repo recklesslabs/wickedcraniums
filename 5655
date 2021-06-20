@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5655",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidg3btcvqxqox2stg7ukl6qblvuw76zzvz577f7qd7zerz6ynbuo4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

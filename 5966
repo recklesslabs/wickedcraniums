@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5966",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiaxxgpagixine7y3qm2qgci5l73bvrh4wozoeoaa7b72dpar4hj44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

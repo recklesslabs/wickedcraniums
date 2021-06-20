@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5061",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigo3qkl5d6ifndc7wcp7wgr5h3zdltqweumvmxbalkwzqzinx2fqa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

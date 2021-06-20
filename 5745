@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5745",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieotphvxy7hn6siovejtg5cc36xmjwd2wg6nqfxlzedclj7ljwmn4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9261",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifczmcmrtn4krnfmmphgwmvs76kavowpciztcz55bvzknazgpodz4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

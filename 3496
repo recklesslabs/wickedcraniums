@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3496",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiei7c4pklxgtw4dpk4a6irctoji25jam2vzn734tshjvfrelzqx3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

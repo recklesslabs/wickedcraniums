@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4198",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtilumhsi32u5zvyt5g3obyenkyboev42ezg7sqt5xqrieh3i5iq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

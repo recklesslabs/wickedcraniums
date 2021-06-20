@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6323",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihy4ohodir7dzstcxd3ejj4c6doraeqco62ofintfy2du57wila6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

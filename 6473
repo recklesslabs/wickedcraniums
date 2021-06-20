@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6473",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7hrcv4jnhjo5nx45mm25vp33madnvp7kvmzn7nlpdlvuxk2ghq4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7496",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5diqy67bt57srtiojyorqasz3aniule3j6x7qg2n7va4wyhoe6u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

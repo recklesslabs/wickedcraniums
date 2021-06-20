@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6282",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic4km2xnw3qpkofnnwkdnag26lmirifz5wjbilvyovuj3xya55zmy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

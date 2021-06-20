@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10287",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigkkvvvatrmrvonlhunnspt3whv32sfzjrgwjbkpq6u6yrrgpshtm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

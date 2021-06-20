@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10454",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiajv7n2mgfygydobk3qgl7x3bpsugyno655cyestkru3lr3aymu4i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

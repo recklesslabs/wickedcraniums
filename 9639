@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9639",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreianehd2t5khrput2tc4chgsu426uoqwp2ghj56hj5cexd6msft25q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

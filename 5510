@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5510",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifqafnuuxsxz2e3tmvx55n5imci2baaf2mnqkcatcynyn2gc7y3kq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

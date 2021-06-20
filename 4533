@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4533",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidbf3mv3auinaoz5x3cbx354uqtzkzc6m43rpxtj542mhuumgflzq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

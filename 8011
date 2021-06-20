@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8011",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih42fl6gtysluenlmidu34lmlnxyb6qs2g3fx3lkdf6d6rextkhiu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

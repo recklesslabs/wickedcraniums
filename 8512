@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8512",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih7juxjziww4apuqez3ayr2bxtordxx3koyaovpeirv4bngysmrt4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

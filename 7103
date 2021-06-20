@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7103",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihskvp5cukygb5drk6e2irv63dlfd45yk5bl3eftl355ssrgk3dnm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

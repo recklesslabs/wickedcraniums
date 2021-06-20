@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6139",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicojbxcrxqhi7grtjj3yf346nvusg6qxst2vixvbowjpj5vlj2rva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

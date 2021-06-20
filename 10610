@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10610",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqhc4t7be5lcsak7k6vyo6ou5tf4s2iqmr565ei4umktc7lqvdke.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

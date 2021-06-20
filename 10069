@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10069",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreienadopcdiifti3hvzbanlkbs72dxg4cphwck74npbo3nbwf4zuwe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

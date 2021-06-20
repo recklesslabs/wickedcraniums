@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8605",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiglssj2y3mbxqwjamz7nmuio525r6opkiuyk3nwheuvxgzqkam6t4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

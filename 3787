@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3787",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihssyklqsebg25t3tfz7fw7epaeshl5yfxu4su4dw53rqiz7uhebe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

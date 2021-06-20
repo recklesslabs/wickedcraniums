@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5751",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxpdsnux3xn3q2xllkbsej7ijmip5yvzmogcweyi6lwqaygjfwyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

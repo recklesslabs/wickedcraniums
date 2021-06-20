@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5638",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia2yjolvfdnnx4jtekrjppmbefo4tndt3fd64wipjajjfvcn6wxo4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

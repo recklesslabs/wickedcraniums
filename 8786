@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8786",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidpjisfufxtumzgvzobuqso6xp2hha4ubb2b6wpselp3xm73stx34.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

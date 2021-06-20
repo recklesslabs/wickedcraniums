@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10417",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreievzbhgqgmk7hgbih4ugu2i7ml3jf6pkxvelyae7xpgt6exzufy5e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

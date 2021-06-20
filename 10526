@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10526",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihvqaycuahukv5dmj37sn2zhiwp66hfznb3svrh6pwqf3i5jwthlu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

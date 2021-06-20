@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9491",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidw463nyqgt722ycisferlotvenjvmpuvzx5stz7rjcipymrswqi4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

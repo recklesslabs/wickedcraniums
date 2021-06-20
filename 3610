@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3610",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicrgx3gdd7kz2u7ecag77xhocowxjz44ngabj4qfkof3sss6sivn4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5424",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibhdv7boontdbemu3erxe3ius33h4actvdp4uk6aefaz4uysobvpa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

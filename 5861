@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5861",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7vh5b2r7skvy6zybi7y3vxypg2k3azz2tbg2zl5dw4sb4aevbby.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

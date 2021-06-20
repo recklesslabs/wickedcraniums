@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8535",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia4masu2gais7jp4l2odsq3lgeitlqmybnwl5ng4s5s66bvyqv6xe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

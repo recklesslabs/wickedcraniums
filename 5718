@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5718",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtiehzhcggmmnobr4ory2sgsk4wvzfohsrdcs3jlq4xvkegc76vm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

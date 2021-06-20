@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10003",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreialvxznne5w7s4655oidbku5cc7cyo36u5qbcv3kwcish4xha6rlm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

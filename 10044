@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10044",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5ctd5msognuir7tw5xrstwlf54cumvpvprefd54n7v4co6d3gje.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

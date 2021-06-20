@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9643",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiayjbkotvnlavw5csdog5ovawaq4jfd3z4n7vgodozwi2a2krwq7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

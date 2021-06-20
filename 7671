@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7671",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicuh2gjf3ovdeijqevffqso652a6yvaxev5bou5u266fcj4gnlvw4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

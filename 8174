@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8174",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6vubqnymxqujzdzcxydtj4wuc6idfoipupxg4oqcki6xamo2am4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

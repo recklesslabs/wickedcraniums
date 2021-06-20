@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7880",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigog65ksgv7othu3e5kmbe6jvw2ieb7zwmud7zz2m3zofbgalusta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

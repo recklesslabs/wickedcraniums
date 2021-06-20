@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8758",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihlzisayjpcoia47ey22egvfwqos6qtjf3xlnpaeiwlkxhv6mshqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

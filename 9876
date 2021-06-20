@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9876",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifcehchpqjyp6ujxnap5lnaf5voe7f5kjo3hduyuzdub4lqxsoguu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6450",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaewpcvcc4ky7n5jm2laottddxoiua2pe7mtdh2tjgouxtf6p2c2i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

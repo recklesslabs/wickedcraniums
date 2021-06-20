@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3928",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihh2mctetnz5f4mjtxb7bf6njvja6q3neogxbyuvfujndwpderm2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

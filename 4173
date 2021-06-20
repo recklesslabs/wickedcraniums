@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4173",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibs6rodeqptga6wqfzr4rvvrmuwadnnx5rzkzcesb5uf4mphpbjwm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

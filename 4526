@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4526",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreief4o2f2a6nqat3xba3wkxpsmp3leme3wicejeony4rprndlko7om.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

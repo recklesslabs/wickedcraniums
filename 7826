@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7826",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiduyos4xdx6ftwfvhwocvdslgyw5fj7xhoxuhpco5jvdzc52bmm5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

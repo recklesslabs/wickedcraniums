@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6075",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigkufkjjqns6l3nrrrw6i6fn6yw7lux63jayfcrezufabpedxnwc4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

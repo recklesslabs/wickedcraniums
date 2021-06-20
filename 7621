@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7621",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigk6gijjwvpd3j6gcoq3fsl4kh63qc6k3b3ftm2nt2aotkvysscra.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

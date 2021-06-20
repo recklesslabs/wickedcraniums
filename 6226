@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6226",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemdp3wnwo3hjux73y4mjdzd4uahrhydx2q7vyhwzu62nvccrck7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

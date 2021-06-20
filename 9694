@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9694",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibiza3nutnndxjewiwe7r2qqgwnmesjd5avzhyufue7x5ow2lfwpi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3437",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid77lntzjxski4yxoy2on5n2vjyk2u56w6e3nu3gbubq7ckltj6ee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

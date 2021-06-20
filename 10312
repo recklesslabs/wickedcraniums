@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10312",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihogoiak2f5aqpe6bjsvka7pmzcb42rmvhzwfc7xempkelw4hau44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

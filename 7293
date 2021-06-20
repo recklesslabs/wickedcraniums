@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7293",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibodtcypxmsgedifzyxdq3rfcxmud65icwvr7oix6mbiwtxydu4oe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

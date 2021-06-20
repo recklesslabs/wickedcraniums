@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6038",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidrji7weph7fbvrqkdebnaam3jtfqcyvgmsui5c5zxo7u3hs7vj5y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

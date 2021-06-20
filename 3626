@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3626",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidq7ujtnv3mygql3l3hektid7th3wg5jhi7gi64zhtj2wkod5i6ra.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

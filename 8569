@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8569",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicojg536ehdzqupxywfvzwjdysnil4jakepnzwvvx43j73t6jmoxu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6267",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihp34bvavvvjhiwpcn5sux2si6p5fvuhzgcqr2zw7uednufrglzh4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

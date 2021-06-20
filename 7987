@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7987",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie63bz6aitlrspwfwd3aw2zakvi7nivrrlpyaurgpjvjit7s6lnxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5897",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdng6pjthz4fuyhl2ruomygriyazbw5og6omzrur6xbaztyzc3ia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

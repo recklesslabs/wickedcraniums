@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5961",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibnxvlp7vhp3ghivaxjzz2tpa7bs7hriv2dpvtpsstaqaileiabcm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

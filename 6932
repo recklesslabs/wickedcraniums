@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6932",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihzgrn6pfp4i6tjldl6ptovs5zkcbx5u46xxiimdt33mlyvjdyjwy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

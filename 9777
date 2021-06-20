@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9777",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiax46ekuv3b7vxvdbmlg2vimhsuoeoounglmxmbljqdiv7wgezazy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

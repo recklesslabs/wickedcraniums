@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10635",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibgaxnbmschhgzhknzqr3cxi4xf5ojwj4urg657rjm3k5o4k54jki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

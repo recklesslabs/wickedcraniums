@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9324",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie2fjwjk3uyb5c2wk3crq2xxtxjymkbn5lre3sh5dbd34a5tbqcju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

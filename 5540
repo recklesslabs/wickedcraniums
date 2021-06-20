@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5540",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidesdzt6l3ohgyyukof64d5papz4y42pmumemvz5esevgtmluma6u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3322",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifqzies33yyosytrqftzhqghhkbixqwztusyau6ylegw347g4cliq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9800",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigk6usn4fb6af6kqi3hp6ohwbe5mrcut7t634owyajpqnwwws22ve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9965",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihxxsqu4tsbclhgmoxzaxlspiqxn6mz3w4gn5aileemkcbc34ctly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

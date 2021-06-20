@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7416",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibobp54uqbbievd3zgj2qslwhaau75gpdmzpiuinkcjcjkavcksvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

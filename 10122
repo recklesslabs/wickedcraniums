@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10122",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihe2yxzcn5bhh7tn6ozsbh26hivmkidfbczm47jucz74zfiqtvcs4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

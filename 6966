@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6966",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia6ax4xdmhvlgk7aakp4bvzolb6elfpmlanjnc3baz65od7m4sebu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

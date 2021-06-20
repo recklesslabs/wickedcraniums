@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8223",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3rjcp6a5wyqpiwmenz4h2cq6irj3t5leubje4lfxrh5qjdnuciy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

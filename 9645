@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9645",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibxct7q3f3yofug2zhs2hsiznqqp7x46455c33xwk6nomn7kzgo5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

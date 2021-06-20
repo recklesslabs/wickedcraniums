@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5401",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif6cqbhrejpmxhz7si535yfotq36czcmonufpjv4ycyy4aou2kn4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

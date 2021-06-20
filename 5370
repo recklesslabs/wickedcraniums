@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5370",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiftxeps22rjuay6hxuyca3pxityahhygxrbshx4pckkwwc4aecor4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

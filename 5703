@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5703",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid4w7pcugm7azqgv3bbesadshldqgjiytioazuin3ikn42q7kinou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

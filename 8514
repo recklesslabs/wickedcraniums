@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8514",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicyueuznog5qc5woijfih6i4qrm5xqjw3gwds2n3uafg3fn7vj244.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7448",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3y7ekmqiao27obj56feh2hldfo2skf4vmypmmhjiwr5tlnp4q7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

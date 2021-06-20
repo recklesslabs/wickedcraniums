@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8096",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiawawszymko7kbglnzklfvafv56ntr76k2o3chnke6eyzbukwk2ie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

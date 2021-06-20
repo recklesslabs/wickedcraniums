@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7325",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkdqfqyvlst23hwjz3in722eqkuzuv5jp5iktwwgl4w4q3tzfjqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

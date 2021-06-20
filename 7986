@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7986",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib233ksr76vpqecatokimxkve4eyagkd2ev3v4msryfqxccpd4quq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

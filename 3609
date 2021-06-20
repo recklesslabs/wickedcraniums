@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3609",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebojyfon26cqfngmli3tpel3mbmyxoyad742mnuoufpsuqfq2hja.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

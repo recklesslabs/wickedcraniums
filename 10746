@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10746",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidcrbdnvxynelohscl5sxlyeqywf27dfyiltbk7pt3jla6vfeeeqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

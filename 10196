@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10196",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidfcs3x75b2hlp2fl6lyz2hzredfvigdvn2civr36yw2cmc4izaou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

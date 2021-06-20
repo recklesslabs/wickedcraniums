@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10381",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebydpaaieeemzvyzcjbkcbwori3wllnqpdgjnbqrjtmkgcgtvzpe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

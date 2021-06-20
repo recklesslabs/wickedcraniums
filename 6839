@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6839",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic56ytlnpnd77jyjhh3mhm64odkdhjqffqqik6uv3qdqko4rvjwre.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

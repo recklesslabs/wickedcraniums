@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8630",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihohdfldzofkixsrhhrszvwxvidhz3geklcf5hal5brizkazmh7qu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

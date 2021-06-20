@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8882",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighrr5ko5o7xmr5ntbyrilkvqga6a5yxlbqwkg6revwm73cth6j4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9811",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidsyojuebmcetacnrlmbtaafr6vjaf5dtehsiqhje62ftsyrv5ut4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

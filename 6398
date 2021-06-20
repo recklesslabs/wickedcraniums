@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6398",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaycmlj2erizyzajuihdfdzwu55s55dni6fjijw3lc2dywe4iu6ty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

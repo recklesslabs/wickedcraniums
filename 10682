@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10682",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreief4qsunzqjrbwafe6saomifgq2eowo73hr5q6fyu4nyt7mm36ybe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

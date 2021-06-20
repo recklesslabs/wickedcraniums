@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10103",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigixy4yrwkaz3ihayiaefpbyu7rzdypiz3de3qhv7bjmhwo7y7eoa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

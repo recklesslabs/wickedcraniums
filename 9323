@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9323",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdmfvscyrk7ntq2avwfkjt2g77i4ck4km3zihqi3qsjvwrjm742y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

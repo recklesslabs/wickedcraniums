@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6349",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6lwzypyiumks36tu46kfshrlppoguejlsepwhdz5nzqbvr2khki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

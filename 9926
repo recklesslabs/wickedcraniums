@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9926",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreify3ugkcyijo3h5bbp4qwj6bsecasnix63s6cwecgdpdnjsgcyguy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

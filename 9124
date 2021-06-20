@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9124",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidxkqiwfbibepxa5umpkkyanidzm7cypbbhsshtcojeh3cyxai2ty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

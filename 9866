@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9866",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidpm4osddjizpojvy2tfzzod66fapzknxu3ogsbfd6h6yr7esskly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

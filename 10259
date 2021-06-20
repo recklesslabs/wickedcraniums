@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10259",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaagxvujw6n6wzcvwv46a453pkk6iqrpbwt62mbfv6zgblluvjuba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

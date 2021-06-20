@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9586",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreias23wppkbhxlhboqjgwdmooc2lqx4vsjoqbwkwvbkobvbiib7niu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

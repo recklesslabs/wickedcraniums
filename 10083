@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10083",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiblg6hv66exaxw4l7vnuwmg2flg4gmrgjcmegbx7tkftodfwsle2a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7659",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigd5csmtzlsteoxv4pmjat7zgbvbgtqdjlu7e7z5kd3oj7uv2gibi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana"
+    }
+  ]
+}

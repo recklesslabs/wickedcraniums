@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6987",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihdx2jholsawhefo4vu7nmxtkpvy2ueejxf7cw4qj2qz5ybcehlce.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

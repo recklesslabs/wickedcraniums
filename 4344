@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4344",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiajzrl53i6ewbdumojjbqez5ao6rxvwqtte2o2hpem7zbdh77mgya.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

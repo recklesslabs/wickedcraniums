@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5997",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicgfmfmmbi646mqxs4fkpzxntynln3opdg4iygslxxqt3q2xi53om.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

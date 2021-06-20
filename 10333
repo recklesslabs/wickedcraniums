@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10333",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidud7456ipou44udnjldkrnijhz7afpsykks442ojqgbdue2dphni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3306",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie2bgkegv4gcj3baybpolcwyofy4vw4oatlsoyj4vl6y2igv7iupy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

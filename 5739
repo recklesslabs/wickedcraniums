@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5739",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiacmcvpszev4aqauhdvtpu6hq52km7kmwkumyelhdvda4z2bqxub4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

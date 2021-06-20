@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9127",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibg3zonjtnnnkmmthu3i3taxmp5kxd3fdsswol4z6s2eq255efpvy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

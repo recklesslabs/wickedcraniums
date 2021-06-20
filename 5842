@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5842",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeid4flfj7mfm3nmoxhdspzlfrgjjqzdi7i2sjl33aqiqx77c4wu6fq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

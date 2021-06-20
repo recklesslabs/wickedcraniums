@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8064",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibgvpmj5s2nryxujzq3spv2mednk6ilfiawqawdztkajb53qmfadu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

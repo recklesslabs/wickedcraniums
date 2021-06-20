@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7902",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicak6qmn7zpmjzivqdrn2shekem7ucxbwb3sn7eedmej6n5m645b4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

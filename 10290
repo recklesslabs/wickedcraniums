@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10290",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidmiks7e6aeteqygdllq2mgwhdhwksdhw4d32ymbcjwjnbkmac4r4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

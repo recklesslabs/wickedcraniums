@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7801",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibsxhh524f3f6zujcn6voaqmk4uyhu4zs3grpdqdellgjfsj6mtqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

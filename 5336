@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5336",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiep2xkt24zpro4ciu65xkhslmad6l4ifsutlnqcs2sf4a6d5ivody.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

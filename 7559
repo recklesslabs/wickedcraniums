@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7559",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7wpz3prdsbnassha4x3u4gpmwzsn66dw2epxr6oyz7aprzniqte.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

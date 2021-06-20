@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7130",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifslckuoh5te2xd4wnl6h6n2iozb7bobtpb3sx6ziwlxwe4wxnnya.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

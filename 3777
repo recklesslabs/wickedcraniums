@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3777",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig3hp62s4tqqmobwu7igaaj2ulp7vmqxqorvny7jnar5vqcfmpk4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

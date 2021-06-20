@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10130",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihxns4wbhb7rpko6gpqgpcaan7sezsw3uwqzs3cqplpe4zg47mpze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

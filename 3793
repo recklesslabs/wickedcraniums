@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3793",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieutm5hgsrw7dnlj42hclghpsrq3tsa25rqopx7yzzh33mnv5por4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

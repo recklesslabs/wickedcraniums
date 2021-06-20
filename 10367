@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10367",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidmibxrpzdy5jijxf7monjuxfnrvyjbldk5nop6mbwdx7q2yorygm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

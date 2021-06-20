@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7862",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiaa7csvz25wdh3e2ozaqat7ysxm3vnnmxgjrlbp6fmwbtu24jfqpe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

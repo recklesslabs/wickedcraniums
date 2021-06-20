@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3723",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiekkzvbop6y2vda457nwn6sfqkth5zxhlzvm64apntwvqufzhd6he.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

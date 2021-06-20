@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5328",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkoeah3ujabmi3yfwzw7c5utwnh4r4gb4jkdctjyqtfspojmlp44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

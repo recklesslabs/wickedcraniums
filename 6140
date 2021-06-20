@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6140",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7nuiyzowxpw5abd7dmo3quzntr5c67ribjtqflilrf7n3uoizgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

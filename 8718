@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8718",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4he5yii46kad42le56hgsygfuvwz4l27dgwqmahafxm6llimzgy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10426",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeieysnryvwjjzsqnia6rhymr2mh7zpjok3aumupamcm2hop3wc3a6a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

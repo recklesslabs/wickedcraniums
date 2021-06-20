@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5438",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpmcv5rqv7w3l264krpqf52wuwqlevkx2upmxoyvmbztycme2a4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

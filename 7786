@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7786",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifbhbp3xi77zqrjgemttf5o6bjaavthijx6a24c2d4e6ubnrarkae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

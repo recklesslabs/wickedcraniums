@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10356",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicf6uhhs6eilvlr5iq5sddofql7by3rrbh3xmdn5qawookboviksu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9093",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidpklc7ms6vvu6bcpo7zm7m2rsxpz26klousr7vpsth7b6ctrqn4i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

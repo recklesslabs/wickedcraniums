@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7351",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieovhcl5gb7rpyutem5qco5y3vfxcd2j2wt3cjsdwd5ocgmt2p5dm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3785",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqtbzausfytuwc5vzydg6lc6pkmpb5mxmekfxqnrzhsvwlesufha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

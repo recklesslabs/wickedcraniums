@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9890",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicjulvk5uenvhia3dit5nlnrenvpguwovlpbafn4fw4zb5ls6iwse.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

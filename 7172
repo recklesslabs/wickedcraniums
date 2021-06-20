@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7172",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif4khtjck7l6mfdu3wya3aofpr6mort6dlcsrdqslei3fekq76at4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

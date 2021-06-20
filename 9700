@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9700",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicm2bsgqn7vtrarhqxlunq3zx3hflgwkh3vryghufgubrtaaiahpe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8687",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiew3jcl4ov43ciozzbhvgepucdujhv5r3c23xpxfmleetstriaoae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

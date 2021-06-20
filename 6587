@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6587",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtmvjs4uni3exlwcj4tyr5dqzekb2u6tc6viy3tbiaguyrigzq2q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5465",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaut524iayrb4dr35vo52qe7jv7h3w6hpu4bj6yn7tw2nvxa2pswi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

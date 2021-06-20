@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10137",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibrndgpitg4vwiosmfvklc3ghwsjigbjrlzvpxw6t5nen733rehxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

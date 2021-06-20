@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10560",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifiwr26hrhypmjr35gryqvbptve5xraleyp2zllndvluy527ldw3q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

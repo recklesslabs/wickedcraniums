@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8744",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidh2xqf22mrv3ajnisqku5ju7a2m6gcf7y4rzbzzdvtqxlcugqdem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

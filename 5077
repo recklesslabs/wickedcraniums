@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5077",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaopl6h4kdgjen2ltjiquoaobccg6anvhxbcbhts2hcsfn2zoyuam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

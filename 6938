@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6938",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidsxltpjg5xofet4ysth4d5azear3ktfafon5lclx6v3erq3mczhu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

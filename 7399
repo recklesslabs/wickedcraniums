@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7399",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiggqejcl2uzrd7yyqq6y4htgftfgyx7p7wcvo3y4wjsegikzana6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

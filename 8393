@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8393",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiethivxsi36yp2jxrnm36l7lvfk5lf42ny3u3m5ej26t4ajf3zouy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10608",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiduupbsep5sosyhg72hw5hkospxh6jjli63s3clzrrvt4ffwihkje.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

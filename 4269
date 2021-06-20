@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4269",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiabrm3vasp6eikfbk5fgfwnay6f2yxo64y7o65y4rvhgdvutus4wa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

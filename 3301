@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3301",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebitmtdj45pstu77j3mhnkvjbdgpdqdhzfyhp267ope4toiwkgj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

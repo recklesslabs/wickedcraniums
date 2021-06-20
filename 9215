@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9215",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic23cpsr26fwmlizcafyjk6gtea3zgmff4ltvof3qorymfhgkhe5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

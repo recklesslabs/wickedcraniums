@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7394",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicvhuyn6r3eanw2fcvskqufpoegesvukqodd4l2fkztrpuxsk3oqq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

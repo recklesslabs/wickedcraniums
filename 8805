@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8805",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2xtgu7icmbnpf4sblyg6jyup7oubshn37hvb36qpe7xdfjllpmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

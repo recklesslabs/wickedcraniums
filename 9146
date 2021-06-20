@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9146",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihr53b6znuqa6jemuhhnulmt536ri2bp5j2mi6otliw6nsphzk5du.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

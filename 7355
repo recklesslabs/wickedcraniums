@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7355",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiholgtdbubhkcavqzase76ki3dx4mq2xxbdx7keyflp2gji3fiwhi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

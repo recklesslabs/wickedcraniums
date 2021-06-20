@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10533",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzbi2kowcdzcba3bgxrpjtxoqyfifm37fmgfdcrp23asp747y6ey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

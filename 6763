@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6763",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicozx3kbb56vzjvdqpmh4r66vx6ihxmxfrpomndbw6nb6jjjzjbxm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

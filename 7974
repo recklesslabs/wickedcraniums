@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7974",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibx2ggy22n4cflu53k2ezhlqhg5rl76p2sannodcy7x2xixyti4yq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

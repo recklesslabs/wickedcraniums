@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5807",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicrhfbqv6q5fbwyj5ikm6aqnnvxhb2zwx74s5xm5j7v72fq4toheu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

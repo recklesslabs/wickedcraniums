@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8977",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieknz5use4ppgqile5prnuiqfpswgp634zt7wanekdes3tqxscsmu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

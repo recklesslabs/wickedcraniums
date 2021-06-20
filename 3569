@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3569",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibdpctbp73vi3b5zuvp6yo5g4e2pjc6m455y4ooqbquv2xsrqh5iq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

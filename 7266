@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7266",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2vg7v2f6jcdxzbudup4mvqvhzid7vajct3dyrxwnypdnctwdhui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

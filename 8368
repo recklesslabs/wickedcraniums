@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8368",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidyg4g6gk5m77zno4ufu73nni7y3tsyeozm4zofolj5g4jcbkv6zm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

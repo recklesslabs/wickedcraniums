@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10349",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreianpujzdytfrtlmj6vhhwledq7vkbmxrfv5hv6zronltgu4aaz67i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

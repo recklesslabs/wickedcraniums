@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5855",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbe7xnl3yob5v7224wak3vvojco4cya27kf2awaosmo7uvtwnmjq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

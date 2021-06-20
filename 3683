@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3683",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4c2do5uucy63i4a3urgvd3s3z5blntndczjoovpd7qngw4cs4oe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

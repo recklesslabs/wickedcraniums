@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10362",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifr5ljv3r4lsqh2nhvo5yjufhvel3icegrnfqae2cc5wewmpebsm4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

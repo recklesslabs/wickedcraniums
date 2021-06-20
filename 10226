@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10226",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaag4baugvnlthqt6dbhg6cbbarj2e2sgvuaposhppturxi7c2h5y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

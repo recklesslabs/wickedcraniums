@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4559",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidsouxbsehibhuovdk5roj5hsbnkn3zk6nbts2w6z5bmgmhkayfqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

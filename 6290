@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6290",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiepnb6owfv5hce4ashsbqh4gy4kluvrzrfhg4ok37ffipihuknzse.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

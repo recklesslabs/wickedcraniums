@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9036",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicy6owsqx5gyebjil4vm2m7f6xxh7keu44kriubjokpbdr4pzbwi4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

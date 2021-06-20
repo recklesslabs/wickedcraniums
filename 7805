@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7805",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigyjjzvzn6ukapifkdtxxpomekumy5uzlngy3m2erbk23lo6zviyu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

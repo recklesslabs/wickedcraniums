@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7463",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzhqn5awxecxkazps33q774jx6cznwaxmnaijh7edudc4ob76ybm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

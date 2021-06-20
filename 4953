@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4953",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiddcjeuig7ngbyvn6xf43xskw6ogiywixlddghdc7uwugihov2d4m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

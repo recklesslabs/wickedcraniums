@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7788",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreickf3y6wmb3hcgy6uzquzttqtmzfuaicvalga7engoh35tank5rwm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

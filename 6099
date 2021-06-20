@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6099",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiayjfglj66ju2wjcvwaficru5kmd4stkigrv5zbc7tfhi2rgf4q4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6522",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3vxog22pwauw34teeuw6ksg6x3o55iu5td3chnhfbg2izzasoou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

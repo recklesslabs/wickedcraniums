@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8678",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiec7pxkp34k4hme3bwuiftyu7vp46xrugymrwcg72a2oa7tkgc4ty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

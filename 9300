@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9300",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigl5lpiudtimm7hthrcdzfqtwxhwy57c3kpt43d5wiq76gncjamta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

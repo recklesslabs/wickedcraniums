@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7680",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigsllqi3z353nhlduhua56vqedlq72moplthp6ax4dcm7tungj3rq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

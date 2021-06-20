@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6517",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih55cmdnbbdah4jaxq6v6n7kxr5e3evnoihft3k4kbd563zmktdoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

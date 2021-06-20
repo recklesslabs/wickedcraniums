@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9490",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeif5wquw2huyjzors2gxte6u3zb4qfhtxjfntfvbknf5jgodxnm5zy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

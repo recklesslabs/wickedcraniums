@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3430",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaitd3rabuiizjxm76ot3konukfdjpvlvx4pfgncpmy4lmwy4oqtm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

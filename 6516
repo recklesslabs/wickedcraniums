@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6516",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihsoactm3a6wyabs7z2bthtthqguhhwk5yz7r5esrnbfovsx6ceky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

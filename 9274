@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9274",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtr3fo5f7i3jm5stsgzlyo2bri2bihqkw5cplxtald6y4h4ooqda.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

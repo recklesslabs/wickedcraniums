@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9442",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7z2lveoxiefvb4avdtqyez77zfodembtovog2uwozy7u4v274ga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

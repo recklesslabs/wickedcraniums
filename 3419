@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3419",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidrgfftlwfunigkx63gy5gjnnvhmfsz4kmr2t6dcgt5ja27nftrre.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

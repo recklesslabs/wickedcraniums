@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8281",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifznnygqogzys3zxbteg3dm4mpklswkq5soapfoeninkftrfhijqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

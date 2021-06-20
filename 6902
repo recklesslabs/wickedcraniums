@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6902",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiguyrn3wzav4rzl5j3jpjdib7tiinoqfdibgifd6vzluosxwfa3uy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

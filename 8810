@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8810",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiashnnsamu5pl3pl7nx6m7fejaescxlpmvkuiejx2bqrgefphow6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8713",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihdnky3ngqe5gmf3kn465qzwiwpaga7xbynuiw6svmvw2em734n6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

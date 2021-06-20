@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7547",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7nm6g65qmrezy7fium5ys2o5ds3befu2vi4gvz24kdlhx7anog4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9441",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicafkzwrk737jjcecbp35ws4cm4jfnr6qazxpculbiswfnt722ubm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

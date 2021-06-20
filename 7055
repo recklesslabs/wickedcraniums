@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7055",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreialydqa5iwgd25zicoufdegxcnowtxjv4komlr2vfs6umxv6q5w7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

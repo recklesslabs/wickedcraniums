@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6434",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihirkjajmddwp3xm2mpr56dkoj4sjtih2z6u5624f4gfyn4unar5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

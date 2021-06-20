@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5364",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigzie7w6j7uu2anqmlwyl5nggh3gxv7ptqfke5ecenujzmw3y5ib4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

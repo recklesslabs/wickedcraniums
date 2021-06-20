@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9019",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtwzbqxeprmhc26fdxvslwpedi3sfrqm37hwqnlafhofa27oq2ay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

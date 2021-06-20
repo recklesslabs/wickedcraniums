@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3544",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidxb737uynfvjwide7zeqiocwlwa437ofx3ollybdyrkdanoehvgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10063",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig2x4ifdosi6zyk6c4mfihe6mbqeudp2ajft3av5pldzfq3yolize.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

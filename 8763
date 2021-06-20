@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8763",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidgcvtvbaw2vot2prdsjxbf3di75n7u5476z7syahnvsfytnlfsh4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

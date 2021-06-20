@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3602",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjctuxsfxar4anujhrcptlxrowelqm6gfy22d7qmv4ihnvvxvsqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

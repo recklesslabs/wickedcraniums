@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7492",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaajtak76deh6wzyurwgcpo3cga6uvibazu74eqm2i2ha5rhups4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

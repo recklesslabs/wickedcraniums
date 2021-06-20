@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9731",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiazqsrobc4yz4e36liahkaz2gqb4x3ga3aznl6asx2nt4a5zvkbia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

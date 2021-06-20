@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7272",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicgwyfwzr6tu2e3davc5lfikqtifa3chnslbkh44lck7cvtoikdlq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

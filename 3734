@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3734",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3zk5jozqm6dfqone4cbnga7nhhyfei24ach2gbvvkiwwdyv4cwa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

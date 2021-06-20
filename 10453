@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10453",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeid5cgwgw2nuxpzrlwn7xio6qghi6y6ibb2fe2tpfixga2gdop5uf4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

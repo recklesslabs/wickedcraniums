@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6823",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiakkm2eit6znr26e5ax366dph7r7ugdnylt7mp5eyhxktgysr6usm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

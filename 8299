@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8299",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreietfbaowkm3asrrixsi2lkacu3zjdylidpiqzzlhcykvpjgmlmqny.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10325",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5jmo4csthwmr5xviowbuj5ma6d75bvvfwpncjh7vkc4bkzbnfya.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

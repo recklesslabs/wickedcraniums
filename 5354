@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5354",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid4o5xo7mffoq3f6qojubjpsocmoyowa5tuq73qmpcxt2w2ddxwja.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

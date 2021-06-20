@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8007",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibhw7l447u7nxjn5n6j4urkbudvvxycfu2hpcajq56ysyuo3v2vqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

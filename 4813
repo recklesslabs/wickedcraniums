@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4813",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih4qzl3opemzgvm2pkk2elmfwqhvkjlns23wqxrrp3jkmknh2k7zy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

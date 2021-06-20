@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3595",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidaf7iu6saa5lrlcdwp5lo4qadbloulovsu62dqugp7kz7mkna3sq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

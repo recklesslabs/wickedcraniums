@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9470",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihe6qh43bwfqwiirac35ftzbytjwywjeiuo46dfcixubdnlz6wqee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8377",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif4vxmfpgtydqs5ls6zgack667lutgrjufzvijhczty5dqs4a7bla.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

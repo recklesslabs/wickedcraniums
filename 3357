@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3357",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigz44wlhe5hgh6zubcwbnxnqadvfmqplax7j44uwm6wnofcrqi7sm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

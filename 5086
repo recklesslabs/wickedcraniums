@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5086",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihe2tzgjuycl4yijeipjqka7rgafhlo64zj3ksc7c6n6h7vlgyed4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

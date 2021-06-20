@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8841",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidj4do6zw4anj3ozzwlyvd7rdvl3df26fnikpgf7d2qxo75whkxku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

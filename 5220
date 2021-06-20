@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5220",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihpi7rhrso5oe4k2prcxdwrvotkjv6tss5dxp3fjsbovrj3fcgsmm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

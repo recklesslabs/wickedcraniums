@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7249",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiazryitz4ffd63mbmq2otxvlmobuih4aggzt7qu6oiwbljforuns4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

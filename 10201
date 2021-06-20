@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10201",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffamxuetok4gzaa2se3tvrndlgceqyj2y2ebotda6wkbxt7i76ra.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3971",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbktijxisqxkv3ybznkk3yjeontzuc7mxz7nqzdvy5rq2jkbpr7a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

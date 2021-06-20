@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9416",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidd2godqznavfbwham7xe3egctkm3qodkstnupnoqejtzzu3fskla.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

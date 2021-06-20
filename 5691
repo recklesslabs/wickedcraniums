@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5691",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielset5p3xrpm2tnjslcukifwi2syv2zw6oq4qdozifckpt5m2yoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

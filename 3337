@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3337",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzdqajch2fvbes2mnkq7cp7rv6fe7hdm6cy5s3ippqbbiqzvd3de.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

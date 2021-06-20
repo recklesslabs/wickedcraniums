@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9808",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidbzh6akgtleli7cn2bidhjghogc42estb5xfh4z4oa5qwlgg4wke.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

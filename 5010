@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5010",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie6ejtstmj5uhlnmrss2bkrd5q7dh7br4akzgttawzidmqyvqdoym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

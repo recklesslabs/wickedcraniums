@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9421",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7zvhwtb4jmhq4qladcgbi5li4u6iv45hub7ruz3ca2vqpjn36p4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

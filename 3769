@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3769",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig66y63oamut4qvra6abn5yrl5yq3rctc7x3gzinokuliq2fjtqxi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

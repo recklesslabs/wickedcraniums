@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6597",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6yqcbivdkpl6x3poz4rl72ynao3yajdoa2fjlf7qn5xwuul6qym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

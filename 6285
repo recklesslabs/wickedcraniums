@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6285",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiakpf7dmt4ydwunwjvlzexfekeel4ssr3np2zobncxz5do2drlnk4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

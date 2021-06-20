@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9815",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiggrfm55slhjua6r3c2ae432s4rig2pul3dffzyeww6o4pvaaahdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

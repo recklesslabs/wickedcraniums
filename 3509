@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3509",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibntziqkfeap4nw3ujdlauyf6t7zuzjnnfz6sykmbujy4x6usyelq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3714",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieuk57cesch4kd2n4vf52dtewye4llwvmle2czig6y5lvzj73s4ae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5255",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeift5enwcu7byqbqnfdikwjmredpsoqg7hmo4x66aawvgby6kjkxua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10507",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifeet5t342www3lqohc45qompyfcjenpqp2mktygzgypt6zybvyvm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

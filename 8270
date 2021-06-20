@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8270",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreick5n7zg5vu6qo2c2s2jg4ixwgtzdtkhvovcic42d45kazqz32p5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

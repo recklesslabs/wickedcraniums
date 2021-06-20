@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7663",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmnl5uad3hah5sxigkz4wmou2o3dixgfpshnfrnpnlbarechhqxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

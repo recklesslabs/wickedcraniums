@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3311",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiazmw7x562neiqkb66doxbnu7xeshpuxdcxlssotgt3tjnis2cetu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

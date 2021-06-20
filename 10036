@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10036",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidfcswdgrnkepnpy4fkunarmbvu2dylehwtl323bxukaqrdbuqebe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

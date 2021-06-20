@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6807",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiapi36whj47uqzowgna4thgjid4lldgqwhvqhp67qhxqkbfj7h46i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

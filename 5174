@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5174",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqu5kxpe7hujf6ueorppuygzbahvddxpat6saxznoqnpijvti2ku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

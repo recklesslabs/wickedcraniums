@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10321",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihaxe2utynettqrpseoxki5qdw4chdg5npr244wgwmg6ighsn7rhi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

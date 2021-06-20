@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3882",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2lhta47f76l55i4mpcguv6fceqfzphrngw4laczyms3qp36bmje.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9071",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiav7yrqchyba5hppelohkqpoyocxe6jtuwfc46wnfuoqbvuqfgqmi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

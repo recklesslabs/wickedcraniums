@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8175",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieylrirhok7sk65drwciyahb7isjkjwq4fhzz57nwoyorp2hqv444.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

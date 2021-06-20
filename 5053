@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5053",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibap4yogvinfoob5ckhd3jrbatebnvr7vk62xm7kd4sgs4glembny.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5205",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiex2hfi4xqvcxo6mfhzjdh266oqd3rdtl7hsa4zc66qzipvex4wvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

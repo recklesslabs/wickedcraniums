@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3314",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdwh2jhdossyzkw7e4due3f6r6cpmh3oz5aef3mzrzpgzzqivswy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8459",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7u762asfuuuorl6njlygt6uzrovz7367s7wv3w24b6v5suo5twy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

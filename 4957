@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4957",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib3lv2cyf4vij7let4bn76cz65ednwdfpnovbco5fhxlmjm4bgb6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

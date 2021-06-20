@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6158",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif4ijvfwiyhgcgfjgytfd6bswumikc4276l66jucuqgsy5o75duzi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

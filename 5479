@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5479",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreico777uqqpm74rpblesn5flowvvugubzmnqzsxkqgttpdkjp5o2si.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

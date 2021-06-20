@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6479",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqefg2z5u73ht36xb3dk4lideqqw7v7hqx7o5yrstw6ykebwerpu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7159",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreietgwd6ul7bohgyzjkxh7qjb2wcwtfbehqilmj3h2mhzw3gckesmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

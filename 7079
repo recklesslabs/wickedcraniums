@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7079",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibftbd2vi5bir62b5i5yfhzfq3xsmxtw2at44yaf5duulo6p67dsa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

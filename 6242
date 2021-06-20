@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6242",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihu6zlqytflodfyrhxcpxiqmitcyx64e3l67hz3uvjnlm6sw7p3xy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

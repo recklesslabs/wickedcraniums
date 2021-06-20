@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9709",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifiptmzmfidrx2pga3kw5syneki5uwoxde3sbvohjgxqnzftmc5qy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

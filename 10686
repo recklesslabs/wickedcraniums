@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10686",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahyg35wxm5upstqxcctws6au6l7j63lln476t2caa4fpyargbr5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

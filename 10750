@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10750",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaq3ywhfeb7fof5dk5rugutsbtmi5dr3gdwvzziwm2eo2zqih2l2m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

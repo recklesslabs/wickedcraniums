@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10568",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiapcfx4ap35k4dsqqhbg4tp7gn5vrpi6kwspygwgxnhxrv3gdzkwm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

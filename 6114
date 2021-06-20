@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6114",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiep4enwldkkap6mlt43hcwyfmkhcq7pcteqag3g5nbem2qvjuotwi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

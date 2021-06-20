@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8983",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicf4ux3grzgwm7c7chxc577nqq4m5nnpdm6tzmntpjpkqxdbzesbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

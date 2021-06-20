@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5165",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibgjyyqub5qshjwqrqpwxx2ryk534nixhgthxdow7ipadzxr3io2i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

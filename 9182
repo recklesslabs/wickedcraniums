@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9182",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5kcc3no644i4vhhy3ocvktbxv3xu2ehmsvoj4rksaaezrbzer2u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10141",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5ehzhfsenr34mvuh42tol4qwoolmtlxcto3a5ysjzgwz3b4ejma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

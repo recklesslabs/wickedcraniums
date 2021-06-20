@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6303",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibvk2uchvatmqczmx37csotiklodpzqtbp52ev5wssamsrfvzmzoi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

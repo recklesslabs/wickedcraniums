@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6014",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiekzofmjlvfhfhc6vumb6e7l3uadomu5xlc5r6pote5ntckkv5d3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4700",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreialeo2t6arwuobsvboi5na6u2m7vyofuor6hbtceduf32tmnug7za.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

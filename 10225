@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10225",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiejxmukkrbgmenz2p7icydpiiukbqd3v7h2cjlncdi2gkncvyxkoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

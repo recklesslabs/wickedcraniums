@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8705",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigusa42zulllgaunuruk6htry6bzledgaoalkkih4ny4wyx6h3l2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

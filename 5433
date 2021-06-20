@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5433",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieqqjto74bhvt2u2mc3polhhrbb5cwmapofo625d63j6xh6xn52m4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

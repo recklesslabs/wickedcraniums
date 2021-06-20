@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5891",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlav3op3raabxwpcfxrugwi2ksnsnjjh6sbury3ff7hzp2x6f3w4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

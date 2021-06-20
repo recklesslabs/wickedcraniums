@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6071",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia36jofnhcj7pnhf5kdlmp2pyvywgpvlwah4el7yq3dzn2xf7jxlu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

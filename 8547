@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8547",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibja6wbqruhmuzuiwjb4yqrezjktttrt76kalddfen6bdlk2zb4nu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

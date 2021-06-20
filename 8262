@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8262",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicft6x3a55zgjysv6udfhjrcyuf52emhh766dmyim44ocdq2l6rzm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

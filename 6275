@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6275",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifernelsk3udo77q5ykphv7masxsia5g544h6hiytbxwgw2urtbiq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

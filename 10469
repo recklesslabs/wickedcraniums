@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10469",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihyj5tgwsjk2ag4hdef44a6nm6pqhkmclqehrupylbfvnboynx7fu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

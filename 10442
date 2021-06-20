@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10442",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie3ozmpf7ryhvbr5tipquhu7lydcrfi2spg6ih3e4pbfkzseybf5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6300",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihvx4t2rgk5fbfc3lohurcybzfxx7td3ctne3oh43gkj6weqo4qwa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

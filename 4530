@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4530",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicmtata7gavyueoe2lmaed4frkfbr7u76cyqqi5jkcgl4gkeecfyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

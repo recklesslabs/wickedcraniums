@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10461",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiczzdrocjxvsog6idn3vhre75vwfzz3iepe4qryu6uvvwswu33yse.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

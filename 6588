@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6588",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibx4osenh6vfaqn5gmiwoiv4qzi5ev57mbo262zvovjod7vej5fqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

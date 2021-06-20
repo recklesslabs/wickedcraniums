@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9822",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic6ki2gltsfz2n3skofqrovgxj4wdjsxsjpn7lkway3u5ss5wl6yu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

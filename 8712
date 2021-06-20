@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8712",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihsaoqegbkr2ddbh24we2fwfcxtg7bsg7lqrezzni7e4jxfbgmfla.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

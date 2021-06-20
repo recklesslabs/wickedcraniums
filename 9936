@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9936",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaaq447k47qa4g7v7esuj7my7plrxnuqx3xiggocnh2d2yhdfjd7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

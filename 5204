@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5204",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigopoxnst3dk3qthcqwvlxaviwytglmr65y2ujpu243icz2g4jrgi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

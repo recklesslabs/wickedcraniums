@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5631",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibtisxa5v7f5ccgv7e3peedeb54nuoawgyts3ob7y6q44r3tumkvm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

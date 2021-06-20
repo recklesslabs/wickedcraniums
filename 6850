@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6850",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieshw2kf5bec7q6dne4fawxcsy6jy4hdec5i6nkjz3tuj3cjjpdtm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

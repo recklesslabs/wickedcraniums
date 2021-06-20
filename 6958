@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6958",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifmcxmvhnzcn4qxaz3mzmcmfx7sr6rrnqx6nqto6mdb6glwcphxry.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

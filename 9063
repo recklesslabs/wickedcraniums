@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9063",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig2h2cnwm3nmy4f36lzl5rtxzqfncsgsu2vyeydpl4g4kfqtwlhta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10231",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtpo7zwkedxb3h3udupvlwl5caa3jh3s56i4gbzhuqnxajjtstam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

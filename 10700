@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10700",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihl75wc6m67elfau3fho656xscy55vzugvpzxbtsyuk5j4tcyw3ui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

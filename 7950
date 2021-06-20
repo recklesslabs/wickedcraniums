@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7950",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielpgxc4gjxgylxo73q5xoj3hilcyhzwrjnx7rowwqvtvu27g3v5e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

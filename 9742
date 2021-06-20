@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9742",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieijvzc7se3tyi2lhggy7yoisz57les63pszrfzepoxvgvz25q3ky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

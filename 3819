@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3819",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibfaxn464iz5y3rpefbsppbzel4elseun66533s3h27cmwrfclcgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

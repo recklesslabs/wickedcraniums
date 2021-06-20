@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5044",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicsziufzfld5cshhggjnmlazfew5zlsatykaoyhnmzqbac5zpqpue.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

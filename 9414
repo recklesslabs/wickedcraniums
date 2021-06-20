@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9414",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5n5b6ell56aq7ujwnjxnas2dodvrmdzlbr2nmlscz2sdv7jb7oa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

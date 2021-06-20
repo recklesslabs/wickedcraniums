@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5505",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih6t2jlilppox6llnji6fh4a6aavkxqhfqyjsmvanz2wwo7qcei5y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

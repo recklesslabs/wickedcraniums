@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9487",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibsy6ft35ps6ogjvj5u6pwi6354fy72l3fi4xmeicengio6skgv3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

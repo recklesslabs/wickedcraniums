@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8553",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifino3vfvfkp36m2scstdhcgp3s7ujdzsjo5yt2gkmbfzea2b33re.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

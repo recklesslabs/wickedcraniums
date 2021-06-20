@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7008",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib2iqlrq3whkon6hwpgm5hrnjt6kh7td4fs5mgvvhttji6we7u754.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

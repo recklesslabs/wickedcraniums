@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7623",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiemsfl5zcezuqnu7xev2rjkht2jg6bza6c4d7d7igusafne7zk4by.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4601",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicadkywm36v3vh2arq2cphne5obg5r7p37wssnrrtjzei2ysgys7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

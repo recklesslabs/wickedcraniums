@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10552",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigy47rmg5unkhdwqf7bkxyxexio4thy6ryr5bbgrsi4f5amgble74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

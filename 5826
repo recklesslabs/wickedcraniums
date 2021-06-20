@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5826",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibaub4wvvmpywgobnnygsdi6jd5mgloknkazlhwae65f7vappobeu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

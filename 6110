@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6110",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidu2qkfvviwspjbve5pdapt2c6q47o6psgtqfqdefk5iiumkqxd6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10590",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigij63amqvzk5nuodbmixfsbombwsiza6v33w2kp43j5t7da66i2i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

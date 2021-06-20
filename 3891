@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3891",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib4ix2dnaynnlra3zecjijcmfn4iqwn6e7lge2uloklnnoswfqple.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

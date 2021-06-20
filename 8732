@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8732",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidodd7xplfelcvv22yvz746nse6dyshi5idtfkk6x7a6jxo3chwkq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

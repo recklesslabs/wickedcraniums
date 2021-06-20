@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6668",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicimwwqrcs7gfh6crprgkn56hogoatitlqgi7z7li2bsrv6jjzkbq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

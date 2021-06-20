@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7397",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicj5b6p2funqifhzxfhuv7f6lrqsbdfrpsfug7cce3i3pg5mdn7je.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

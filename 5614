@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5614",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiedcttvhvos3t2vr5knfzdsqz47p66ejp27mglddnkftjn2cbvj2u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

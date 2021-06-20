@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9771",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigpcuni3bh4fswbd344ukfautkxkex6bei2te6bmc7jtvw37ekh74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

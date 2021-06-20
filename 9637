@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9637",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7vloro4liue6skiox2sujnpmwmvgnvcy3drz7r7pc26k53bnsmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

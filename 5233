@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5233",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibnoeyzfggz7qrm6kckovpcqmsqngfmbzjpdv2yzngsprz47ixnwe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

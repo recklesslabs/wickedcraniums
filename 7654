@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7654",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiekkgm6p6hwpy5fr6b7jyhnrzvksmgfcqdobkt3z7savayncab63m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SaintClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

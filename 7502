@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7502",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreify4meuj4rqdik7uskabd23i4b35ubgzspkg7zy7gjmjsrwmt6xxq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

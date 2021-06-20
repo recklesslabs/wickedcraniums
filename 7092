@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7092",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiewbp4d27u5tbwvrnvs46mrlbuuuaa2u7b3zlzygz2v5v2cvkun54.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

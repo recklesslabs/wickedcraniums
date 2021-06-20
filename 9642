@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9642",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihdr2vcdcdsyvgjeysnxlqx6wilqqcke6gbnedcnx3c24kb43opgi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

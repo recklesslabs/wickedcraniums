@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3803",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifx7n52ondbrp4w3qvy3vvsj4x7tnjif3z5qviiegfgykgqsegvqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6133",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid5735f6y2ennjdcjbmxrhntwekh542s2l2km2nqcv7gtfzqpvj2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9053",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibufldkjkbzxklywirtwfrz7xc4x7zt7c4ucwkdtepnwapqylh6nq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

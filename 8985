@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8985",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib2poqjqapeiz2lfpj44tqdtckcml53dhrmbhegqjqn4dprknlaha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

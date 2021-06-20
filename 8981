@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8981",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib2z6ayqazwkzvm3qiafiehwrn2f3u3udvhgullaiscodjfwulom4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8629",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmw5mpspk745mwjposxoe3utqp4ujllfys4dt4ew75q7yxppxhsi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

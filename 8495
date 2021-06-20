@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8495",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiho7ytvezfimvgwtvtlfune7xxi5fk3vcjrsxlfxts2lkhp5aocuy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

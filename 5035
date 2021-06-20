@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5035",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehjopk6txxl5gn2wfem2i7yoxdxka4rmk75n6xu2f4kq5w7ol274.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

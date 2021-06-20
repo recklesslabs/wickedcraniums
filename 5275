@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5275",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieqh3krhzdnv2cifm25rz34nwwffarfe5oxlpzuarrxrsi7u4jztq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

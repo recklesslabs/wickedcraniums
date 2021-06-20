@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6575",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiech25z56zng2wxaguklsd734qubh5rqs5kvj2fa5q34auym4zbma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

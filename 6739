@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6739",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigabjdbx6jkbef4ilq7e4urwwnex7nbwa5cj5rhdr735ifj6wvioi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

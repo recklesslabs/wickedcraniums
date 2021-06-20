@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8062",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidr3uaew6hzweovambqx6clqieh7tahqpqpvmoftka253yws4n4sa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

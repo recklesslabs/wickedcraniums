@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3637",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicsyb5hxz42edd2ki7yzvk7jvj5hf7k6lxwel6vs27vro6cxbozem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

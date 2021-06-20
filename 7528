@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7528",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibdmojv7k4qhfyas7ezq6asafw3xnuxkbp4oxeaz5abr64dex4c2u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

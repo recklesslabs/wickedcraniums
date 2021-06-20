@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10409",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7ev6kxo7gcvotjc6nusbwvkbnxkakus7t6t2tk7ahutyicdijc4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

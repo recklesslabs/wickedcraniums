@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7430",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreianqlobideeglsa7twgafrzzycora5vx7ovsernxjqaqspclzxe3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

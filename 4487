@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4487",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5c6wu3xnddko4nrdrv22jc2jqn5djry5jvvpii7lcrbmswzewnm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

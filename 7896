@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7896",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreica4ipjwvy2yy4ib4b7iubdp2w3tap34ygon2wkjahkjtthxefsyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3305",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifx4cobmkceqgej4tbv7tizlryjwkxt7rurbd7af4oxkrfoyyqani.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

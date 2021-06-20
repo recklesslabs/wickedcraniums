@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5246",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3isf4rckpfqlvlhsnjuika2stj5zdhps6mbxvt7uobivnhv6lxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

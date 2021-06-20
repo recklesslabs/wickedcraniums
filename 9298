@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9298",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicsbdbfspur4mo2zk3n57mcq6aoc2wq7kdlxaytggn4bplrjx76f4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

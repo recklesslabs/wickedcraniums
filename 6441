@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6441",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic56v2knpc6tpzcyyxk2mqipmgssb73owvqpu2owsuphiphvx6sqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

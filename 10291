@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10291",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibrpbqdpt2vttlf25ujrwishyhdzy7cxi5s553yp7syd2z2xfnlae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

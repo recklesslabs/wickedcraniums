@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6866",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidgq2coyqyeedf2vd3uhubuosrkxw66ihmmfaojiyyp637zi3estu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

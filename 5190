@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5190",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihkx6fkizsjbprvakcimhk56qhfyoy62mx4vta7isjzqnvcywbxg4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

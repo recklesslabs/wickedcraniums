@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8518",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigoyd3rwmqzbskaatqa3q7llpk63re25yhdbj4e77p7q7pntzulue.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

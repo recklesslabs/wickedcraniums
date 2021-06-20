@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5123",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaq474wpwo5b4iimq74znidbm5fjpgqgh6y6y3jdfmfgcl5rocime.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

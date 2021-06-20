@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10444",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihvwpfckikqk4oiz3q2rc3uayjenzo7gk7w7xh4lwt3eu7hnzzjlm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

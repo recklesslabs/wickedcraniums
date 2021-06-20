@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8709",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7ggextjs636kubtroh7hzqqguc7eyw4mc27lwqebathwrvp2qpm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

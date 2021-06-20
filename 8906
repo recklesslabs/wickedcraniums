@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8906",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicrviztibf4y7ko6hnu62loocndck26nhhiy5dgwvf6qlmuyactl4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

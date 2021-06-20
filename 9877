@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9877",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiann57onz6kpk5cm2ym2mcnlkfpsmloyfspyfwk32txuu6kfbpl2u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana"
+    }
+  ]
+}

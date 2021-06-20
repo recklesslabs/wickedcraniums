@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8266",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibs227ohwmj22okimxf72fdubnwju5b3c4cvns65vvkeyb5qstl4e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

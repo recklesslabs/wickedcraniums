@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7766",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicb5c3cpducddc7m5rq2cna4fssgbtmlunjurpgardxrbzcnm7kam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

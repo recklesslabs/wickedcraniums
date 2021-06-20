@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8482",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibqohhgpfs5n6adnud7ahi324e3zrncrajrfln4qedzugochx4fdq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

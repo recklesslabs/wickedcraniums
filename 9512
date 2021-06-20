@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9512",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih4whj4vkjnfjwceugcda6wznvcidhlcgyibuyajgckfflrmzz37e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

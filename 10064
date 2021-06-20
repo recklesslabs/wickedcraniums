@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10064",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih57c2gss2b2g7lddt6zuf5f2kulcl2sbj22yragoh2awr6kazzfm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

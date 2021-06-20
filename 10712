@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10712",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicz3b32bcd2avy4pdlqp6lsjhzzr6gnahuvviq7wawhe2m2wo4bci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

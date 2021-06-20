@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5224",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibkvpihdyon7gcalfn3qpgzepxwdpkjlnxur7ft62b3hv5ru5kuxm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

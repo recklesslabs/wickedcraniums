@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9825",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7fhdkbjygjgeekzbii5t255hg65isz3l6gmgrn3y7cy4j6daiga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

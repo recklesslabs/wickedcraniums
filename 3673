@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3673",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicsft4tdv7mwtqpvxxn4lc57ktr7tbuezymwqj6twpuxw3aah73eu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

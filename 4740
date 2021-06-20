@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4740",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib464h2rzcpglycnexozzhf5wsk2wwz42sdlb6zwvbqpohrkg4ymm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

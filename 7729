@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7729",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibjpjflzuubcmwgqni45myyaygprtschylzn4hh6hkd53gkp5i3ja.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

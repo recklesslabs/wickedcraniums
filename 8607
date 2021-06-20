@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8607",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieoeg4tm5uvfgqeqgq2ot36keyevpy6eeroh2fh2obt7unwifq5rm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

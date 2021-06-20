@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6192",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidxnm6nzdbxggfkzb6uxxk2rspubrwoniarpkmtasc2jixzxtspvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

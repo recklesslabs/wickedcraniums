@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9498",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifke432ruy4l3wmkkbv6a6dqfh4kiatqlpzezh6re5r5cr6a3jczi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

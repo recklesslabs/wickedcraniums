@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9559",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieljfgfgtbh2rgtwmjutiknlp6dzmsz4vglqsnvgkvxtrdxt52br4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

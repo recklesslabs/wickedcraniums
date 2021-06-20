@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6197",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeieryyskmvs4p7ggn3jbeaevvrwj3hku75bmijmiwdhbzhvrfyzpyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

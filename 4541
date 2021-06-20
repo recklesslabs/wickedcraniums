@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4541",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihrl53lcewz2lht6rjads2jvuwqt67hz5rnep2377tzg2batl4k4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

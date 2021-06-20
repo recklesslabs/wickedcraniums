@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6512",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicgpetixqbu2p643xj2mplhej4eabft5slflbmxbhovdtlyupepqu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

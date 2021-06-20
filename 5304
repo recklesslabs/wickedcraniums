@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5304",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiap4wb6gli2k6w6pz2gqz3ianvyndc2cwjvgdf567zy4wq22q6nri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5046",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnqplu2htigdhnh6tzkczypoffpix3dypz6ocwbwdexya4k7ugwy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

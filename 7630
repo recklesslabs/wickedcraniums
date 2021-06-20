@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7630",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihpy6okcih6jectzpjcmmutwy5kuihkp4isxdez6gmweqyz6m7eha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

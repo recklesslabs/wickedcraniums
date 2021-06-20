@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5564",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifltjpzsorge3w7x4rnxnaml76mhenwr57blxmpomlbgl3cz67oyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

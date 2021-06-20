@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8598",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihuggk3b46dnqgvzqpolzvatxzqjxbmawv4rzxfji5wec7rwz6w54.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

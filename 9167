@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9167",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibra3yhgmlpulpgg43yssk6oglwdsdn3l4ihblbzaccqw5ywdxqdq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

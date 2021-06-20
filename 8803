@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8803",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihfbe6qnokle4omlzh4dh53otkrzuimf6g67axd3jcgyhenggjovq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3294",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiep6eax4fetguukfzd2yuoprxabulxgkrcbxk32hmn7cwa3axgynm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

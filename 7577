@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7577",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiego2mj32fjbp4ql2ldatkc4rbmcphiwimjpsdxxtu22rfvxny34e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

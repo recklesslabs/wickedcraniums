@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8375",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihkboldc2r2mxf7muqlg4tpoz5evrxa3l7kq4z4laapfn3idzkxlm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

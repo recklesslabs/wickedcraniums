@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7377",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib5h5dlcrxxedazzrjw3xmwnpgemf44c6o3jcn35wpacrewt44u4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

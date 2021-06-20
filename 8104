@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8104",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibyacso7vo36yi42oaskvub63jlncaj47bsq746xjhax2rrffa3ze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

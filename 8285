@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8285",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieokcxwistu7laiw4vogntznrk6ubrzqeadpq3k7inlx7kdw3ff5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3313",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibrnqcjdoeb55pphtqog3g2ysqk4vujmdttle2uggauv5rzdi7ose.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

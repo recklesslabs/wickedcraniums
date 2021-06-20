@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8478",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdjtjqzazqyki4ptja3kwpybn2srhgn2clsczk5kx2el2ehmgvhi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

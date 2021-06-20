@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5407",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4ircmzpverahe2ulugmaiuhctfe7muwyj6s5lziebcxzrt3flkm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

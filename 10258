@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10258",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigoqq2meaq7vswn5lozqo2wodsjt5a3cbr2xizddrk5fdqhh6golq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

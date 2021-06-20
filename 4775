@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4775",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig53kj3bsecvbhvmh2yoxmsqlnnflkh5lp5fxjsksrkd7hbjbcwzq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

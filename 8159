@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8159",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtbv2kkl2te7bs5no6hgeamqbiqysnrbkkbh2et4kxhmcerxmbfe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

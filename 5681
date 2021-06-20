@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5681",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifi526nl4fiie46nwtljedmr7fqafqvyx2zhhs26absr4qtb6edr4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8394",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtgvtp6pojypuez2xecgw4u3vk2i53g5tadovzuohqp4uqfckflm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

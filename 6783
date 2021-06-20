@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6783",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia653gayuo6grwwn2r35hx4oopylprb3ve7k365ulpr772jsuwfsy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

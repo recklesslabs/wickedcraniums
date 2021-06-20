@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9807",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie2vdzjwa6b7yk5bwhhy5cmeo2u34oecz6gschicl4jats2tqstfm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

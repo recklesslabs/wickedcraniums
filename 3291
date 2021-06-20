@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3291",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifuirufksg4mmb2twvsmfs5bovoi7bymbxc3wg5zcrgxj47ap2o4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

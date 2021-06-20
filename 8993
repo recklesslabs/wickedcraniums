@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8993",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiaezxcmla3q27d7mmpixoccngitp7ftfihxnepqccemii2omakxii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

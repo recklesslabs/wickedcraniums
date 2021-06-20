@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3554",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiejph7lbfzyfvbkmtwqs4tefsm543gqc4jiysmjau72gxaeymc3bi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

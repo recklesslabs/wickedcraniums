@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10605",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvvwmsuuwwsb5pcfnp3dvjapncskees6c72wfvkrv7bjqnt6dufy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

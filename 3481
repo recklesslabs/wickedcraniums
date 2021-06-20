@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3481",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibf3ffaiwa7yack4nwkv4mpgzrantvtaccfra45aj2nwgbnczkq2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

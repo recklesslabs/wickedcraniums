@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5344",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif6fbvmwdb6ql6hbp6h6beyp3jerne5n74xjnanxezya3apsyfvaq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

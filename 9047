@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9047",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigatw7ddpiigtefdzah3iu57q2s7myitttlwimqhzxymeycwbdwtm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

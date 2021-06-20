@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9589",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihw2wiqlowzcvo73qq2csepkvmjrlkew6lppmfjcrpivhy2cuz4ta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

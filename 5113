@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5113",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeie4ztzqwdrjbaajhmw7tlsy7htbj45y5j5aotxp463xuogn3olelm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

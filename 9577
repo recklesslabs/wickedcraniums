@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9577",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifka2lu2bf52e5suy6ziwspvdzeiazp6uuqb4frrjd44yituztx5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

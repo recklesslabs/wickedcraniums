@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3428",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihxmxrwlp6jza5qj3kdbu746su53twcmtnuex3vshqy2wwsuwbpqu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

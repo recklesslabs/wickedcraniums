@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7142",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie64b7zuwf5xseyznwqutmcyafclrur7kypc5oodajtkbvwme3osm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

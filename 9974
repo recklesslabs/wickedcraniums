@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9974",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieozf2ej7msqp74ti2uj4vzwl4uh7f7qd76ul5yfmpniwqaxmxzam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

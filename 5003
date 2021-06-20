@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5003",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3chpcvedowbfm7pgtari4zr76rph4mcl5daie6mjugiutv7i44i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

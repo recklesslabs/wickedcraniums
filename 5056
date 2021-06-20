@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5056",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiea7hd5mcfcywaos34feo5haywfkozpsynbkvthvgog2tgutyo7ta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

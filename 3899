@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3899",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidpaoihomxakimm3yz7u6dddbc452wu62bmx5zx7lillky5sv53me.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

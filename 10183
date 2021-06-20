@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10183",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibrorl6ko4bdjtrxqpz55esppfxjqkp3mzr54xvc3lcd7rzc2lk7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

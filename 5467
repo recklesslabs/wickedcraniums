@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5467",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiamy7pqaufgfrqvrahvhrydtrjinzihjm4znmcxmc25u67mlhdtzu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

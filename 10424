@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10424",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihxa7llg6kz74azmgv5gogqclf3egdeos47gizevc7rd2set7ypty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

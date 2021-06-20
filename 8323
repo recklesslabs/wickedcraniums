@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8323",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifo2zy4wknqg55pek4x7xdeesme6ogep3yyvgnrbxsuatcsp5qujq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

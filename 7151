@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7151",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiar7cqrirafuxttxlrbfsgolttmhsjgley7q2gsqyvjicgivxmnwi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3862",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig3zpwes344sayb6f2oqskkuefiununz66ji6p2coaxkf5ccuqt7a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

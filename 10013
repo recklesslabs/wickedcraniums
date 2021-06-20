@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10013",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeih4nauyxbab5qdg4kcnerz4qfxhu43go2e2g4kiahzsnhl6m2qciy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

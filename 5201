@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5201",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaoisge7zesrtgu7zpdtjadm2y3gul274m4aum6t2j33epo7a2u4i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

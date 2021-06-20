@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6297",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtd4ctxj4zdwhcay4hacajgo3sojdojitfjsbfnt3v3v7afdhdmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

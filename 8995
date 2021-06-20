@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8995",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihh4mfcfxyfbhvkyj52rfvuhp6shk6bcsluevrfooav5d7shjhmgi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

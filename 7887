@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7887",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiawqkyqyig25lxv5ohrs6e3xnjxoo4tgplyjhlyyurnpdrf4sacdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9569",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiene44nhyeao3thn3jzq5jxlm6bmy7kdkmtwlqh27otem5lcxbbcy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

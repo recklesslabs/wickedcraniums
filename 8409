@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8409",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib22pgtijcne5smlx52dvrlpjvs4cdf7aorxatfseec3747eqb6ly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

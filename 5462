@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5462",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifatl5tiittbfnpssppvv5v3ci2qrzorgvdv5m2xcoumhssywzr4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

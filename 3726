@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3726",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffgqokvr2uwl4qdz4fwowlls4hq47bl33oeug5gsokhmbvipftua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6307",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiezkz5z64msoxp7l3y66uj6wfqfztlr6wxpibj7gnisoa5xva72tm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9394",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibsbeyvlzrrbyhx254axcvyt6qshkyy3wk34td4uc5l3nbkesyckq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

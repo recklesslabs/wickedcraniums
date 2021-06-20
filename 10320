@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10320",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicprzack2aauel536lmbkpcbsd6pu5dylpa5engps5af36edlzusm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

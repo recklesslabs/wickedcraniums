@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6916",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibd5xbabpr77qh23inbvxzirygh3yr4qbwdybr47bafk45pqxuipi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

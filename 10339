@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10339",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3p6lveeubdpvq5c4kkobzzb74pdblzboedsrfj3gbq4r7zwjnjm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

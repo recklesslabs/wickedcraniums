@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8936",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihjib44eet6lg6osa7twtscjsx2bwegmys7a2pkw45am5hwof6pli.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

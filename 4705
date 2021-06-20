@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4705",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie3e4imrcjllybgigppidk67dr7ma52vqsyntah2z2ue62nq34idm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

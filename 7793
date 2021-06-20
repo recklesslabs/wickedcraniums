@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7793",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie3vziegg2pb6s66usvph7y3unxcnzax2ktemejvnpd574j5mw2ia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

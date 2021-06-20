@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8485",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeice4llbcdbwt5jrsxv5ih535s3w6hfow6hh46jams43amvy7557ky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

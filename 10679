@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10679",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidyl6viuhxogac5rgjugjqx7xelt4nxw7wl3y25uc4s6rkloba5tu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

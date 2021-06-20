@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7611",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibodwgf32bysn7l3omcuii6wg6xcrckqs6cgmlwf2k4okd26r4rqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

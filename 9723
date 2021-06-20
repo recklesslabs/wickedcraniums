@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9723",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdcjnutv66r3thw6io2ekl5q6x3v2y6omqfubxw6cdnuryhq3kye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8431",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaivpbk4nhykopydkvoa2a3zni2r3bhbrukpguksaczf5l6rhftcy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

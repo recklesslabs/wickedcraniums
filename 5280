@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5280",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigae4lyv3wjhrcwybbknvr567jm3jkszdelnzdjzffpt26efkfije.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

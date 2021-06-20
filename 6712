@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6712",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigvicu6mqhxgfcpvb5upnm73245dvlkt3nu4prhia3eaam4eamplu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

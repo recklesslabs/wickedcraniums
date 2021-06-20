@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5632",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehlwxmypgdf3xvv2ssvxpq6u573egzqotsl3k2bmtbh7w4wgfcwu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

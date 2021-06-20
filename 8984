@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8984",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicydkr3o3jqjd3vupgjxjcd6t4cbmxjuftqp2qnkk53w3ufcof5im.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

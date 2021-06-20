@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6442",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihc7zdhih2tlxfyct3bmpwnd2zw4g2kyvbh46ojpqnpyxmomrieve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

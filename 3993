@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3993",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiglngg7xifsfwvehb2le26phrnvkbi43eqwoltbbyvsm2dmh5v6xu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

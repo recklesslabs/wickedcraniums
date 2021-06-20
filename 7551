@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7551",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihzp4yq23myzu2z47ifovi4b6koofgk4q7hviokcuolcdyfohxo44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

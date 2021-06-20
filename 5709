@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5709",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibccsok3fp2ybttrik3ak2miud3v2h6ljlg3272zjify4kua7abzy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

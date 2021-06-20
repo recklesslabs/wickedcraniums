@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7027",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiaxk3qpebdlwbwrm7msravg6cdpbudmfpw7w4mv5kk5srw6o3tyey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

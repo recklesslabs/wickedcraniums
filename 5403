@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5403",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihm2ojrpsra32ygf7jas3d27b7hd2otecdzm2lcvwaf2ybpjgifjy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

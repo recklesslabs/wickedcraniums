@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8776",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiezk7hbinuxle767n5kxm664e34i2pwzvxycjep4tfd2z3dpyqeq4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4121",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqksj7uthslvgri2sfnf37vq7sjhuhoq5yrsqrgdautjwqjwdnmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

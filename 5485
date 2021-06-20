@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5485",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihybbyarezzkmsgk5zem3n427njfv7urr6arzfm3se7nhdsradc5m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

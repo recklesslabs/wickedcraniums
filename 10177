@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10177",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib3qe4np2pus7flgui4wazawclklp5o7rrtrng7pbx4dvvj7vdvoy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

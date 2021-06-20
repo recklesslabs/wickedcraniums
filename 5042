@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5042",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihl5n7q3qxsv6uqkkp2c3dc2hvg2tudn4qrhl7onj3hwvlex5mjcq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

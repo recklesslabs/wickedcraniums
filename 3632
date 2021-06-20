@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3632",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib2hejwmcquv3smffwhff6nc4x3q2znwplvsgkp26fgvpgl7wu6di.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

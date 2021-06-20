@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10277",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifffztffcj4plkooni5f4pnnnezt4vr2cltlvylwec65r6qwfwsiy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

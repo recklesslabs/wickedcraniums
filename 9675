@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9675",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifbt7snnon3n6zsk5i6j5n36pmtvfw7qxdgmel5lhqrmn5gb3ab5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

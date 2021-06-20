@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6883",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigfdkr46ermpqz6pvdgi2n6qikylpr6kwe7yh5t4pufktqtxqdc5m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

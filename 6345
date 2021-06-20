@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6345",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihejcibgufto6cx32rgwbas5aty4ijyuxvubyce2v4qzdvwgh54v4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

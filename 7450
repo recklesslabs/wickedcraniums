@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7450",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicinfjqoeljhry4rh5m42h23enj2bgrtayfqh7vfu6gzrfu7equ4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9728",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaxrm2mqwxvsukjabg47effqmzwlvpxuyad7fe4jtx3xx3dkv3zuy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

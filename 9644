@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9644",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie23sfhziatb5s3p5au6y7dk3idali4dkealzac6imwxid7jzeude.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

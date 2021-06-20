@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7951",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif4fqnyox5y7f7lwak4egefpqlfs456d2ijvplj3bxr7ykjofdhmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

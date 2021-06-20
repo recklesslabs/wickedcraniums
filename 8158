@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8158",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielwip34hn2rarokza4oykqpfu5luvkpawaizarhtiijrkyoe6wry.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

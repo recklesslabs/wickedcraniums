@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7526",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid5tp35w6arvfvciy5uauqifnoczcqrahscmmzneylr5bmm4nu46m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

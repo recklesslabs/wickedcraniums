@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8824",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifnl5iuouzsxmj3a7qsfqhf5oep3sgnm53fvumu2xaytlpbl7owyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

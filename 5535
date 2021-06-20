@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5535",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia4xk3dj7yebzehgdcgho2h4ua7slbjpsvvmdd4t27aqtlie3varq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

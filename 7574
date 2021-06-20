@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7574",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifikdpiyh2okrsxq73skleznynqd7jyy3l6lremb6wh7fcvjeljay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4140",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaefc5j3s2fcenjinc4ju5aydddgs36shcza36o6qccwq6zvjj6mq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

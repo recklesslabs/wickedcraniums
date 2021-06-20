@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6875",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifihmib66pj42i47nc6ymuqqbh5yntbm22aoswt4qd53bh6hudvlu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

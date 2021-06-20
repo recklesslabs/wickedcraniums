@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7086",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicvfa4d4p65g3hmqxoyzg5bg6v3p274kuy2rruhhnaf32jetrfdte.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

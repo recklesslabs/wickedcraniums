@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3344",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihik4qn4ccprsyiyyl2a5t7lr4nrp2aswz7wauzogpyvr2y4whi7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

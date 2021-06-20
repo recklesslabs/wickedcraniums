@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9632",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4pptgskmroqznvrc7a43m3xpsjmdulu5mzsywy4ycq3c3ip37tq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

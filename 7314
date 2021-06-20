@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7314",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicreqiaypmojfsfpnfwfk5ikdirmiyhsnar3cmbc26ortdlgv4ywy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

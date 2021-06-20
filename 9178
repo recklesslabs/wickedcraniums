@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9178",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7zgmk3qhj63dmsspczeg77m5qqg2qta4ztdzeg4yjyzxj34fmoy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10150",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib5uda5m522xwdjhoarfgjnof2j5deiyby4y3nunycyub4bifqem4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

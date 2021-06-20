@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9544",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidbqnjk6k3bnqhx4n76ufs3o27npozof6aongecoamgwqo5pe32vy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

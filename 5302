@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5302",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibmxkspipls72b5szgt3zhr6lq3czu6mwgryb3bfhp4y2pw4qkfti.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

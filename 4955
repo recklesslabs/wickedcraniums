@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4955",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibdpyv265rtednhkodpr6lbxgzyvtktyaed5blh5mre46y6qtr6cm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

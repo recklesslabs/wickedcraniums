@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6550",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2anbf5kw6a6bsdrg3jtsmajglywrkeum7pgdvuio5u5rwrondtm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

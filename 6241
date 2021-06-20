@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6241",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicf4n7gx6cae4aaoo456mm27dbneptxl5h3oqiikrnck34jktm5my.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

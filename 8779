@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8779",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihp3b4g5tlgksadz637yv7iglte46m53s4mos5qxugalinrqijw6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

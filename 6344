@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6344",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibtfr6cmsa7uvhajp656jddbrlpvymxdf5zo3el3hwnwxhantar4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

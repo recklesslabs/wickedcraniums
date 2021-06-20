@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3378",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifvtlds5rr6tece2pxfy7loz5uqp33l5ihtst36s2dqecij7mnvti.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

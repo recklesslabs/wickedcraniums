@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7173",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicde4b4z3cdlok37ym54nblofqcmttpr2aod6kzrgbyeakvu6oena.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

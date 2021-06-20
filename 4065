@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4065",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaenvfmsgha4r2ffptxcjxoaa4cdti3o3nbgqt6od7bhng3diebju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9557",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidhjkmbsxunw3xilha3vcjgmlqtjp7gayxg5plwuf2vxayj3xlnmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

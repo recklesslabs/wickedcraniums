@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6461",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibn6ynmpztwmfbt64lsycnefofhzgyiekbfquwyciubf3anzfpgpu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

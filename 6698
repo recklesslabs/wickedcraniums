@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6698",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiheov4te32pyhte4lcebw66ozqty3637z67q2uszmuhqcnf25q23u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

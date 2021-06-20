@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8061",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffwfczdubps4ibpbxqnsihw6wjz2lhetpi7l53kluepy4oj545hy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

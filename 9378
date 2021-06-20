@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9378",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiczuzhh2zg55sylrqhjj3rado5j3nhfi2q46fzuq7pq4q36grigu4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9652",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihkar5s7z4n5wouv6dqbdrfs7nudifxfhbxhzessaca4zyuddpgcy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

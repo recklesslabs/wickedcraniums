@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10377",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifh4loemdle7bxxwojezffs4gnecl7vrejjb4d3cpqadian2mev3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

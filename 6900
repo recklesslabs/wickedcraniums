@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6900",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaj3uqqgymynww2weqz7sd7ik5jsuosttfdpoy7ggsthbhkkwpecm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

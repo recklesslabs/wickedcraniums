@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5701",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeial7fgbhh6sm7af5sdoptch5xwgxu4sqrrxrd7ebyxaanorda2mbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5538",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvxprnao3i4izfp2ql4pg5v6m273kce6tv7dqgw4h5e6brbuzoj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

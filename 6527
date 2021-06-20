@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6527",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaojrcbxh2aviqaygmti5e4fnsmebwvzxuwqxta7gghlifqrompyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8804",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiavormugydwuxi3b2ht3zqg7h4vx57t2mucy5ovpam2cdqijnqeci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

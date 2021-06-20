@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10427",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicc3wvdx4cto34lr2se55fplpmqzr3awifbcemyobjjhgc7lgmimm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

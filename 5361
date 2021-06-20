@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5361",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiel36fhplmxp7cfbyemcja4pe4sad2hhyvj2nfxlfxvi374mpzmoi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

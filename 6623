@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6623",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibxjeeqhn43etaekpulu57xfhal6usfqhcwdprjtpeupdnw7l6dyu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

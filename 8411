@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8411",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2vwy6expqftrwxc2lcxcl72ixdjn3qxbe5h4tailzdqritbyn2u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

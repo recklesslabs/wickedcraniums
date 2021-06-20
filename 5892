@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5892",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlqrguvgqqk7kf4vzfb4jqveqbzq6bq7s6lysdeal6db7kqyyayq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3349",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigc7z2wxwv2xrb6xmyxpyuk6da7tc5zigwxicwovagh7fpqc6qz6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8822",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3wvrxou54unjr3t62lnb4z7qezpp5262oa2w6kl6k7ogo2ug2p4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

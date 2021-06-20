@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4273",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiewg4yyhmhgahxwvzd6x4p4uhq5v2wpy5rfxtbc5nnlwdye42a67i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

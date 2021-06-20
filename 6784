@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6784",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibgv7epmmkwomgwp5nvlzjxrzs2bkn3grkr7ggs2m3fvncpu7eszy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

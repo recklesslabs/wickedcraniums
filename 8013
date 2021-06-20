@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8013",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieau2f46fbjvcmwvcodqowm3ai2q3uotvxckl44d62w7ublcdvhfi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

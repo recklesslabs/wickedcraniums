@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9054",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibv26jv3dxk6pczkk7hu56s7y2vvr46wnk3grwndsze6jta2w7kwi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

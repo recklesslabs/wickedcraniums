@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4617",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeie43opb43tvnbdmz4kflhcvohsjen6eo7v3wmofuue7f2wiowhqbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

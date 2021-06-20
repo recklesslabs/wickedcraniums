@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5494",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidfpvqju7ea6h327n34j535uysv5gjseutteshdzs6umkr4ejqvuy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

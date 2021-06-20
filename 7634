@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7634",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidt3hwiuj6c3qdznucmtlv4a4fzpjsggpz26zmu2qaxir75pmkpq4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

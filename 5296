@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5296",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig74y2td2csgwoqwfodgt6bdpvznbxqrn7b3sqk7745kotc7casxi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5287",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdjgtfrbzehmwnlln73llc32z46k33jrac2h2mfxlqtqut7g6b6u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5713",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicacins2ifcvmzu5x7btsnvtcmvcefdpnnpw2dvly3eexzxx2zndy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

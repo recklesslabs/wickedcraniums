@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5014",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxzpsixuf7bkmue7nekyqkemwwo3y7cpfkm42zbkpaupr5mjf2ma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

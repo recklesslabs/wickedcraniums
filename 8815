@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8815",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihqqaolpvdlmgeks5dtdzn52lromofsa3jjjyd2mnnzjjfpfq46m4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

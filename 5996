@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5996",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiewvudxanrq5ojf3uhpftrqmlmt3zvncoq2nc4co2vpol5othaeqe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9851",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidsn5ajuuqnsz4kik7s5hb4ixzveia3ymkzej77t7uradzncyxgiq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

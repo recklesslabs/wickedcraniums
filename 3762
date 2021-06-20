@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3762",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieopmwd4kokgvmlyxrjs6hwmq5e5qpckg6fdtxoutcoy7mfj2swny.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9745",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreierw6g6tjjxbffh3xmeg5q245cfsfzcv3mvjxnecpnqrzyjyvik7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

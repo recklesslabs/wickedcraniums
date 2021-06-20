@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9509",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigk7d2r75i72zsnajvg2xpn64oas5gj6c52o5ncr2ivfi6pjdf52e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

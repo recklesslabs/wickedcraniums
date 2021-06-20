@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6592",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibeof3luwzohw2xsfr46ece4jnctus2ty5pro2o5lii6gdvotwtsi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5033",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiane3jfwpgvbza3hs3iqdby5qmmhefyoz543d65xdy5ryntgynicq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

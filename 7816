@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7816",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2rlxyax2kgdcher7fmo52zew3kvc6mqgdni3yo5j72v6ckrd7aq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5558",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifsypzwsi4l4s7kp4trbtbfrqxpqpy234jrpcjmyu3yqgeudo4a7i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

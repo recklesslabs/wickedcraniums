@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3563",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpjsvuz3sdnxtousxxdkqqjqfq6sphuqox5aw643ae3btafs5zkm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7960",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiachlajw5e3ixj6stfxct7yzc6us65kegovrsewkdvhyskvjyahdq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

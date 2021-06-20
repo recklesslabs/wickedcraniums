@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3692",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicphrimhsk7ydw325salxgb5ubawbeo4svg5dzo7xqga3he4nb6xm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

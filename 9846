@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9846",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicirx33cxy44mk7imwylavilt34bqs6dgqtxkhyqgfubt47qcrsgm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

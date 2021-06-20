@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6851",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicc3youqebyypcrfvguyoa4ugpofazre2kk4nlnehbfhtj5c3ocgi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

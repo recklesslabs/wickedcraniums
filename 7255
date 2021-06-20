@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7255",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaaq4ruey7jo3czojedjhxqf3nhxzc6yupd32jbnh5dc6fb32uvs4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

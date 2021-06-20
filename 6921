@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6921",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigbp7mhhdc7crenf65za4hvsblg2hddz5foxh6go6uehfn7fuvxji.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5518",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibgznl6omcgh6fbyyegas7bpbx3dvj46oca7fwaagcarunxnvhwqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

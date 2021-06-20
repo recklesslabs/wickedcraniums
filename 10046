@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10046",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih5da2l5fxfwzimqatba2m6snxzg2jtggusll26hadvnefd77ihpu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

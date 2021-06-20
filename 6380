@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6380",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7gmfnwlks7dnooax4otkwvb2imaft6sk2dhazavl2h4n56ikgne.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

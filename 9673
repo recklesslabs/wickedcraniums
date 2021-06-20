@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9673",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif2rs2xziyb3zprrxzyee2twprqee5ebbstgqdxs3uvckuhft4cfu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

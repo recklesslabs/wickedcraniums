@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7270",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigi6un4tds5dwg6mf4p5z2uxsuslwjuqdmwqnu5r6ypz5glles4gq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5245",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreief3pkcwpagqxzpfyakkujzf6ei4qxl5p4mfzmdiu4frpm7tnd4dm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

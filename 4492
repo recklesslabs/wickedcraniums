@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4492",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie6a6ixfml2iche3cw6lt27nsywwjrli2pwypk7kq5l5sqfa4mcya.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

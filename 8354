@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8354",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidg2wtcjivcbaegkow5o472tipl35s34eozytyusof5ljefrldt74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

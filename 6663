@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6663",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieyw3fpspciekucx5ulhzi4w2qccgob7ekz4wnxlqwz3nterqg6ga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

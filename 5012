@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5012",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreichwnn43srw3rfztmv6gxdfkb6ef72lf673vfaruztwjubu3yh3j4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

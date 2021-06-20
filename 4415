@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4415",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigvqav44xrgxrbcc5rxjgapwko2mz65xzjhqx42kuky64y63sr3de.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

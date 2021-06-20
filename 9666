@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9666",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibl6gvps5h6wrhdw7rffv4k5jukviqjgdteweftmqbp7jp2kmjw34.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

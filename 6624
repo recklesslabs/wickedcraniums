@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6624",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibf7tleut4w6cb4mpi7d3yqmlimuomid2iv6rgjcg3ocl36acxj4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

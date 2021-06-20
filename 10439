@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10439",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifs6536jkmvn77dgsnwdkc35uuw7px3yo7ys7pbm4rzg53yz2avci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

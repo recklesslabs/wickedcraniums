@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8326",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreies3pounri7rsd4xhvcpzqqlq4ea4xgcrjyomtnrvni6hbmucjkve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

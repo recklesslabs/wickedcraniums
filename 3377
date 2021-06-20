@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3377",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigrsduo3lwfklu7wjv3puqg36qcrc2e2ry3gwheclvgic6gspvk4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

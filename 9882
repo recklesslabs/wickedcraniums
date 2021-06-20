@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9882",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihngocv2lepnxg4znys2zprtwestcqu4jd2a42ce4ozqgg3dgjehi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

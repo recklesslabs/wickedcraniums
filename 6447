@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6447",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifx4khex4eknn7m3uaohyjcwmj3rmah766efl7neiqvptps5gv3sa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

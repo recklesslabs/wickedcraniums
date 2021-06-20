@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7036",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwcyrf2tfikg2en4tqpkpf7pypi622ijbmrz5opjhvthtah37oim.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

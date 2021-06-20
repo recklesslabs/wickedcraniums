@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6907",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid72245xyo7tfpwyl4pwgqagz3sxzmnc5fvgab5m7d2ljcfmvdhvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

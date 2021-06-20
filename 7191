@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7191",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiddwwsnonucq6wkwkdlbe67i3gydgonvsjp76whz3q6uk2zj47z7e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

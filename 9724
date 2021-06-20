@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9724",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibaunkabanc7ydufz4itvwgzsful2sfgo2h4wexuqvcg5wgpackou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

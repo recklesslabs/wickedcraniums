@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7529",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkp3zdhtcgth7h6rtt7sfohqydgwmdh7hwr2qupti5qx5q26xpem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

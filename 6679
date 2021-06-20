@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6679",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiay5fxhxt3o3gwhdxhonpdzu5ab366xq6witules3sf52n25fqmrq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

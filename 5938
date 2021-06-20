@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5938",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6wbryj2s2ljfi5cs2c754dfek6e4kqwrmefwsm7qkqtdpdk32na.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

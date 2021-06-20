@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10696",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibtamoefnlqrynpzpbvjokxn2w66oj2xbvzefwblkw6szrwj6joyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

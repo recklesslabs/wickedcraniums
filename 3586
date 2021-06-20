@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3586",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifr725264qebpixq4vmqrsbmobalw3q2aldidc6rjdipr5gevqbhy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

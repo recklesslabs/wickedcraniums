@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8242",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieej2w4bzbzja6avcnz6fsy5oug4eq6fq5p3x24qyr62j7qow4xg4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

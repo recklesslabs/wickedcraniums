@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8277",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtmafuxn3stchstndt5zkx3lazwbopwoah7xt6bipdstqlgveb44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

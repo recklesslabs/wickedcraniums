@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8268",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicmqs4um3szotd6ksatn474ng5rrvu5ilc4mc7x7opvmxg3xrvxxq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

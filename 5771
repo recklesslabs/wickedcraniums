@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5771",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidrcag4lheioc3zs5ibalckpwxr7dp5clgkjqoqtfh36jbqeececy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

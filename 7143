@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7143",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia6wr7epeiuywbedjs4n5hg3su6fqpund5mgih76r3ofgl3yt3m3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

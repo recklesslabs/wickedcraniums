@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10607",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih6hs2lsuqs4unoabhrfmwpsclgqbvtjlu5es5ji4csucycgce2s4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

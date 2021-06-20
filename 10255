@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10255",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiesp2ovpym76hd6n76aru3qjkwxyqntlzzoxm6zn2oemotw62v4hm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

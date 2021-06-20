@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9722",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid5xpn3zrlvixyq633isibfkinfohuqhimmnhn3hvezjfex5r6woy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

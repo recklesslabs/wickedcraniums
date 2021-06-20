@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3741",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidmwhsqdhvk2ssioaw35woik22tsgnllcbeacp7lvo33hejc2zlum.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

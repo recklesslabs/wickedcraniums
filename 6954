@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6954",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiajaylygdmmpqf7kzgcapdj6abdo7usswou3iwlcmj25a47pt4c3u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

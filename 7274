@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7274",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifvsxublqx6yav7rh7bb4h3l27tfooevxcfwuttx526hipjxljywi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

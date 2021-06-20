@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10726",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia752326jcxdh7yqnddbut42xvxrfmewmq3zhro5z7lmn3wwsuqvm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

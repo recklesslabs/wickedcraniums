@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6236",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidz5pxrpi25umznujiwyptehwth5qqikz2hj65q5dbga2ah4jknme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

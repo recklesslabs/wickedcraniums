@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5263",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasjafi6ojkh3icv62othlegbzxxp6fddbxnycndts2xp4hv5gwva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

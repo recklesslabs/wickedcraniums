@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8572",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifmxy5kh5qgpxnfhnwojjidrrfi6bkclkazhzrnl3rtvyugio2m2m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

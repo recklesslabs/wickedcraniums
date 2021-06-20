@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3450",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiczx6p6vyw5obfc3gxrfrrrj7llpqlcvy7cxcnes7lnl6t4minyyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

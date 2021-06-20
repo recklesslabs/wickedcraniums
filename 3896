@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3896",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiddcjjyiavgmnbdhxgsu7jjlnncskpooohwyhu4tkqiorbs7ypacu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

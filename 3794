@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3794",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaqg6p35czqwmjqjse6jxcjrk4toaj5stehrv36lejildyhsfhlqu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

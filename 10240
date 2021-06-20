@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10240",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiap2cunij7wkj3yl733dm6wibzgdxp5hxqntuvyzal6bstnckumra.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

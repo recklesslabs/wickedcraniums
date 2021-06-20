@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9422",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib3twkmjsbk5q5g6ectpasgrehdlp32qijayibn5dg56zc3baanii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

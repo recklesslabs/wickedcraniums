@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6742",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiftegjp2re2bjl3z6fzg46y43uaaiknsitatlmsir4kjqoc34hxma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

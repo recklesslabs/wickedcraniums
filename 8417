@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8417",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiafsrwgdnmn6zauuiha2co425oaiu2rtbvzfpgtk6zriizthnjnle.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

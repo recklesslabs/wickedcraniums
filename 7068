@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7068",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidayhvzgyavipj34cl7wphng6kbvtq2sh75pvcqvd6me23yt6lgfi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

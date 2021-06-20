@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7405",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibthsn44mjmng24b4twnu2epeqoxuhrz7abjuzjfq42bfjlsw4pt4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

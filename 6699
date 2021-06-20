@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6699",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihzncojpiyhgsqdmpyxci2c3vc6q6enw7wbxnpwxcxncrnec6arim.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

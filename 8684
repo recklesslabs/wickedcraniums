@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8684",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4ars2iju633fu2rdjpx35bteabh6jimjvhbxgsu7g2yw6dfcpoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

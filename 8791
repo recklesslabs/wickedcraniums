@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8791",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihpihnylzim4xzgdmidv75dbsalzgzllm3p2sdfcmqp667yo3giem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

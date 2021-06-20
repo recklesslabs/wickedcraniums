@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6194",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreido4fjprxybowlssdfyir7o3qqkradvcrl3ryugu5f5p6k2anj5sq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

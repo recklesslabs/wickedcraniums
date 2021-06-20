@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4878",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqhiaa2hixxdpevtopdff2fdsjj4fjtr4wra4eh2vak3ku5zlhh4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

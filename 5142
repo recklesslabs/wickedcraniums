@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5142",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiceuxptbwqiryy4bepgvctfz6qqkfu4k4ertfy3sylapbg7wl33jm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

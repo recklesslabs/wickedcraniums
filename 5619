@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5619",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia5udwfncxo6ygmt5llch7c5qy7kjjdkptjwjxiwsssgzo2nwl5b4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

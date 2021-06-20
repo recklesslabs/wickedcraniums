@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9958",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibemvdmpneahmurtj4vbsvmc3s3fejwwnfx4a7vlwmzfhnhy7yrnm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

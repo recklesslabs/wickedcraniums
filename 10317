@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10317",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicixwrol25vcbbnfjfhd27q6enhalr5mqgvinqvlvv23wixudvkpy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

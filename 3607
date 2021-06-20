@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3607",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaad7cnbmm7ha6nl7yw3dxbhxsf6ntvqxfueex3rdgftk5homodde.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

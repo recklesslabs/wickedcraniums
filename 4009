@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4009",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiajzapolvbvfpyphmtze7lcthcg3j7lk327rk3jiktldvxl7rznym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

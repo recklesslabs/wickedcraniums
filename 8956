@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8956",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqcz3nh4xpuj64gc62zac3jkmalsczyvrfr2ykfuenjagb53kcai.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

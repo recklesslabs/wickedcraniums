@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8115",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaqyorubhfrszfn7butrtjmcqr47xwyvpz3dndvmvpqy33qxqa7d4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8904",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigfesnrkk7cec7r75hfl2n4rumr4glexvmulswjgfujfbbbkiu4vy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7468",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihybhqfm67lt7ud34qnulpbj7woblis7lxczbvh26xb6zlau4xzoa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

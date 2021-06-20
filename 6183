@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6183",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrc6czbvgi5ps4pnztrqciantgb7xnjmwvhxe3pefjzfwq6ljcny.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

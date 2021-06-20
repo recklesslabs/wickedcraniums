@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9741",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigm3accjq7a344moemsrp2wdeebxtcrsusiomfnzym4cxyidoiile.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

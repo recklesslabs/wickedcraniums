@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7218",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihza3id4y57qk2iimeifrzc3fmyca4l3scednnmctufc6waepw7by.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

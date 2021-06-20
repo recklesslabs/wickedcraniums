@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3677",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib37ss7k7msph6oqrvqceplmkpjiyhfsbvy2qten5qlua7u3kjhcm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

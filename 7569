@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7569",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifuokngsitpfqoplgo7wwyoxgzf6rkfvzg6vrti7hnqo5sy23jtsy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

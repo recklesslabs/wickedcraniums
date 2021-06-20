@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8573",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie75j3twx7sm6sglf2pmqm6thiy774ixc4bwm7ndnwalsyz4nlg6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

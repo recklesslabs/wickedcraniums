@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10749",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihxxa5ylgscraerz7yyyybt3t4ykmdpk5rn6uu6d4mbmvryo67bcm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

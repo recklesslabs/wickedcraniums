@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10558",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidv7me6il6itva3vlrncsjs2kw3csh2zg6hgsljvulxjl4owu6ru4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

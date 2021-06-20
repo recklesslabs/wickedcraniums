@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9623",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiftz6mt5t2udwbr22kxduabaqprnustmpbpjkfwklejf4aebc6f6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

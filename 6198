@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6198",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtrhmqd25erputrbhk4dq4q776q4vwgutqtaxbm3npd6fpywhqve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

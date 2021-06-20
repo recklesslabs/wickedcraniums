@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4418",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzlfd5drdfqt6t337aeoq72anellf2uxoowmaaxncjawnnwxxlk4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

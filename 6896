@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6896",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiajueasomm77a65sdg3gwzxn2gj3loq2zkhtyy26fzyx6vexslm5i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

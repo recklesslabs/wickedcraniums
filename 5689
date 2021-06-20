@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5689",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqpvfvd3fmvr7ulfxnuyz6ty47rblbmzqjmsddauieuckckw3gr4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

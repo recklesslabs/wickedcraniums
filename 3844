@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3844",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibunxtuqzwxkwp4r6npztbaja3jwuj25uwzruhqfjfd2omg2zkx64.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3878",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigzbic52ugyegpx5ctrc7b6klnqf6nvtznvb6eargkyduzqdpw62i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

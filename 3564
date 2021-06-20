@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3564",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7s7hwp76xda3c47apajkqodtefg57kcjfhqpd4enp5l4tzg7r3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

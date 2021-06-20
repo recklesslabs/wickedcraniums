@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7780",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif34cpf6zzfesajpnjheimcnfkvt5jskrsv5whdfeu7zncp5qqzua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

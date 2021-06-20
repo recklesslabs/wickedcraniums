@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3887",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidrkus2ghudngmidlxmk3gl6qibzxklu4cwpm7ebks3dj5xgcwvni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

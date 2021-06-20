@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3978",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihanc7uthgmkqh3xsx5jkujfyzirnslt3artsuefb7tfoepc5rxoy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

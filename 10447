@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10447",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadnv4zhcqb2ipd4d3wsop7n6dhnsaxc5mzta4ic5ahhyozoxbs24.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3536",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicgi2m2v77zclq374schcp6olfhyy6v6rs5xlnqrxz2e3w7n2472i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

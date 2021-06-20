@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5919",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicbdjpwb2e5altvp4qpj5d5jxqcx7jsbyigr57v3bb7b3n45ejcsi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

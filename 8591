@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8591",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4pptznwxadwbno6ildb6jkhwdmspufmpxp55pwn7ngz6j7an4wm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

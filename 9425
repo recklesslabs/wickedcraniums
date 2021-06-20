@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9425",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigcpfmffikabgqhnvd7pct3xzhl2577h6pnbatnyxnn3whz3eyzlm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7190",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihac5bgejda7uqs7bpyacsdcragqkmjd3xjujqeiwgl7dn3wxstva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

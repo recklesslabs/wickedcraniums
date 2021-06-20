@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10721",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiedo7xajaxfb573korqivoqy2o3m6ix5aju5542bpppeawc4nsghm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

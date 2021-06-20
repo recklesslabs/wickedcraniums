@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7485",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreienznzbzrmpocw3j2nn5apjjrortx4krc4lu7y7fhl6lw6o3f2l4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

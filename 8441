@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8441",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigpcnefn6hgxj5aoara2ai5asmcjjm5hlrkcsjpr6gfyqsh7k43zu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

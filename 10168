@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10168",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieqfemqskujqhxs2owk76qu7s7fcorpr3tkxlkrnepxwoq4np3q7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

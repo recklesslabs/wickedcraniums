@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7824",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiey2dmydrbja2ywdyptmxfsqmihhyj2qmqp3kritwll464pfeplwi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

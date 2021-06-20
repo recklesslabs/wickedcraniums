@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7081",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihdb5273cmo2x4ggtaky4dedzaerlxzz2mc3yiram3zo32mxokp3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

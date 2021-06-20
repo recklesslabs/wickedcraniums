@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3402",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia27vic4zxaxrvi5acowfavqv6afp2w7srpeevapo7fo5e7cuygxm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

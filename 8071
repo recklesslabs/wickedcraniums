@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8071",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigzlazo2ivphnzvx3pjnefdvdxwo3z75f4543uq3ogauhyiddw344.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

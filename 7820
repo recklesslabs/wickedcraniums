@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7820",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemctzy5lu24u5jifebend3536c2lavyykf3speayjopl7yozql3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

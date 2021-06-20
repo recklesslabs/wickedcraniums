@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5968",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic4ux7igqyylzk4q4po5esdhrgbpfl6lpsargnrklhvebja5ecweq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

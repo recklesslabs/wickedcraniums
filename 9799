@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9799",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreici7fxgdzgapjabpj5pumme6hx5ovbuiapb2kiicbxqh6mb3nejem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

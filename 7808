@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7808",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibo34d4nqftszku3ngsl6jabylngcd65yxvf4wopwcajsxiqjn4sy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3429",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzyjbe6tcz6ods42p5tjapfjwidekjlmwrvy5c42tea2g5oeq6g4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

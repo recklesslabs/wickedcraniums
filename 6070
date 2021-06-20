@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6070",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7qxw66y6ceiskqbowjd4npneufq7fute66yzrroutfsoywjs6pi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

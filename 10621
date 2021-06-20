@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10621",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreialkw7qw6sm6wzasdafhlwjcoze4gvhzfnqu3sajvmu3t5wsalhni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

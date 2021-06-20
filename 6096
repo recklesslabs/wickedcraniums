@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6096",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibz25lvkjov7oyrfrspqe5qffkw5inyw3jjvw27kvjpehfg4bzzdi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

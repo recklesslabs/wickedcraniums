@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5145",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7lz3ogxyrew4cefbexvod4autiofz4qmbzzqqq2z2qww6gsg44m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

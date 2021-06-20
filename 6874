@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6874",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihrf2l4km32rkehwwsmf5wjpgakvp5jggcigrezn6q43fzwgmek2m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9710",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtynp6i37s2asm2owa6kyi66qsk7hz2mb7mlf3b4tbtkqtxmjmc4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

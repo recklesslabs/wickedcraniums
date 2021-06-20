@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4212",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemznjpq3ni42pvjgmagh55gyj4rrgpgfbp4qcz3pn7gpvo25i5qu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

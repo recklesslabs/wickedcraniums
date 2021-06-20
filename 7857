@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7857",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdnic3j3m3j4gseb3kcomk4bssz66epar6u2n4lwrmtwtxnlziha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6446",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid357ghtrfsd6iyccghqkza6p7dqmv6irtuqeywm5bwd4wopkig4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

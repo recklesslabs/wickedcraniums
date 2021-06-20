@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8508",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmmmolxpskxdmlqzl6maet3fmidyu3fujjxxk2ypkxkgcjqgwcrq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

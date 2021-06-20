@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4424",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkv5gbhq3bwm3xeprwge4notgxjye2ghbnbmbvdnkfvg3iebosbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

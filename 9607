@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9607",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiguc4lvha2pkh2ltmnudkqjolbqdnkwpnd7l55p57ii3cdruv6odu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

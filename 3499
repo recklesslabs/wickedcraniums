@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3499",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihh7wpgfkqi5347vv67pnrokjqeprsvtt3zw5k4hxxyr42n5xfcfa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

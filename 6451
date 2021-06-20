@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6451",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib2wtc6fkgj7jved3ototir4yxrpvhtupjw6ohak2mbec5to7aeju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

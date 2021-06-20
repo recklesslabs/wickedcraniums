@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7065",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidknoy3rbxfczrxv4gdwo7jvyljegtm6in24mhpm7nc5omvbof26u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

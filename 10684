@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10684",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidjt3h66jadvnxs745tlkaw3zpygyd36s4frjj5hdzlorhrue5dta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

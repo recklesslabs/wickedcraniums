@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8091",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibz22ycbxuekk5r7i7gnrk6e3fqtns7qf5jrqe6ji33wjo7trt3su.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

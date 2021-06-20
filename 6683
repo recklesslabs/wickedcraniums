@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6683",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigvxuhypd5uni73ftc2kp4fdne72xtxwnvmd2bmctpuqqmwttu27e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

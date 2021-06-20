@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7349",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibxq7ken5uf7jmurdvdn63yj4ha36oxn5zxvap3yj634b3oydxgn4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9663",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie7tgax3jorecbhr4lji7ndp3kawyu2bphurtaq4dnnc6pyvqmbeq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

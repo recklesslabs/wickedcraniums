@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10386",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibtgt7zrlheamit2kh66dzn6jhnoiqx7hzqcvubxfw6fptx7bt5he.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

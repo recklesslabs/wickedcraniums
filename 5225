@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5225",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicquwsy6j23qdf2trvkjfdqh3diqr4hexmdhsvhywjm3eqtukdrce.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

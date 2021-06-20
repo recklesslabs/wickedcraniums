@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3679",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4uezyyy7bsverxr2kw3gbkvxbad72pdke4psrvh6fgypvujfwxq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

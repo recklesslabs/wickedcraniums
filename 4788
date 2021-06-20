@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4788",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeif3o4ghgy3on76wahgtucj42fams4qnvvw6v3cph6ighuoedqizhe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

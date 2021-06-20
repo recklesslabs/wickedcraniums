@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4015",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiad6kaj4wzyg7mpf6eotsxpddhyc6f2gi5g4uvjfehj7qscvl6djq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

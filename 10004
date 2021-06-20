@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10004",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidiosujmgjrz5o2l5nbn43fqotk2g22vtrnnggs3nky5xvd7crpb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

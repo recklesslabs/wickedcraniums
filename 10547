@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10547",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2ck3ap7lcagvhw6sgeggogsxvzdrg5phzrhrvakwpsiwvsfrv5y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

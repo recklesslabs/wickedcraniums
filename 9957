@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9957",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkdqowhkhswf5ejqdcc3j5kca74aucd5exkoqd3or3nhvbvwu3xm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

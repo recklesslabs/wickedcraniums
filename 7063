@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7063",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaz73agahjqm3y6nvnfv7bfopbip742xcj3lhz7d5shrpaavptwgm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

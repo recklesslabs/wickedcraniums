@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6684",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigoeh527ijtji4tvqd2ips7r7eo4nkqtwcwerzoduagduqfge7e2q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

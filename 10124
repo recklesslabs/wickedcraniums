@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10124",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeia5si456ed6ceplt5mgtya7wvj6jb4744v6zfbhkecdn4p6v4x3qe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

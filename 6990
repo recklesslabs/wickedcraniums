@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6990",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifltbdgxkalhaisgsv3jxl3ij76boztkogz4hzevl756as76sdlae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

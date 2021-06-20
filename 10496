@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10496",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgmh42kwf265dcrvkajmtsjv4emjvmjwo662y3tc2ffnw6kmc7ee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

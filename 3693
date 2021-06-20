@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3693",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwpaka7kjba54zczbynzxvyrsbi26zvrotztjs2hngvc6dnhack4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

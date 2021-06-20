@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9020",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiayq3ujpiypui6k6f6nvk3i4p3wnj2hiszgmacx4tamk44rlcxvk4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

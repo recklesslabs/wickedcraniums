@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4725",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiameublrru44wgjundjfoexjb4oh7g6zhvds6o7ngkbttccrvsewm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

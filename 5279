@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5279",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic736ow2pwutdgn5vo4y5ytjeawzjcbu2vudezu6ovsyjawgkkiyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

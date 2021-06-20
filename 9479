@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9479",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibr5etk265dv6gutjnm3fu724n372enij6ujfnz3kw4qg6kfef764.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

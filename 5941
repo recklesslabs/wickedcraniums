@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5941",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif4uff4teoybg67iaaiohqbavzamjtb4lwsueuztn6bwfwffkxlba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

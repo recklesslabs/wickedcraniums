@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7180",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid56uyre7wuatq374qwvh7oszp27ifmi5aycx3v5j3mfvc56ssj6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

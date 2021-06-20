@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9198",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib2zfluutl6qncgzgwzg4g3snpv3dkojhclwzmmmpckrd57cutvku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana"
+    }
+  ]
+}

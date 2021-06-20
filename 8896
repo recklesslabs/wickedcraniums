@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8896",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahg55wmnaiczu4ld4jvslfx5orjyjbo4coam2oec5ucsje7eirxm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10484",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia6jy7dvetr6vjzp3h5qvtpau53pav4in32ul7wcemypinvinvmpu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

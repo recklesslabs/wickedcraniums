@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4594",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4sm4jqg7vn73xg3bcrr36n3l3ffjosqeclj6h2bzwhhlrcxajue.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

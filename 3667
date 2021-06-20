@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3667",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigva5os4267d2e2jjfwlvnrla5jxerprp3y6gtozj2suecxb77w2q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SaintClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8679",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib56svb63yvenjjgqcu6lmgcqnxp2epnkutlaw4aq3tmh6w3fvozq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

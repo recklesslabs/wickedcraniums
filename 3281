@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3281",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3heteihug2ncgkq6yzcosqh7ev2sfikj45mot62t5coaq6cliw4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

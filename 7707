@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7707",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihjwkiqr4yczmrsj4u2t5gk7qyxthkonml3bjyh7ff5mm67x6mgve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

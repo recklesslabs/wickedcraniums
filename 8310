@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8310",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidfm2fl6jmez7dlcujupzm6hmo6dwhcqqmubszduat25rdk2xsblm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

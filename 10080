@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10080",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiduhctbpxkcwptcfros7rfqd6eg2xfcyla4aek3i24siklakpkuee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

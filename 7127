@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7127",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifecnwgvfqlm4fwgj7gdnr6i5gcazn33hgcb5pd7qq7bh5lxkp5nq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

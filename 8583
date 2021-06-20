@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8583",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreickiqz4ojp5qp3tku6xsnrr2wrt5d2xdnzwtbqwxos7w3te7isdem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

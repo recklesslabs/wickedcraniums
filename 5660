@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5660",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6v7yrmp7bx4vba4jjtgnqxxj57t4ayaqhqjagmd5n5lsbyzkywq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

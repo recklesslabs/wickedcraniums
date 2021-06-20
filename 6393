@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6393",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5crk2vq34f6dra236thjpsd2jzz66r5kxgkspqgpqcskkmvydqq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

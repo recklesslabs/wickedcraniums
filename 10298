@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10298",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigo2igyyneemsjtucjin6gd4rz7ksyl3sup7tw7qrpkeq75meon2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

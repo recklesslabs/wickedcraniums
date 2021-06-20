@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4242",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwd6y4htt3mlexmdci6z7bnft7jgjrzma5qlvn3ilbr2ibbv34bi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

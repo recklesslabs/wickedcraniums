@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8366",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemv64h7esvhmvj3fhimceyk4o37dqzxd23k52hsiivqnpacvk2vq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

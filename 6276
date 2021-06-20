@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6276",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifhtulztnz2z66hwh7itwd3ra5ubw64m5lkfqb7kfwqqhs4wcvpty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

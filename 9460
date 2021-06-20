@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9460",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih3esr3yoar5eyedzrs3kkhhigrbbk5q4bpewbogxdgezqpi3yrie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

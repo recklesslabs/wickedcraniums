@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7923",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig377wr4zlr7djaz3i5ybwlnurabwjcbmc5rot2ytrfp7tzqymqai.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

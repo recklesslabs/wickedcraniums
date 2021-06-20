@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8637",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibvgk6hshb63qfe6gossy6b2ouwrvty7jxgrj3inv3z7pwn4exr4i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

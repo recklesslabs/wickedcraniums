@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5161",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihsgdsqtpjkjqvjgrbermirabmzc4x5juwz6m6dcpyzrrtanyyire.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

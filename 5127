@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5127",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih76ohizxw52vfhn3v3csglllep5x2pmjndv3ig4omfuzvpb6bthi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

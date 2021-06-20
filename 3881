@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3881",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieqfi6ymnummrbm23prdgcw4hsdlhbk32urykl5x6oi7xx62eimyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

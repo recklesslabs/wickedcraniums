@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9855",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigt7h5d2fomypl2i4qdvwzymnq7xusfepxlsxq5c3bywajl3rm3di.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

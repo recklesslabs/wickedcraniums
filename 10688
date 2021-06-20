@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10688",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeia5w6fukvb4ltnqn6lil6muys5fazsj7i7pwpxry3i275jse33ak4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

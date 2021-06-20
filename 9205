@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9205",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihol55hgdwevnyacw2hm33qhx7ugfhohjpqv7vthp5iekmowolw7e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

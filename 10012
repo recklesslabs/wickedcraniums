@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10012",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7sjiqaimjzit3o3eddfulhtau6qiobzlysgczfrukum24q7qxcq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8964",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzntvnvenqvnchx3iguq4zcqk5nmayaozhxnstt2s2ppa2fmm3cy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

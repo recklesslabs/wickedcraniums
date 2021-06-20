@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9046",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig3fwpadadupleq66ujpzqmmv7geg6zbpwetmkufr5l5oebladqpi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

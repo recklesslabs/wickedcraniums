@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10550",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibq7zhjcrgig6ylsr3e4vxuczgr2ojwih6d4pcqpoxigk2tj5nlci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3460",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtiujjzh3cgkr7mbvqcrsykueheodzhfwe7rqepxlal2sd23qq5i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6939",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie3zzpud6q4uwnkbseslonvkl5r7q7bfp43w2gxhc725ufr6hbmry.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

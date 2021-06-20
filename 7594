@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7594",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif32vfnhskyxmaby4qpza3ssyjyr3gfsoszl2icopg3lxf574oj2i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

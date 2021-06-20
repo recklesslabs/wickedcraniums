@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10314",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih26x4nzl2w74jbka7ef22qqxz25dp76lhwprgfegfwmgfwaftuui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

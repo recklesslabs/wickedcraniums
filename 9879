@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9879",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibhxzbzgawfekas3yjhnayn547vzigj65q6vhvrzf5rg3f42exudu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

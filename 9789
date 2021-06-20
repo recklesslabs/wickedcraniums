@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9789",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2zct3lsuzncrgezmogjyvadhc7zjyvdwwn7aoe6t3gyn5ocltoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

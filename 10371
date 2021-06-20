@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10371",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicz6rvthmrluunhg7ixm3vj6hgumayts7aqfe33ywrhjz2bjolqsm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

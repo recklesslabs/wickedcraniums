@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6700",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih3dscctxphzhclszt3gqqrosxhsgtirxw7hbh7oalia5q3smjnee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

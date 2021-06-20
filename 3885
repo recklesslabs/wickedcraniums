@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3885",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidcaidvcdnu3wj74dw5os6sjzsymsoticyxj3sduxitoimbv7k6wi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

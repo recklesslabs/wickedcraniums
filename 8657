@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8657",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemxi6w25tzk4pp3sanbv34eo6ncpi4h5ykzy5ugwirslcorr3po4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

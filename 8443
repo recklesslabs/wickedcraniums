@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8443",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicdf2o77hjwqriygft245jhlwvuea6bg7labzqglgt7cgdeyzvrti.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

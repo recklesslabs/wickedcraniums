@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7735",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicarmryy2qzs7yybz3fxmaeamejfofbfcrrebpcwdvjiax5aw7e5i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5058",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifbbdyo3kap2ynoo6h3lotmwczlpdptrx2zdfeavdc66nivcwh6na.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

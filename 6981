@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6981",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigzkdffqabbewpf5wtlv2j7zv7ndgvyzy4uvjelroegwrukssaisy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

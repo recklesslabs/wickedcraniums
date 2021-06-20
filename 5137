@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5137",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieie4p5affunyhzjmt46322v2ruwi67btg5piqrjtqo2uxnxvpnzi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

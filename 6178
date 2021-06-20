@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6178",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihuju63q643sx6pii5bwbv4fwawbqzs4v624j7jygq3dskpronpmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

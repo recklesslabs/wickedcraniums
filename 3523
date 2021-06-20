@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3523",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibklf26xwyyqy6jsckycchzrgneeo3ps4uo44kulqxzjdnmxundfe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

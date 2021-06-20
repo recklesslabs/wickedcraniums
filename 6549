@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6549",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigjjbastg5qb7wxjrjm3l6zyz5k23cklhfrdeqsp6yhfcwm55fv6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

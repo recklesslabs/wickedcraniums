@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3631",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibx7pxojjbhr7p4chjmimzp3o626gpm5kbeutlwq3tp4okfe2draq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

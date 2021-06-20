@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5057",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidbftqfkomt2wqg34bodhsdofm32ia32l42gjm63wtjztngwxhhvq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

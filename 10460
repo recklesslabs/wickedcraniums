@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10460",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicthsj4aqmect3mdpawcmcaye64o5c2q7t2r6j4xfaalt6lr2bt74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

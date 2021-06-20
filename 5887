@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5887",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibtgx6olsarrmqz2geay6mnmoc477c4i3yb32thvr3aylksjbpuge.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

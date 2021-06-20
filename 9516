@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9516",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiawfvbxgrt62uqjpwvbie4qqldq2kc3s5gvcj4p6m4t5if36hloa4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

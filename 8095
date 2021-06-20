@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8095",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreialrra3xwwouzoegxxibz4krsqi6ipvj5gybgbzvzmysbjz5qsmb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

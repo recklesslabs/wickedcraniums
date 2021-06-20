@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5618",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidc44dst4vc26dtlv4fe7cpgufap5rulumir66l2biompfasg6ljy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

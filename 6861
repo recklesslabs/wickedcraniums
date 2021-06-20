@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6861",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihoiadru75t73epwac6hbqqa6dccx2fviap3qtyelh7mlq3bmbuh4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

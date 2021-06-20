@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8144",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifhnmzb3qy4rl4pfmifp2vgmiucfeuen2z7i4tpcxkla3dm5hugfe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

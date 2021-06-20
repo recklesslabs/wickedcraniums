@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6984",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihwizmsj723jyqubdnhil7g2dx2wpoe75a32ii5zganb5toi2cyhy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

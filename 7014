@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7014",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigavz4cxgy3gvlffqtqd3zzehoxkacsfjirsg34bctdwledkuqzuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

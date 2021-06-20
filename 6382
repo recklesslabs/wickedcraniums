@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6382",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidufct4c2h2quv5u6pvjzitkfirb6k6ulsmjciogqd74nwvn54f3q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

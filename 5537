@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5537",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4ptsv2uhwerr5gugukcucu3lnrvfj2sax4bql2wlw7w5gbpsu6a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

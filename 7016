@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7016",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaufm62fu65aieuwr6vftczynmlbdwwmdi5ygbpg3o2incpyxytj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

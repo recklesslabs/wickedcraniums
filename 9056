@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9056",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihzvrjdziw7aqglb4tjs23zmvm4hhzx6vytlanp7mea7pa45zkbvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

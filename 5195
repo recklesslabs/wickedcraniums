@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5195",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiekl233xsrbbc77z2gkmip4tlmvveuoyghdcndrc62js2j6jnk5vu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

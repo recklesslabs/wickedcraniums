@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5234",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibxtnokldffw6ynnfy3morwfvl2ck2voyqsznjffysd4dalhzkqgm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

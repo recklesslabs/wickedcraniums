@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9648",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicnjltq2sndkzbool3g3fr2ylxwzxt3mfgr5vsam3qnd5fw4yr77y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7220",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif65h4jykypnloiddhl5i27ncup5osftnhaubbdmvvbnidgiljirm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

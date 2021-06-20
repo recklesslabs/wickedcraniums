@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8931",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxztgsy7imucqgff7fcpuoosfcosjm2bkmq37uoxiii6cmiwp5ru.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

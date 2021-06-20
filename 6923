@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6923",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibqkgp35bfsvvpr3wmygznta4yiyt4do3sw27ime4uyvrgso2zwhu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

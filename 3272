@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3272",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiajctut4nodneac6lwjcjsowyi4bh34b7ytlqwpva4vpclapb4jwu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

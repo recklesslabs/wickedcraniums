@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7870",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeid2xyndxo5qogy7m4dy4egevkmoq2pq2kj2yxnpwe6jrb2qc3cxve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

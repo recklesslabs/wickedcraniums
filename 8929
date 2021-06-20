@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8929",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzzs52dzsbkl3v2jo2j5bzkcc55svrztwiclgohwum2imibwcowu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

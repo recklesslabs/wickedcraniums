@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3498",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigvqxj2fxdlxmxsdvj6l7x5l5hebdhh43htmmttjatuejmeyjtpde.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

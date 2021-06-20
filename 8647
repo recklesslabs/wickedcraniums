@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8647",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieti4j4wpbu3zywii7gjosdrxfi5tpkj2wfwyrzgi4rwjl2obmzju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7812",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieeyrqt4igvbiin426pkz6r3eq4ti2m6xtgrc4ppefekd3iuyyiza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5074",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreief7dtrzm2mf5arfuyhbfquxd3il33gouahvfkrvnup7glaybv5j4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

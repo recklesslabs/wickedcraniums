@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8009",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid37ml5irw3gltlto7rdrnra5kyrxcz4imo7nl6vlcudscnsa7j5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

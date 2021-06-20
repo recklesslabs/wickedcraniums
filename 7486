@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7486",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaytgndzrv3hzkotyi7ynouhz6mc2uwf6h4uu5chwqkbrcorbd6ty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

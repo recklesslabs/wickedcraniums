@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8685",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiamek672hu6wahhnymoxmozmy5udwbh7jmrorqhj7l7mi4qn6pfp4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

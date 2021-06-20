@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4095",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifmcy3g4fyk7m6vpql6lcsenmxp5hgsjzh3izvzcjidpn7b6nptbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

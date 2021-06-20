@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7458",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreied7fz5vuwpbacygrgonq6f2qctlyejtn2gouguiz5i3dfi2jzezu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

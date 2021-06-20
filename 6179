@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6179",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiepvvfc4f7ptevpfuoeqjirkudgb6z7l7c5ovbepuddls7wazrn2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

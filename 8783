@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8783",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreichydt2aimqsy7tu6nubuehmirt6fbefdsdjz7ctz2srv62klj5rq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

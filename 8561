@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8561",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicjymg6jvd7oellzv2zlgvjmtxbugktl6d6frcelnhqzo3nme4xci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

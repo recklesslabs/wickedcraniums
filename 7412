@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7412",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreienjjzikbiisowdqirhnv53dw2vlfkbukdywbg3twq7mszue4skmu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8123",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicr5gt2ajgtbeey3twq3ljxki34dadc3d2adx7ld2rvxrhikexpra.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

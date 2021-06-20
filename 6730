@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6730",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidhqvkv75qr57w2lexwyozii5cn6pxwu5ry6py7tdtbivmrhneu5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

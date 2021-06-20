@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8580",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiab6r6cok3iu7ghott5hpncdfosijav7j267bxsxun3cbuq425lb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9160",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasfrt4bmrav3drm5vulf7xwcn5hprnh5czkjihza7ohkrta5vzmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10676",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicj7ldddnilm3ioa6a2loobwv4ckluahfaumue3mwo4tz4gzvcjbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

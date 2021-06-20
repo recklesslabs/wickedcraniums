@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6044",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigj75ocd426p6bftmcnakfwb7fmdgtczywoyvdr6elp334imczfxu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

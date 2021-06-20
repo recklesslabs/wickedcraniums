@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6737",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif6yxml5wut64eabmd6w4tsk2nm2i3fvals7kskgho3fwhjk4vdxu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3801",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihdfwrxyccq6bsll5ufmkbfvllmwbnswfsl3pygp5du5y6mt6wezq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

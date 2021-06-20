@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7513",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3uq3qqcvlx3zusj4zwlgfdz24xhml4ccyjbi26nk5bleyso5iza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

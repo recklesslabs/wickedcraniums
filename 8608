@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8608",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3boqruz7y7ffrxyuarscjaklxhtnp5tv5ce5rg2rltqdy7m4kdy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

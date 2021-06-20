@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9137",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicjz7xstoelt6wbhb2fdszhu2frzbzsr42vhxfnzgkkz7e3j3dam4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

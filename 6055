@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6055",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih7nq5crndc4sld7wnlltluqrgl4qv33ly5lrkz6au4ncvfsefuay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

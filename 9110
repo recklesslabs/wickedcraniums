@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9110",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifl2mltdqlpr4a5zibyfe7qjvdidnxnpsebqrrvddvjthew7qgtiy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

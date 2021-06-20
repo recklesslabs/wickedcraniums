@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10441",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemeyawn7ozljub7anm5rsmw6brbvdsausmhdisf6k2isarrjw6de.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

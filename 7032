@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7032",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibppo6sdnu4km6jvouh53x3d6u4bbsp2so3epb3ogjc5wdvd7e2aa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

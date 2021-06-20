@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6695",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnndd7wrv45efiptcx7mowqvftqqidpwp7jc7qjbpcehdxqm5vbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

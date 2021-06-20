@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9060",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih7v75nwe2jk4gbcrsdbo5hne7mmzgacamgiyyb3v5tszzdek6u44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

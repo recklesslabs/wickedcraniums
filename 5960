@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5960",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicvbkxmeihmcmhgv5tyqc5z4k2xvzckfeluhhgqf2vm52aggze4qa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

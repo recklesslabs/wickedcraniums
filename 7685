@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7685",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicewieezhrjfhrkmdk555373jr7ngfpjflmi6schqu3e6i62ikocq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

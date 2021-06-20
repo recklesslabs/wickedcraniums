@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9640",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifxzuu3tqtww3daqstrhuupaw4p5b554j2vvudq4u6plw22whgztu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

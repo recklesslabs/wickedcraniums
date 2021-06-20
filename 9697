@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9697",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid5h7qbeta43cu7do3lhnqxe3bqil2vy7jppigd333e6e2k5ssiwa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

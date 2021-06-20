@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8486",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreickkzgyaq4sohwcc646piklgpcjqqhvqjhi4cyixzn5jfpj3qga5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

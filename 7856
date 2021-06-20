@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7856",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiby7zexucbmydifqnnr3kf7ij7alp7cpbbqlfdoh2vym5cv4shfdy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9804",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaj2lp3i4wxwo25bma7pvsxzyar3bqiwyuvh32l33m6zyike7hgoa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

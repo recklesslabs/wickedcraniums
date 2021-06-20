@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6088",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiedoc3yube3w545d4ncsihtrg7sxovfe6ncaancmci5ed5hb5zhuq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

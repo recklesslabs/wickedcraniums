@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9472",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbwagsj3tsuxuszm4xtlxssp5k6oejy7n2i6j5ltxbgjccn4r5i4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

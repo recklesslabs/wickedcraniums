@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3280",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicsrhspjuyyf6wje6shi7efddly5w53xxsm4zkdpdjaz3us3pbgkq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

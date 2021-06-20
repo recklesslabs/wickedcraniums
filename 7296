@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7296",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieookrmdw2qs4asix2uxcgdb5dlmlgfdvuif2m6w2bnsrp7yxfdbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

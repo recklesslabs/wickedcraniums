@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7096",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreievbba7uc7gsiqb477i22ypwxkhpxgln72bgjjt3f6fjskuuycriu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

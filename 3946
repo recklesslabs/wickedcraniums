@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3946",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihq2kpimdz5k54dcf35b5hf2qcztuusu3bsxnvv6ma7f5ppr3zznm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

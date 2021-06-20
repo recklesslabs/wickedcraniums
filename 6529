@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6529",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidaqpizpw2x7r6iisaeyvb5awih3ovkvqvywrslb2fz5q7amizpxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

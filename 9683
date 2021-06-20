@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9683",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigqfi3mhrgdclqntmsoz65ccyz5hqs4hyqad7dnqm3gjraglnq7nm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

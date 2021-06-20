@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8621",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidj5bxidvmjdoj7les4rnlgh6s547qjoefdbt6azgzirkpn5rkzia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

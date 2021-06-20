@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7452",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigpjrju7ctwyfyyhmheakwjp3rhwz5kuoa7tnz4vatg3bgh5seo5i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

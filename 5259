@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5259",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwplmxcggubylid5utv55jipllyzudm6loklui4jzskl34zsw6ga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

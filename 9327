@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9327",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidg7bf3ocol64rxhulud4ux5w7gvtlsslns5yg5a6pj7p2zu6dhvm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5847",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid53vwi5elip4dguf65tpa3jmm5bwpiifcwhzzd4cnrc7hoeo3num.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

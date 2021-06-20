@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8695",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiftzbg3blzfsvc36i5h3bagkd36rhrz7lt5d6v5qp33i2fvrbexmy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

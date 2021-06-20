@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9768",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigcnttlxah45whasx6y63iipwryqwpwfsvmdyejd4dkoomgncrnsa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

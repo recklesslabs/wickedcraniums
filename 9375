@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9375",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibfkz27vmmebyl6eahwxgmzvul6jpg4poq4fsgopvutkrnlqtgnhm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

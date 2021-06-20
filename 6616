@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6616",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiatkgd5eacu4qlcw4x3yq3ztdxl5e3ehahhn5s4zbedsw2jrjy2am.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7497",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib243yedcoigsbdi7s4mzboknqp37lz5xbr327zvreh47mcqwjlze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

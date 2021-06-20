@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8682",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreictxilccx64ttzxf46qgupsilmcpgiyysatyv7asabkihcpzxbw6i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

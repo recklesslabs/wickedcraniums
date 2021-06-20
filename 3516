@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3516",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicez3rnzytp2whnv2oknir76dmjm23jpljj7jc566kniys5vwb4sy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

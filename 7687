@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7687",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibtlihk4eksjse2y5zfzrh3q3nfu2jwutr6crte4c6cafop7ohbpa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

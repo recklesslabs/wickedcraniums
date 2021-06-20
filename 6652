@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6652",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid5btul2edcsc4kbs7kccwtgu5icw7bjxmc2qvem5degm5cgghusi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9439",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicnqyeezae7uxsipryztdw6c3qrrvlwptsphji7n4r5rsknp4bwfi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

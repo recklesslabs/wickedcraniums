@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8816",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielu42xqyg5ykregfzw7dvyjlgdz2jyskes4qgpa6674s4lxvwov4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

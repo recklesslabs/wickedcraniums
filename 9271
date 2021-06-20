@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9271",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieqa7ndiy22pqovl6bxxubjov7tybkb7kckvrpirdqqgzajgy37wu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

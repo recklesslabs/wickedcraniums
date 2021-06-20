@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6609",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih5vzlk5oyry3e4d4gzo7ysom7yp6bxt2juxdr6wxjxbhc76wvpn4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10016",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigddb57bx6e2rlbkzfznpcwyohgjvwetmubldwo4tnorggi45tsdy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

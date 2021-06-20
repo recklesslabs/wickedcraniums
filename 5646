@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5646",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifk2yryoydsnu2jyoh7h2g4nahu5cc46n4qeb6ajnlftxveubsx4i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

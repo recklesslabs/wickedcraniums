@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8615",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif74bd5wjmhgc26ypplqiexpqit6lfavwi4jdzpygjvrtrlhujtea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

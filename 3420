@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3420",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdsz6bjqrobpdfl3oxrjdy4fktc4ejxmf2v4hkp4g7tjyeur2khu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

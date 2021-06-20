@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5700",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicryrq6v4zhvr52kz6cqzmdvqidwi53qrmyy7dhuaqm3nlx7tu6zy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

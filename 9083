@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9083",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie6srqhq6fjarhfjntcxewscbrll3u2cnzn4thleqqultfdlutg7i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

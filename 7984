@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7984",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih5yb7dck3bkmn6eudwbjhscc2dx42qzqin2iwzhwsjap2pzthl7i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

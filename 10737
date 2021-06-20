@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10737",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieyn3k4bpjyohpffd66vld2pi255x3rzyfaadl2atg4dvvun7n2ya.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

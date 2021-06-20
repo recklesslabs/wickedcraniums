@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10681",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihugbfkfbnhsmktsm6umkhor4pning6sdcznj5fo7xqwzsx3a4puu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

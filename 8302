@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8302",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwultuwpebz3naqiragfrd3rb6clcsmww2j6fq2ixzuf3tt4gpdu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

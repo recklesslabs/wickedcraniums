@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3937",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqmxvzlgiy7oxsetx5yve5473wpkxvrqrseyivmpitxytbnqkx5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5509",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibmzfp2k75dq3633xpns7ygf2vzt7nqnrjekavvbpxpdskoeq7aza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

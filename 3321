@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3321",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiedatvhy4qymlidxkyitbe4vuyuyg7jxyv3nen7e47rzaxnrqassm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

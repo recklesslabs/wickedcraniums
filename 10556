@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10556",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7skdlesuugil3xn7gjvkeysp7mujh6gbjujl276b3m76mwjfceq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

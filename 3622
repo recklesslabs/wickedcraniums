@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3622",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigpiv4orefumcpj2ti5q6qhld4euovu5mypitxerm7m2tntzvedy4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

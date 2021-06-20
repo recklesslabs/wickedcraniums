@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4607",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiad3xqkimfn7aqe6aweqgyrivjkifwo6mwdg4akvtug7gaf7xbxcm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

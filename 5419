@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5419",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreideihks6ygst3b3o47lderpql3q2433ckbowypnllwirka4vichx4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4848",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaihzcadinv335tti3cixs4hrcfm3t2cwgdlkzqn7qzqjuxd4dwiu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6865",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzvbckhk5ggrcysomcrejtc6iwex4tmaezeuvavl5zpgffdq5fqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

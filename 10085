@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10085",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzhrsf3rqew2mpdt26bkluy5fy3fy3fhomwcmmpon76h3pbix5xa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

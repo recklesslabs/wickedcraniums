@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6577",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib5rwqssicf62sjatqruxg3cedhrhnrv4f5vx7lf2awqwihriembq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

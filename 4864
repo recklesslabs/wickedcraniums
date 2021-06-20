@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4864",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigscckcu5qxbtcrlcsmg34k5e6zjyilsbabnklkkrpdyiupcv6xlm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

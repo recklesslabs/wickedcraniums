@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6468",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqv54astebpvt5j6p2axqrgsf4y5nyriwc2l2bl3ke7kub4k35qi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

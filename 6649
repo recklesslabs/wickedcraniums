@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6649",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtpeswvwdpnabhw6lyqtbspxd2t7c5rz2nwuvnidagm7hvv42deu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

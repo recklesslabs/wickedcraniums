@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5748",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid7lwldze77mrz3cfcvhavj53vgqwcgrznozinl5d2egn4ep52yji.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

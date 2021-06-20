@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6515",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiabfaa2tb4454yjmcndabqplytlv3cxfgqao6atw77jvsimuxdlga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

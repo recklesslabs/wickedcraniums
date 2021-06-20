@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6335",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie47mryu2iukdqssv5cubcbvplvbkou5h3zw46crywejsmjxrabfu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

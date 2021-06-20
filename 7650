@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7650",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5zioek7iziwa2aqongbwll4ma4ylwmjikoojdhiw23tqk7lzs3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

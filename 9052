@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9052",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiclcimnqdq27hariilodpb23z5qcmrplomustkeiyo2swgtt3hjoi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

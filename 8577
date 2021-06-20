@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8577",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbouy4qtdwznaxas24rfd7dp4f7mefsqhrtvr6fznk36alookfki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

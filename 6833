@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6833",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiatp2lzszl3ij434brhxziqvjq6labhua7lzabrnv5c6zjsznnbey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

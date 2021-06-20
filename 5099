@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5099",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiakmfbf4hdws5xxe6rtbyncvr5ecvswwxl6ge5ntyqkt2ahskplii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

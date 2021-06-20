@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3817",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigzpfdtk7ioxfkdunfmmhaaqjz7dlomlee4ekvncpldl2opz3q4wi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

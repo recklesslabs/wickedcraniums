@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9360",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifhqrp5exh4hbsujmkzo7yavo3uvygcn5lxvrpjsm7j5hfkesrpqq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4253",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwvp2ouppenyacidqfnrs7ppxfddkdap2zu5f4suzk24hpwacoxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

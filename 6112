@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6112",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibpoii3lfz6ftfugsr75urus2gofjfbt2lkelmjfqwxslinbgrtie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

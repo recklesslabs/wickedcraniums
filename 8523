@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8523",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaktuzxarhozxxpvuzujdtbxbfylisngk6qwgbna2jvdba2zw7m5y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

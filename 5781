@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5781",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieya2w24ondtfluqjwnj5ovijvl47rumej7euvqpliqoxevxtx2ay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6740",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih45a37mmg56ect5ckwggioksqktfb554km5jjg6g67zxgq5asafa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

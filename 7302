@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7302",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigpinsvc3cdh2nstpmzcr2xmhu45tnrznoi5brmdygmzvnvgwv2ba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

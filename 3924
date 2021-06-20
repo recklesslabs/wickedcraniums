@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3924",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidu5h5njxmk55uph4ybl4hogt6esn3tax6ayqwqowkdwxnqrdmwby.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

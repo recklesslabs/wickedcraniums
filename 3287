@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3287",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifv2kgwpune2xh6dxv6rdpinv3klbw336ovus65vme34fn4pmjtxi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

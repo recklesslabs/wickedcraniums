@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3422",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifekq4igfp22mcimg5d55wqyjfh7umth4v3fcxwzom2mlfdsrluju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

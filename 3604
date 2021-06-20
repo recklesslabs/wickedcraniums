@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3604",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid5l3bk7bxraqfnmdhqyqq3arpu6q2ynsdmcord6mbkoscrjqoi2u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

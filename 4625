@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4625",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihqf43y46qyhpvp3u3rnxaudnjaksufeu2hjvbpalsnwpwja6dxyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3757",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6w6ofiqphinnbyveb4e5cc25j727tgoheaobzz2qw2bh3xgcodu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

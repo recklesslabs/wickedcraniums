@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6195",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif254ctqb7qnz4mkwvrh3tgpdfux44qhrrqj27euyc6g464qplmdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

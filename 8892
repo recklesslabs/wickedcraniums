@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8892",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigvhx5dihtxjvlbg2kc7z3liuswrel5zffgdlibqreczmfxv77sfq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

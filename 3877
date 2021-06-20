@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3877",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihfas6z67orlwm2dhs3kimdxr4dl3b6adloy4kqeedamkvicazoum.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

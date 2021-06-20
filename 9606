@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9606",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibh4nknsv3efauqv26gt4ww252rwispier7gbx2rktuvpjrlphlze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

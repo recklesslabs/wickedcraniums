@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9716",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaxmyk3gdrgeaxhpwlzajihy33jiwbpcykz5dpwuek53yl2u273cu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

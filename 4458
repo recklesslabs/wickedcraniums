@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4458",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifij7lx5flfus35shth6j5jle33jh5v36scsbxjdkmwooazk7y4qa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9686",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidbgtloacggz6o42rxwizedhzpspzaxrpxwwjvdaoftvxwzkqbwp4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

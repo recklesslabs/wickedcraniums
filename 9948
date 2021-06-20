@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9948",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie7753c7i4gs6eu4t6otrcra4qcdbkbsbwgwizqekh3amxtpgmjhe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

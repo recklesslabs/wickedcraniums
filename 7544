@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7544",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigzq5g2sg2pvk33nqnzl3icgy3exbdga2ggtoywr4j2o5sfxtk3l4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9819",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkvn2nwq5fya4uxaqayoa6hspfm5e7gi36aljdvpntidtgilwvua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

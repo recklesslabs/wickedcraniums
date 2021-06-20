@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5469",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif57evvrnt7zimqofiy32f27hbpl2q2lee5t5fhexyofwv72sdxty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9264",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwi45rlct3irhxlk34btbwzdajy34olw4gkjwmhmf7any7c7ik7u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

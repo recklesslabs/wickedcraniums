@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6552",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicmxzgkjm3537sambls6bc6b7bxzqqyqai4kbtqpnntx62f4f6lmu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

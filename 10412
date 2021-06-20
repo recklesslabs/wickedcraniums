@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10412",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeictaqk73cj53dba4umicgllpbgnw65surr6agbq4anvn56b5nwxkm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

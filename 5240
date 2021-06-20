@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5240",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6pmttcdxckg3svt3bb7nvyc6xrhxqiuheiselds2ytzbvk2mzyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8215",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibght6a4f7z52xwruyiaifm77pc7uif2t3vgzze3lrkqauzgkjvey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

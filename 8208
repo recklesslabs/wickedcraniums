@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8208",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibtbao2skbjllisozapl3ccn27y3ekwiwllju4j27rm4yd4fzx7ge.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

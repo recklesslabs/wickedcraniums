@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8772",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia6exyhadf4etva6i34wldyx4jzqaj6bmqfouet7lxokvv2yhed3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

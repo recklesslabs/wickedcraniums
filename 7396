@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7396",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidhaqfbpco5eckhrxvf6pw5f4zmzb2fpottwq2bbgldng2du5ukii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

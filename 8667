@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8667",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicvopc2ohfzis46kmrdbelb2p52wsxouza5ji2o72pd7ydqp7ef5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6884",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqmp4vgbzfcl2hzklvwrvw556jxb2azxo7lzghgmqo3ych6o7eei.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

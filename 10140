@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10140",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmdupekutmojqvv66o2fc7uzcwyzoadyz3sotmryfvnwa47fyd5y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

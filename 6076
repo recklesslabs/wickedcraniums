@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6076",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7jpxzw2q2vqrcs43ir5moazr2qkx2xomtdh4nqealbnhj3h5xzm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

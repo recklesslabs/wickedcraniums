@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7827",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifqnrhmjw3otydo4wp4fetopfmxfhzbofosoo4yti6kgo2eiz4bcy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10005",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4dquv5mjkl6kbka7xmolzngjxdhf3y37fs6353mlkxl7xanw5mu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

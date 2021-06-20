@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4139",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7jywwvpvdx2ckdj6wov2ipe5x6l6joydoyhsc4bz5kkidsoco7u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

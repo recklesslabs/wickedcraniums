@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4450",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3nir4rfh3ace3c5wb3qok5s6b5cqmutvnlczb5icnrgytldfksi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

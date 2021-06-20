@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8656",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnblk5gvyfhjiymry5laxvqjv6azaedero4vnubxkhd3m6bxknny.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

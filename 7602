@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7602",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreies3dinr3sw7s4pevf2rwh4ns77s4tph7yxqvon75vufedzt727mq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

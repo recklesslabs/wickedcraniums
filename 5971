@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5971",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiagf763rvxdqbijvegwp4w23nhecnv4jj3cgj56wm7kiiqlwnfqam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

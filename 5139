@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5139",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7ze25xvkibf5lvyi2wneggatr36o6xtwnmceui3wcj47crsld5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

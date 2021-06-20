@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10261",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihivfmlf7wpapxkfprcrtiqxtepqshui5u7rqbipf6wlw7peknlpu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

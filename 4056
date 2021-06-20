@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4056",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7f24qzwzc3w6f6qkntbgxf7sgrpiqlcfrhizxo3fcswjthicckm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

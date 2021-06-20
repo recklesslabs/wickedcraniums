@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5598",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjanx7qgntmkuhlcednuihwdbkoqsbuirjvqqpblymrtf62wb4ry.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

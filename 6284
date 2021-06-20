@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6284",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkljoz7oyvbmupiatjbi73n7ag5iy5dekaxa3btmwafiqm2pihvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

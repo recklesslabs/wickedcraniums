@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10691",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebujajibe5pbdc6qa362ckvvdbyj6fjkudkw4k5se6mqwqebfwge.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10446",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicagqjxg4bmzrbceovoolv2w2siinbvtsnoeaks6preq5mom4kn2q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

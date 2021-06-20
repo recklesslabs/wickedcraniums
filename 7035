@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7035",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicbd4o76dqyrn7m2g3eoz2s34bi7lpqgiqt3cdahk5w34hkzlpmta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

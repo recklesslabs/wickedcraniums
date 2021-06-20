@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5918",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiesmc3ff4xoacwqyfvfplibc53lgttovbk6mj3edlgolivwrdqeuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

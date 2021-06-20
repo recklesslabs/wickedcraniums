@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9525",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibskecd2ytgxppgi2exflb23t6kxxsd72trlq5oint56tlrevkouq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

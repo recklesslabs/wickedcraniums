@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3836",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid57zpbqdjhausaotwhyoqeeubu2d3qjy7ib5ujd4kgd6i2hxtipi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

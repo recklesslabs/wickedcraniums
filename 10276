@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10276",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidp4idxbyrbrzdan6qbdesihdo2iavbvvemia5yedolw52qdvzmpi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

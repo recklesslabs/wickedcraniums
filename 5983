@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5983",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihuc7xyvm5lydjleh2fff4khvpsfftpycr4e7dkgpp2mvvkhvn5fq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

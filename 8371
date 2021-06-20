@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8371",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifqwa4bxgtnlrcufkvf6rdklwcfqxll4nni6bcsj4jq73rejaeosy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

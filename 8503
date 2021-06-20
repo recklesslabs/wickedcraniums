@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8503",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiawh3dzrwf6aqguvqobpufsuntf47tumyvxrna5zjjlnaxcgcr2py.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8079",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3f4l26mi3hgbcbb4iczfuhuimn4pkbceowf2nmb2lu2p2rtbjim.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

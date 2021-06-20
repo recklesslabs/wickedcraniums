@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9820",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4mgwwbwjozndgffexivfhnhbfkx3l5boe4zlzsodrfyw2c2haa4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8864",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigjkns4mkmbq6h2j7afca23st6ekehsotmsu727cfmh6p4kmygp7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

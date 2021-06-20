@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5915",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiae3kw56jh5rczvxeu3vwjulddlkupzoqhb3h67zfmyj6j6vb7czy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

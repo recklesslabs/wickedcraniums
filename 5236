@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5236",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidrugbncni4p52yil3xrof24dtyx526ku3qhe5tsbqlhhdgjkb5ty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

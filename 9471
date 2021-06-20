@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9471",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7qj3373nwfclq5shcp7n6gpovesf74hiyjfqg5k5wq5gthdqadm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

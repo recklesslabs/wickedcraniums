@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8883",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeieut2zggavhuyllpkogedouhqjya645d6rtcrz5v36y2w46ygj4ru.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

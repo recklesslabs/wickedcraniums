@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3715",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiezucnwyuhyywd5rz7py6fu7z4f7so2o7gvrjp6ilxibiqsauk6fe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

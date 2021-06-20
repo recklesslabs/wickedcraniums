@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10305",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifsit6d3h4zsfth6d3s7r6mbpdm3p7p5nxi5dw5sqjtxpbfhj625a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

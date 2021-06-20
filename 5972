@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5972",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigalbsonke4gjrk7v773wuw3nkwvym62sbr7h2fypevqq7ombumiu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

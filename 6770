@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6770",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihuczfr337nqjwvn76zakkihghtvkqzdxauxbyjfe52jy6kkpadte.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

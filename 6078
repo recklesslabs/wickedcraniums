@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6078",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihl2tthjug2dkwv7y4s2cagmeh5ndpwospy25wncwqcndv2p2mdey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

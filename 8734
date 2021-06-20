@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8734",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigluldu72od4r2qp5dbtakhumcj5qwgmhavcxauubvgo4kmmmph4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

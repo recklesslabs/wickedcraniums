@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3722",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexqcvi767jzrvix4f6576udkj3hyhn245xjlx6ywhw2rwopil5xu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

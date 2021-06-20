@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5222",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibhetqy6z3w2h2m3ajdxyinc4zmx6vdqsoocvrql7k3gqffkcsqfm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

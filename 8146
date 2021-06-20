@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8146",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihr3p3rbnwjpbzza6zkbf6szrv4zwlodlp4cg2itfljl3f6bz5ase.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

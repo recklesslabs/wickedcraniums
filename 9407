@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9407",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifof4clce67lhyzg5zkqmdbn4pjf55msxnjlenbytdzyt6qmuao6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

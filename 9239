@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9239",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigckrea6q3iirsbwocsymt44ul52bks7ajsblbmydh4of6qnwiqnq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

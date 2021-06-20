@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3613",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiakcm4cufwadxo5zbo7ibuefrrsqj5rzctbxyd2bjnxv3snocewuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

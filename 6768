@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6768",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiax6psxtbuvoumjhck455ryrbmjwjkekgwmxcutm5526if27rosxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

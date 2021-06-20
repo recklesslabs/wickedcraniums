@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7762",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiepwoygjjxsyrbrktz5lfr5oq7ta2n4blxbjo2lgqpixhljrnbamu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

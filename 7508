@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7508",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigm2z3qvpgy6n2dze2xwve6xo3twk256ifcjuoewpcowvkqn3m4su.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

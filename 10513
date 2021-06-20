@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10513",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibkwjni3dlmquqdiqho24k6ovgj2vdnmw6i5bt4fz3mekzeeleh6i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

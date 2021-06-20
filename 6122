@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6122",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicbi24zivwkwgfexedksawvjjvun4psxjs7wjieatwumxqowt7oju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

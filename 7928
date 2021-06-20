@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7928",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqznmuc6r2wltqmsuapntoj4x4hrizoiukypb3fjex26i5eh5bdi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4624",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaa3slifcnpdpcivx7y7eqjgzhbdkl7niw3dchprwfillvm5msvam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

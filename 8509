@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8509",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif3ny5ykr6zulqnqncclk5yepf4txzh7q6wnelq7bzaeqbf3p2eey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

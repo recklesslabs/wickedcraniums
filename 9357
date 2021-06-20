@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9357",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreien3m745iexz63ro3x43a2avm2snrqvkocbsnigppgsbjrr5uf4fi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

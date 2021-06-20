@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5752",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicweqpbwjuwvrkkv7jp6emdz2woo4nchrulhckmvdldu6sodoxshy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

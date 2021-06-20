@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10587",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigocglyycq52pguibj74tw4ytnq7smrfcx2xb3r4rp4dw7lhskkby.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

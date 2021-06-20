@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6634",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigm2cpuqi4uf3tmcggncbifec5fzbcbxewz532ln7etk5ivj2vbqe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6271",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihwtbltq4qhdwdzz55mj53dqcik23ymspv3wkxk72j24c4qlc5cx4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

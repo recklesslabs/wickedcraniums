@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5978",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreift4akdpulgfk5rfrlee35mkbqu3aswcgs3qntfv7b26h3cceh62m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3644",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiepgbybgwyoia4lta4ku2xavm7oxdixoskksodgvw7iuclnmctjfq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9909",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifuqjiskt5fxiy433qetsagnuvfhowwjtvywa2byrz6nyvqpeu3ei.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

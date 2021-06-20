@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8788",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaakfzm6ik3lmymg2qfkedgposi4gz5qvbsl73jbqqk6rzszjnavy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

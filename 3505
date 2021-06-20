@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3505",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibiq6yp5qtqj3hy6fusbt6kmca3cl44jkqrkwfg52k27v4zn7uj34.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

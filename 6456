@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6456",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidfnk5qxtthn3ypznop7pxzirgdujncmzbcqmgwikqu6ftnfcxxza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

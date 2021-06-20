@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9966",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihdsf6dt7jau42nmitlzzfef4cven5k6zamvjkqxs725l7ut5li7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

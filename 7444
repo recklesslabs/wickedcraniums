@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7444",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic35rqmbz7qqbgbqsqo7qhy6oxeecuvd5lq6goao6twh6bh4upyeq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

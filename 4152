@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4152",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkq5vkpwqxawb7lmkcwfwjdh2jhy6vck3encgcsqr7euomhk37a4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

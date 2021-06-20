@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6544",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxpozyyga2xs27hb3ayopexfena7matc36ytswrneo477jh5t2ba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

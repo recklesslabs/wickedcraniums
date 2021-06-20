@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6686",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidufkmhh5jb7ylqclzgjibrcl5qsmtkyvsu4ln6qtf7wgpopfb4r4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

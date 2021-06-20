@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9892",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigv3qwhalpgbvscdj5v4liysxpx4jshe55iugktz3rri2wepolzjm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

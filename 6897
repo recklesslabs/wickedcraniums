@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6897",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifypsis5rr4wqm5d5klf2uoeocoal5blm5jcixtfdjx665fm3e634.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

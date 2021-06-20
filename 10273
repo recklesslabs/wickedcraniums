@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10273",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif52pk6ou6tht7642i5sr74fgllccmhni6m4sthf7maezzoyypelm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

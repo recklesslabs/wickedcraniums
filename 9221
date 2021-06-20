@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9221",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicohtqmi5ktrgqkx7x76r4z24vltxiiwe6tmaswpl7pcyqhznqf3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

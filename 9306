@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9306",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbdgegitn3v4iw2j2nfq4circyf5bci7y7rds6rtk34anwqcufwm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4161",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreievhs5zfqqb5ona4exday2qfrzagfek4fynbgvdptrq4ii5v5x3kq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

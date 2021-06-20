@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6869",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifognb4cdeccdvpzmowndz3axhwqhaw2tedgxasxtb2eei2hw7nja.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

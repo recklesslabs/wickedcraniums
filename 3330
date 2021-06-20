@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3330",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibnadbmnrzcbkuyphdi2nwxyidux5xozxm2a3md7hnydtaf3wkufe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

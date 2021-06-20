@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5995",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiariurz4lgle7shxd6kmycjmcb7yulyfnlqgts3ruzntzdw5jxxbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

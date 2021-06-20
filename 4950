@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4950",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieiq2ja5gcuum2wg3lale3azngbbsgpov6mjkpfe4fjqrqenojnxi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

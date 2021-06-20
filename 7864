@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7864",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiciqyhooikg3veo3d72sd7sqxvhguxsxsovz7pxqai5dekhubiymq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

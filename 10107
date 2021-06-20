@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10107",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7t3ata3q2agwhgngfzluetjknmlqvjpxlyrwjopsmiafugffluu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

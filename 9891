@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9891",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifsdluvqr77xuzxduha5mtvsevpgqy7u44ptt42cevnbzluf6ciju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

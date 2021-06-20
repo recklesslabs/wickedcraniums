@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8447",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkdqso22j7ntujtbforhvyv3qyus5qt7oivdvosap3btlpwkl2fm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

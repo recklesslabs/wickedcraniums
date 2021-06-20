@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8254",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiatzptq3snoyfq6phh6p3glgotilmtjtnvyftyqaj44hlijskzfjm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

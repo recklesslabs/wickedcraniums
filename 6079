@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6079",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiewumujog76mgyl3u3uirlo374zarqjpjkdsfsyll2ysurhdcc4sm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

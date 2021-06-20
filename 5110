@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5110",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigb7kprdtj5g4ujonchbh2vbxnvjg2pcknwyafirflx4mv3wbzqim.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

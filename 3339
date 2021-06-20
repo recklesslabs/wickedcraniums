@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3339",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibupdp42i2ksceatfdykdcepvnqvsvyen3bm7gf63nwueigm3hhai.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

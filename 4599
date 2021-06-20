@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4599",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihrs23t3gia545p43yneeqcy5g5hbyxr64rs72ds7qf5ps33jovai.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

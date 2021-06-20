@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8016",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicten3zf5lxiu7opqbqvgfypskeon664wls45gyejmjrd7i5rejve.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

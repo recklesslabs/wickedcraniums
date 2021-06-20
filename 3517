@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3517",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihewajy4x7ygjfv7qecketpy6t3h2yhsq322v3qq47ppo6pssthty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3843",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiaw4r4ozhl633h3mna65trtkuggecyevppsxvjbddhs25bsih4pnq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

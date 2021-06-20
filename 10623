@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10623",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibphyyzvqz7mge4kycp2b7vr7aggr7d53g6wr3b2g5ayntflwevg4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

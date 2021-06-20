@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5955",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlpyf3o2otv66xkv4awps4zamk7ipuogg3o64okzb2tqdhq3lvka.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

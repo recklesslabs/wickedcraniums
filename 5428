@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5428",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieusermmnc4y22v7kcxbpmn7jbtupgwk7vq2mr3ke6rsusemporty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8527",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihw2ixji2pwmpjkgfv6fmjixpxgvwmpilwzbn24rj7wvt7i752tb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

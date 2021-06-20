@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10279",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifooggttfrxe3f3xwnhwj6jpy3sshsewej5si555wd4itkcguh3na.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6640",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreienbtam6prc3ub7fzwckiykgbf7dygaxop7y4rlyussq73gdxb57e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

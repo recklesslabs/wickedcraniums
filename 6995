@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6995",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5psdfav67jjiohvne4coo5ichtnco3oin7jcqc4ll6lh3lgbi3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10596",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigbcg2nazrau25xjhcucmpfgtuqpd5rtkj7q6g5ngrtvvd2atj6xq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6389",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7zmmycznxyed6al3lcgqq6ccc2vcp3kpvy663bnczbfbylx7yuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

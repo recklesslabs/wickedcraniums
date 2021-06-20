@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7988",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibuwyskrc6b77v25hhizptiwy6ocecef3xqckwxkpxrh53iswgeta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

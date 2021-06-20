@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3568",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicjukjx3zbcuzbu7citj5winmswzx6iqxe4wnvbusk43tbtb2363e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

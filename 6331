@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6331",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicjyz5nd5sfg3ldkkerxy5zsqpcd7ol3mgclru37ar3k7gecgvdhy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

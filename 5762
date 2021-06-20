@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5762",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigltfraxmgklg6crwtomjqogpinwg2a4jp6h7age7ul6ld3jvxjym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

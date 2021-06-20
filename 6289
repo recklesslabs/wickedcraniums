@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6289",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqgffot6hm3jz4auzb5pfz4dwiv5hhovg4je6uxfh3zgdp6zsw3q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8588",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibzzsq5dhlq4qu4sidk5735war7opxwbsa7342tor2ek4dbqf3onu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

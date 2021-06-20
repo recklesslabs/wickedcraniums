@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7112",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidubkhnaqa6ilw6a5bjycihawapetfg336unabvfvvjayoufq5ave.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

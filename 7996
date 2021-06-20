@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7996",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidi45244giu4i6elp4zbw4ogoge5ecsefuy74jccpry42gn7u4exm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6353",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih3iw2wadb6paaud7hjxbbvnsqzqrzu2imjmtclqhumq7lmegw22a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

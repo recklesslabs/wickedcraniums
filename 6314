@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6314",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiazldrpizf3zryi43qldpcpplxvdreelibf7mx2vp7ft65cww3xia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9031",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidq5flq3vcdb23mdi2u2j6rtyk65ut7dgcjwffmh3lcokrphfyxx4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

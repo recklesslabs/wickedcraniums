@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6886",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicadwmlwajvjxiwkl32t3qgd6ylpirpcbbnaa7vo5myhmwnakw5qa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

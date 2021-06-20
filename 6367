@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6367",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiew2v7dvkvaylitpax772lpiwtnwehrcf2ffdd5sef2xj7bwwqe3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

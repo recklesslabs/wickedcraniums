@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10343",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiekbcnrrtejutjduhbxdrs233asfqxikf3qkuru4npez6spog2y2a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

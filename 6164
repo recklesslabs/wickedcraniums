@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6164",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib27bdwnadiabk4fcimfrwxq6kcnj7md4nlfylcvttxqw6tltukay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6215",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihlsmgwpgicr4srs6zr7ri4oi63b65vukfxo7usepzslhhqx4u2se.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

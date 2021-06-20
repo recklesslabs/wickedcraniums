@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9995",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibsyqo2fdn5ua3lcb5ymhiino3npid7v5scj3m43cnpiks2dx63uu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

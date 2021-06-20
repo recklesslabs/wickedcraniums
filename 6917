@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6917",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifd745du4f56grkskdvvaqgzkqvtr5cd2qjb6yuqsgsohuuofu5pe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

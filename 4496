@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4496",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihladhavcx2cxm2hbxkdkhynpzwr5lksqankxukzsyksns4ckeyky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

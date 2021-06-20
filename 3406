@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3406",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiecagh2x57bw2txrszfioj33nph7schtxt6ptaaqylr5apis4ufh4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9074",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidq5qsrbc7iplizvhdqqjlzebhken7jyur43owntr6ljhnkhzyhmu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

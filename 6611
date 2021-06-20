@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6611",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib5rebd7vx6cgu6h4q7ridqkocfif2hpkxnz3z7pyzpk5xidsrpe4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

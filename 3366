@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3366",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid5hbvfdw42nhrlzsrex2uq2xaqnxbezlznfqwyvscfyloaxkxa7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

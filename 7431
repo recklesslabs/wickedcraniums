@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7431",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqizb54gm3lhwnmqmihqkxurhop5yqvmj2cpf6pu5zg33iqeofza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

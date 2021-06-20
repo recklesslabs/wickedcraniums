@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7722",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic6bnewmayjmqoikuawt6gd5o7pow5eid67lfyymcgcphrq53ccwi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

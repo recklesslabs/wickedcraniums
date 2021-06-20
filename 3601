@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3601",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif32b2zbsq6fs3omncgyk32tfsjmyjt6s527j4ra4v76jv3xzapcy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8818",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidjjfyxvasdm7c22wnbpx2heqhsrvm5vh6svqdm4loiz53ynrxcoy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

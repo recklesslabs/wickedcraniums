@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7362",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihglkmn7cjzf3ohtin5or3d45ac446ayn4zg5otvce3nsbrkpefkm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

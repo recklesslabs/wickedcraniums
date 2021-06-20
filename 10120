@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10120",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib22vmxbf6mzx7fo3l5sd3lfjzs5ly4lh6b6turmlnicj5bjovvym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

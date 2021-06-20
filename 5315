@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5315",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidomafl23orqnlqbnw4o754f4dbtrzyac6lkp322cfegiw5ovtcie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

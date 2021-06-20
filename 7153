@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7153",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpdrkbubiqnu2d2n7o4nqbuclat62mww5ylvdyge3l2o56ocyd4y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

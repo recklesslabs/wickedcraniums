@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5610",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihysvpqrcywdegmm74nytghntpcrjvp2kavifwuw66ff77f6pcnsi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

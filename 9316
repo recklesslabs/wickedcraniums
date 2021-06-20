@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9316",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7kxgzxx2r6azhbmff5i5wzr4mtfqdjnrshdtny7ohgcut74x7rm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

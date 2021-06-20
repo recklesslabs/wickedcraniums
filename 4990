@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4990",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifh72yexvjkni3l32m6g5q74hmixvofrd4znxeu3rqjr3zu7vnova.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

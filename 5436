@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5436",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihu3o47kf2kcxptzz7jtrnc3l3toiodezcubq7cqwe5jcx7fnm4o4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

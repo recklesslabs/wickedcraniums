@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3958",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidz3gxh5zcfvhpq2syoy2nhbbyto6rhwiqinwe4zbyhvawtshkyxi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

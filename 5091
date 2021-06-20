@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5091",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgcsv6cksypleorha26lwawhlf6imvul6slppfcahta74etmiz4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

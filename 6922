@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6922",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicv3d35hdjer52qtxopmquwlct2mxme7v4d3eu3z4nurtcaxkicva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

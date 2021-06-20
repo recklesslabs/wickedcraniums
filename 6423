@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6423",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwx6ny4hh6oo2myz4lxmouhlxagct6icqrqroglpwyplxnec4jhu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

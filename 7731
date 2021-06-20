@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7731",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiher6edrgracx3k6doe35mtfjlg6ygxbcrxgvveozpixkmucqh2ua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

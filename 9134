@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9134",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicm2vksx44epxcfbjrbtuhlot7rlichottergtywfxmeimp2oygky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

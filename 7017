@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7017",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifhasre337ghuc3ngw6kds4jtkii6nbulghggfbkrrecyyutghzvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

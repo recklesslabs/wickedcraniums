@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9232",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihuhpqk65mocjdxvtpai2zapt67aervlzau7ypfiklmyogatit5ma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

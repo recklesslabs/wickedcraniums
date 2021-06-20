@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10630",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiam3ssxxwprw3xkjmzi3vj5kpootullokbxb3hpiebwitsidjpvly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

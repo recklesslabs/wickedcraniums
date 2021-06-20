@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8544",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiekyg6kj56zwdjmaahxe2zydchwyvo2z2b6oivlb5ebf3hbyhxyii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

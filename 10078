@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10078",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaib3l3cvm3kpyrgu6g6mi5t3n7hwacyek75bhwwjm3luqs6qgwnm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7342",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighjjnsxrucyr5gnqad3z353sjdahrpweapj24unig2t4e4l7z2ki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

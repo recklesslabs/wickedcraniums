@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8297",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifgxegp5ruatc2rmh5wj24lx3nvbe3p2ov5heftg2sjlb4izbdnxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

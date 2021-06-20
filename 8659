@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8659",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicbo3olr4yztcukc6vjuxrronief5r4lmkvlcb7arsdklm7fa54he.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

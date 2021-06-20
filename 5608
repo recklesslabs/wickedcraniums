@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5608",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibjhprtaiqtzklbi7o6l27hucodograyt3xgyxxuodmqxtgrihz6i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

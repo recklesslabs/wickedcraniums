@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8203",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihlbfelwfa5jykudccwa2n7724yb5oyu6aytropblqrkcfle3coza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

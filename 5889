@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5889",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifgfavzvj47o6ddwa2kzv53sbtk5e3utt53rfctnjm5kmn3de54eq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

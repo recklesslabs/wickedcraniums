@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5514",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigt7khpadqhmit2o54ge5qqejboat2powene3k7cdu2uahoww4tte.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9895",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6nl5lf6kvjjgok2oo3a64wa44qbg7enb2s4rebvfluc4mzm4clm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

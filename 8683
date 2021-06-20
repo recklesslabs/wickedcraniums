@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8683",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidz5fbk66xdtggldr7q6gpd23namufz2euk6m5wkiz3753l754rqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

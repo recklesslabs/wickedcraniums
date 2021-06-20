@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7536",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicky53s46gmlrotllzv36rm2vwreyy6ap5fl5tmy2jrz2n7zyhdou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

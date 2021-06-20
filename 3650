@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3650",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihm6jehivicgn6zac2x6zqmjhtf2kyr6azaibzgeeibuodfdjs4r4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

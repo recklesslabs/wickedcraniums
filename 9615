@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9615",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihb6sfal7c34islxcvzvjld4p7i57bv4fbqyjlvoodto52hqltt6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

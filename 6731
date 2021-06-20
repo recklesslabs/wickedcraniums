@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6731",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibzrn277qat5wjap7sfgpgb5ayogufp4wxi6lxc7nmmxaaawdh3pm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

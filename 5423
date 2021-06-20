@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5423",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzck6jatxgzkkvx7ffcmel2mloghum6d4egxkhgn6nzn3l2fjcmm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

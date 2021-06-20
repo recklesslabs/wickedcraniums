@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6255",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiblxp6wcnzykd5rxsj6llzgd54a463bmopgmilx2gcx25swonxfry.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

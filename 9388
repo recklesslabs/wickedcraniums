@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9388",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqzjnynsw6f7p742n7rhix7t4sw52axp3piomltpiniumw5qo24m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

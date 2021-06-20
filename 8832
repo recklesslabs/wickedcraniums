@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8832",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieyt6etaxcyny54gxc7wrrxsriqsrytssb4rgplby3tc4hdk2iqey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

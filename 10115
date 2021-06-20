@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10115",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeie2tzzfqom57c53inpyn6h3v7us7zkzqbpywq6vtgnym7mkuuun4e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

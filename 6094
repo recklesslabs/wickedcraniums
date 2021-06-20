@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6094",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqwpqvg36oolgpoxpwqcxe3opdnm5sw6zt5hyuv3jpmoi2ehynbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

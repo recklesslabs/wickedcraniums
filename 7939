@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7939",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieoj4qaj4f3z2otluu5ihpl7gc7dqseitfjdltzd7cwdxmfunb7cy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

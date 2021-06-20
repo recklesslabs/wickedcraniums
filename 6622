@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6622",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicwbbpx3f2tr4b4bz6qtv2ofbvqiz7fn77qk3yuu4wergunnrsbna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

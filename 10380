@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10380",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigy4p7dtlp5he7ae2an2d24wdi6yh4y23ns6dw6wt3tko357kf7cy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

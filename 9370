@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9370",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvw72dpig32tgkzn5wn23lifjtszux5qjxjqavt3f3stayulsbxi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

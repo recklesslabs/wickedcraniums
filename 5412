@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5412",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahh5xfwegpv4p7mm4lnp3ju4uea4namdxyrcyfmmvzc3rrhigw3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

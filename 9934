@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9934",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic4qfnniw2e6qavkldhkarxxspwzcaaif7bfh3zztgzblqosp7x2a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

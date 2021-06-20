@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7775",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigd3okll4bjy74cigszg6pdwld6p25fxxcyd7c4fie72ulgxsmqne.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

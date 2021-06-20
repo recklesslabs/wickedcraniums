@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9045",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdxulqbfgjudarl2w7wdcct5seandibvpiscfv4rfdqbqmzjuote.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

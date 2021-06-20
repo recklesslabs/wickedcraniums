@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5094",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifli57nzjeptowhrblsk2zrl5tmlkn5izuo33wdtkochqmwh2ddta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

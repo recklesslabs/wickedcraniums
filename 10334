@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10334",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlkowij2s5xr4y3ym6lljba5saembhcb2i75plcvi27kol5nzjde.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10191",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiczwf3gapzgdvlui7meldtcfre3stiuqt4jla4rmc4mpcrq5qclnq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

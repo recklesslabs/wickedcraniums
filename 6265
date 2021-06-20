@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6265",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiep4euxlo3ovka3hrytf6blns2vbvcod2477zsu3wcqstjwvb6mpi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

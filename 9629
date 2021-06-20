@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9629",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidya7gm42mvddsm336izwjz3c4cmcrdvdpqsbunopv5pmu4qbqqsq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

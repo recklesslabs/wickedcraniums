@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8704",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifhhpa4ztakt3cgcm5r3qijezyezpsenllmy2ztfg7es7v7d2b45q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

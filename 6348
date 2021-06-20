@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6348",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidz3giegmcjnzzuf2yrjkh4atflliyioxovb3p7shdygufs7dirye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

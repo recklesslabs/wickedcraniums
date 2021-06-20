@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8129",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieeiiu7g3wjcr3oebfegfuhwkcpjofimdwbra6um6omdjdywnnyfy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

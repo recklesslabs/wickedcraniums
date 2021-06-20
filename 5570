@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5570",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihd7vhp3pm52ulekapek7rnjx62u25373gi4xuqwnnhjpczie65vm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

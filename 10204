@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10204",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidanv6um5o2en5gvd7yczn2nyr7knz3nj7lnka2mbdldxch6if774.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

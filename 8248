@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8248",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib2hqc7wbw7syek3klsiassr7xprca45k5h3gvgkvomxt423tubn4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

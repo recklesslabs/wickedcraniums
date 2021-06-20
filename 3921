@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3921",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifd4qtsgrf2vm4k6mjhvmdxbfn6tg57kcppnznqzqcby45a6vjuza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

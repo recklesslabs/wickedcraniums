@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10223",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3liniv3p43w2skxwq7bohyin4g5bbizivwbvfvo74yw4xi77gqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

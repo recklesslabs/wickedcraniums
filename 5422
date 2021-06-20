@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5422",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7fhwlehzcuttmxcmoe3lm7eqtz5snexpptiymcswblwfjrwaq5y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5179",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicslndvw2pb6onpur6hcziav2cvec4xghcy2ss5xa3rfkw3j4jrbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

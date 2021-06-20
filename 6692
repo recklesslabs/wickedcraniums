@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6692",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdohckggjgryma2xqiexzdh4nqowwwdfxni2ri4fgkjqxji4hpae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

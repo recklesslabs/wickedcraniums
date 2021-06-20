@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3823",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibc5s3dtelhjbkfzyttbjconmnzgyctv2mce4jjntmq7jtmselnqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

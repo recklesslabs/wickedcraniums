@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9291",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih7ik25njh3yrbiapakjq3bh2lr22rmyiqcksfstn3enq7cvcnuq4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

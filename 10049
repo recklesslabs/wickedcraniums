@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10049",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5ritvv4kttj35yxf42zpj2kzevea2lbmszixleyw6wejpq6ty6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

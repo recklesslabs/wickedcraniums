@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5311",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicirunp7oucacl3domhn7b2q4xuvntg7g37hwowzjzxphdwf5h6hy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

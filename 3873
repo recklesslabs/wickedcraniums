@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3873",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiep7qsqjgusyg6elnkfgw5uu5zgo7feapd2hyy4vyaatljq735mxu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

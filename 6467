@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6467",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigefktcf7zocdw3mmpgodnfgrug3cfsn3z7pci4nkqg4a4g4eprle.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

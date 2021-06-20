@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5286",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidhxtozbole3h3plapalaaexp2oenzvqa2xqswjpv5xxpew4rd5sy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

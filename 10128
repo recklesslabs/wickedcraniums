@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10128",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieqzs32rgo4hh5rvn42dw6ftlz6veogh5p57g2kezedashlhivcgm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

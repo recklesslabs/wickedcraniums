@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8564",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemzwwcw4qiwugsv65q7i3fgb74qoox2et2yklhmgdgwdso44fbju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

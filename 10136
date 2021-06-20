@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10136",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihaoa7gmsowwjzui5ycrjweuvc2udcpdt6uljdonorn6m2wuyra2a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

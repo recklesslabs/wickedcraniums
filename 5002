@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5002",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebeq5yr7zehvep7ixxsrpjpogyfew6pzdcyjvdfs7eirt5at7lmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

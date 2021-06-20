@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3997",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibxiugpiviynon2makaspg6cd5fvsiciqf4fv63ig4d3gcfajj77u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

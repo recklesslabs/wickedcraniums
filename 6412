@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6412",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibca2j352knrbenyygbbe6tew2nnkpkosipqpvguwjfm7wdgxaefu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

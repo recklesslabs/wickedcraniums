@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9103",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigi6bmrr5rmqro56l6md4bcyj5zsvwafjs4ewk5u4ndpi7wn2zxu4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9228",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiam4xu7gmgo7rv4f42wjwmmivykt5ytnykwv5k6g2ypdnhcu2tu5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

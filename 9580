@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9580",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiabz3jenvvibxtz5a44xzl2y3ihdirottc6filrhak3dhk23ttw74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

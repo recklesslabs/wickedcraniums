@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3696",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidoszlgqcmeih2jdbrb52pgxph7f7ntjzkro5xthyqichkytpb7se.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

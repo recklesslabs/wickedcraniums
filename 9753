@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9753",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiefwmsqz6afgvgrjyraxcmrdfelowi3pmyfp6sjyverxx3zz73l4m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

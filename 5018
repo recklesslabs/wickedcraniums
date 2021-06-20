@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5018",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjw3lycdodo224jiogdrzhesbirwlzv4nbzwhmdroua4mkazm3sq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

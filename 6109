@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6109",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifxlw3uk6bilcvedkkvq6vqpz5wjbqqto7vknfrio3scsrpqnx4eq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

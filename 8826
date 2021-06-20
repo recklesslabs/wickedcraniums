@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8826",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexfqh7arhyqemvxi2eeqk7qlc3l2yomeurp476eanqljandfcnu4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

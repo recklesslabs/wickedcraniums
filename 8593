@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8593",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrnhdtj5zqoqzgzq24zpki2c4fqpgd6ggd2vfzjerh35edlhsu3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

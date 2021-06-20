@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9200",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4as6rmfqs4iqhqcpm4hkesxuvulbf2rriog7eauiuvusdqamwly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

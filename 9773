@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9773",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehlyd77bwbj2jeb5xfiljxk2y5oweotfaopt6u2gq56wgbgszpra.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

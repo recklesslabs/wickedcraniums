@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3893",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihuxlsqdcmwuhhtnk5kzztix3k5ncivvinafvpn5q4wihdhdlvj7e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8092",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihc6ohdsqdpxk5o7yt2zvz37oh7rcq2va5xbpa5ca3pzga7fliime.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

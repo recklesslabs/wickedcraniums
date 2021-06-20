@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3689",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiezblprcmk4p2f36urzqg2zkyfe3evrvir3u6csoqdcswuvuee3vu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

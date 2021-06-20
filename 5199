@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5199",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7rhyuvf243soq4nr63vqc2qweaq4u4cqdanqzla64hgq2gztgqe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

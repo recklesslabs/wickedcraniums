@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6723",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihlhyiowwputk5ra2bgbqxkf7l3ldlplo7jvwaggqwdxqd22zv5gu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

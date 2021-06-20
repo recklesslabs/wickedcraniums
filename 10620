@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10620",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif2osvzk2zmsucf2nuxmqcobek2s4mpdwjpctd6lgfcxosoys4xcq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

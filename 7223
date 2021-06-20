@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7223",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig24qusdn42xzfhuzfyqyupbs3ngdhype36c7dqhgk4bze3zg5m3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

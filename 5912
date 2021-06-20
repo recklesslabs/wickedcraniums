@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5912",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreible5p3z5atpkru6yfq6vc6wv4wjkvrgjkgpc6ffx255xl277sm4e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

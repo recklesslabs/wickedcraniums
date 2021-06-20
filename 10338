@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10338",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiciu3m2amsw6uszunefqk4uwyf5riv5uynakpphw2znpthpdlbcra.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

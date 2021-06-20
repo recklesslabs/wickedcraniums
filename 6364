@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6364",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtf5xbzzjt53mtc7m4qe2cqr56a7m5jy2bpdu3gtibm3ct7e56ja.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

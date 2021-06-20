@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3410",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihhxlczdggnzstezn2gy5db2kf6vsj5rgfzll2vhz5dv7j2jd3qpi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

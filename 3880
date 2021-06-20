@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3880",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifcnowcb7r5qs7lgnqb2yapggunxvsemn5t5a75sdzeo56zt4f77e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

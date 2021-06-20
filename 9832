@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9832",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreievogffi2faai5ozfvv6m3ink4eh5rtt7skzjv5jk42wepuxnq5je.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

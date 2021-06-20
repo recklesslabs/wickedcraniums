@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7273",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihhse2u7vpnro2yamggz6ib3nns5bimpxkfqq4e3juvljw34bnko4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

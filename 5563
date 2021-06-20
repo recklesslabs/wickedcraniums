@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5563",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifcgzfzfgwkb54hsmyapohsbwhcuhvu5bzkujm4qkibpqmtq7qvki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

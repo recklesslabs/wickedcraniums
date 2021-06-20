@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3704",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadnyosdqdklveierwzhrgmols4jac2fqobaltbph4og4q3lel3wm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

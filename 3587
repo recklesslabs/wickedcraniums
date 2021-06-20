@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3587",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicutbldklhwq5qgybbmacii6vrkyqqlmha3slsn5cupl6ynijv574.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

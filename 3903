@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3903",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihxayh6iua2kukp75drt2gtqtzsmklkk6w2jweogxufpmklrcfbbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10719",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicq7aku77uj3kmngv2jxuullgvl4tuupbupgkm6j5grtb5t7f55ay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

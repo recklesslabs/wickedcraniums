@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3492",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic4pjrfseado7j3bu5pfaenjlno4qsyfsf6p5qoees5behxusia3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

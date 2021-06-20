@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5063",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreict63xojtdqjuulfe5pskzeh72j6j4euxs5hbxujlrlxhb534g2ey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

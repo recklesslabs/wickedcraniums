@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5809",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrpefnv3fjd5tjbltzy5hy6thuao7smckgqwjj7qh6cqqxuehrre.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

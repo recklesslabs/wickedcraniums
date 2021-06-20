@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4412",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkzfkkz2wtvlotvcpk6gvy3t2m5a7dnd77xoi36pr4hjm74pegxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7242",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigbngjuntgshigqkoltz3rmgbplhxrdcmdk5vtpclnx7kbb27seoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

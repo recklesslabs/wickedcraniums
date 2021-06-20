@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7281",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib34bpapwejbbjmgt6sany3zyllavm77nokizq24xxirbykoxtfzq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

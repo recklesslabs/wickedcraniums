@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6656",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidubfpybtezuw3musu4icid2qngfscgt64sjtxsz6afmjpgl3th4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

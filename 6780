@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6780",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieitjbz6plvvalitv64jtjxtwgo76fgpuk5loyfz3zlogvrsxp3fy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

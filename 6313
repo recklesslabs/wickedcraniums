@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6313",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieyxnkkrk5oxe5kgrnvo6tvcrcf5uilm4cawzesk465yinnyzj3zu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

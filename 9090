@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9090",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieda6quzyyvh3e6clh43cuv3i3ewoaoyamc26ycgkux6nz6sqvd2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

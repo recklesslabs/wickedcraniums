@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10092",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicwiotymf4buz5gfxs35xaqh3ystg5s2ur2dm3fg4uh5l6xptro3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

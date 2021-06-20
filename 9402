@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9402",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibmfg272gp7tekb53wtg4oxnld2i3dfmcuxd3us55jutglhc2vsvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

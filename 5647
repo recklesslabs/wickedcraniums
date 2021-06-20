@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5647",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffhig5x6b3eja3eut6tqmv2mckaxkzachr2kuxoznwcpt32jwkqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

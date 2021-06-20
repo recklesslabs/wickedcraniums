@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6814",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6fao4p4hd33yxkswp7vhtqa4bk5deizymh4nebyiqn4jop7n2jm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

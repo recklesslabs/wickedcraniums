@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10224",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighl32yaqooipnbe7wzgk3q4m72yedtu5qijumxgiuaxwbgcvw6oy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

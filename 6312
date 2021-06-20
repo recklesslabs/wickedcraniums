@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6312",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicblrl63fl4npeu3rxp6kxuujlgdwjlvegx4q3rx3zh66hibvguwu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

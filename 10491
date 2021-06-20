@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10491",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkx3piiam5m6molufrk7o3uhi46ndfzq2qlkwz4luajupk23a4bm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

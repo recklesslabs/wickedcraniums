@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7593",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignrvuupll2zq5wtotxi6n4riuu5adugpr5egs2n2veif4vfhp4iy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

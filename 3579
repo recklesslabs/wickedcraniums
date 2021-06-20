@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3579",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaq5tzh6c4pyd3yovebt5o7tjzbvpeuadkpybdn7yhohrref5hntu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

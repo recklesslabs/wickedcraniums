@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8664",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpwxzjstg3ogpvkfekwmrqkj2ktvgocp4gjlmutminum7fknwg5i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

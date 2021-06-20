@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3772",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2nhpgzrwf6p36zcjrcej3wawwc3khxzpmi4v4iynsw2wpuhrmru.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9740",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieijquaqoaxmyqaqijcsamlh77i35ejxucyzolrm6g4wkxs2wgroy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

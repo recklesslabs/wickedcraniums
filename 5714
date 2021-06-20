@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5714",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrbaf7lscmclrn4fsc2qxxisfht5wrmxqlbwdcv3er6w6dlo45jq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

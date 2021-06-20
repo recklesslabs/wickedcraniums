@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5027",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnb3hleaqb7lfgeokkgujdyukj3zrenxnyjmle7et3mqj7dniv5m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

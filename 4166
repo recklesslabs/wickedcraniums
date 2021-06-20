@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4166",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4nhmu3n4s76vx4nma5epeqb7v5cqgnghzr7wpmonrtpgvmwwbuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

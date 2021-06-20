@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8000",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2u2l6qu4kgbuskbc56pxt5y4qb63lsqjkkgpvo73mii4bpbofgi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

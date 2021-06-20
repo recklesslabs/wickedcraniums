@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7449",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie2yvzu3bpdl7tdsddgi7ahvk76sa3y62phzc6sjjwuluhndhznte.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

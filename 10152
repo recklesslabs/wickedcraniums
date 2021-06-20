@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10152",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibcbw4ndnp534dbn6xax4vnmqmb4ylziizohdykws4lwhzwi4gpcq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7406",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidjojg7uolh3qqy7ks6g4cgfpjdoaldf7klwa6ofmj3p52pjz66vu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

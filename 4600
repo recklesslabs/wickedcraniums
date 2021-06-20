@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4600",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihqpocsvpoduhseybve4sjlisj7gusgzpfxjzmuiupi6mddv6qdyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

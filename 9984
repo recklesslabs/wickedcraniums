@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9984",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigmzm7po4gklu2dk3r7s4jwnrcazwhmtj5l7qmha33ndj2agulit4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9744",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieuqc4sgs5woxofpzesbopzbs77xknfw5e23ktlablxi5vnil5j4i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

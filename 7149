@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7149",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiei4hcvdjuc4drfhmed6zeghkbpn6sga4azzwd6mm2o53xgxco4yi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9900",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiepzld3ac35trhndoeue3n2rwtducfgx54uliburdsqkv65aeocde.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

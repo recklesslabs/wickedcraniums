@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10617",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqwdxkpqprpuhql4zdvlhb5dfevcufdz54jgxpuni3cpgyy5q5aq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

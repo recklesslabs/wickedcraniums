@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8045",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicfykuiuubwga7pj3cgdmnggidxaj76qil73tchvwbqiumsluvlqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

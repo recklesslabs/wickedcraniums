@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8481",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiewcqai2k76oppwmuuppv3hicglw3oi7lruayvl6aiym4twfxi3gi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

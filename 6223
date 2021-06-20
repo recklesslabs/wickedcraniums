@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6223",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia2ditcj32zbotpppnqiadf7irp7ystepcffzssa6ksm5qrmqbede.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

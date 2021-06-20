@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5450",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicrddbbqaf6pcaewm64djkcdwm6xmo5rjmbccoibot7xtau5kb3g4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

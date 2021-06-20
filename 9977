@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9977",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiesasj6ctwsuaaku5lyue3u5tbfrdq4cdaqrogdheurjsajgeboci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

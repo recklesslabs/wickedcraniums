@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10415",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigi35dlhccezpnavkoi3r5mufsvzdj5ngyo3oifntlavj2fd67qle.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9942",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihs6qnsweonc2ruw2vgtlhncgwqdizfrpxnuqqul4oajs3rkgpnxu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

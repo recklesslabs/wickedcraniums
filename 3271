@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3271",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexz7rnby2opf3y3elrza5osblpayro53yjdw7fzevjgzl6uiswuy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

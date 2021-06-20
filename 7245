@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7245",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigmkn7nyaam26oncyp2to2a5dlkb4mil3e574ie2znuwfa5mhv7n4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

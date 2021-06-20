@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8955",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeictgijduv7vivfzngr7ub56iu4cuevmdynhrucafxo32o2g7c6bj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5859",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifz3dgp36w5rrm2eowellwd52rsfhmosr4hcgz2xnkd7e444w7e3e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

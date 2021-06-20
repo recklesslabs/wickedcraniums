@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6547",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxkkgjellkij4tythnh3eyj7nvm2lislhcnwt47pflevvdw2izxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8773",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic77q2cqog5cjqfrgtdzoc3akqizj5poyfnz5p537yocbmaa245ke.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

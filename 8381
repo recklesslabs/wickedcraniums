@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8381",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7bjgmwrlqixo3rs7n33bjbagthxmlxoczta3ndmrthqtrjidqwu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

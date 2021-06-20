@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9183",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4mb2aqbjv2is2jzarzeyxinwzqsd4bjxji5rebbth7q7ce43uyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

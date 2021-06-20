@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8059",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeih7gzxm2t5awvcdobfotz4zsyxiz7zpzzhq424n3f462qekhls4ha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

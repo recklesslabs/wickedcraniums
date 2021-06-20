@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3651",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexqvlttg2z6z3k5zxi6m5f6c352zm7fvkdps3uixfrar6jk55try.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

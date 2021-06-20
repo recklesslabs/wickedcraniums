@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10027",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4tbzmgkjvrci6pzz6lcefaxovrmeqsphy3ym24xng4fesrwbp7i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

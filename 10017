@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10017",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicdnjdwwqz564kbetffynwasmv7ohqh2yaxj4dnav35aisyf4y3oy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

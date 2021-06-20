@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5933",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiev6jo5djdbrjpuvu3uwdeis7rbw2xtve3asaulk4nmcd3viostwy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

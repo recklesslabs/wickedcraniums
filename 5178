@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5178",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihhqkfr4j3dcyo76azp4kc2kuas5ewuxxkb4grxqzefl2nuv3v5me.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

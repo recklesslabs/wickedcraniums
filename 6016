@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6016",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigiinv7zlyvvil25dbnueugxdv6dirpkv33n7c5tfpllcjczod46a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

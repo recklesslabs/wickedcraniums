@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10644",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4nyaf2bglywtylm6qavf4m3lmi4hifs2mtnwiy5lf5gmbdoggbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

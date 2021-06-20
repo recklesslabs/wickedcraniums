@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5814",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicu5gqxrclbo7f72ac5562uknajqemnf23h5xtijybj24a4zuzufu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

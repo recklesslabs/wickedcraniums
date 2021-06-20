@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7234",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic77xuaehv7ig5bptveeoimg24y4cmyvgjp22mov7qu3c63mftkmm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

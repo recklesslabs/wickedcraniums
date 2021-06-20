@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5325",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreichiggbzdimk6xemxwuqmxhvxbml2qs3nhqbdaytubhhtmej6rsni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

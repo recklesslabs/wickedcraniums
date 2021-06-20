@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8775",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibraslw37kr5nxgjbtr4ieo4x4fzn24dil6ov6hyyiilsfwl7qtwm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

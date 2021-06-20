@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3855",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiem2h5hxckco2xhjyez4gu2fxdtck22kg5bl7mq2ipl3qwfd5dzni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

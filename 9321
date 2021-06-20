@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9321",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidc6lgoxslbdahlc3kopz3netuhpmfflv3c4fika47bfp66aczqni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

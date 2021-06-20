@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9757",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidjddnjyh7g6pl4mkfxjxvpzgsceo5rrnrfg35r6cnd6kyviymn64.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

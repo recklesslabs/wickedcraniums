@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5778",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifajs375o5ez7olz2fd4pxfzx325mixlahxiplqddw66q4l54gwhe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

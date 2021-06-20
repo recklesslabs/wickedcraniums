@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7876",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadxfjzgwadlxesc67nrbbesdqmvk23ag53psfqorq3fabcpmsuqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

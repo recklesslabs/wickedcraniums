@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8707",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiddy7epimingfl7uvwutopf26cz5rehcccucxmg7gacmovxmk36ey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

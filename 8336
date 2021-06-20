@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8336",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadwcwxd2f53flgvasly5hq74gklwcqaqbspc2jn56qeajtg5yxpa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

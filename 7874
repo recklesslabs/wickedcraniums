@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7874",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicd7t4a2z2btmr4rgwt2ixfz5ckl64hxsohqhu7phgkxae64wtnui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

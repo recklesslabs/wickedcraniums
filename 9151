@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9151",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicog3l2jnezm3vfhoeycw2kbifu62wbd6qkwb3yuwfn2kaxvzjjqe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

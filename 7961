@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7961",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihem2exfp5wqpyzd2opdqfh4eqzx6a3i5xdubpeonxt2eesjvilqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

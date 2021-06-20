@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9075",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaexjxjirgf3okcfs6rnnm446fbjwmcjeepcy2ldexb73jmmk6fq4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

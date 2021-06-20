@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6791",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibdmjcjiw2jk6wkufnui6vqnjujitvuwsqnhw6fratrirxrjhgn6u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

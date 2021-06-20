@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8784",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtut5lpyusnuvzfenijfjwq2lgzv2ro4t5xlurwsanx5h75m643m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

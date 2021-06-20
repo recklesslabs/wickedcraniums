@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5155",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifqxudxvnqhyxygvev7e7jx7feeeaw2eu7fl6ndg2krewgwev3hpq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

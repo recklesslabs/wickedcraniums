@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8464",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifyerdp5bvfrwinj52ujkypsr3uu6qp2m3yaoypg77ihttkfszowu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

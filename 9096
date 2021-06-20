@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9096",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifxutu35uqkkfayd5vog47ze7hqjub7xmrgj4d5e56gn7ufexhari.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

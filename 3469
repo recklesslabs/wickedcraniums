@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3469",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihflh45w3zpubkffallah6f2gyqupcxlqmt7o2tpxza6levtt6kfy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

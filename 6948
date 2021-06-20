@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6948",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih5q4ei74l6danq6224z252uoyojvly4o72re5mu5erxcbl54gm7u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

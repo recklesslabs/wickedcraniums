@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9116",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidhq43imdkqmxtb4rsvt26jmpptd2w2uorgruqjt6gjx6kddhd47y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

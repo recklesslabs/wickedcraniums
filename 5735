@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5735",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibufdhbepra5hp3p7vtdezkwwn6stos6gneinfamgsdj6ridet3vi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

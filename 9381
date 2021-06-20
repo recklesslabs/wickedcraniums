@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9381",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6y6l6q6qtdwudc33al4mwy43qzhgzxiogjtfc35dm6qvabnn6wu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

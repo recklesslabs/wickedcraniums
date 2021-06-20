@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6031",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicoi26cgcy64n5xelax3tgd72u6cuict2c65j3k7ctajs6s7iisce.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

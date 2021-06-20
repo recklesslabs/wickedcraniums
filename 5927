@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5927",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidh4crlptxuxzpp23biungkjtyv3fqve2xup75hni4pngp43nhdgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

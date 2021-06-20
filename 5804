@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5804",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiem2c7ws5cj4vys3rzu5atnkaszgvtrcvhrsw6aev6kednabdlqay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

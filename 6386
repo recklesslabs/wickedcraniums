@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6386",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiem6zuthfapia6jf26cjkldkoyol4e3pz2345wjyv6bqinfvihqrq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

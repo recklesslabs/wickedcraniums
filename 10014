@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10014",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxuylk3wtapiyozljwkvqo24wubj6sylaw4a4lmx26lu4rd3tbdy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

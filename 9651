@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9651",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih6ly5o6kmt4m2k3r7fo5rk372inzpbq6nuws2s7g6zvpe4n4laxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

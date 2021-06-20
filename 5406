@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5406",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifptecluhqtvnsn2pydfbj24ewv7ximbof65fpavahykgyrvinbii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

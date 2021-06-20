@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10256",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifqfswemr2qquqrgf2vzl6epucvz25yzxoobarpyxs3hgf3jk64fq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

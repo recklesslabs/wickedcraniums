@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7703",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieyuwhmbqm4ojnu6fdxhtmwj5wrywq3mu4losxya5hvmdhmbysi3e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

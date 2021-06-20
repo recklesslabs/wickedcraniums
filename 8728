@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8728",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiah63v7wa7ads5t2ioefz3sxmo7cwud7gxt2tbqe7fcmdekocdhaq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

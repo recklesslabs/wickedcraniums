@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5884",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicfskp7brtn5vnq5rovwjcu7xt6avsg4rhhqstpx67ja7yzmf7m6i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

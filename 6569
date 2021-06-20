@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6569",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwck5qz4mnn6o7mmclq5h33bextctf5wlao5pk46gtdqp2obcada.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

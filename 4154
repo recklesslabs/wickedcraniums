@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4154",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibg5cslzvdncanggmrqcwwucpl7wsfuha5paejdufss4taoilsfza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

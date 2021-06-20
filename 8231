@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8231",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiab5tguhocsbattsdrpg4ko6kilzuai3qlp4f73ckh2otilfp3mfm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

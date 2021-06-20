@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7025",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigkcp5sqp7ytlwhv4cxxniaadjuh34nq4i3f6ozg2xpefo2lzxssi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

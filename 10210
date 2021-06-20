@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10210",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibz4sqtnovmejwppqyretwgecophp75vwckzc2wqafns5nne4wjjm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

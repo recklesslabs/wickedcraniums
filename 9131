@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9131",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiai2xsefeawxcqio5lbuv7dlvhiky2p35irfxmy5lz4k32iom2e7u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

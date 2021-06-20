@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9246",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiarijxgu44svamdtmgaqdxtvvjxk2n6faqxpixej3mqga7bsaszsa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

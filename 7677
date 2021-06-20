@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7677",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifcnfta5mfkw6w2p3jkjuvcjzvjz6yk53dzw4dse2zyoou7qqtbr4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

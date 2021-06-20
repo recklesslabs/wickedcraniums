@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5611",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiet4rwmsnhridtqsh4nj5uojc7v5lpfypedqt4kjuepemwypxhyv4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

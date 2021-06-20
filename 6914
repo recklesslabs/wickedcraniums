@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6914",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihxknoj35nrwccnq553ttr3ougaqftjv2mbrqv7l7cjfokmb4fmji.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

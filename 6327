@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6327",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihiggbqprfjnkzizjztx3ohwy7htreme376dx57324cy74w4asyfq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

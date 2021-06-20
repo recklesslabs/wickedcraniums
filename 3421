@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3421",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihz6f5eszrgzdnbgfeuxoo2rnf5li6l6qhrjw6s4bl7jmlgeklrd4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

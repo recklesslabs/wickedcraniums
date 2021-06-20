@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9701",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifiesqpoqcbc76sqzwtzd44h2mcyu32eqkfe7ofgenrqa2auckivm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

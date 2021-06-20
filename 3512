@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3512",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifew44xorrydvs5nkyvg5qpwll5txu3pxbvvocx3t36ahw5ty2rkm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

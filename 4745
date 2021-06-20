@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4745",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2khv55fxy5w5eobzz5m7hvudxei56f4z7y757xleod4qfaw5pae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

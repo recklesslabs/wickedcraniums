@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8073",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpuvhd7ol3riogngyjmfs5rinunguxa5s6j3lt67tibmdyel4zx4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

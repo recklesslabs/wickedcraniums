@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3511",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeignhgjpyoe6ypizbktmgjyeoxxxb35n4edv7pylojxkb7bzyu3pyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

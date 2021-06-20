@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9049",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigbbmy7zl2wapdww4gc2eprfmgi7mqmb4jhm5jozpbcvbsnmfztpe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

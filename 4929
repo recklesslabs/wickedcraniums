@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4929",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvoxkajrfkmnjtglt7fbq3mw2gpezzr7axhqh36b3cppi6evw3sa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

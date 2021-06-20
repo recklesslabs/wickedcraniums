@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5551",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreietdnjv4ywqka6uqvzfal3msxqukli6o26q6aijeritos56b7uu3u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

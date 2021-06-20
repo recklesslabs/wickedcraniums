@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8651",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie6f4ofqo3ude6m3bwwvebf7b72t4j5my5ap3pq2lpd3mfx4peqqu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

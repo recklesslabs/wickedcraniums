@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6812",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigmxcx6vfdds7ocibfhyt3flz3g5iinx4k5qmwtkrk334n4hgdaau.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7899",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifbbr5itk26wwbawizgtxlmvis7h2cvtr4r3mzmsftwkxjsjkuuuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

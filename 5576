@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5576",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlt54k5qsroagycz5npbumhtvfn5tr4uriurc3nq3mtslrn6oe7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

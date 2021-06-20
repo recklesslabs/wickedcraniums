@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3779",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifc7ukrlyainpna4iqf75cowxj56lpki2qt4swmcicboxs2zusfom.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

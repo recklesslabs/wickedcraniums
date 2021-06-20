@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10707",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihb66hwwa6a2idja4errjjwdrpejgtxoiqj2beerckwbe2bekeoiu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

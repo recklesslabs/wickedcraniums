@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5984",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasgkps76pbkl23nofvo6sftijricv6l43gvcta2srtd37rc26ieu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

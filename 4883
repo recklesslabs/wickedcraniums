@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4883",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiauf6aortbxcearhbwvyvijehjyiqxtibfokz5zhbcguqmbgnpc2m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

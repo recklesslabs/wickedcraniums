@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9827",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicbzcmwy7h3ivmnljo7jmzs24l3ixisn4ttqn6rem7zf36cxc3flu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

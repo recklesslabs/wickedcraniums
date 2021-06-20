@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10270",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiecpb5sgns73sd5kwgf3tumuulb265nqya62mbdl7m325ensjxoze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

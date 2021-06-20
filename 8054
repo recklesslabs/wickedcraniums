@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8054",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibflil5ofmzrkgeq3zemlmvn257pd36e4evbtiaei6oqho7udfzhm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

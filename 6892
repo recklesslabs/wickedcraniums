@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6892",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiekzsnfmbwjr7j2vvdwm6rvzslgowckorizitz4gvwkeikshw7ejm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

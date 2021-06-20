@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5624",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidgfcry5igvuqdo3s3rae4xar2klh7kutoolxmbk4dyqbbpmmnl2m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

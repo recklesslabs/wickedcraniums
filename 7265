@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7265",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaef3lk2hin34nsefd43jzm4rjm4uf6pk5lxxhjjcsqosx7xt6eme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7203",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreica6kcipwfefr2jvjp4vj324rsecvchs4dvpxvrutfuywul5yah3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

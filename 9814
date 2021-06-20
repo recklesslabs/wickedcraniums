@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9814",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6zhv2fthfw3exdd6zs53jwd6ukajas3a5ic2gqotjrbdga7hhlm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

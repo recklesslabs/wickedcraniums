@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8782",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehm4skpa4uftdzp3mvgjbffkjoscjwhqerijqzig6t2qusdwapqe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

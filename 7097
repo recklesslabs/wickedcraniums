@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7097",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihzj24fpgwtzxnw6lhuu54dpvqhclhzcv4fewkfvwoiqvtu637j7e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3884",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7brzb7dxomtd2njmdg6eldnjzssbeljntc635np3o73arytexku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

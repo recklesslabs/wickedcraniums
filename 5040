@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5040",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigedmpaqo5mljm3cl35xrlzq4ul3vjck6nsj2ceh5dg3eijca24hi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

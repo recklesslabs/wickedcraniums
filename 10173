@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10173",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifcpgznhchn5ddvqiglcg7ertworbahvbhjwts5a4izdgciib4gq4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

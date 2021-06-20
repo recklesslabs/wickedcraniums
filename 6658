@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6658",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5h5i2xnxroe2z6xjzsakmyd2kqx6kgx5fxpvgefxf6rjqg5evri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

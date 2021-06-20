@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5104",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicgpsfjaquel55olwye3hvypmr7lfv3mqzmltdmozmvfzbscduhfa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

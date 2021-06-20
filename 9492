@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9492",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7otqj6fj6jlog4se6wstzbe3jigpnrf44lffb3ofn2ajbt4li4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

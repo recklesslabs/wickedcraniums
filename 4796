@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4796",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihdtbgeelhfi2pnfw76o3xlriikbc7cepeeoiwmqpncjrr4xutme4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

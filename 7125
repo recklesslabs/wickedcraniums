@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7125",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxgxoeifjee54gogum5u35mscalpeatjymza6z5mfiq3j4fqwazq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

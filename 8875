@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8875",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic6fyiuqvoakfrhcyln62nhrdvlie62f756z7glntrakzgmogg63m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

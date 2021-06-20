@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6738",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifgxmls62ph7bm34fbzloz4ozu3bujy7r4zz2wmwzz6ifcbcgdqsu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

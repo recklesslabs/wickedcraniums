@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3334",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia6dzenposu3dbffhvcvw66ihklgb7ymdn5wioyqihmrra6aveula.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

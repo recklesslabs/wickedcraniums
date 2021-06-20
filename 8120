@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8120",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadb4exbvakcyxh6uj4ihxzlhbu2z2jvyxc2uxf4ri33t7xpaqspi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

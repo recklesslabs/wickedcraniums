@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9992",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihnx52ta4v3t7xlee7n5yy6hpm7mu4alsje4dj42jt7hrmz3evaz4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6772",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidrazzyg6sgkb2fqaqzyi5spsw7eh7iqzv7nyhj5kz4g4e6qyjlii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

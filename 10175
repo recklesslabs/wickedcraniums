@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10175",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibxp7z4qmzpipz2ymxg34ugon3hlyvhk6kd2binj6fkncpzwkuhxi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

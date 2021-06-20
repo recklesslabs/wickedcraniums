@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9790",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih65fqiduwwmkancliwaeoihg3joxwemvyjjio7szv4ceyqdwyp6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

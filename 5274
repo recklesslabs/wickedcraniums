@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5274",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibvegkpxv6jldwaitgqgl7wsfmapvuv75rs2t4zivhwblaoy7sape.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

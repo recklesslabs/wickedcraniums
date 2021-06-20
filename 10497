@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10497",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihk73lwykticq6qrpx3xghlhlub6lewrsceimozsnmuoyoaffpulq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

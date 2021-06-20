@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5683",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif34al2lqc37yp7u7u52agb7auxuvtvedhouf4v7owbv2n7ooamdy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

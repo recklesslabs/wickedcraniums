@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7369",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifet6z3d36itboih4ct3sqtx2465jbvmqkjnb2n5jrf37zbmkodye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

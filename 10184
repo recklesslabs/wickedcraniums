@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10184",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicnujlxwviwn3wyavgvwdpj4oakvj2jauh4674iu4f2e7upqewqmu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

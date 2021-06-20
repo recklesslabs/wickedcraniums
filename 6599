@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6599",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifh6yxhwux477yvmbxczigyxa62be5sk6oms2sxgdjtms6xu3uc4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

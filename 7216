@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7216",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihso4xw2cpmx2fs6yajivvqw543mj6kuat4x5kubvq7yfhvg2wuxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SaintClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

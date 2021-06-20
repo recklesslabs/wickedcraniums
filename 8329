@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8329",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqotmwxz2r4fidmkenj64hjupkaeczyyxakekjrb2jv3dwlg32ye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

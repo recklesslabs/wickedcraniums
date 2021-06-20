@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7467",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicdfupxxz7tgmz437kyf5g3hl5yqpislq5n6hhpszyn2zshrh3m4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

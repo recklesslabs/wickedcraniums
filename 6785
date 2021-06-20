@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6785",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeialjpxyumrp2xddkw6ez4pk2r26hbu3cgzuwh53epp4kbgux73iha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9991",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtmmbskexrqnjikjsfy7rafxqu72g4hixtaufvbsspkckmb2444m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

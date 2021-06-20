@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9092",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihadolm6stawxw6svi5h3eertbssp3uawwgyoqe2pwtfixijwjgqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

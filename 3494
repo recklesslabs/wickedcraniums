@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3494",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrx5si2q6f2phvwceyx7456zdn3qjlenk6up6mmhokjrneqmvtai.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

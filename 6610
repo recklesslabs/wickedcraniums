@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6610",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreige2skhtjw4ne2cunuhiexxwyojseleoxiozh64qqktesdhpgjiqe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5878",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiguqgknnb7her2cghaxryjkhldrghjjmvokqxm4jkyeedceet7miq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

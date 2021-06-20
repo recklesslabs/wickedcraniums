@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9952",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibf7p7xw63tctoneu25dj6z4qc7nyv56on6x7tosjn33m56mhllxm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

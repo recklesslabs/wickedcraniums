@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6362",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7es2lx4ncmsoltzjyv6o7guovdfokqqxzls4tty5e3lmff7o76m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10205",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigyvfmlrwwjh4dythshulob6pdcceyhjehvkjycx3o56mujp5xyma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

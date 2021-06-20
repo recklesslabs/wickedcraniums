@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6131",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexzxce5ptn44jcopii6lmwlwqcbk6c7mrqnqmdpxvojuiaeq5vuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

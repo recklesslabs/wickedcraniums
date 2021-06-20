@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8856",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidwbosjlupnephk6e4mmyyqwgqqdi55icwv3nlfrx3huhlfynlb6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

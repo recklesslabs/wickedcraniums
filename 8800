@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8800",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigr6llo37sihoptugwcg2jrd6nyuuo7c4hjyiojoaqfhdyjzj5jpa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

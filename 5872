@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5872",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdd4n4ebrhjykgxck752yglwnycjg6lp5r2f7hxrlz7iziwxfwly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

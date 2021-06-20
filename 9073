@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9073",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7hhxghrohkuratzl5urog3ut5ertcadgx3m6aetjhheuhnitn7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

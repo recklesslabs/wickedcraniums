@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6612",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihq4z3s3zfpust2ay4ey5u5iysu6cjcuepghjvo2tb35fm22xof6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

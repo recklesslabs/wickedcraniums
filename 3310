@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3310",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdtna23ds7zjsqccprp23bnmkdw3mjq2d6hfvtfxrdkgnjzrsmiu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

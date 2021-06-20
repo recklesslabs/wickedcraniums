@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10105",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibjt2snrkyjjeg334eagzdh47q4pt73axwjkbl34dab7an2fracmy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

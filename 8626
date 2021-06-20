@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8626",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeif5k22i73mg6iy7cml2q4giamg75p6pradaf5dtwgsminb2aaffzy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

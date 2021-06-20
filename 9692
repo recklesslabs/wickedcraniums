@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9692",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnr2xognh6s3xvyu36vqzimob7zpgcsrdu76j7ecjb2fxdogemni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

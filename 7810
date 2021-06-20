@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7810",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifquva5swtqhrjh325uhabx55fk3dmuwoib5b5q6qlajjouf6a7g4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

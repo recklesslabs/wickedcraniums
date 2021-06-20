@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8400",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexw5r367youxl6nzek3ko4wvii6om4zj2docbrf534hbn5cougju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

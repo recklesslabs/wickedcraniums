@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5906",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicaa3vcn7ipo2glcyalw57fu247i5xn4fgetbtwzn5jsg3p5tec4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

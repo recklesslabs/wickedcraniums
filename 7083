@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7083",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigpsnw2vpmwkyfs5wsv36w5kdgvlsnlaj7vija4e7zxyoo75ity4y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

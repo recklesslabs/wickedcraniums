@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3719",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig3di27yrnaagv2u3k3e57lz2rjvfhmzethywo7qyhkhfq3otskby.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

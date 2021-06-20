@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7370",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqum6eacfco5jsmxpahqdjvxeskxq43x7rz7wkj5l2yldy62viti.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

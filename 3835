@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3835",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicswpkj3igawngk5uc3ev3cs2znqujghin7yljw6w4x3w3ne2kepi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3665",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigkymyjpaennlxnon67h7m3kqsij7sjcuzhih2b3syd3ot4j7dx3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

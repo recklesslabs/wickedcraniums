@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4744",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihcso5m3cxkhkvf2fndrioivwf25ai6kij4ytll5ebjnv2gwohrei.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

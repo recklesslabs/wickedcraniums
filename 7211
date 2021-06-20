@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7211",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidf6f74y7onz3w4ax6omqws77jylxtiolg5oyjc27dvwmkhun5x2q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

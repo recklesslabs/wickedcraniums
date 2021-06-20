@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6589",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifof2gvsknxcqp67kot6l4buxoawpbe3noarl5oyn3j5kej5ytfli.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

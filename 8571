@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8571",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidpdhmgi6w4wiiqkgp4zhpujngiboenxf63blyac4cr6cvc57rudy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

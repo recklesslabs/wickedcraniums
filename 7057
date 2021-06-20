@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7057",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihia572seqpaa6kkmrmamxmxjrwqra7nc2kjqkgbnei25j6hg47qq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

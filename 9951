@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9951",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignxvb7mso62m4apz4xxgijsteg7gvmbgu5rc4eyo3mmh4erpj6ei.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

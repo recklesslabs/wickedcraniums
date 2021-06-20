@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7099",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib64adznn3csj2s2dyuu7erbjob5eqf7ao242ha66yku2gwzc3zzq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

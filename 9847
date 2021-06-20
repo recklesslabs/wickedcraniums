@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9847",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigzvtw3ull7rtoznk4qih53o3ujrvrmmghxkzcf2t33v7q73new5i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

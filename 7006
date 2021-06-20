@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7006",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiawqldzeep7k7dobe2vv3ztnixak722olnmayqb2tw4d55ecbycnm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5117",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicb3os2geuz7oz2zrfmaqtywaownh2nql2bg37htw5xal5uupiydm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

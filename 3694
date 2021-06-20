@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3694",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7c7kkrewangkx2ufit34rhccaqt5r4y4xvksezqp3yc7h2naopu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

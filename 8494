@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8494",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehfcjnzbqnjbcr4x6gu4bgui7k2gjw7u5batn67fryalwgq4wqu4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

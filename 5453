@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5453",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiapx75ryi7snudbljc5igmvbqvhlqxe4stdt3okaqx4vu6k5y5cga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

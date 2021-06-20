@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8796",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigo2vmu6kfizskaz4fjwedkvemyaosfp5yetryyprr6bw2kjbfauy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3515",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihuedmoy2w2z45xz4df672x5y2tnfpo7hmvy547dnnshtojeb3zvy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

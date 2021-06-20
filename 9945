@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9945",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihiwysp6ysw427o4vlf75wccpr3fbbxco4slo4jbxq25vv4rbimsq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3920",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigannxt4xofo2huttuoz5cdal7dazivebzlzvdhfimvasn5fq6ov4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

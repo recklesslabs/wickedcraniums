@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5573",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaymc7uh2c3dpiow6dfimeqccoyuq4xsuhmy3koelumupxhog5yha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

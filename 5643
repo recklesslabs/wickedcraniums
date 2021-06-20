@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5643",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffmcfvsoczcttt5hwiwkscitk5p2qu7rvmqb5rcq52r6w5rrblwm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

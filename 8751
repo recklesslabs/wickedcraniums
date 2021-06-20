@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8751",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigpgan4jf5ensngsny54rh2kkwpij6hjcmpjmzsg33rlk6cfoyui4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

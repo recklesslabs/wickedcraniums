@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8624",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibyxejsorkvmqlo55aqx77ojdaxuxgxa373mwa3dm6z2xzzz74fhu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

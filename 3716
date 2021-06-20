@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3716",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibud55rvp7j3uyvs5bwxqfs5tcjodej5efbptyojdp7iapwzrayzq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

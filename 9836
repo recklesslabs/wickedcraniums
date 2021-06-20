@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9836",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3vu3zud2cnprmpdzq2miyorzptjum4eivh4opddkbvcst6hhqce.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

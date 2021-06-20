@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9041",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiduufdl2v2vxgv7wcdrrd7w2j7dx6krzkfdrxp5i2p7dwfpuxh4ae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10594",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieksaus7idkjipif7o5yi3x4xye5zwgkxmo6leqttttem5qinrsfe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

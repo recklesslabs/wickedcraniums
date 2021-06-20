@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5900",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeica2ujbcaw26s4boqydjcraog2e3cj4uq3gf4fnat7rynaara4qmm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

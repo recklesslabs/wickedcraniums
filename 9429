@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9429",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicxyh6egrv37dny7zr4tjfmpck2v3rbzjlacbt7kph4mksturvdmu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

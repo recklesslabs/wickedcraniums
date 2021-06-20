@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10675",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieyzj6u5sttvuqfucsyvhuqpstwstxgtr7vc7tpsxx6fcbrncc3hu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

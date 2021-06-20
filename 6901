@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6901",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihfo5cdaf5umr3zragop6rs3c4qxpsmxj53jizzc6anx2p6wueqrm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

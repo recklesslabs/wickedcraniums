@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5392",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxep5j5ubagdsjbpp5naxdo7oort3vxvksgp3s7iev7bm22uvqga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

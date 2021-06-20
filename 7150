@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7150",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifiaucnj7zj7pgd4eepoajjplms5siam5z7k5hpse5vjt3jglg7ly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5435",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigh2d3x6lyofeqjlvhvuj5jzu56cx3t6d2x5s6nihhsoszbrxfjy4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

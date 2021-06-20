@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9190",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicsck6ck76dq4di3rbtusghjjrtgxznx3spo5vd3fjrw4f7ht5a2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10146",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4g2yaa26wq5lwkuvn44pqlk24glfm73gsrwg6p7glxyqd2viaii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

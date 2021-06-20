@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10570",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiagx6k6hvrobnnljz7qk75tyz5qnwmbgjpngal6jbrqml4gbkd7oy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

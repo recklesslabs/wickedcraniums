@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8676",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiewhqqzrajzx4kukw4ihrthpt43in42kki2r2kya6ut4i4xfswrta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

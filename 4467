@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4467",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtt5x5z5b426i7wol6j2vqz7nh53t7obwwiphkr2julffh6v2gse.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

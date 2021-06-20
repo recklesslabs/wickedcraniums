@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6521",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid4kl5mzapkrgdjvqvxxvobtye3o72ylfjoxeouw5tri4s4w7uzti.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

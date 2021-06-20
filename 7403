@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7403",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahactyay7vucnxup7je2r3oojk2hdioqumhstqmegrgzzsya7io4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

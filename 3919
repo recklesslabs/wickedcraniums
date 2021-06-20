@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3919",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtsjoxkfhx2dulnvdaj7cvnhl7oq2xuwjdw6pf4t7v3i2fi4mqrm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

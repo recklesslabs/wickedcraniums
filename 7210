@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7210",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiawtv4ttjrj7arr7in42onwycvniffwwmi6kr6r3s7yvnfu3i66r4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6836",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifujz7kd2hssla2t4tmyjv6cd7em3sbau2obveayuo3swqrjbw4na.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

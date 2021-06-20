@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10361",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidz6a4sok3sebye3mopsp4hlalvl7b5mznotdfvha4b7vne3vxtnq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

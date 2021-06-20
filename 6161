@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6161",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihhdfoalzxyscknho3aukwbnaqeagf3abu67nmwsbikyx2dm5brdi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

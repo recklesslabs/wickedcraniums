@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5152",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehmigejstg6qzblqsvho2j3agvbw6nhaulmesb24fceajdtl52qa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

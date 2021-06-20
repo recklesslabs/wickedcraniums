@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7066",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihazl7b6ytvpldtczwy5p6my6rfzpe73joydhpneuc3zkjnujhqba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

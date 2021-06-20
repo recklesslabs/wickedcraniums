@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8765",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4mfoophaqcdkhg7c3i33qwzkg5zbz2723tlbs6t7hdnvqql52va.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

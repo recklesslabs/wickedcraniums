@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9508",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7v4mnl464znfbw4o5bh6nuni4tk3byuvczz7dq63t4z33yko7ki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

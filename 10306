@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10306",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifr337ruyojhi5hia2cgiwbxuuwgkf6yvozio277d5hfwmtcojnmy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

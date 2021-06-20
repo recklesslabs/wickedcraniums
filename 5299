@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5299",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiejnbpvywm5kgzhk2qrfyhkkwmrbiktbwtirgkiphxk6eqr5y2odq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

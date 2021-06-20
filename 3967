@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3967",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiewxhf62ewdo3zxyofqonh4xd6d5l5krpfki6qys6pih5yb6vzwcq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

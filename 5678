@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5678",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiclnrpjj3kjyiupusvjiwlcb2qtq7vh7ls53guznx2vgd2mgkprpm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

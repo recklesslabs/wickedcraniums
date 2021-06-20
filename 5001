@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5001",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifc5b4mzmmecgr2v566ulgwghdewyvhlzrqfia7vkziynbmsiyg7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

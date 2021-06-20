@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7195",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlidm4dgcfwal7pefy3dg3kgsnzc35uptlsxnp2o5mdafyshdury.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

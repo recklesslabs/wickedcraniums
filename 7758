@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7758",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnzeklvrjn7m7rasgqyp63t5alemie4xb4o2r3lqqs7dyud6vcua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

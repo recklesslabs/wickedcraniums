@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8036",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie425lqusxzh233wseil7ad2oeel4f6ysumj5xfwonz42jsla4uau.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

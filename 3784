@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3784",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieymcrisybl46yqav74irrt3gtjqlpkeol7migjbqzxuimppydcpi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8068",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie3uxgpwzj6rxl2uaskimr2g2354akty47jpcbyalrpv4yhxxmsni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

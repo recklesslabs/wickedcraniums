@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3830",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieygev5pdiw4m7epc5vgexnaja2qfhkgodoyft35nurod526up4ba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

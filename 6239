@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6239",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicsdze2jbmmvkdlwb4q7rz3jehlbq2t4fyyb2etlndajfawlcudgi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

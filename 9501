@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9501",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihafot6py6chniokjo5ufd7fqwk5dpywdmxuw4euojxbkd5c4yh6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8161",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiatfmx3ogesm7rcyhiqlli5shxywuksv77hh4s7xoqm3dkvmemrki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

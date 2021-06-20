@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5758",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahsjdokoyxuxgfaug6ontnkflv4xtnbbaelz67cwep3aqb5q5zem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9540",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7onldqjqhipbordon5wntmlnxisvxwsanjn443bb2yh6uu72xje.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

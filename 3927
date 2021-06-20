@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3927",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifahvs3n2pizmnmvkavufevg63ju6os7hzu3uelozqeugeztmkh7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

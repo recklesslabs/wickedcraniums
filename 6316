@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6316",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignp46jmo767xaqjsjks3nostxvphyeu7lyshiyec6ck5fsvbl7cu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

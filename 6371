@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6371",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifmetl7hxsdgquqsmi7loqxhrmoowodlcucspr24sy5duwjtf7l3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6182",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieey4ttpqy2og3tbzxaif76jfgcfgjsqwcknk5kjiomva4d22ogba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

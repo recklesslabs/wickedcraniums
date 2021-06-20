@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8634",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid44ljqf4uydttoqvzscb3r3zrs5ff3fxzxe4iwv74572bkvnvcxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

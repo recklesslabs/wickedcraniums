@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7076",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihp4tzshdw2xc3qm47rmtrk3rc5y4br32344ugv7cuwc3gygfrwy4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

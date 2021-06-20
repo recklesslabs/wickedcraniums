@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10435",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7bjei4qdnslqgmitsr7byvva2bytoenbkip4a5urig7tycdrt4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

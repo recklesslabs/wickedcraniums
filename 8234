@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8234",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibzy54cym6jw3x4tjc53eth56g7s4ejp2cbfs2fox5v7sfmtnidti.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

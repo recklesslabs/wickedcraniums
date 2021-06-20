@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7166",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtim33cgxj35sscmy7enqcddsndpt3up5bw4wfqb4k2cn6d3vwki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

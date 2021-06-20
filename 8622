@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8622",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiem7bnw6tbf6sec226rzyo7jge2ebrqdyelh5x6vjtjyabb3tz3ge.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

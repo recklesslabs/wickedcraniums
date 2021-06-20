@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9123",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighymmusjaxtt7txwmuuxdxvpf3mwd3u6f3ix3t2q6dfhy4i2guna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

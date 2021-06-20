@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8926",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyd3eic5r2otx4im4tmvxyu5mk6uuwf4bedmea72km6mlae4nb6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

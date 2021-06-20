@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8101",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidij3tv7yclkejau5danucn7gmfqwzf3mpmsnegk7ef2cxw3sx63u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

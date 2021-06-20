@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7095",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7ge4wocurm4boqbcwdcbobmp2owmy5lcbzxcqppqf5auibw7w4e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

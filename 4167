@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4167",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpcltvltejqb44ttoiyolf6rwbqzsypkc4xse6w5r74s5p5pl3v4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9176",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidai6haunkcqftdvhhsa7kz3uov3hiybs3bxhy7diw5lovv6j46aq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3672",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihv2djxobmnapif3hfog3rkp46ul5vztsqp7cterhqopgbwadignu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

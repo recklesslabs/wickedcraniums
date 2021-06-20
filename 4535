@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4535",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidwkrimquid6r4c7fdrhr6xpfkkfsh6einiazrai27qvncl6ghlwe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

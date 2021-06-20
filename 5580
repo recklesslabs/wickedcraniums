@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5580",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibi3fimq62umpssb7fi5r5nh66jowsfgruoihloyf6dritlwqmi5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

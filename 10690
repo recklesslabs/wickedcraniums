@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10690",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicd36mqmkbqafiy2t3qw6q6wkqbjshio2sbj2swav4b754lx2evty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9626",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicb6qh2cvdztejacs4oqegi64cbqowqflfamvmuptg3iswx5frd4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

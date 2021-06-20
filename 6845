@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6845",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2csaph2ejlozf2fcjvfqfqxiqkgach4ow6c7mfxh4r4hvjqfmni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

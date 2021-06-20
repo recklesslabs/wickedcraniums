@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3792",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiact4n7q7jzhj6sw3yb46kss7q2ncqqwxzs5fnkbrznhutmrvqsza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

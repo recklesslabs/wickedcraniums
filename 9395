@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9395",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgopcy7eg3ci755ox4elmmssdtwz3pncfichxfu76xukc7xytsvy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

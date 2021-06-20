@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9950",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7yjz3zspgupejfrmvtpwjk76jizqmkpnx3ymy6bnx3g4jhhzgbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

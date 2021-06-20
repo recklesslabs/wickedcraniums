@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9940",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibmarpkinfx4raf6ze24veaktoyn5quzm3xczx4n36oall7lc26ma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

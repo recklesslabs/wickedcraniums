@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10026",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibylpj2vu5og6mavx5s62eop5vbi6xpgm5eqoagkjwhnaqfz5ped4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

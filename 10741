@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10741",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifghcxiloocudkycaqy6rqkogqnlutqgdgc54m7giy2bhrqlq3ft4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

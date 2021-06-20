@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5232",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigolwl7nbhag6lgd37hbvsca6dqjnty2dqajii5wukdm5wcouqlme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

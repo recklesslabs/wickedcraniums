@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10561",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiak7huwqwrtawg5tyt3zecjskpctszmo7shucggsidikcnxjks53m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

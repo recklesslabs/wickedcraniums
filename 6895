@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6895",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigcuzunlqxbeytpnh4tw6sae5ft3p6pxj73dals4trtoyy63tn3we.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

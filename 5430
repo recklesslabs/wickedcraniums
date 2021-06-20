@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5430",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiee5wgbi34zveacei4wge7ffhpmpxnqmo3bby2nlri24ez2ehzi7e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

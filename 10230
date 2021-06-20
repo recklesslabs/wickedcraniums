@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10230",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigpyjpb3ltu2u7ogck74du55wdz4ca3tlgjmkkdmogqu4auikphfy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

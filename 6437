@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6437",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigbideumtd3m65dph63ulkwrflxhyfzulev4bbxgbmq44fgs2cbd4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10342",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidju3y6cx6tdl4z6loqhjwgsolddp3zpkpvmf2kisd3fyqnzuwzsu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

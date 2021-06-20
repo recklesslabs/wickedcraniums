@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8412",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigoer2v6hp6f3wuztswtem3as5trwcvjbt6d737plpvtvvvmktmgm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5390",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifusn22g3faeeacpjfc5cyzwp3ngw5elkpxoyrkpy56y4h45fc5ha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

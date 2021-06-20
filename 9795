@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9795",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreics2o32hanlipr2iobi3ybybz5eba4j5b3t73hnrnbh3hipdvv2bi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

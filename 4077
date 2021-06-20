@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4077",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaosnckzhyjubf4eegfcxljhukx7dtykhqhhdrnf7zsob223rmf64.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

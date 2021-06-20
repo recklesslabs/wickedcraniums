@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9797",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiat62fgy4ykg33tzafvggxitbtk46fv4g5niv2usxuww7brsmdyum.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

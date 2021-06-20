@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4049",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2xvnunj5kvk2w6zya7v77wh3hoixncg2qemhzf2qam3sn4bhpbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

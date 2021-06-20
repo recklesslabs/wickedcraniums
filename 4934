@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4934",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigrfms6he7hyldxwzec6vb3uttyycqp2ok4rszesu7ih4vcxodrva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

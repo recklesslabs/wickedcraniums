@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5068",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifnkusy36tkvvj2uw5qulbbrfp3c2dhuzhmyxfc2y7kchxu4xvawe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

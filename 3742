@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3742",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihfjnyf3377agajemoorjjzzchmloshiqptftgqlhazb5huppwbbq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8616",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia4su4wiw6fdbagjit5pqlovveaiddyjc4dxyzfaooktgqq4chmmm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5527",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigfaz2tcweioxr5q7j7qhhnc645rmllm2yqfsss2qoxayplc6v76i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

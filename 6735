@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6735",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreici5hwtqbdgz52c2ojt2na6gmkcnmzucwxqlclphncvltjjzdwie4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7419",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighfvpobx5csmjedsvrcp6yjypbqmugb2jdgk3gd3wsgkwuuphpbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

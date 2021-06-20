@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8937",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiezetelnqb3vfnvtasxt337lnfsqda3s5awdzu5v7ifbneyidhocm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

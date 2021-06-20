@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9405",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia5ykb7if2tl3h3ylsg7hmusll2lyshrkec7qgnncc42tfzh7ulsm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

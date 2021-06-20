@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7649",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic4v5fxubx3r4m3iqof4ethsu6nlgrl5tdh4oiivqlcv46rgph5ou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8828",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexzrapotjmo5seqoodybbjosi7uoua2m7oacrxur52md55tktrhu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

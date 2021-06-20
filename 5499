@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5499",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihsav2l25mzfxt3miulqyeqkupmj5agwcscygnci2mlr7kiesfzdy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

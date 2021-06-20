@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8830",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiee6xafbbyrlsrwlw4ie2ozvh3ufua2r4jtxjor5y7qnppqcs56om.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8350",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibikbocxozhu2oqxhiqlblxwojnwhu2mgdmhevo4er3iuata4jveu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

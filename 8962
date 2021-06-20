@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8962",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbtjj6go3d6po3n2gzogqk5ubcpyljhzhcyjetkym6wl7st5rpb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

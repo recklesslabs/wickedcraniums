@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7579",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihvwiqck4cfw3jvipbsl6s7ywqzse572g4ihgqx7vnb3p2bvwb6za.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

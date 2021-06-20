@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7082",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiciqwnc5a2wiqq2dfzldpe5scolyq4e5lbyosmhzv5bjus4nxme3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10082",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibmiqm772qabn74q2ejlsgqypxzzczcimqtefdhp4oyisut3a6n44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

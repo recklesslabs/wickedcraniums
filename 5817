@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5817",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreichsnwp7juadloibd6ktga7stytkiukenxqf7zzrcxp46gxfkja3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

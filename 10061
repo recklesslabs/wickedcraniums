@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10061",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiecmbmrbhsxrsmsn2cpakdvyr3r6caty24bbnai4glth3prce4o2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

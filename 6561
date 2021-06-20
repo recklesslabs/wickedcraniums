@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6561",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibqdi4of6lwxw7m6si4yim3zgq327k32k7lajjhmxv7vj7b3ihowy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

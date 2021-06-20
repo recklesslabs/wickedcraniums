@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10697",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkrzbrx6ewnnzvptaj76yqljwq3uaonvcu7ounibmotnwgxdxnva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

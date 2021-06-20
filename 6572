@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6572",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidelnlafy25jy2vk32vqtffsvpt4akx3lusxztlo2wmc7gk3llsau.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

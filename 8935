@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8935",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiazjcyy76x6o24riyehak55vbyv5l2fxsfastx5psdsucmueybm3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

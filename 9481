@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9481",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifyazv47q6o52f53mzwgw6axbftlgotuby6mawjdswaond26f7veq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

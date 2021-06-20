@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7700",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaatmihh5xpl3ftauuyifgzcjgmkxpmrl2an65b5dsqkxkxcsq73a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

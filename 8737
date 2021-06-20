@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8737",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiapylkehtzh3frzqal52zl56icdsu6y5jfsc37vaxcm436gmua5oa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6470",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieioutnzafo7htoxzzb2dgl2ubc2lpl2l2b4p2oyfpjyorptd3ury.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

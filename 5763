@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5763",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiawspejurukne5vnxr6kdb3cwt3rxjslnkcs4aq2oy3p66p2qccu4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

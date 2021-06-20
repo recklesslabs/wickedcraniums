@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4657",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiafghyilgtfwcwfqent3qp3onn4genlgb2g7ziijvew7vfbvigyw4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

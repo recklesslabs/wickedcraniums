@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6061",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicrfostg2q74r5zwbsrrxov2f34bmpc2is5rhm2ujjwlrnrzummke.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

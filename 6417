@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6417",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaqoa3hjphe2tx2pe57u3ky7vzeiqsdgsoh3ih5x5ian22urf55xq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

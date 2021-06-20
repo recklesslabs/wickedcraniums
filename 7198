@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7198",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigioukoesh7436hvrewsxqy3yqhwuzay4oewk4w4vgtft5hyukmwy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

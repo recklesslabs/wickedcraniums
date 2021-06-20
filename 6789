@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6789",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibcb7ooujfdvcjkieadbq732hqdx6jphc5ljgong6dusdnbqdyhd4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

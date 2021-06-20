@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4482",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaqsjst2s3eahezdlwmbhmpjbdc3ztcwooi7tvh55vit2ict5o2te.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7213",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiascbqs3evw5dksqolr3q6jibmtzxhvbufwzqbfzi3ly7m2z6njre.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

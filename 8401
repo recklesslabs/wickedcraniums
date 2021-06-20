@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8401",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicvi32a6oumtdu3pszlqhis4e32q2r4ikth4yhlhecswj6wztoofi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

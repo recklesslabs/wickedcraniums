@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5270",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihvksznmikltmm6gu6mkcdvonecimjsyvbi4z7xtmush5ah2tzczu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

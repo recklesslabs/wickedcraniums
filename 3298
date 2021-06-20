@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3298",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiccv7p2bvyshkryizqcfesvoczm6cf4zdhdqjlns5maxrr6w2pexa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

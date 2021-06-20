@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10033",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiclks7blezozh4yfr6icpu7w5kbt7iv3stjkehxz6ltg4hevbw45u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

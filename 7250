@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7250",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihs6p5oaqncpxwtmye2rnmq3zvs5pkufxco7usa45ujgs6tul22i4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

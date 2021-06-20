@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3721",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihye7qbmfqvqvcp2aheqqvtwrh44zefi3faqq3jozyn4lslbykpf4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

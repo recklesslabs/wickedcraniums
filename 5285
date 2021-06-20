@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5285",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieogwcoiqa4vubaxy62uba6r3qqh4fwgonxpoqyf2c66ookuea2tm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

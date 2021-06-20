@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6435",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidmp5ywcjbuz2kg2nziznxz52coubsckugzudvsryc4rncpi3bxja.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

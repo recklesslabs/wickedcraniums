@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7769",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieti4wp7fg6hg4e4ezgqdmgtrui5uu3owr7di2mh44gptp6d7w7l4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

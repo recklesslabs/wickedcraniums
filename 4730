@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4730",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbovcczjcizubt23x6pqwhseq7nocxlfl2acl3eqpupeobknb6ii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

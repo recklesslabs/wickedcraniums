@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5517",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibx6ikxd2zb34vrdazdmd4co66k7vu7p5z3efjuqcipfyndz5s4ae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

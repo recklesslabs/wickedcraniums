@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9574",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreievx4e7nnoimvsp5auksjyu6ekrrgdr3ujqomy3kst4cosis45twi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

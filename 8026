@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8026",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiabx66rhgxff2ng645ydhtskvtbjmow4npw55n3sn4lesexjw3tvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

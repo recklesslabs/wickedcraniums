@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5554",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigahgsovqeiefpdk2xwq3mqnfmt7bhyvdqdlqicrxqvtepgt5s64i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

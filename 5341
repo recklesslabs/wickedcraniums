@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5341",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihypxabnvqmerfxoqlm3cuz4yypyec6jnlmu263rioemgiuyetj5m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

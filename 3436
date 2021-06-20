@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3436",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicdjsfpscgs3msdjooc5hang6dkbyrmi6yiu4dpgbysnrz2rmzpje.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3302",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigiylsyir3doyky2p6oqm5nh6gtz3l2bkttah5tnrovmphozv73zu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

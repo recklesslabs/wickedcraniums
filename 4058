@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4058",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrmzoufswmuqz5ldcnojz7aqwxv5wllaexjqcvsgpj23kh6wfaeu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

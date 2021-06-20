@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6191",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidxi74sbjorjlw3eujcaibr6pmtvirzk74m3ehezp4vvsptcpslsu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

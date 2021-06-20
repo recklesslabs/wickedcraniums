@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9931",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigks44okug6qxgcx3lf4ezikm5sl6vnlwxflweaqcgnuy7qvbuqlu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

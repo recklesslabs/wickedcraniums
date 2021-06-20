@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7510",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihifankluyb37oofsb2xueuqj4uqstgjhjjlha5px6byso2oq6sa4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

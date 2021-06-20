@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7280",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibryhj5d4yrgtfq5pcsgkyzl64zmkultnb2bpd5xoo7ogkpitu7sm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

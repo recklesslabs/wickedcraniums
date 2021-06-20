@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7912",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidewddoo6z4mfrsphi252i7ri24cn34kyi7qhsz7vhihxxvqj3znq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

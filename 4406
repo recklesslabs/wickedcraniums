@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4406",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihssm6m4shygnqouooukwqoiyodu53vn3zpmvoo4dxr6xt3rg4rfy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

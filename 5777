@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5777",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahsl5yud2vslph5peqbctzput43elykervugb4layxkodaoyx7a4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

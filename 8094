@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8094",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighd7jg5z33l42nwaxps6fc4fxdcqte6igdkyfg5u3x727hc2u3du.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

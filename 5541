@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5541",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibxzyi2x6d7ncwsxjmpoipfln6dxi3up5p5zlozbxk3etce7fo57e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

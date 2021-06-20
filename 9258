@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9258",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiauui6nv25llxnc6rslfuc2piyew6ilaolrf7pdvbtsuvob3ezvhy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

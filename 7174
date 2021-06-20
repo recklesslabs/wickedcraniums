@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7174",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia5r2z5ys6bjiqfhcl5uh52uxnzxy5n34xmv2uziy46ceqsarxqma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

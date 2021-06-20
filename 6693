@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6693",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiha7zeqzmebh2pfcp4mesmuykxsvpfqb5t3np2zwg4eeugmg5wos4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

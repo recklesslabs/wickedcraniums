@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5924",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieynu6seodlzcxyj622fi2ku3xv6ub276doawqu647nbh5mgy6wuy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7244",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidgbfuys7avdov5qlvyfvozslssmp3a6nt3kmyknizla27755627q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

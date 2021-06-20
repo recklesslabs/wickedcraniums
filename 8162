@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8162",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie72osvcgfjvjt4yzb76cyzbmimnsniaaeyeck6f5dvcms42s3njm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

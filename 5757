@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5757",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidztlrqwb6einpiid6k6uhj5x5z7g4plfum3lijtsz4fq2zcoybvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

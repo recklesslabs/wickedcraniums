@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9616",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6tpgbgr3chev5rngm2fs3oqi5i4bv3efihebv2fwx5z6hnevqgq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

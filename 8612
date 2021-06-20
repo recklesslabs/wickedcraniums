@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8612",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignag6s2zqveh6fweu4vdbdkaysfxlfueqbpdcnrvmznw2oz47abu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

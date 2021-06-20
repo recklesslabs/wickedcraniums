@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7100",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihv7hi2jf2w7d3ddqsvkwtndrxuqacg6ajhu3cdrpuv4esf6t5on4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

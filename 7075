@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7075",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadu2wxfqsqxgilwzkn53n3afqsxge2mpn2fcpughqrhg2kp7ippy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

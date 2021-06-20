@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5243",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpvegmuruklqyp77mzzawsvhjqol5ifmgo6hfltvtpkbdjrhe64q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

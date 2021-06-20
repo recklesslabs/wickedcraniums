@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7077",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigrwhrhh3pam24pcu72i3n36ju5c2nx74i6f6pbtkeahqmhl2gryu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

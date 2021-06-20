@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4650",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihcsiwomlnbgr5lf5ia2nyxb6vjv5ozsg7qtvbon5wuf6n5agaszu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

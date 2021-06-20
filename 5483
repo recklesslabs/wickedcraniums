@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5483",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih5mywv2g35xqnimbang5ph4ziabd3bhjnfhvvcomb7rvqqi4fcne.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

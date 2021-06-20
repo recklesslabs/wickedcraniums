@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5329",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2w66nwnoonzhtvwfhq2xnigonm6hgytzydalz3skvsdgvmkyuf4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

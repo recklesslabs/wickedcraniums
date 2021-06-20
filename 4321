@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4321",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibw3y7sq7bxc6bfjylq5mpehehmis57lvwusquiygwpapb25xkaaq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

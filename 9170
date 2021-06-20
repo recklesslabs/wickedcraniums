@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9170",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibor36zdoti6i2falvkediso56ommuurv5nhpjsssoa6j2i6lck6i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

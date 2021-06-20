@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6012",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie73ztxkmt5ixzrsgc2gwqecemgrwyp6weht7u2rmbwounukrnwtq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana"
+    }
+  ]
+}

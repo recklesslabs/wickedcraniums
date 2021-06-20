@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6256",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibnv44hbh5pfm4tm3ajo4geheddhv7lvoz732sbkvqqrmfd62wq5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

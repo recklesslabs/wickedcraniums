@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7774",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicdyyikediqfynr5dropg2x6swi4mvmtlt2ydxnqsh4a4uu2dqxiu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10743",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibwqfv74brciojips54i3x5vimyct54ey3elknkszmyjibchez4ky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

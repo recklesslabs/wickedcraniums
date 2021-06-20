@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8376",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidiy26qmjbbkikde7z6is55sidkp6z3hzuj3vmd7ipowsxolyooiq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

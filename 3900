@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3900",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6qx6yekatzwudw3llpl7ltlicqhpnwnfy6jzb3sx5taszbnvyi4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7530",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidu4xrx3r7tb3ohegcypzrc33u5cliujtwxso74ohx7dzczjwq2a4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

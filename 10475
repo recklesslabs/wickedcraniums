@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10475",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieqo24mwbc6btl3trcf4l4vpp4wpckkxktalozx4fhuwmejn5wvk4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6244",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtqdsuitft67a6avfw2trypcn7gebymr6r6up2p4f4n2sumx2ioi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

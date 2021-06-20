@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9717",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigkv4wddltlxk46ni2dvre2yevb6bfgn6o5bbugtyepfyi4m6egjy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

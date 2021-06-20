@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3503",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeid5yijbkshnmst3sxuxythzhzl4qh7zjirbnwdyxliwahl4fnytui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

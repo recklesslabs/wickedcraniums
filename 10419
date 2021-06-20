@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10419",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihc5i3ryqoqit4wdke5mvqy7qm44qoarwf34bxiqwlw7ysogflda4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

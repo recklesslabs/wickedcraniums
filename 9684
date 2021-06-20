@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9684",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaq6poj5ju6hudd4i6tmcy5le26cukqevdtndlrxt35zvvdox2t6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

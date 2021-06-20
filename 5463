@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5463",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreialfp7miidlbxvfyk55rvnx4wql65lqnzbs2od4a7wy6bwm4krlba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4263",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaiikm74zqsc2xt766jiszude4xe5sqkxvobxoiig3ewnlzdxdq7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5585",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpmnzfexqna5p3ppdnwykdleg65mh2cihmbbm7p752mfehnfgtge.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

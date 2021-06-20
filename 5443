@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5443",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreied447rhr6cxmvtidrt3pu3en7u3cbnpsv6usmy53cv4xlztkkb64.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

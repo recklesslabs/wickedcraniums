@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8521",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigewsiy4jwsmqi4lnioofo3sqt7frxfn3mgn2c4w7iwrevxi3zehq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

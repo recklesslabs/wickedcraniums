@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7093",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia5iqgjpumw47varzxemgyu46ogighokp2ajvaespj6vyqzpypinu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

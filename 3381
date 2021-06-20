@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3381",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiezcuz5w5tvb63odu32zkwow5vp23lf4cmvtsrxb2nskxnrr5ppwe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

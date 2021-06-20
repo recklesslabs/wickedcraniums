@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6149",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie3smmlk3bymmeubfm7e72iparblco7by4qltjw2cgutngypjszma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

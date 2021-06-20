@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8558",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5xd4vgbgknbxzpib7lzrxidm4shb5bujqa4f3kcrqumbv2b7dzq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

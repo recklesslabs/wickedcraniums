@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5913",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih3xnmdbduniirie6oovk2ub23bk22n7lj32i27vtuzgxdbzcw7tq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

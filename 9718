@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9718",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidfo6zmwaec4ztsbzaw5s3fsovmc32a52vcu6ppsuz2m4i27fxhv4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

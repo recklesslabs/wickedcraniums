@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8759",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibftxiz5pimzzutucdxn62dezgvcjvoqkcyr3migzj6jpizr7cy3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

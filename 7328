@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7328",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih5ulrjg3yynebzcypl5xdlhlgvzpifxe337csdz2wj24ffkdiufy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

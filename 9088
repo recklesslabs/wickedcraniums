@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9088",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigddvztbhcllk6cms5nz6fcdadyxnhbpzqoybz43beecbbemkbzfi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

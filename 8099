@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8099",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihu6rhprgni3ctjczpd5txzioka75nzphdxifrvlht6u2gjfln4la.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

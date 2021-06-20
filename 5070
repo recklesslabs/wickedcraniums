@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5070",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreietq7mnpi2lbdf5v74xdnrdw3ryvorqwa66eyo3iusfy2uj4xsf6a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

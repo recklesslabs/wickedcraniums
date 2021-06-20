@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8395",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihf3m6l2z76xj7z5qqgey7kcfl3y6oirvgroebgi23illp5j37wam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

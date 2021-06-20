@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9554",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigux2bbxkwvesfh36cwte2b3lslfwjycshtvkgynf4mplorxwi6ea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

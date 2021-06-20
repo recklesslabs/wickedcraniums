@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10541",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidskrks36wvm4kdvtv2b7nctm76z7bc5ey4edotulphttsz6d6o7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

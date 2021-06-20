@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5954",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifza5jk7l77iazc4mvhs256zui7pcoph3wpmlpoxukc4ik2idq64u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7230",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibykbi5ygcy2biny5yqclnkmbqrgcjsi7henatlfklwcw2ckpzd6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

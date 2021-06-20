@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6496",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwoemdestfxbnoiyxmjwkgrvacawuitdfun5i3swm3hq6vofdosa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

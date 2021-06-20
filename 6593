@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6593",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigearhpnh3i3i7wlgfpy547spnie5xrtrdongk7g6q7x422jni2k4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5258",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbnmqpowtdr7kv3otd77lsq4atc4w63qxjwzmsbwbpp4jbxaywku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

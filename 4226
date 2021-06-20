@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4226",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiabnzxyrkfpneuxarngu5lc5vvor32ucdy5fo47glackpe3yg23cy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

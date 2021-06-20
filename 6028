@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6028",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibssrnx4d45baopjntcq34vvcqqam43swq2aqtfnewvxlwl4umv2a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

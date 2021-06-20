@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10179",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic4muisefxlaievismczd33zbtee3gw3mu7sw6mdhp4s7br4j3l4i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

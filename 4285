@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4285",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieywhkguj5hmovwa5cvkby3left5uyvk6tw5ji47jztlbinb4mygi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

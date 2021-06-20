@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10262",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaevtpjc3jttpm3x3svl7afeap2ffhsuiu7lou5bddwp7462zc6ku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

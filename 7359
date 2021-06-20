@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7359",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiap72my323w2nfnl6wo3ggnmgc6ger3s6kf4pusl4mugyik5f2s6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

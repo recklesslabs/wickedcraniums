@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7091",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibecpakivntdhj4f4nxytvpdgvcdibdgbjj326y2v7wketm4tbxwa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana"
+    }
+  ]
+}

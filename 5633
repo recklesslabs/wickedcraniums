@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5633",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiciqyz75dd3qlnoff4kctkydwigk3ukzlpuxlf25v2emkzbigqv3q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

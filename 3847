@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3847",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreialt3no72e7mvvwbh4tck3por75jlpibf3lvo7anbtxrhm5yiu7kq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

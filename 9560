@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9560",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeia3hjog7zky4ggyzcwohotdbs37a7jrxndkvt2mxwws6wipcti3dy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

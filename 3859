@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3859",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid4hngvqq7akfnezpgnpgiaynfwr75rp7mbvfqn3r7t2mg35gxxbq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

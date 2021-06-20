@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8414",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifqjcdendq3q53prs3ex66ije5iekpg66hpyckmpggradyg7zckcu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

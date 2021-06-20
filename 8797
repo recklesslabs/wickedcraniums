@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8797",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeic3aizqwi7gkrbasn2yvn2sdassoftbdrtcnb7curhvhpclp25jne.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

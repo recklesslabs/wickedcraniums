@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5705",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreian3pb5k2nqwg5b32v3f6xnjgm2i2cljsk35hwas7vk44db3nlhhe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

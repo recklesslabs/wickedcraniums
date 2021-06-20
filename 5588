@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5588",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiex5gsluijydczx7447dzffug2kjmzfyw5wqj35kvdxvivwwlws5e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

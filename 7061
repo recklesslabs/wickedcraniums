@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7061",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibgmznqtiey6zwmlx3wgfzvtdfyktvubythpg5qxc3wxvmi6tcuua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

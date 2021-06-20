@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9013",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicwjtnm2uex72uwc727bzi24kra4b6ht2yxsgcvr56i7iyfhq5wva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

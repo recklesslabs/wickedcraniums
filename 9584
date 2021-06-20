@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9584",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigsrh6rvplxsnptwzuez6p2tj4oy2o2iupukmu45by66jxts6xqge.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

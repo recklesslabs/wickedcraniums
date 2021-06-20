@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8030",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicf2gtgufeanb7ov4m3an4f4p4sxmtky2cimo6ryu4pazt3vlr2ii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

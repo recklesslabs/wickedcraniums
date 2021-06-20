@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3449",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaiq2cxtzbar3w2ksfhu3uh2om6pqe5of2iyl7f63u7fyf7yiglbe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

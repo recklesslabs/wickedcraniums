@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9833",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigamwvz7lfljo73leyniohour4bdeofel6cghowqgnk3zvmmnlvdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

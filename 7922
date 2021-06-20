@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7922",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreief32j7onzwb6l7mfu7d6zzmenzz7y2ikyikuqv432qqhdtvqy354.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

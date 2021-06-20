@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5835",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasdvnpv7nzii3wrr75ge36aglry5ywh5555hgt6lfvq2znznr6iu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10540",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiacgwlyucqjvglj4lkrfzhjz4zn3zzfhs23iqr4kqfiyyjxj3zcka.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

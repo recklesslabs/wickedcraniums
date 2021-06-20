@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9759",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicavhvjjskwvyrpbtytvirpupb3xlvmevfvs7kzsvwghgc7fv6uwe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

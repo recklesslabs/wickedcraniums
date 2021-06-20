@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8083",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreianzxhkjlpihabbnejvh2eozklxgpw46pbhm25ctxbyuec6vppsyu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

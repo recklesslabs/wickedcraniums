@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7132",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkuxvxc4ntllms7g5te7a4t4jtlnzkekwwkckxyrygyraacordba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

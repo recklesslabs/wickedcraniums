@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10506",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaeqjphqai257xdclzz4org4nwwvaq63oowr2nfr7gg2oron3iczy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10006",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihrgkzs5nzmaqfxnhrezlgmmmjedk6ommu7gnsun2mmlembow7vne.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

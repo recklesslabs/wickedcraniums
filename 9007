@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9007",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaup6el4gjemd63x72njy6mfuch4iie6el7c7hdxhloeek2u7rwsi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

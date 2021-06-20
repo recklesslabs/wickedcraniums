@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10267",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicn23cmjqby26be5rtuwqiy5pp2hx4yqc4cghlqnou32iabmrbrbq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

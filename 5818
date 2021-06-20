@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5818",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihk2xpgpgno74vkr64x6twmwd7uyvjy4wxjwfvw3lpvz333f6tw24.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

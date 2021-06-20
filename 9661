@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9661",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib3k5jctcsaq2qobdwsekyyjwu7yik67wstct37z6uebgrhfqwuci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4574",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihytgflu4x6hawtsjyc5rnuzs2fw6k6p4pz2u2tmr2beu2xbg6r4y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9913",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiepxu3qwofp2wqeldfozzu2cff3jsvkf27yrq6pg4rysiizdaxzl4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

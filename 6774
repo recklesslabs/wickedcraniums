@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6774",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidl5jz2uz2nkdkun3z4zvg2kk6cka5czz575otmxj7miwahcmpwgq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

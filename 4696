@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4696",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifa365xeadm5x3z3ghmspypafefbubbgeugslnd5scn2grgl734za.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

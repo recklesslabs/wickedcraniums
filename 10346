@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10346",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifipfk6iblwhhdeocwj2racv66mrdswwjejl55dfiq3ntwzdm74c4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

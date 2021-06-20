@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9287",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihu3llyziea5qrgsjdoxhq5ouq44pb2eeu2f6qhn245vhwaesiep4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7316",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiacxct76alji4k4poopefplty4mpdpb34h6q3jug777sibypkqpam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

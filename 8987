@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8987",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie2tu3d3ppjkkohgur6psly2cp3kyznei6timevd53ldm6cfhqyoq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

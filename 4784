@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4784",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifx2fyezj3aft35ti7kckymyiq5pgpwjjdwwe6heue4b5meek754i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

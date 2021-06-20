@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9555",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5ytdlk5ugrvy2x7pbkj4hfijnzon5hxckqrqtpxyn3rorb5txva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

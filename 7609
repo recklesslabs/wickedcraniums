@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7609",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihg6mz372el4ozlyqjzkuv4kbzeq4xa7l2samokh4537ulizv7s2m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

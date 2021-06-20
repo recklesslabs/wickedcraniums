@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7858",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicav6x4js7pv3blf52ah4wo7nsv6qwdm33vjjur65zwe5qcvekymi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

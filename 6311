@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6311",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiekv3dorbwxmq7vyjp4ie5veqdeyl3yekjvxlrvibx7q7wdpna3me.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

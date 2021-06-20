@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3802",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaeygkzyk5sildzkr3fdyruntzps42npfte42nu32tdkltknvg5n4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

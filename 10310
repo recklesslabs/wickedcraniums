@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10310",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4c2ekxyc2rkc4az75yitgs6ltgplqderunopzasvvz7vvh7i4l4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

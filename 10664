@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10664",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidbbmrn7vzcgms3n4kdkny5rb4ecc7o4odizieq33bugm3usrnm74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

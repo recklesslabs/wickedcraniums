@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5628",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtwlym4vdv3xp5fytb3brifmogibgdfoagwbki5ck2in6vsta5la.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5512",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih44nc3t2lfhtyrqcjj3vawvmeb5e2ffjdx5zt3yvgk4tva7rg5mi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8440",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7gmicqjeh5dtuh2h7tkjpumkm3nmmk6wku3c6n4hacbegujaoay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10084",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzwqbse3pw4skkpanp7c4ymyto2ulfldnzql64ix2n7y775ahgzm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

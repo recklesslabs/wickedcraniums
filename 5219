@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5219",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7oz5vpiacue4onk5qofvm4ace2dbihflelts3o5ra7qp5w4b6vm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

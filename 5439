@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5439",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicll4wsyufv3vwmy3dibxmgufvb6tmphhlpbymrhlk7hx7k6qiytm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

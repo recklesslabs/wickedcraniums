@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6847",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiew2xn6m72sxddbyzecytpsf5uvycljzan5hkwdaln5nr3cxmv7tq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

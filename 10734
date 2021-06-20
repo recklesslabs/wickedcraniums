@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10734",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihk3pbyerc72qxqlxuoddjanohfgqougqatexnxhsat5jqzzz6k4m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

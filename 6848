@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6848",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihz7rnibe5bp32eqneml2ac7xcxl2szqlk5xmb7gqtz3l6n4fyi3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

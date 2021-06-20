@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7982",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5hmwdewxe5bd6xwfj32oykcwxfpspgimrmgyv6aq4xn736mohva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

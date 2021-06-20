@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6855",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib2ochb26g7vcyeup5ig3lniokciaxgzkn5a2jkeodmmd74eh7nj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

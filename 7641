@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7641",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlkw7uw5ktixcybuhytmrdlmnhuo727z4z2jm5fnleuqn6ogovne.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

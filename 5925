@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5925",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibdvo6hu5oqm7nmgpi6kirssylmjoehxyh2bbi36wa5zkhim7as4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8620",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehihy5tygemp6dqz6zks3mq5oztymzexh52raygdprswtle6uhhm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

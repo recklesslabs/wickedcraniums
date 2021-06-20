@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6817",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihscxlxpwsegxavvpmzfdqn6no42puzqlbhcwwrrngit72iaip7hq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

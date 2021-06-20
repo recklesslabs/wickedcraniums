@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6137",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihsa5nwxr3stpzquo6q3jrurvntl546cutpve5wptlmdhtp5m6cuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

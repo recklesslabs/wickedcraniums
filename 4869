@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4869",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigiztdewuowot4qrork4zhd4siibjx3fgk73vfkeivitie3rxc2di.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

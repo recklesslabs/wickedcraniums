@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6710",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiegjskvjzxheyrmjdr5blkqgvq3sak2opoa3ifnstncsig7wyr7ua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

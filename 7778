@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7778",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieslb25mf2cv4znefmy7lj5uwqmpf6skdn7dwmzye6xjz22v4ox5e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

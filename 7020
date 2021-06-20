@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7020",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihpr5wyoujifbal63vizuxiugp3zckpvmfmi27jq3mf7qzzc2igqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7441",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtnmyvztigwvlwohqpm3d6tqzmr2kbol4codmi3ofq7h4m2ndsne.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

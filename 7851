@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7851",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignimqqhnvogmrieln3expvjv6g47d4y4agcy53qhhbxhfg2bhlwu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

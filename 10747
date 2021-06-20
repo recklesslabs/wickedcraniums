@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10747",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihhlyfircprbkaba5gtdd3xysx3j3rjfse63o5q6xnqeevmkvyrqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

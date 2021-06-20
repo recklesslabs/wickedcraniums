@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5049",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibayq4ud6kcozldmhk6mxsqlz5z6pjg7rfoi5lkjpwsoxpyewhfey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

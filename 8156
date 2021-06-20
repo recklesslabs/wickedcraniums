@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8156",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffp6rtm3c63ext5t7lsom2fbn73msp5olft6zdsaivi2avvwfvki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

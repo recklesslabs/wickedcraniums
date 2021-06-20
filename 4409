@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4409",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifidjb44us2xvoeiqglyq2n4wkeij7jfg6zzmyx3xpmycafsa65b4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

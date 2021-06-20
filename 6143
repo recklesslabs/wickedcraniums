@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6143",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifvuq7mhj5jb77oamzxpsxw6eshudpa6pypkaqfv7eysa5paiklai.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

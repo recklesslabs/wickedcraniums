@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4505",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidggejxmnlx4aqtsotwlac7yrutid3fiszhnjbiy3abvq5z2rroky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

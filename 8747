@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8747",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4gvfo7twpxl3kf3tux6q4lipeeypif7df3edazmhymw5bvu4mea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

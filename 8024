@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8024",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidv77hfmc4ef67ctt4nx4hryje2lwtetjpizzcdlmxpogrzfi2y7i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

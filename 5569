@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5569",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6rcyc6sixysmagqcijyyj66emi7jlzqjlobyygo5awdadzsl6ey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

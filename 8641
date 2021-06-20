@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8641",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifohb5nth26anr6pdtl6g6cqrvvrsnqi4xqkqem3y4jsycvlikn4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

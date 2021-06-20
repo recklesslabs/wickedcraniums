@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6602",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7ip57xjiijm6tsgr3iqghf4mvf33kmwaleg6msj2bes4ki7tjdq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

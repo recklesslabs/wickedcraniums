@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3771",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiat3bjp6trysye5heq4deaqmjojkybdmql7ljg6apw527fvtlovsq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

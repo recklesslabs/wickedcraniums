@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3837",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigcf5j5muxdwgsdh4lrrjh6ojypnirixmbcvqjsyxrk2e6ey4mizq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

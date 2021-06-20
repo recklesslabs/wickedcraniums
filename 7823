@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7823",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihic4psxujus7mu466ye2yfn6wsvcrs7n2fhakn7onbfptzmh33g4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

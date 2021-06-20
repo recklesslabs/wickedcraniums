@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4727",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifgc7trhz6dg4nnld774eq6rmkjkvhos2sqnylkb4ok6fmu5qycrq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

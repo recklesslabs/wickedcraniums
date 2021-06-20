@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6147",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifka375uhtpue4eyeuds7hpsng67u7gspcqh2shslbv7yuyhwmu5m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5672",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwtsgndrpga237binnsepqtsi3wjrovmghedavuhnu5qqjj6iocm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

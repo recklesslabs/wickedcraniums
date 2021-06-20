@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3462",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifgezqsqednmrggukjrl2b4blrptltsyxekopjkke4mmfp4iiwzvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

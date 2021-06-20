@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5411",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiacmvfsi2jiwyyexga5miablceaa5pmejqnfz3s6tgr44d3gqdanu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

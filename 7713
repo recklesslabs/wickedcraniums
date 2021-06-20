@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7713",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieru5nmuhsrj2a5pea6o7l7bvabas3pasfvsse73yhtcx52br5pvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

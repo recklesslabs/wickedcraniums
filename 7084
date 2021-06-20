@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7084",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieu6nxuajia7vtnen56chc5t4m5iw7kwftbsootvubhcjugj7vnwq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

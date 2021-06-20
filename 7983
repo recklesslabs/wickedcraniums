@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7983",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif25gqn3kx7t64hflrrwgathes6i5hgqcpsczc6tttdszib7hayva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

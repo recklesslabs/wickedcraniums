@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9423",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidwfw7bcqi24ahj7ep6d5uzjcz56ectzibu7nzr62txgoqmomhori.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

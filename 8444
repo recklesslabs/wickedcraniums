@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8444",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieryjbpidzfwpfzhxh6zerh2tvsds2zlpi2nbwguklki4aq7j7opa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

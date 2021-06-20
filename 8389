@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8389",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicxpot5lanannk3gxgoncgfcx5keapgfo2zkp23lb7gtsy6wba3xm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7137",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifbyblto2gzfeqm62e26fuayofmbj6hnl3dkob6x5odpbz7gc3pie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

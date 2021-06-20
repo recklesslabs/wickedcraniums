@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9881",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidc3bowbrkm2r6wb4hseesizqsg65dnbbp7rwljyaowbq3a3k5xqq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

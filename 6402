@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6402",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicz4gojomvnxsy3s3io24immzrm3kr4lipvfyp5ongwx4rmlhknza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

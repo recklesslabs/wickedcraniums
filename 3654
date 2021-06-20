@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3654",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6tlaq5eyjmyfpi2zvduumfxe3sds5vktggxrdekkmzf4735al6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

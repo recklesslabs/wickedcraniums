@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10101",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieeffy3zycvfysn4xgi57brz3zt2jvmxvlpqinvbty7xtwwfuq2mi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

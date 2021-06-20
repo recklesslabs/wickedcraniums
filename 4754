@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4754",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifso6y7sr257lakrzxd6ix5yzvdmlmruuyl2sujegm24ckowm6lxm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

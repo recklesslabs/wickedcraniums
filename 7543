@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7543",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieza5tqvpp763f36ljgmmx77y5hfdsb7z733maltcxhpogoeyg74a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

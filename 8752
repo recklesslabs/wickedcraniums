@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8752",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifbjoffwheb4yu5xxwtzndfogj26lufzqf2escs75hfojzgts4buy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7561",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia4ajtrthomp6h2gfng6k6nxrrcyyathd5x4aakm3km2gkhsupmme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

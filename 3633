@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3633",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibojp7qvtgyabovxkal6ayyp57nof52udgblev3wwdloxbadlpjdy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

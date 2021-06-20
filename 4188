@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4188",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiabjannziaoochcupuitqaypyulevn57sq4anpknj7ixvitxt6yr4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

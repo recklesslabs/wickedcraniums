@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9944",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieap3qabofk5z2si5msjhd5vbhrutamps4jmb6orycdoxxvkc4vrq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10167",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiguz52df46zqxza7oas3jgg2ahxkum2ttyg4j3jibmhlym3hb2yni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

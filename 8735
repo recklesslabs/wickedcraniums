@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8735",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidelsrfpdxwg2xlzvoyozgmt2lzhnfupczjufcwd3dcgbvqtravte.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

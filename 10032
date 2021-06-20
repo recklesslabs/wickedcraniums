@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10032",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihvpawm7yqsjn3z5vuqkohriwzu4kukbjpmar5q47cjdufeppq6by.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SaintClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

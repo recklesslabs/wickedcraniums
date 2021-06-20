@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6810",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiddzozvcsuxovkv64mnd76x4yuezejzrsgxoacsqfx3km7qy2qkh4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

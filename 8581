@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8581",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibmckzrxdce4n67ynx2njw7dyvzzv25brg6wdkjwpzvoujyszeh7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

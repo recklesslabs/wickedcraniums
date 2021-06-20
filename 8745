@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8745",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidme73qziscde6vf5xbcsqj5ooimvkjsvcx2cvrlzaza55yqge4wq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

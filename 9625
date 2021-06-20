@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9625",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgaotubceg2uv34yzsfegudj57pgnyhipjuru2coj6teq2z7ilkq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8806",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiboyfvv3plhw2gdr56klo2joaijnll7owrhx2lmp4sy6j5pkr6oi4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

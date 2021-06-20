@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5210",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5rdvt5y6gskomu5psuw2qcqsp5vhme5d44k7malnyyepwz4fqcq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

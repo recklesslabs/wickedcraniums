@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8382",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiheubptcznicvxraaytu26me5leype2i3mf64a6ng4zgbrqkwc7mq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

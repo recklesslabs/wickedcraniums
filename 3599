@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3599",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicsfdx7mrqpolt6d6ydnie3fyj64catz5wsr2oadu465eryls5jaq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

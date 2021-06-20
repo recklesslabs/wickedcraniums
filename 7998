@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7998",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7dtpneh63ia2yx76wdtu7lgzlhmev3tkicxaswyf2j4xzlnza4y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

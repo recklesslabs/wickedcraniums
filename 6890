@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6890",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicx2wbum5jjk6x3evnj7vbhhmsmcnh3gm3rl2j2u4wehylkgslffm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

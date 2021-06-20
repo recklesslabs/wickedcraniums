@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9444",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibtl22vpu7gyffccql4fgnmzqvtpwl72gn2vvtnmomtcabic3uwta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

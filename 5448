@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5448",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicbcnuh6ijg7oefevugpreo7sdnb7vka4yoe37qfp265haanixvnu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

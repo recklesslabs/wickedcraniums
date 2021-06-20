@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7447",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidiolqry4owvnqia5t6y6dvmawb27yprstw5zqtidv5ip73j5id2q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

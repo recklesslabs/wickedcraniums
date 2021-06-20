@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7511",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieaw5xhmbk2y44etniohxxalc2ud6glqpxq2mb7igezqjwzlhxwgi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

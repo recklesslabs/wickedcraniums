@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3858",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3p5dn5t5pbxiy2bhf6msm2hlbwlak3ql2ecdapms6vvlowra5fi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

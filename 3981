@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3981",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrpwoq7x7mg5676mzwmu7v7lrtfbrc6oc2mz6cvrvclhxqz3h26u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

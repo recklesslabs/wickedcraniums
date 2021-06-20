@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7919",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiec2ynclszzy4ozxgzl3sjvqbrdopsjldtcbt4m3offooqur2yzoa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

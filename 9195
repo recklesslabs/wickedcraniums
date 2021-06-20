@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9195",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihu7f32ujh2e6i2bvaaw7jtar26qrxo6yxcelx5g5b6mkk4zvv6oq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

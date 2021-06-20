@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10395",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidc6aim5qxhkk6fdhwgr6el3tjs77mfm5tgvr64emv5ogjrwm6mz4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

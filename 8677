@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8677",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifuj2jq7bqwgmh2i5yhzqrn4quolcwyntoevxpfwmh77vkwcijzxi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

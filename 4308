@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4308",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibvp4xx3pc77s44g2hytds3ixd5dknplutfhbcswiy333kpffsc6u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

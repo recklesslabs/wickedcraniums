@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3464",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeie5pbcxhi5gqy7tskzgftf3rvm7jxsorjudxqftpozu2lgbkj6gva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

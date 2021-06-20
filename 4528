@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4528",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzspwakpwq3b2qgobpushigpefiwbaoym4h7c63xot4vsthf6uue.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

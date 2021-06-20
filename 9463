@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9463",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreierygdsvl7qzk25b3esg3kbbnnw7ihgfimrnrok2mdfsivajn4q5e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

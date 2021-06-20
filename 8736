@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8736",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidhi2r5nvpmbz2an6dfij5a55ov6ahwx6rqypdanhs7s2y4eahxqa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

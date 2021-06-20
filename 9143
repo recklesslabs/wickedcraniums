@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9143",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6was7er46v4g5a6s4k24j6ooqfu3eyrl7hlfbmuabllg7thxf3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

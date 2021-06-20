@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9048",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiad7sbl3c52x4r47xzstv74zxspdtn2entytyrnv5ecmsgx336fne.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4353",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiae2bkvwmwz3bpoyeea4yjl6hfxvmji5ucsa63rqivy4ukmpndn7i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

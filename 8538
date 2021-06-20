@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8538",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig3hdc6tyo6qshn4u2qjyvfodtxs334jrojwq3wolvi3orrnqfolq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

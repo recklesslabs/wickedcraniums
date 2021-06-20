@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5793",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifedak5ttq634n7vxlrrq73dti6srr4zqbo24ozxa45ate5hx5yqa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

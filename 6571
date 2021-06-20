@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6571",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigacpkhhyzjmt62ymlavusb2tr22a3t64ufyzlonyreajlbet56mi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

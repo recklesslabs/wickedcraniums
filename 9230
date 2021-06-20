@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9230",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieuehqvlbfraygn7jruc5sk7bqc7fdsczgx2pouehx5yxmad7sjs4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

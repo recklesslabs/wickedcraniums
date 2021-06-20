@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8252",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwgz7jnseftilwolo456ykosjy7bgr5ss6bkyjk2zfte65u37u4m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

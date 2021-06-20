@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8425",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih6s4fo4zeppk7dca6263jcu6gxj6udt6y26auqkslcxxuwm2wrf4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

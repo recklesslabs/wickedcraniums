@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8686",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigegh4l5f76o7l4wse55q2tlggg2v7ysmdk53koude5ky6cfmjkhy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

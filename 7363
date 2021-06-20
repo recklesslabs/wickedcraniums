@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7363",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiejnbgtt5enee5bq4zsulmdd7qy5jkdh2jpg4ls6jlcfsnhuha5wa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

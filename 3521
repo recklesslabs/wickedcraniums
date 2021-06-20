@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3521",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvirtu4lapil5ppalgrhfg33dkwaoxcyxcrmlyi5dqnh7i4cv6jy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

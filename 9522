@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9522",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieiutwkpocv2loeddtc3z7vnncqvhoacz6tug7nzwzyfx7g5uwuom.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

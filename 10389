@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10389",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih7a7phvottzbq5ylnbonlzpujjrgb537jbgvriuph4ithrykkq7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

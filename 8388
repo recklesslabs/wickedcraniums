@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8388",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7mi7zck7howhunx7xolm2exxah74uzhh5d53m6x3wzprqefmpuy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

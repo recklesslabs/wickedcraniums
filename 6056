@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6056",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreich2cf3eyqq4rdnyuwx4vu2twdtb7tvioe5guldqzxkr5m2pbypru.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

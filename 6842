@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6842",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib2v7qchrtm4iede3u6kty4t2fph2f5laeeczc22lzcm7bq4h5wie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

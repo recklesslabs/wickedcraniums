@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4982",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid4x26omebyjgeyx5iociu4s4bsbbcyps766fgexag3vxjb6qn3re.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

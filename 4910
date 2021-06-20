@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4910",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibhhiydayq5kdq3vmg6ejljeumec3hfcprzjv4tzwatdipsuh6o6a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6495",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib55dxewwsqnuv7af3vdpbzv72yy5brxpzm63pavfh53rnzkiwube.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

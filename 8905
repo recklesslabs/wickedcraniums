@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8905",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiefvpeh5jsm6x6tt5jds4hgqu6nxrd6qaximt5q6d56fc4fx7ixqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

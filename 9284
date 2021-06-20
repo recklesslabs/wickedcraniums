@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9284",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbtc3igtmuzmznsspcu3zfctlge6ykfbv22fkej3nncvfgmbrpfe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

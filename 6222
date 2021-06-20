@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6222",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigba2xn75xwgune256byln5ekhssbmmqzgnqurvirxrvdvopehjzi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

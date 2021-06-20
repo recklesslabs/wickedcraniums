@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3737",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6qlz5xznpxdsxfkma75wdugr2e6h6tbbbx3zs6ythgfdusgrvky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

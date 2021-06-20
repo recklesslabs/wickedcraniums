@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9908",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigfhslh22bumhc6ljm3kyxkvkxrs7pjadrzxskq5yrf7t6pj7v6qa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

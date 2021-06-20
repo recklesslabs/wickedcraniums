@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10138",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigx2zc2kbpt7pm5jlkl7gu7ibdvev3bbbf33irn7hppwuf6gs7ci4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

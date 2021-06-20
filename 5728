@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5728",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2xoasbxtapcov5x3hjkmuw2m5gakwb55ep6s7shqtmpmby3skom.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

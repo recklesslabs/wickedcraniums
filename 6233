@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6233",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigm54mfjxnyuojfybitcyxll62gr3uyruwqchmqwvlh4ut3mrm3mi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

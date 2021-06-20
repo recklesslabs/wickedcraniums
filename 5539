@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5539",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieha2mb2izgot2grfpmoah4iwqgoymo3l2rnjbnil54bcw7wgte6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

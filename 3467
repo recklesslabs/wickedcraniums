@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3467",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihlnm7igquh4iyofjt42gxatucyudq3x2ovky7xiuxqyghimgsd7u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

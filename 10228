@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10228",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieqinovvcelyadntlvjjhar3vfauqczg43u25b2itnfwuesssn5pu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7571",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiehw35aq2sbrvtgbnfkb63h7jnp65awxxt4wwmuuclcotsov6zdae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

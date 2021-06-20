@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7227",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicy6m34ibci2hro5i6dwm2k5kllsoiaq46njttralxru4h6ffbrfi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

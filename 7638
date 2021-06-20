@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7638",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia4fu5pev2wqpuvsou43x6fv3n5pt723mdvfvbn7bitmuulwbsl6i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6935",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifqe2p2fpixodb3ptlnqwdpf4lqitat23nntzo67pwa6ouqfrcspu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

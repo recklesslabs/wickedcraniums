@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6488",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic4aeustxzzptkslmic6nly56z7oy33s5wght2ucro7ndqith4eye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

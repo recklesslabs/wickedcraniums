@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5734",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifuc4vtphkpz5aqrjorbvrlj37gi2qjaovejtdzhmt7h3tpqjbm4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

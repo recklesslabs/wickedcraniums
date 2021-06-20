@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3504",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiej7vsx67sqgbtqnvrj36g5nu7kqanebivf3h5qgu5utwht4auway.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

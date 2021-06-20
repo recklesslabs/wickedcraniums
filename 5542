@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5542",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaferxjywrrerchacjxewp2vtdrer5qfwg37gqprhlu4aom2b7zyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

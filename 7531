@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7531",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnkltlebqbcvtrfqun2uffwf72om7djp4lkmtgf5mla4732smbvq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

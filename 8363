@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8363",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihn6sr5r63zxg52p7ppkjjt6ncfmk34qddx6ahud5vjimroq4pday.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

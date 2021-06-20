@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9372",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiarxwtbds3o2plfpqnjmgmfjpblxy3f45h2c3zdvkpos3miqqqz64.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

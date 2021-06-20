@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5416",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6tixnot566lart75fwkmsrrzgpqz244nsvvedccnu37kl7fkypi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

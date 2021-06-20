@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9197",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifldy4j3yeyeemilkranom4vrcahijke6hh2px6a6x3zorqg7cooq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

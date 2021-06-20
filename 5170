@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #5170",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihleyqa4bitst6iannee7lkkxbk32ymcip46iv4wyq6m2x2zq4yfa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

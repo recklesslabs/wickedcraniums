@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7438",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebjuhrltlyjnoj7ixsy4rpvm2tththejsz62awlc55ifn6m7tahm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

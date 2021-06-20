@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7916",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidjyg3cl4bathdy4ddinmrpvftqwvwcmae4m6bvyotm23a5uw2em4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7784",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifknojo4xuylqwedeh4b2mfb3xsbyplm7xk7wd4lvtcjxdpzwe424.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7651",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielk32jo224xtmqsnz4pfbd6y7hb7tcmixvmnpvfz6bbeotuwmn2a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

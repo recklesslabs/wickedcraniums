@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7037",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia44h4v4eq23olde2my3rd7kr45otfy67oyku6ftqy5k7l4x6v6x4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #8472",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidr4m6e2cfd2hvd5nrtfl6qug3airwhzb6knzcmvmm6cpislvf3ta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

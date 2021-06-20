@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9259",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzus74vsuqup4q7n2imzbwcutthhopyohisu257kmc5rls765cjy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

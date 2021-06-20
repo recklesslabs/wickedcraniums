@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #10487",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaz3fdj5defnyo6rk5hxnt5vfesfyr5tjb2zc47ccz22i5y5arove.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

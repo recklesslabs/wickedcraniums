@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9166",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihclgmeycogphibpufc3dlgkhlhhwdus4rff4rypo7woawx3i7dcq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

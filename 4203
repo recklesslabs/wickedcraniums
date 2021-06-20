@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #4203",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4xl6vydev5a3qiqv2wwtajvnujxxk6yihhxfkxvteozmusrttme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

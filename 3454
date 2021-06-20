@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3454",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgng5iunuxk4tk4w7fnhnahqo26tcx7r46fbpvrmcbnjharholw4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

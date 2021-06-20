@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6358",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig3so3fuvtkjikf2meydcg7m4wsk6vr7rk6slkrvsjiasyjycgyou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

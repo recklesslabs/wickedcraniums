@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6249",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihudtok6qqw4g3zzt7kq6ng4l6ekt3xsfiw6ehw24exfl7ekzafya.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

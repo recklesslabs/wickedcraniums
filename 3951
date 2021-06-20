@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3951",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifadzhejsgiztjvwmhzuldkhwulb2w2lxc2dp5bt25rseidbpa4te.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

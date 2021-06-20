@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9356",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieavl2ycc2lse5iegcsbp2gy352ix2oralhvflc4omffi4ununawe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

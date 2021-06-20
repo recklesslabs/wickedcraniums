@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9362",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaeivtsp6nivfrojvs25loqkhoir24mocw7pexdpkrymuyn2ool6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

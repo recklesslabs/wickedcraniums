@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6491",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzna53pile7u57lqcrqloniosaxxe46jwxp55ursqb2ag6kbwcpe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

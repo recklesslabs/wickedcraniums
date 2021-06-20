@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #6931",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiacd2ygz4yd32om5colvanoqgfecf3em3ctaqotrerxd6d7zn3z5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

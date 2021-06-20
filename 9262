@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #9262",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiak57xubilid57acsotfjtbbn2aeum3ijclryzx27o7r36o3jqqtm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

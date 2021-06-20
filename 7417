@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #7417",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwrcat7smm4hetlknk4jezypjacyhd2n57m2l3xsqpnqz5vn7zbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}
