@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1072",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigmjvw7m2fcibfzureunhvu2ist463m3reebxejtldgz2fbrefoom.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

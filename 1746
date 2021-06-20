@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1746",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2xdj5eblwwlmtgqusakwwihnjwkdsrgnpsmlfcnejtv4epycp7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

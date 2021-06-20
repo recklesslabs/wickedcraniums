@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2274",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicc4x2oep3cpuufnvem23wnjsjat6bwxry3vesmt7suqarnsll4lq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

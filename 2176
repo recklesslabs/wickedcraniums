@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2176",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeie77n2zatclcvaxsggq2sytij35gvuotfisug6kq5fwdoifjvtt5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

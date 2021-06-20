@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1081",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkcfzefsaagslzzg4mtinkumftwtmw2qwoshcgqtcpr2d7jx5nee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

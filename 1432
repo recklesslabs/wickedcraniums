@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1432",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4cnjh3o3mkrxyrbgthumfejieliwhoxmqeumtqxbg2q4txbe3q4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

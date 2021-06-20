@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2323",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicgie3ayrmzo5syiki3t7qerxlzpuj767d4uhouhzg4dq7p5gcuyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

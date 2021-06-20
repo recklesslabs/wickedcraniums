@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2207",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicibg7q7ruwqcvewnel77dn3w2rstywsj7rmb4jfkeugocgknz6ea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2565",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpppghhflreoabg4cthxozcxgcuq4wqlwfs3c4nv2sdbwsmot4w4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

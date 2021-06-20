@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #989",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihna7c22fd4og3hnxup5brhg6i43eeh6bkpxlps4lohwmzs2lqtoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1287",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiavw5mvc5f7zqyh7hyqeu434ameifjqj7uvql4qwsi6cy47ptihgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1370",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih57hokdrazzymrrfibqobe4fhv6ukwjsyxsremo6bxabwcznx3hi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

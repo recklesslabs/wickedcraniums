@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2123",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidspjqeqxkijxr6p7q6g576lhfcqxurzuzw23xcgvmsh4k6izleim.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

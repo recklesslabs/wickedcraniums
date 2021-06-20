@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3174",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih7mhspmoojd7c3eal64p6cs4oq5ijt3bzhlwqjx7mbn6rlgsoxdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1315",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4wwxztztwz3k5mmdadw5hqgvteilem54ysjrtet6jx6cyh3eety.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1085",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqtkpsoggmldubhfujsu5fdmbftvgp6bpzpuiqhmnslsw2boe3te.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

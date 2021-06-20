@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #880",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif2wcnzywfzqrlhuscdkrpmik3c6nx7y7a5d5hrg2vrufayqdd3gy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

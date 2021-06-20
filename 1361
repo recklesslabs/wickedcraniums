@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1361",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjeg5wqwarof7zkfto7scikmzqvglbci3pcextxkmvw2vfd5eswm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

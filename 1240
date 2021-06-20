@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1240",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihuupgs36e73plohocrbhb62euofhky5cwk27nsvxct3acd5dnfu4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

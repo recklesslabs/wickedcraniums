@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2521",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiajcsmw43cvehedbfo4sdyypxwzk624xri47v5u7wuk3jq3bwzzfu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

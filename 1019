@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1019",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2uems6jsjjs4o2fxfdiw5u36cyhsw77ugtz5wmadufvfdmasqea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

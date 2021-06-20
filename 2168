@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2168",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieigcaxqibmjirkmm2pdubt5mclgv4irj3ywi2az54muxf2mx5gdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

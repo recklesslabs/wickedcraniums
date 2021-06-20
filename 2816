@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2816",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2covpoptzreeszimq6xxrasrdourszavsrqkbv7lvjmiefwwjru.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

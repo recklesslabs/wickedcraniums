@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #740",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiev4hpq4jd5xujpfolghtbrdbr6qjktefdn6f2e2txgk5sfzzhgka.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

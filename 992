@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #992",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigt5pwupdhb2emztgzuttkpjiprp5v5gtvognjk5rtfw3dqy2fbnu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

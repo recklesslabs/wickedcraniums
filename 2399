@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2399",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignzoldi4qufywhwhi6fn2n5s6mla2mqbol7eh6v3zvvjhzulraia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

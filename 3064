@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3064",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibcxvy5wyjw6s52hmfdl5j5zwvcbr4uwgmmi3cczt2hfcqpmz5t6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3061",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibuqdgws2ps4dsc6bvtfm2lyovpunnwrjvdlb4oqdqh6d3v3unrty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

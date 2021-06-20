@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1199",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreianbxiaqzpvq6qzrpvfhrigmhkbadh72lrfgxnkuc25bxslomiqku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

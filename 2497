@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2497",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibzf4r6wx7honfokkixkojgpth5fbvdnfsl4z6nndcnc6jz6rre6a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3135",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighupa4xkvgh7ni6ve2hjdwdyymlvkgj7brf7ohdc24cvmkghrx2m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

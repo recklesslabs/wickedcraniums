@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1283",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadkqa6gfgln4lwizv2e73e7cxkiyrle65mevtsiybmf2maw67yyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

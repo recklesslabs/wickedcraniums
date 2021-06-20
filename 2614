@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2614",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreica7aa76uy7az5xx4agn6qi6a2nfzlwq3olhhe4d4sc5hi3zwjxyu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

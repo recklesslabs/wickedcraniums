@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1783",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrftm3gkftizvwy66klf24aqlrn2e2qbuq4mfsf46t7jloqrznai.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

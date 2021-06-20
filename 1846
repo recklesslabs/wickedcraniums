@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1846",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifvjjfpuyssmbyr43dopklcbndtzapaszugsb7qx6jhjc54da5brm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1853",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibvylu23mjbookyttxfnac3as772z757bb2c37gja7bjdrb6qrume.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

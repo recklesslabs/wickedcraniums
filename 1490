@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1490",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdyx5ws53e25ecnkkg2jr65moqfjigbd3unygukmkjzffcvnxnhi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

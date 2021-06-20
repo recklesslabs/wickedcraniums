@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1321",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicazfvzqsu4mbmuq3jhwkq5wpsvrc4u2mc4obmebvbzhvalacsmd4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1541",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3rstp2khiayk5pz4lrkj2opnbjk3g6civi2ek7nvowptcykihpe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2716",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2ntvucuhbfedqmtf6i6w63gfbxostgggg6jdhcxy62h6l7gdwfy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

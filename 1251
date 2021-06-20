@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1251",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaalu5ukf4heyixe6n24zytpvu3c25syfqcdgvmuhzym2ajtehedy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

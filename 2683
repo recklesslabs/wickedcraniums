@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2683",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic67xqfkaq66tk7rfhr2hpfqmcm4ney534mj2d4dqnwkzet4nhyby.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

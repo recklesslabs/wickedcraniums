@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3133",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia24emtib6zzwy7j2y4jzk2w44p67f5cemmdxp6qcfywseibvpcu4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

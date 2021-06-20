@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2671",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielph6n6f7yuz3yeacngpi3duthnduejdbktlwyo3kqkk6gmo77gy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

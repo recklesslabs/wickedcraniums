@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #912",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7uxisw2srp3vyhcwq433uq7xa5uhyx23cde7zhckjl23y4hraju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

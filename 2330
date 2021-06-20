@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2330",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehagshvrfseuvudvniwykivtbimwhxc3mhxdmqrfmortdd5oauim.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

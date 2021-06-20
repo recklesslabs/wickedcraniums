@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #801",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidob2lsqt324ocz2rrl6zxhkxouy6a5eahozo47zx7oq7tp4ecuw4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

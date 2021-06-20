@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2860",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiafu4qmr6dztu7nyk3cjzn6h4dg7gtslkjypco53yezoa2tcymnbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

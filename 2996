@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2996",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreietz254wcw3lsxu5wnta6uul6d7rkgowsc6cm5ny7ft4akpnzpnw4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2452",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibnwyjnlblpetbg563r5sofs4ca475bsuv63yud4m6wi3togs5c6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

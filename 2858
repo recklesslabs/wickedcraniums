@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2858",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih4vtzdq3y67lbow2ltkay7hoek42izfmjguxlzifdzp6a226q5xq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

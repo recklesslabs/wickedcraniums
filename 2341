@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2341",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid5qcz3v3ioh773fuxgfvae5uv7fdkbws3h33rfeglk5yuifilqmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2874",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibyphyz2fjq7pjt7rapqdfmgomqauczk2s5gqyz2nngiknlzrcydm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

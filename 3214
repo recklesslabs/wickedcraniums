@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3214",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebsmvjk7gficrjqpeqic6e67big4koelugucjptgogue6etlkxva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

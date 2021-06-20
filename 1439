@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1439",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihzolt6iwc4vs2gkpjxcyuk2c7cyiypl3pc7vppncha73mtdkdhwu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

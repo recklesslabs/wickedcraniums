@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3048",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgkv67udr4nnb2gfidsfppfu37i7plf6mnmmlpwy23ak2typfpba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2873",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicwzlpqztqgmabfgev5vaz6cjvarf3k32kuox4yjhta4rdwjuxrvm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

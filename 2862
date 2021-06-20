@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2862",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigmc674r3apcehz37npgxzmn7slullbtoy377glqxmihc5eiewvse.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

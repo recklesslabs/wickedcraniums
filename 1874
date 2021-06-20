@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1874",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreickdtyp6cvbzqnvsatcwm3h76t2gyftmhe3tmqhuhvrtc4pnnurui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

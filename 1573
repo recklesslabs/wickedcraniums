@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1573",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiciefoteaib5l5vljdhrv3tq6rvil556prdvgwdykrlmhwwh3txz4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

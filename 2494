@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2494",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihosduf7yhcqsvegtlodme6v7bcvb4qdcshtotgsei7wrgxr36zna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

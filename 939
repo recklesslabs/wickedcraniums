@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #939",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihxmgarncfaovqfmvkzjesng4x5v5nzjwaisbskal3yy42bbhtoc4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

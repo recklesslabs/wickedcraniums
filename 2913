@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2913",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiesohnztczqvmx2xvgckaxwlol2u6wt3jvdjge7xgj5l323pdavsu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

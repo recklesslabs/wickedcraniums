@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2079",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih6ygr66fa7whkexyaw2g4cvhtco7fihuvzazgzrchtgwp5u7qyva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

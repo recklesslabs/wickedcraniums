@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #925",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasaf4dfryt6md4ah4qi6vlwovnt7vqeczzi6eto3coxkftfl34x4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

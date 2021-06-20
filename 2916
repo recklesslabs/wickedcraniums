@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2916",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidw7zpuzu5k3vkhy76w4jza3ritfl7el6rnej6u6vdekp2yomc54u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

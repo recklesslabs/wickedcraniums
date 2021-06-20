@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1082",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie46dgnoeyrxagjrgrd6fhypn4tkp5um5grtahljenewpcbwvcb3y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

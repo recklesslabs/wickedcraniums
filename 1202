@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1202",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia6qcawayrahh3p2cm4rwm6pitmde4gn64myr43er4eanixizeche.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

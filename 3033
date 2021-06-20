@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3033",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigeadnqlm7hpgzd52kd6fbar6m7dcmcbecleres2yqnv7pwy5b4em.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

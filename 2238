@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2238",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibigl3f4kaovkta2b4hbofwlmfumuotd3zfgrpwogvodthqlcpzgi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

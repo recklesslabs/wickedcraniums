@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1120",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihl5wz4dqwpyrwblylhbovyefhwdtpo2eaxnfv7aenmkdfgv3c3oq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

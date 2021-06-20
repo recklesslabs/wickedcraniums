@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2111",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5ev7lj5ww7qwks347gjjjtyn5e3ya6qasedgao44drx2cxx2yqq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

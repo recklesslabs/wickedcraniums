@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3088",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiais232viv2fvz4dpzmtvtgnm7hpfbub23cnrnndvvlfaphvkdema.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

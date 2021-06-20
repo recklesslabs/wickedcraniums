@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3227",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid43cwwts6codiaxpjbr4cabfmnlrayv23qm4okp5fvcblyy5yeey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

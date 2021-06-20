@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1869",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihi44g7guzaacqwkqdrfmb3k4dyxmmevalraljrg244iypybolwsm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

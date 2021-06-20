@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1733",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieoi27icfinhh4zcjhfro66yasrxwqq56rbfbybbrljwoc5qf4b7e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

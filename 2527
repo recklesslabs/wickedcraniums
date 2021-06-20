@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2527",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie75ksrfrs6aoqgdnpeqtc5gbqd5pxzfp2fcyz3q3d7nc4y4e5myq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

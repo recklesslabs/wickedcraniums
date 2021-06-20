@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #703",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih3xc5si4fpfnj6dwo5z6siqk4s6nixix2w2fudcmu4axeq2pmx4y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

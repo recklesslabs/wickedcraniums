@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3236",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3txbhprh6s74epjpycpvwszyvs7iulo4stbrbcv34v4yc6b47ye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

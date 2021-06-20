@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1214",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifficbsmx4qz7kfnn4efeygmcvijtob6ukjentfpww3fmncyevlvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

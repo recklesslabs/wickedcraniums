@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2713",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif3zbo3nza7vh2mjco2yz6qzwjkyzavsfs6djabsydt6e76dakgna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

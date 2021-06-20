@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #782",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiakog2lqfv7cwonlofoksqbl56enr4zlisdlci7rqaegfuwivy3bi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

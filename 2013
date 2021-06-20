@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2013",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidds742cnzdmnj2jppud67xn64lteq252eckjipldyr3mjns2gfgq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

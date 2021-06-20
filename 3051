@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3051",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicflzyzbg55udwbuccwyom7aqelyk3knzvo6hrrtmofxfj6ge6yku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

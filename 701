@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #701",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqs54pf45ci3pq7346qeg4as6vk2324kphqxvbnuoc7il3y35p2i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

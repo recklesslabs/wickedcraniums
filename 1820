@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1820",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif2qhtk7ldpk7rcosgkdr7g64cugzgsv4c3jwpreftnspgjsrucxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

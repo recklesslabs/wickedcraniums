@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3120",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib3jrvx75rbyztajncncrjis4kbpvrwh7xqkxy7gpl2cjavf3kaka.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

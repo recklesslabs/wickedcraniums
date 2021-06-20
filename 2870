@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2870",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaalzr6e7zotzoxtqll2k3w54dldnl6frqs733qtsx4mtk2ykk67y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

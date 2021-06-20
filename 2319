@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2319",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigddc6n2i46t76bcbpj7rnlgpiwwldfbws22aavvadeqguocnywwm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

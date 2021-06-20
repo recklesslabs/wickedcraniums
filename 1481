@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1481",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicojy5lr6xzlrgerjdc5jlmvbrptyioknnpvrhbtzuduij4xx75zm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

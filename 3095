@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3095",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiena3pcthxalffhv3gx46lztcw7nydexdjzedhbkgpwqecrfcclhi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

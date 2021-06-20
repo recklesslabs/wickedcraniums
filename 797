@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #797",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjfhrwtxk4257kfhuwva3pvm67hzcufmy5m3tvuzjchvvnuoerdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

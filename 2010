@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2010",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeieede6qromkzdig3y72cdurjryzpf2ciqprxvityrbah344jfpwta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

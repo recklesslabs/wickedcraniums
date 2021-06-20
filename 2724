@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2724",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigf6inlmsbrwcr32ae44sgah4bk6xmq4bumvgjtlc3eqkbgob36fm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1170",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihau27ezvbyvlkbexewqmweqi7qt7safevr6vmruoteiimwtufdhu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

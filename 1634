@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1634",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihhsts6bzls5lhs34jbqi5n556e4ssvlhzhkmeo7hwhxhrbuqpf5i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

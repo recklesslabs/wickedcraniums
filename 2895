@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2895",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadkgytim6uxcs27y54crmajd6sk2rjhaofaoijowahisa2t6mpee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

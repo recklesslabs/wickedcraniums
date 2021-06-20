@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1777",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeieyzxfigx7vqymp4kkjsy7mvw5xojdq3hfnsjzocn373uojyah4yu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

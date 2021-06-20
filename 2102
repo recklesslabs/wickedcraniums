@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2102",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiclhfyf76ftdg4qhvp6tz7ftrjejusd25sp4to2vifecmbwep4mye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

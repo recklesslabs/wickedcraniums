@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #754",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidizgiopslozsobyllbmpgsrxzr6s4xpmatedxliutc3shwkvkb3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

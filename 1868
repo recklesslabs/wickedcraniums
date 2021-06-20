@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1868",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibhx7l7yjfzhfkt7wk4p6ta2nbb2tjrn3xx5o7gletjqexwhuofbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

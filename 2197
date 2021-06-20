@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2197",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigjvvr2lqge2cnzmqdi2jbqfc32hcx5gplljdy2xtn4bjhy6rmdp4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

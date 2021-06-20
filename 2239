@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2239",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigsm6kzali2rhp52sbwkyk3q3qidfdrtc4ca64n5fziijkpdyplxm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2236",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiarxvdhrzf2huchyqdw6bky74te4pjq3ipiuerlwrw6becrt6y2da.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

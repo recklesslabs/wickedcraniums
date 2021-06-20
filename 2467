@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2467",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifz3fcbt33c77etpgqsfyppaogzl7pvaqx7peotiaq3rhztml7mui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

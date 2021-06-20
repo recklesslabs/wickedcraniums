@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2950",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifcgqrhtqngveajmuietw7s4hnniajfa5alerncdrckma5svbgsri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

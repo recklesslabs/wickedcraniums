@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3205",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih554bc5yrdnhjjviacbji7tiiw7sg2y2vo3oxax32kdutmvgxblu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

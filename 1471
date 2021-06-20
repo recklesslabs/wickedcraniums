@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1471",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiha2gdrcizo22w2oooom7pgpqfisvyylyb6ybbdxfzydrq4goteyu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

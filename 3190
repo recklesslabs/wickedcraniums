@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3190",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaajn6pc6gpy57eyhnjwgvgtnnbn3kn3bininrw6s2xex2u3tdq2a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1515",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibhx2o46ldmvijls7pa2dynvh6jo7j626rlc3pm2hlrsq55aeajzi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1191",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifnsff4v347md3ejyxu44yo3gfhcttu45udlgtgfg5k4gkbdg5zeu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

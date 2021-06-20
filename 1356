@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1356",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif3c4zdbb5kgga5po3nj4cnjiitospey35mroi2l274kapri6kgoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

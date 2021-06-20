@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3187",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexcyhojrrbmadh5lzkio2nospvgl45qphav52q2h3miw2ubczt64.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

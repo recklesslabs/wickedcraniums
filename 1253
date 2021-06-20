@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1253",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwtqb5swqxujobhijdrw56mrbgwrqnvgelhxhyywdsov6svpqjvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #843",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjujvywvy2i3kqwicgagbf6smcmzrdlagrcnlz5dbbpytd3hsl7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3016",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicc2taakctpyb7gmwhzmein73or35thrcm5var36pzr4ekftyqzv4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

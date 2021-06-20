@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1544",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdsjlp7yhtquxy2hm6uqi3rbva34qbl4zortficzp4rw3rwety44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

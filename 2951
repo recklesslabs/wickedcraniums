@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2951",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiacjtlk22ppk62nejbj2kl26zcsriejwmrpv6sl2mdh7x2jd7zlxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

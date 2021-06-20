@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #943",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtwnut73y3pvvo66dlxlinfwcsyddqy76vevqhtq2mglycdkjr6i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

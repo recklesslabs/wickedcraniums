@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2068",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih6d7lv5laz2kbfmoll3uy4wu3rkfozusqinfpjwcpstrk5re2zsa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

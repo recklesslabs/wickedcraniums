@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2588",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibvpejdjexspbjzbowgvv4evqm2u2iem4orda3rkfedgejasegkbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

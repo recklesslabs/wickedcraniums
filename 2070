@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2070",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidgjvwtm6zc7gecazqfpznnjqelvnrsflmhw3vaj3gno6yrxphaba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

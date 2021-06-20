@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2501",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreickvecy725teb3k4olg3ps4fghlxjt5yckzeg6zaj5ld6ogq3s4xa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

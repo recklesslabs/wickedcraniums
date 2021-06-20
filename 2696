@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2696",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5crkx2czvtb7qu4bv6lebob35ujtca23pbjak5pp6cg6fv6bjjm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1204",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielkjeg4jfijzp3fxuekv6miq4x732itetjqwuc764b6d6ncd7y5m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

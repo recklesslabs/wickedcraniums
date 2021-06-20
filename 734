@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #734",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnle7jvw4zg2vkd2jcewwwrfu4owxluul7dhebvy7vx44ukpclxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

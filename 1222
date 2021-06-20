@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1222",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigpd5765iuwyccpfj7zi2hjeceoeab7bdt4od4cwki2kpu4zlknzi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

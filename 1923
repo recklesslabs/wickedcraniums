@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1923",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielgur6l5ujitpnkfvdqqyszacy26e5utj5tn4hdwvrbrtirws6mu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

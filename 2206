@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2206",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieyygfkpzz2cvbgogplrbcyaxq65tgd5ois43xnuj5mkdjsz4lblm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

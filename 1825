@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1825",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreign3m2gqledmknbujzoi2yjpf4qruks6impfics6fm2bvc4myhs4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

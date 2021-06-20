@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1743",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigepdi7khlwfeldwavba4vflxoe5pnnb6b6jse5vvrbrhudulsvcy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

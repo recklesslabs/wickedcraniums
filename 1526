@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1526",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgad5jct7pjg52wxjdyy2te63ud4g4xofp6uyc5s76bmw77xi2zq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

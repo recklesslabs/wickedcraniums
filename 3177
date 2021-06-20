@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3177",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjig7wnzeo4xaf7kipcipwg2lhk23aksipfmfg2brbvjofnzkcda.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

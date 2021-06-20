@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1844",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifq254s7pbwsx3iaa42smlmuutvlv5265htuqmciq5bvzqs6dpdru.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

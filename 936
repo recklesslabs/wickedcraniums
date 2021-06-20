@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #936",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihojqachrjcrel3rb5actso2lanqtsjunb3v7vni64chw7nt4c6ni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

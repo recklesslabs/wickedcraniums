@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1499",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7c5f6hlkkeecergjsufegvli52skj3chwuh6zomg72mhv3obase.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

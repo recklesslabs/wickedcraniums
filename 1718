@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1718",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiesdpvalsokptbsizrdz6kau7hh4c7koy6kskr7bcy5pr3zbbnw5i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

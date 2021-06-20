@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1468",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia6zgvwn6bphhmoi3apc2flj65tdhakudrpj22na57jmovnm5usoa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1717",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigshyphmoyr77wkhb3ewimrvdz2ddi6nmt2kldltpzsi4s4ljlmqa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

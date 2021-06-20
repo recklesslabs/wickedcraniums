@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2008",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvm2ibxqmnvwcc6fyvgemajwzn4uxu5foocresbej2ipjfkb45qq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2920",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiduzg6h47mv6bfpac6hhdbdwx2fhjwkddlpcy4jvumdn3fex4ntra.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

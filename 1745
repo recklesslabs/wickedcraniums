@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1745",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibm57o3g6rihvi456lor4twq7omzlltdlq44nv7clcltugromz2km.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

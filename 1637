@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1637",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibx7p6ztgqutsajhvh5ntrvjdopx7ocbxcexedx7dbohi4tpfxqki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

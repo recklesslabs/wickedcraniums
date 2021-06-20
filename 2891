@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2891",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiflz6tncd23otdud7spqkah2camkadd6s6ghx4nj4qscvzs4dzj3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

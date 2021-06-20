@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2035",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaekpoboor3hd6gbfovdtwda52xb26towt4eehziq66txqcpzgfyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1726",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibbwf5vlepgweix72cfrxzgcycswylkmkyqebj4os4fwnhwgg6t6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

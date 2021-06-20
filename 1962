@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1962",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkzfwxrd5osfonzc537l4bcj7v4deu5uqyknnunhzmbawaegau5i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

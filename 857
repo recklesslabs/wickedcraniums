@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #857",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiabfclu6dkuawax6y2fivlp34j3dduxa6a2erbqqd46yely42edze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

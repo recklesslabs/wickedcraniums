@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #780",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidr4jirpx23ocwl54iifdbkxm2qsvvgev2uxa4pl3afov2jvcjbje.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1891",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiejyt73rexyvpzyhux7c4z2obgbszpmeblpvhtbjtf4nruv25c5mm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

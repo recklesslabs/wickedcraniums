@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2343",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdhpzagtj37iivah725scswf4jbov7y2how7ku6wknrtf532jyyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

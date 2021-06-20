@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1552",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreictktoqs7zysc5sufq7fhskv2pukpijkrhoien5xhsh2mi6zufj2i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2130",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifs7zcmj7sncjwwalsbqt4oabl3pveyo6yuso5puerx7uzvsd4ibm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

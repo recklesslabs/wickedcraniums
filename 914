@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #914",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieul24v6gkg7twap4clikjo64ywqrwq2dqrfosxdkpuguqgsflzcu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

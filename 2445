@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2445",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibcvi3ybl2q66oe227seiyvvx62jo43pgnkujojjneo3zn3d65i54.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

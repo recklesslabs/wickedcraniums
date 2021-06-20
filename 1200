@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1200",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyzlmt2ow2q37yzkj3y47so2v73dinw6ilddfvxfnhqxl77qqoce.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

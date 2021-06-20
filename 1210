@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1210",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiektjkah3cwebl3delt7lpdw7n3uxof3s47dft5bxhgn6j7wkfgbe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

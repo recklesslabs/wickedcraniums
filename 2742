@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2742",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih73g2iulxfimg6fuul2te4zxmha3oavazeula6d3n2dfgwcijgbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

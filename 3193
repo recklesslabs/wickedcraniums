@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3193",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbbuvuol5s2vzp7ctufqdv5rloa7wrultcfhjrzksprjnbjg4am4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

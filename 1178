@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1178",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihnxr5n5xoebpen3qrn6ajeozzbwmps37vz5tl6vmglnqstwmk2li.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

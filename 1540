@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1540",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6wxsxo3ro47ltpi2tozwfeomo35rgfij35qjmxkd6yjliar3yba.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2419",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignwda5jjb7pkwy6inhtnvdl3gvv6knkfakhael43ct3llufc2f5e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

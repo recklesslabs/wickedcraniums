@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1026",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibsqtxsd46ef6w2gbzni5mtmzbw7y2uprvxhlkfjnv2qsue4qfz64.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

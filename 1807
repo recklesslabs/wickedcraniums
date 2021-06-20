@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1807",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihpusa2agcrs5mhmcahr73ndloo24igtqyln5r7r4txt6lkn4fe3u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

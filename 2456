@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2456",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidmrigu37xc4i3yzsq54226qsiv55zgaswzsxxhxhd723wk2cue7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

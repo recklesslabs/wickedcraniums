@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1437",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibgrglcec3j3itvmlj45fv5tgrz4xv4zrqr6ksoe45oj6h23tojti.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

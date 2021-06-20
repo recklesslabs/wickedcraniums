@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2481",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiht32vpms6spvdzg2c75dscqaxynamasgzusdrp5ctpcclnxlcy2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

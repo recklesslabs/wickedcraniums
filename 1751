@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1751",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreichwxuso7gxossettbhbelub4xapfvv2e47ab2wc5qrmnrwf2oiyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

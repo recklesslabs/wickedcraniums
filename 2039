@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2039",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzlwxzb22jj6a3wxp77p5njvkhi63olsgp365bgv2bno5muuldbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

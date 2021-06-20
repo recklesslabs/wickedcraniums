@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1524",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5p7auibppcdjtory2w4j2dwinto46psxmkjz7yarnlmtfp35z5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

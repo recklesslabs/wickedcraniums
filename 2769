@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2769",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih65zbd34wlq356or6fe6fyapyhrluho2jtqm5vdlixedn7e6scea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

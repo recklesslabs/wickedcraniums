@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3026",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkcdve3x55xcovck22cborfvrhojrszwewxneogkdzmvlw77uivy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

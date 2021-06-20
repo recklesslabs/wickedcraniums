@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #932",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieoigs5i3xseumughnyl7jiyuiljndavju3xi2fpgsoo4557see7u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

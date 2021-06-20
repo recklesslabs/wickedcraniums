@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2418",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignpjnskwblsd7immenkmobljmnrklicguft4n5prsu7vhwgqvqhi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

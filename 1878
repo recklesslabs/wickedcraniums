@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1878",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpge7w7jmzkpospyi6tujlq4aez6en4teujgqe3tmv3omsdckxu4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

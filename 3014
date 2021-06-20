@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3014",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaaznmbw6gtbvadmlkc4vkpp6m3tjpvjmfcwqi5y3p6kts2l4broi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

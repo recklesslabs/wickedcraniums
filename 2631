@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2631",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicxaktvdf2c2sxnmp6cpoy4e46xxind6efxbhk3gqxzp3dl3a4r5e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

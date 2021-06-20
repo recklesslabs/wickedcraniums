@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #878",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigrwevwzdr5k55z7rjb4imtbwforu4r2g7ofsq7iavdci42avlfxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3253",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeih4cncfmkhz2q5nc6rpmmvsocx2z6yfkovmyhd2w3bo5hoizjz6rm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

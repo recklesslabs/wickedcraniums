@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3009",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifykvs6zls4va44mmtcx7yhhxnvfcz63dukbbkushanbbemfljgye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

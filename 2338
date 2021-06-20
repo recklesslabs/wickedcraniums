@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2338",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiftoqhoe4nhcqnxzv3dwbb7ujxhhej36nwetoulr7reng3uq6obky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

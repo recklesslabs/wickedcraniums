@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1725",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicth7lasinirkjv2zty37lv5sfppam2ffnw4uuqzgicqxuwt3csnq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

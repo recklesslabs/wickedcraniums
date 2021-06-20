@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1350",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifxxcoznjwy4pcfrrsm34duvn5u4ku2wpi3v5alaxx2al5kmd44au.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

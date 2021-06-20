@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1985",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigujzwbfmifzubagflwwriphxejuhlwdudetp2qrrpgkctxkpt7he.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

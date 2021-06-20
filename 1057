@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1057",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6vt2lsqses4wfgmk77zdq3p3id7wk645kvcd5qji5n32bydr3dy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

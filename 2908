@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2908",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib77ysf47xdvirshsky35edpurmvnoakqp7loszselqsah6dl66fm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

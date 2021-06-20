@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1830",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiawhhk5u655fbxuebuz3clkihrwawthtmems63xunlsupxypedwni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

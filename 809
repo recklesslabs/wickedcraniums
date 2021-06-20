@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #809",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiem5cv42shsr75efkbmz7bif7oj75y6kz5uveorgwelyx7zqy3ala.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

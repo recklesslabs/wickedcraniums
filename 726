@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #726",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2fm7pyr2efxgh56pm6ihp7wp45yjnhiyppk5qvux5wiyf5iwg3u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

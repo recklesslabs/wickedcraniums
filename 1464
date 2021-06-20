@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1464",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiesnwdvjiwdauyuei3utob2wup7kjalwolaycy47dasn3fwscrqmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

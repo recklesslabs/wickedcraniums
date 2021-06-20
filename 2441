@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2441",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie7prkwvqkzcbnf6vkwksn3qnu6x77etpofhfd3kvka3rkq5qop54.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1841",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasf4fxn5s4bcwyk5ux6reigb25uzjrbjayb2zgznw2547gfq3ncy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

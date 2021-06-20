@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1341",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibaf2uoe2qajrux37wa4g7zb6a3xglg37iiz73iw5mdq7hpxvw3wu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

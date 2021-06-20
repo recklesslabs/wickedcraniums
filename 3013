@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3013",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahk52rtr2lreqwfwnq4vot3qgbzkx6bgjatcif5g37ao6t6vyoyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

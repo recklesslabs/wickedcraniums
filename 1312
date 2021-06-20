@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1312",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7n6x4l4rvbsdpojlvn23nuca2gfilyrxdr55rwjwz2ibpurtmxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

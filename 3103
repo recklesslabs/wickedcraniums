@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3103",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicnidykonywd47j3ttsvwizmhh7jblzv7qietjgvrtymg5qakhrfi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

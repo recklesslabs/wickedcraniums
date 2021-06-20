@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1772",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia7iknfswu4ns5pic5fzqmfqbymeoiku63yyobs7lvzxvhkdvcfde.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1165",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaciqa356utyppag26gwtlxjyzspshfgak74nrcl3zt3hhxovvc7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

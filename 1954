@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1954",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibowficzyk2pr6u2dpbacbaz7m3zoil6yvdnzmvbs5gkmdge23vbq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

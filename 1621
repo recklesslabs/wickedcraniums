@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1621",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaun3s4zvlu4n6qskq3eykowdkyc7kotik3h7shgserx7tzur2wzq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

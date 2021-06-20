@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1828",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemwvvhizp73nmmz3ihpymtf7fnks36thzxdl7wbmy345ojf3apx4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

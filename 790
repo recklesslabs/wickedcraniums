@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #790",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifdq2r7or5xvnj4l4zlxuogwy5wkf3caxyc3lcfvpphh7rclzhduu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

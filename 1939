@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1939",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiherjaxar77e5tmu6i45rtjuccunjfmfsbqqbdisimr65szjdtqoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

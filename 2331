@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2331",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig3wqcr6ef3azgvhn2egvlm6wn3bektaexzfsqermlighx4hhu4hq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

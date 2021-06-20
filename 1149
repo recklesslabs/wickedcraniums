@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1149",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiaqtkp7gulmt6b3v5dmyl3wt7vuzj5267vqw256ewxmhkyxhpji6i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

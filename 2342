@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2342",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicocjtwi64rih3wbnpr74zmea46ycubu7f3ibvvbcp44ptqojulsi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

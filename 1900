@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1900",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeica3cjdibkg5jpjlxemhn53axkxk4kjy77zgvdix6r2eepbgobvme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

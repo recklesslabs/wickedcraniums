@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1377",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3nqdcycc6gu2qxzxfbqbl6rgh6o35uwhdux4bqqdbbytfpilszu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #864",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibnb5r2yc3f2svuf6weye5eszmtxxssz5gs5jjppfp5pxbyiscjuy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

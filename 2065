@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2065",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif335t5nxpq3da2xkg5vwp3butehfcns42iyhtrqlkugkvegr5bwi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

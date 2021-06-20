@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1400",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeid654szqlmvdbrzf5auqlmdtuycabvawcukrl6gqrqyb2vhlgi6yy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

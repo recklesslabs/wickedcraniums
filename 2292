@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2292",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicr725l2szsqtfhcbrfgo6nj7ffnxjjpclpezggjqyyb6c5ieegkq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1895",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtmwlrox5qhdwsxbrl6kqco72rqytmtux2tm7imlm5agbclxvfnu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

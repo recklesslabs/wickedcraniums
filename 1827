@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1827",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigajdpl7xjc724wem4eiqoo6zsa2nufakwrbeqa3vntssgbhnzeea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

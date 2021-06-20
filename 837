@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #837",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigykjvgrdue5yrtvsoh7szzcvie3mhfoytgmil3drwmql7h73d4ze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

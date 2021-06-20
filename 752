@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #752",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidc2utyxbbpqkoiou52us2pmtmhmiyftmnmyxazx72e3srzfdiq5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2251",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiepfwfqbgqljkmrpoatzniaw5j3mznbfg7nkq22aop3zejhojow6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

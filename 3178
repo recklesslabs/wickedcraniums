@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3178",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieda3o3imrtmkmjcmgbzar6mv6l5bbho6uqcoj2hyb5w2ai7bryta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

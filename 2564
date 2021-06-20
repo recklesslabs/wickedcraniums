@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2564",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjudsmhvqypzhtopckskdvvewu2uk4a763alao4heikucgaq3xwi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

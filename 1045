@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1045",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiad7hygkbbclx3qb657fzxbbhxwr3ichszfi4nw34hsbdtiaktfgm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

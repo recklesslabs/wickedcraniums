@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1184",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxvoeoitxiwcewqg6aqea42ldonocgj5jutoxjxj5j2ak355t2ei.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1118",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic624qmjgghw2bpb65wgm6dvidc7nqurevhc5w65jv6mv74oornvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

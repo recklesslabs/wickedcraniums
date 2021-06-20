@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2834",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifomdrsjflmr4w5uo4xikk5dab5vcrkyiw36ebxhyo3dhmqkg2mgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

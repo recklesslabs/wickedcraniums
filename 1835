@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1835",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeie54q3a6nf7wpdxudof4wokor6vd6ghmjwqqmvsx6lypb7aij2np4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

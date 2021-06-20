@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #808",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiftgvz3q4umvysdp4pjsivl7ksowxspi57ytnz5esouksrbqduj6a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

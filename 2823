@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2823",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigl4wvi6tdgummob6zkdelg545phggiyhab3sd5msyrv2ei7hjbty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

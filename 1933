@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1933",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiazbydymbce4m6spyyvbw35lbqwb4tjyyw7w52vzewcy6wptia5tm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

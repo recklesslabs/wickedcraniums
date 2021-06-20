@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2979",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiddgglmz5v6cevclyytam6o7l377fnqpjq4ricjmqxe66gjctnogi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

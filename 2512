@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2512",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrlo7gl3rlk3ig63aghi5ih2o36q2mmudwyafdt5i4aqnyis34rm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

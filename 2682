@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2682",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieejklcwxpmfpdampgytkru2kzingibfot3xbxqjezt6ui4s7y7he.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

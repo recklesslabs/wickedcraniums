@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1032",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3yls7lkzqd5m4x6sexoqwjs7shy2ajfgvecc5rur5tly3paomla.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1175",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6qusxqwinvwy4wj4tx4aqdogmhlhsfivni7h57kpa7algjmq34i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

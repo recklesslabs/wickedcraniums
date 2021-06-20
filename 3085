@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3085",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidsfiucjp6xw4erpr4bi6sgpq76mfct7ioljpjvkrpm2g7uts4k2m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

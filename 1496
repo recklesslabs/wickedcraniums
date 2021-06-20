@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1496",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib3z2qis2ukacgfu76zztkqwoomtwvvbzqh5wvxboltgc267otyyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

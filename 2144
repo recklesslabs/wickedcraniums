@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2144",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtmomckx5jfa4ighnuhec3gcaf6ayzm33ojf2fu3wxylk7m5rdm4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

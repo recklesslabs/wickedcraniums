@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1658",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqd77zqol3mf4sznpxdgbgbygpvb7evj2wlj7bua6kj5vetkbtza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

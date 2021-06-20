@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2785",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifnusjv3xibucuqkjikjndgvz3xwsujyqrruknxcomnry3eizjxbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

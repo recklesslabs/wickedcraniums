@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2271",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidq5tuxopfk5boqbddeb7ejmr7m324suvrjhpc5nfiuqconxxm4k4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

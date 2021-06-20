@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1398",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiaxrahbfik7i4g6kdq3yx2fibp5xsrlqk3xzlmowozsu5fd4n5pui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #863",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicabh2ujtb6ej6uilcz4r6pvf2knyzbli7awsvoqv7mypje6j7njm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

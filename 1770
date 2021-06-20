@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1770",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaxn6ktamjwqnanskokpkh55au4nez3pzzyartqubluqhjkqmh4ca.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2805",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5uph3v3ufwnkqxrkkar4ncabh3z2dbfb4c4fney3p2pwoyh4elm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

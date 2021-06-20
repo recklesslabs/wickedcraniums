@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2489",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3racswbvpoqgmii7dtuxgucuyso32gdah2jrf5q6tr6ffmif7rm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

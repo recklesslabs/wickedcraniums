@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1551",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihsofwi6juvq4tbsr6dwf3fnear6yt4mk4i3loo3gpqii7hjt25oi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

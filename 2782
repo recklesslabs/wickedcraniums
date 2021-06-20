@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2782",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigomzsoogyy7qkxyfokzy5wpg67zmgc7ibucgu7ktuttaavaskwaa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

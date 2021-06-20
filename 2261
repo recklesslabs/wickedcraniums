@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2261",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbzlpdfzzwioy7inpnr2n2xpxzp7p2xybsi3gobmtao2nkbkapgy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

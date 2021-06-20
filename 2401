@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2401",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnibbvvmnaofqy2ezy66ryk6y6aatratqfxcyv7elunovxa3wivu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

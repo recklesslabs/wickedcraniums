@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #729",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicokker2lw3vztiql7nrpijichtlbuh2qq5znl4lkiodraip5ljea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

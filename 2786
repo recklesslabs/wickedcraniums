@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2786",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeih56k6wybeu7dwgdk4dhec64k2vr65xaqbo6fueugz723x3tbrkee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

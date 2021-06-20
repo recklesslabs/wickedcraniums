@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #831",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreienouedoo4jvjkvfefa6yyg576nhvlbnirsmqfn5k3ohtwwapf7ra.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

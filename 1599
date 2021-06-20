@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1599",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreialvrqkgbh26ryih7yuqm3qkrnajcrrts4ogausquuzxtjitak7i4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

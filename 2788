@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2788",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqzuhn4mgclqvo6afqchtylrrd4tqmii46vtmnoq6u36c5ejnvcm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

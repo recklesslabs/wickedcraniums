@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2778",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihra2pn7dbrolzyiyq4wrpdbiybz6mengopbplpfjmmnv6i2zlehq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

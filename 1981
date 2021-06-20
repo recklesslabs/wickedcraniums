@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1981",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiae7r2wtoljvvndqiwin574jvctn3uhx7iqv4exu32o3nj7xi5cym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

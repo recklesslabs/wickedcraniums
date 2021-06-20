@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3146",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicp3bsgkyvqml6ffn2iz3oygotopjy5plpsugsc5bqycdphdejftu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

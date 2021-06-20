@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1507",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic62ouv7qbydwoe35qcbffh23mchoebfow63wyu7cv2hvsvn4ngzi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

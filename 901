@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #901",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic64wciklyupglohheonfzekvjknrg3jigmdqjvbfxv35gnpat2vi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

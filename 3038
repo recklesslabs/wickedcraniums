@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3038",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif6w45dbl4oy5yv3z633hjkohydvwa572chr6fcolnbznj32zh76q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

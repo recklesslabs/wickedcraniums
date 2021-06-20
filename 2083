@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2083",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicgupuuojmkjj53rsqzo4kyoh6xz7dyekql3ids224aiojy7jw7sm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

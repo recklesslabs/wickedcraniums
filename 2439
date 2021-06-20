@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2439",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiglzra536py3csg7xzvfzqbjv3j3v3olrspjwqtnrzjeivoq2j7ia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

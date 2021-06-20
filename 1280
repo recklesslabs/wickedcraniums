@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1280",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia6niiq2o6dijek4zacggiughxzlimocjtelqcmxxsitdwn7uqxnm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

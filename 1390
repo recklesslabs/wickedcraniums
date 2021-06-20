@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1390",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyh7nuh54xh32glelp6nxqccpib4suyjetefwgqbm7o6sspvcir4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

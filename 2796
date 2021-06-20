@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2796",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidwkfbgog65l3xkuwsps4cojn4oernbbnl2di3mfgcf2ajzkroqtu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

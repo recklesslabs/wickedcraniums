@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2325",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig2zohxxgwlhcfjch7x6viwfht7jrw7kbxsx5seffhqnjqkrwj5wi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

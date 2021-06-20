@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2757",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiabcnjbqbvv7sc3gpja3ksfr7g5k67thf7bxpqedglwyjwfcguy4e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

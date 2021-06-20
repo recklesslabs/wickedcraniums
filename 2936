@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2936",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigztxh6zkfpf46ziv345tuydfulzcnhgh3wwi3d6f4x3ktw6p5p2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

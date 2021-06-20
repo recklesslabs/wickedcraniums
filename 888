@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #888",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwlt376srgumewhtb5xrck4vr4ogmiuuc6qhbynv6fvhuasv2w44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

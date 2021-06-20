@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1018",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwxie7sxxjlma2geroemnpceitbzutl32rauq5f4lmncq4yrq46m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1289",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigch2luhvafongzjxioroimdknyvxfzvs2yfkxv7n3m4fqxonuorq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

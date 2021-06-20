@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1790",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie3trfpsddjnwzwhsbrkpzdmvibfcszwi67jf36fymthbauknq2ne.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

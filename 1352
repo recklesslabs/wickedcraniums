@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1352",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidn5jqu7ozh56b2j3uj7bk2zpu2hyfxu7fuenjvctlyil5ztlhzza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2830",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibs4qtjkg64oyq6bp6jmsahuauc2zoy7t6elofg5shoe4rkq5bpoe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

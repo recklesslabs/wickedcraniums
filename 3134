@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3134",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkeilkuofckti54vy72zgzg53q7kirp5uwjwexhzbs6rdmns7yv4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

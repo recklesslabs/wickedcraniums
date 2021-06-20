@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1171",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigyhwn35alvenq3f74rwpqmf5kr7vrmmx5iqmfywj27nry27g35oi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

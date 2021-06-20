@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1373",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreietvc2cnv6swzip43cy6td4j3c6mnb5ejwff4bq532kliu4om5wkm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

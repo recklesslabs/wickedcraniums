@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #802",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigz2erthgk3gtvccswlnt5md6qeqxyp3xivpfz55fyum35uh4nnqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3071",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiepmxannsqdqk3vxx363gc5uq7ihe4pf2nbaon5a4zitlt4d2s4da.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

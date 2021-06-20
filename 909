@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #909",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia2hbildt2hhzxqv664uipj5a6fei3lx34z3aujpjviuir5l3rqhq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

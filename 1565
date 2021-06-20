@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1565",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiewyye755pqvjqrtj7ueuz2z5piiytnxahpsmtu4xl37k4mnrwcue.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

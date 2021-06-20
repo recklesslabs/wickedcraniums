@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2151",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieqgy6pmbuaj5gxpeekfjlee476ztngxbxtibfe5j7la37n55ajbe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2368",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidq2xxwitqwb2yhpcqwhldcqt322mbuwcnexyjvitualcgtjksztu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

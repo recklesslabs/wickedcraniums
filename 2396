@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2396",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigm7ld6ro7yg4hxsyq5aytjkxxm33jfwy7bxxg2573fpsorbxq3r4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2811",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwk4kujis3ckdakaij3bzp6lntg7ijbqzbbyxt3wlwjzh34c5i54.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

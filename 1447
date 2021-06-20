@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1447",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidhxhity52l5hhhc2a5kzx6trl5nuqtvm3bmslzczessqk4ln3mxu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

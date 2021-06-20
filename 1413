@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1413",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasmezsvoa2oyejm3wpexpbazmitrhysosr4xpaz3ourhd4konlqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

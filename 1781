@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1781",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid67qkfa37qrudewjuvvt43zxfacffozkkccb6rabx7r6j765je6a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

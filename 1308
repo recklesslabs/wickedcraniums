@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1308",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmu4764m72xx5frqhlt67aazanedihh4dbbxqh7lc5cs7tb6pngy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

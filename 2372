@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2372",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieojdub25z7wo5nok2ue66q4azfz2ewadxaqpdnwhvhjeszo3u534.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

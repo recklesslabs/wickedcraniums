@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2348",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreienkiy6mlxewrzbpwljwcmmym7tg2owrtvshsn63ayd5ug7636kqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

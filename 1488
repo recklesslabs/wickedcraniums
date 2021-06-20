@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1488",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtwb7jazf3jhph5qooygb5ox37kgwdrfm65nhe3li3zlxrbtfijy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

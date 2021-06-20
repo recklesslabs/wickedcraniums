@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2589",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiewfdohmxhmzikqum534j24r5hlsstsw6yqrndgo6jorm4y3taszy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

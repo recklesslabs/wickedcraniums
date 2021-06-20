@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3207",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiayxzt3kejdkwo4y2zntaxr5yp7apkdnjc2s2c6uoxfbrzdizmli4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

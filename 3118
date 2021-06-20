@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3118",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiav4cafsyu6c3v2oaht4ifg2piggi4jdskgo7k26d3r5yxccjld6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1992",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6s2aohee3gx7t3ypkgkp5qcgm5dmuorelbwrbg55hmx6nzini2i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

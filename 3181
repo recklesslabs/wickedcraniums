@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3181",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib2wqrimlqxsvuejkoh3q5b6s2lnd22tyjuzw7ggoxzrfswa6ftcu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

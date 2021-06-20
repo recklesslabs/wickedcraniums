@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1966",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreichobb3sgzovq6bfwie5atu5yv2h3cki2kc3zrf7gq4uh5ta3hldm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

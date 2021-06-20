@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1716",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiefdnkzpxv6omfoyyrbzjwqzndrbvvqnyoh4wwkb6zfpv5h72g23q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

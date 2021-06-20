@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2024",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4n2ipzexlbjujybrhlh6kmt2bdsaqok2ohhjkkw64x4atb27ncm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #978",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihwa7qm57fvwwzipd6qhb4qhly7vhnwaza2sbhel7wbglfe7mvqya.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

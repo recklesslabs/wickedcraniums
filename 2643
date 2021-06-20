@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2643",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiazhyjkhu4iodxds276476a2w6yqgsua7wjrdvttj7vam7exnqfay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

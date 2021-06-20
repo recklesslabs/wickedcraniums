@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2468",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidygohbyyvndq2rqr2cj3eygpw675j6lcl5q4unsqk5l5i2zrx74u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1811",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreier6lo47ps7gt3ejckx76w6ywuilapnkvm5r2vw4ueo4pu22y746a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

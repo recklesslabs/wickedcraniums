@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2189",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigyxyepq5smxpmhnurcqb5knosnokcqqfvya72wojks7pivs7frum.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

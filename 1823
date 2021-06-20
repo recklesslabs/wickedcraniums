@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1823",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahanvrd4bdxt66einedvcmxu5t2lswcxwiytg4rumtdi734ihdlm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

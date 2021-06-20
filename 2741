@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2741",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreici36j5crfeefuoxny25uyy3c4pukponouiq3344o6pg5kf2fujsm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3230",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihpjxmw2uhn5xzcxawjy4fge6oqr4l44vkyfgjd2vd2ysmphkhhlm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

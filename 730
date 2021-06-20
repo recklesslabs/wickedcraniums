@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #730",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdou3alkfo3tzkqruf3cz7tuxxnmo2eaiembwiq2nyvplneykviu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1855",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicd2igeoplxuvhzpybg3il6onyi6td2z5x4vqyyi6oi2ej4aninqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

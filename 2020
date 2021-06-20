@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2020",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5qym3nzviyatfjonw72dmqqmf2rpbhc5bqra4e6epugic7dkrge.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

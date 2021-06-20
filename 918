@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #918",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifpnyusuyh427qgebgwvfdi3jury5ig6c2p5cs3c6hjga5qxmemeq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

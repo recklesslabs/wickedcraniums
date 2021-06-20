@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1295",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicm27cbebwhosuxrajaz3vyuw3jrijgalzrixyyakjlpyasg7eqsi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

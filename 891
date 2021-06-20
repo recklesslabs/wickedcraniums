@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #891",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7fyjdfgyqej3vj27htpoj3orohwjb2bwikhmerex2heezvhccye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1843",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7qajmqbmujy6mhcmppwaikbg2clagur2i2thh2g57m5d56wyi3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2383",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigitauacfnem36pdreea4h7bkuyurniy3eeqppryfp32wpfs7axvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

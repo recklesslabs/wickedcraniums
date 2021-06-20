@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2795",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzeou6uyqr4uyorwmytv43dkgmh4zfyeeq2zf4pa4umwyu3ws76y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

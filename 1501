@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1501",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigscsjxzhqlzhm3rjmfhyfzk5vwhicmaj76oe6vnstitykz6viada.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

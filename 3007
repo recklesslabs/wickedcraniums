@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3007",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidsu4mvtvgqpjjzvni3wuouomofqll7zjvn4xk6d6hcz5qy734bha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

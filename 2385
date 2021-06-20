@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2385",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiguuj2j52wyh6vrj57fttnd654xxdmaapcq6bpfnwi5dqyr5glkna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

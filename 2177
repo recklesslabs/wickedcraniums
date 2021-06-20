@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2177",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihdmuj7uggt3yaendhi4jzdtrcluc47hiwowieaqgktwloee5wx3q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

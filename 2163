@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2163",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihprktqxfvx7hlqij4amifntk4gmr55e5bnhslsgwlbnhq3t474mu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

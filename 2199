@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2199",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3ddrys3xolhtrgrvtepyfmf7qidkhvdzh6wnh246ojmpdb2wrxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

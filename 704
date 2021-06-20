@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #704",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiguxfau6qblprxhpudgh4x3klyvq6frwps5ps4rfj3rkanxi5s4im.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

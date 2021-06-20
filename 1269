@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1269",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqsj3mqylwgwluoyn7wievaiocu3eukk4vvjvsp3rrc753nyxphq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

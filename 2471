@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2471",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibuotdhd2udn2lubzorr5nidqqd2paged2qzmqg7clodmswglxf6a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

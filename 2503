@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2503",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtqrvyvzc47xj2h4ifdmlaxciqe5dmujxtffp7c75kg7wariroye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

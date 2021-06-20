@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2932",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7atjsgsgrjimwfb5bxje5ejihitivbt6evzkamulkkrlfxkgnse.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

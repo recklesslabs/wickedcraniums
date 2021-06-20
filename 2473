@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2473",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2uhqtox7ytgz4mlay7kaj3evfbn7kug6ojcbba6epbuzesu5zxi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

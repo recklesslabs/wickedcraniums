@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1333",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasvh4a5b2qks6dd6fqon4356mdumbnho524oye2pzedzrtuisppe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

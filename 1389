@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1389",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighrr42blvdw6nnblgg43nbdr6o7ddpeeigbiap65ut3pcwlteggu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

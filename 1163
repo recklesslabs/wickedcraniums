@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1163",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib3pducgccpoujlykouydowc5bgg357sd7fobz3y3qv34mojq45si.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

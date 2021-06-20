@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2324",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiesq2r4eqrjecpcrfezldmlow67o6nbz6o2nz26u4be53523olbl4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

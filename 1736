@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1736",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyuixyl5o2bm2p6tcieyfuju233755gmxp2sbz7wnfp4zdi5vf34.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

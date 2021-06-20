@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1931",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie7uqaxghrvpyvznp6g4if6rcr6eyotaagxo5vjmno5dhf4pxs34a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

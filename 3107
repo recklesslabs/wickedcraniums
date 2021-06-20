@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3107",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5gmqdghp2ihm4btznl2w27yjjljj5ph5xkwlghzdsa2hpu23pqu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

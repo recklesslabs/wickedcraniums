@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #736",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5d35gdzq4mxx7ygqiugoam47ihuysw73flhb63lcefsxlk2zy7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

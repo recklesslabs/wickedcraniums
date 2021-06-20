@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1921",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibjul2d7clo55tnus5ojhnx64owtr6pwwlw6flsj67cwao4z363la.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

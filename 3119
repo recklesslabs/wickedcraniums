@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3119",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicmw2av5u5vgxlh6bnv5b6mkkpnbz6b5l2o3bzt6hycq3qni72qgi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

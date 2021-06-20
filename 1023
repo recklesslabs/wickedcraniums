@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1023",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifw535j53r5cq73dwm5j73xsn7zppwamtz7gdam5xzwcaimihbzeq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

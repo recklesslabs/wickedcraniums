@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #931",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigp22oof5bkfzenkyfk7zri2zeusx7p3xdrumgsuj37xos6qynuea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

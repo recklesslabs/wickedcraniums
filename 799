@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #799",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadxd5ks5jsjymn7vchhwxlkqowthabpw5hski356nu5kcgwrkdau.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

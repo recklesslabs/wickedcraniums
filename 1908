@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1908",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbjo2odlmmnzew3sl7rb7gh2ro42s72wfgwizfme4lepc2f7rixy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

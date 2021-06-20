@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1382",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgxab3y7nrto2mriu5ts2uit74ruon7fft6sc2cpokpovdy4pkca.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

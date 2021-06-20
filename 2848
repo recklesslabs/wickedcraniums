@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2848",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibmkz6mco4nahgsjghy4fs2xx6owjnbxvf3ce3nwfhvbbr2c3ctsq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

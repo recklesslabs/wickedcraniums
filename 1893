@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1893",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiad7wd6mcsqqe6636vluft2d3iusiiy64xwuxzjwp4tcx4wfvaq6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

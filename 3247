@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3247",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibby5xjh6plagklhtwpscjyummdpq2b5vujgce6xa5ewfcofllvuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

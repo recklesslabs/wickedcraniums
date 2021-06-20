@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2345",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlju4dmpfkmpurojb7c534trx4q7wryfra3mp4pl6yhjegcgqyja.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

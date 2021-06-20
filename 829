@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #829",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffzdkqsrtt4q64puv4m4s6kbqu4s5vwbtfozubrehw77tvdeo5he.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

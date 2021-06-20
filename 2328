@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2328",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibza7b4biyrgl6r2u7iydyvrdmz5emdew52kma7dcpozzrps6exmy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

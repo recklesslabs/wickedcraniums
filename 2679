@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2679",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiguljjtq35n6yaiv655eia6pzr3k5amq3unet5vqxudv3vrdzqj6q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

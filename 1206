@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1206",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidh6adgfocfy4oe2nm7du57qkbeaq6cvgfszpt6dng7emcdyc6f7a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

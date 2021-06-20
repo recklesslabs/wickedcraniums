@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1577",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadfe34sx33ybjyvideawxbxua6dmcjyhwihnwry2kznz36lpqale.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

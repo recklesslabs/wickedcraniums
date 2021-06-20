@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2618",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig2w533uinamthcsdu2hcid5yuxgvpn5gjjtoovojf4zedw5qql4m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

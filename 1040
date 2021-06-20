@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1040",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiesmjyxd5nptee75yvubwz66wgasl3duqbybdjv33e5idtwct2qfe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

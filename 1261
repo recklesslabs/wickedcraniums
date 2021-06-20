@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1261",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzybf62bpue3ukpikfmdeorl7224jxn7mtf3dl5danculizwsypy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

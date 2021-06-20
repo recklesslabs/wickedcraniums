@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1521",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiddhpem57aq732nywnrbrbsowapvvi5l5pc2x23iiburr5pqpgulq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

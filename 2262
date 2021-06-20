@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2262",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidjcdmxyr4gx7rpltbrmkobco44m73ur3wn7svwqtd67rg46jwnfq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3054",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicgy4z66apfgr6j45jfaa4doadnxedjpe7mc5rhfreg3pcn6cdvn4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

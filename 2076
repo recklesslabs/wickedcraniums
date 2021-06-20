@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2076",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigyqedljwtho3eetsbcd2jhdcaeika5cmqcpz6e2pfg36m4qilgie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

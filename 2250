@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2250",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigcplh4dbtypoewkvsevy77crnm6otibpvp3ijosvi2y5n7spo74e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

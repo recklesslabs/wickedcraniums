@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1971",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidty33c4ssrxs22kmrluhjosrzcnv7ouli5uwpg45y2sytkxfos44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

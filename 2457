@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2457",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifixrumtn4xzn66rpap7n4uwhbqyccewfsyiuyyrjqlegqzjmaane.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2793",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigbc24wf3gceszxvpkg7jd5zvsj7bdwry7cxdhza5syesgjevakf4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

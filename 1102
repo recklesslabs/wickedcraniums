@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1102",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicurzjmqfoaqeptffdf7dzdwh232fgppkdnggujyb5bbsqzdgrvri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

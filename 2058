@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2058",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibfjhinf5wzbvui3gb7eebn6knbjrgwvdzxt3z6o6lg5qqkt35ida.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

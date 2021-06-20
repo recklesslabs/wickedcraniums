@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2709",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifesdskntscmvfk2lpzzv4bcvt7timvr356fxlbdzu4rg6a3fghpy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

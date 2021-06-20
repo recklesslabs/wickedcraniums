@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #942",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieb3g6cel6l6o6bxzl4nomn5oad7tg5fxyhgrbycjudlvojsgp3ci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #879",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie6al277vl2g2fcue747aekeiiwtfm5ceqm373bp45vwm7odsk4eu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

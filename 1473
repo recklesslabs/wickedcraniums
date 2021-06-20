@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1473",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibc3zwfaaje3pawykjjq7kawus45edzb4qki6rwsujvc4shw76sii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

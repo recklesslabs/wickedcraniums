@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2208",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigfiwyx3hi25h3rnf4a6ggok3rp4325tlpkiasislmzf4e6pbzlnq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

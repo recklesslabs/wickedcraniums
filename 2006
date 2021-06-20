@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2006",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidu5hvk3ckeeevxjm5olckd7uqw3axwvweoqoacdvlu7fl6lrq2xa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

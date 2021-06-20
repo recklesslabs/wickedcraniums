@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1659",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihrsqn6sxcoztnfm2lgt5qae26owzzzgy2xsnlulxmu7ul2zl4h2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1119",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiecdirga3m6m5z52l7rxgjqvn3aartrpbu5i46btepujdf6nn6j4y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

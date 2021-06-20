@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3113",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihodixuog7s56rymq4lnowynrdqb7acyxsiwjsohblewyfeg7szdy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

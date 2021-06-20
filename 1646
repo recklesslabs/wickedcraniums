@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1646",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieikpqmn6er7spj4dy2egpq5lfv3ayt3cjsbb6ysctr4t6ygw745i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

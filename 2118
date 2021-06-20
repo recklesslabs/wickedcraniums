@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2118",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihvapf3uwjgmfpbqagkbm6v55xhjtebglh2sgtiqod3knrrcymhia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

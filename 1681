@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1681",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihcopqls2gf5wvxxdp74fgju4vjwkylu7ukpkj7lcpr4h67heta4i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

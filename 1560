@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1560",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifa2766xpr26e57zsntngto2plewfoc7ftbuvher4dv7lugx6ynnu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

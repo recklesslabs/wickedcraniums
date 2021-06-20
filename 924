@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #924",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeif7z3kd5t4pautfqmajtpbyv5dmwzt3q3c47pu7kfqtuyw6vyxdaq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

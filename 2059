@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2059",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihhl6zr6jc45qkfe7sy5r7oj5xm5qct5slpq7drl2cbdj5ruizlly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

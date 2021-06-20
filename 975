@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #975",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigp6ekdni2j3eytsgffgb2tilzln73ejjxp52j7rae45knfrfewze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #874",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib5bkbnnj2exkwx2a5ynzvoyi6vozvhhxjyeneoq36ivcz6lkbbme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

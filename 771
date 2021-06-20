@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #771",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih6mouzy5sz3mdstrk7pkkrbo7nrf7telxdcoe2jrxbhmuqikkvta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

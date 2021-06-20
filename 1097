@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1097",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiavjhxgrskarwub5npgna6oj7yskem76pkheb2uljwatyllusd5ji.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

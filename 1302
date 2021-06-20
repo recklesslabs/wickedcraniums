@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1302",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbjzrmb3vhzsgbvkgygvspmve5d2jvkxk6ufog2vsjfjooerabdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

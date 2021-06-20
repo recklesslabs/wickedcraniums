@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1063",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib22fquhfje6mdzbyrno4kzpb2h3jom6gdvyjr2slqhhiabkj6huu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

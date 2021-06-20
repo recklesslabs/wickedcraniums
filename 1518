@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1518",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif26s5gdcdilzckb77feaqhepx3mn34e4svy43nrptbiowvrpenou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

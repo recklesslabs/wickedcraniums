@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2496",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyqmrizeqlh4ylnjdrgq6giol4ngmobqqxuue3ibluipobeia2im.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

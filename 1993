@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1993",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib5mdhgng4ue3q4itjrujnjfqqtjlj5shlwvvyytsezrne3j7idxq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

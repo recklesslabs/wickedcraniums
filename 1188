@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1188",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiansrifkentoqtemhatl6xr7e7a5a5ws3egwuu2snmcchzjy75eem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

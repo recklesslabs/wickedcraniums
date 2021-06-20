@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1055",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifjgd54zth6z2xckvksdxkdoxu6b7rtvhq7b6vwhc7fetpcdtiezm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

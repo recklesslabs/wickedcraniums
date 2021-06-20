@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #935",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaybr2zvxde2hpnqbnjqk4i2gscshjmhzmmg4wbmpo4kxaue47y2u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

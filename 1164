@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1164",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkteflq5rxsunfyurhptfitq2yz2s35w5bulr5vqdk77pgsr2iby.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

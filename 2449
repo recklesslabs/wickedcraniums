@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2449",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifesclkpfeb3geu3gow2w43kgzlemvp4ivzmcdcp7aof4becxeno4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

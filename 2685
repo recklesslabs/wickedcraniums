@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2685",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieasqq5fh446gnduklv2nqx4fbx24bcy4cegrgkdxz4oc7wc3sbdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

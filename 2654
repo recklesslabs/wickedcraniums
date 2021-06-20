@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2654",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiglzmhia33jxnbg67sv6beqiysdms3bfa6xdtlpurrmbi33xq67y4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

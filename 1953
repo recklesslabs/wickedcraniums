@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1953",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiedvuwwezohg4o2bprxufaof2xu7a4e5hbbk2lfwk2cds5yaihwo4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

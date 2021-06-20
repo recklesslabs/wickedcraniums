@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2362",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigj6n2b7xmianez473fipfdyidlfvtpvullnu6d5dh7pjjd4gt5zy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

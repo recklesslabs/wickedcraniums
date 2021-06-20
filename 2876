@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2876",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbmkmffvx3mvw6vr473jplzsmlnj7rjm7r22g3bedrgknvorjkim.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

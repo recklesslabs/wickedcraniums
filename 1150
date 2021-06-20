@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1150",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicko6kh322ir34ydrbwozufmcttlseu3dnhaocoxwoctrdeaxa6aq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

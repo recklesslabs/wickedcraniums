@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2334",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicv2romobqhznsmomxxkwzj4scv2t3txnlyp4pfgfg6ytuvpbsb7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

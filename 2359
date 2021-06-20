@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2359",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibw2p6l4be646mhvrl6mi2wo5nxqyvlmb7bvkbsbniug3wnj6bbne.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1723",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2zzobwhmsna2wi34z2ipaq7sdjuwjpoauhccjzzxq7i7uybp4g4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

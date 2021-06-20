@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1034",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigrruibjswcq3axp4qqnjjlkh2us3o6j5kfi7hhfbbr56ditii54q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

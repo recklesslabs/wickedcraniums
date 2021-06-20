@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1676",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidua2334t2hqd62mcbvzaeohigjgp2v6vq5l5swqqrkc7n44by6ju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

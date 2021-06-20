@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3015",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifa5cvgz3quqzxfd7xuiqk2zmj2exi7idixyunn6yecyg7k3ydufm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #913",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiavmyb6yiwspjz27bhc2k56qseu6z25f2sndyev7pntk2avv7qvrm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

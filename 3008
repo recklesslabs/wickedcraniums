@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3008",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiabutcjttaj3up7sthfsxycxpyjzh7mv3bgnvcp5ztnrrzzwak34u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

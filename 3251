@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3251",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihqttuei35b6zllfubanu6jfoox74vccoje5ouy6xwtvdddwvvnt4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

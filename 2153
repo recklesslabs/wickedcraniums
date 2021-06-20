@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2153",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6eyu2gvwmdznbw36wjj7jf6nanoftklb5i3fm4e533uldbxdawu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

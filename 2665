@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2665",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgmupcb5ktv7z4ecgzrrg2a5vo7toubcr3cioxjwcrphjlsw642m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2288",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiccx2slxwhw7nlolu6ppghcyfvpvqnaxam562midnep6wmey6fsmy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

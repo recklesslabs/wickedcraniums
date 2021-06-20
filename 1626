@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1626",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibl7f6tkntouxlchtjbma22at5pfff2kut3zgbpnifkufni4ri5dq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

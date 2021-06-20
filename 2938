@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2938",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidyc3qnlgtcbhe7hc27ijvlfcifkg6yyhksvq2ln7jqkcn4tuuzae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

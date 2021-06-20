@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2774",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicainpuhnw4emmc6a5pkp3eiyfehrvjm5iaq64apmjho7kpdlshom.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

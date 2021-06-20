@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2158",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibcz54f3khr36pvhjmmok26cx47chqbnc6r5wwrfbk7lyssdikqxi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

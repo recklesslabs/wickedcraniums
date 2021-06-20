@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1655",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib3ur3iih3yhww5b7g4gv6d3pr4kaohk64f7uqk4l44lkapdug6eq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

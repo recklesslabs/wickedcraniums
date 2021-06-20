@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1944",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4tfpdcruauspq7o2dmpflv6y5vbtzm7f7x4y26e44lpmybf77cu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

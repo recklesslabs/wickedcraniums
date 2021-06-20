@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1706",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehs7cdphc2vo76flsbbcc6yj6byf23ucsle6hxytggekvidftut4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1074",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicb4spvbfxx7ks5r37a53n4dao4fnqf7d6zdmrbeua3u22cuo75ci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

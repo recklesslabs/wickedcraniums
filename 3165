@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3165",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidldullwzw6v2qom4e77vf5av7bmrbgws4erkqeknyfwwcdycxdw4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

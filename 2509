@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2509",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7drref5etord7mkrbgpxxaep6dno5qmoymsi6ft2ya5xjjtgcqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1719",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiglv2anuzv3n65gp64jyuwocb2xf62cjtjsnz23ft7dzlny2jjh5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

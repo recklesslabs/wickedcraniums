@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1700",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibfc2rmojcixxppmmbvsavwomgdkh42bedy5mu4wrfmvgzrajl2b4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

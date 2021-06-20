@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1292",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeie3dmqy4e3qyeghsgaicja2q2bugw2q6rcmek526plpyryhnm34ga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

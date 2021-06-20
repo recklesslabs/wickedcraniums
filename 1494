@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1494",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiefte7xyw6pjo6s3t77bbm5l3y37a4sawxbcwuoniuwwb7cckqkam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2601",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2ox2rks5nkan4g4aaosgnq7mx2mwxz76lhda3uvostnf6c63jmm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

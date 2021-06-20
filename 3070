@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3070",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifsgntkmmxvfdpvkrpqo34hscbfefkoixbn7oc6xcwyb7gd2hn44a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

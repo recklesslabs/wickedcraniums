@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1309",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaakgd2rqg4wunxmcgfamef3xdaimjq2bs6n6aqjouglxknkizp6i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

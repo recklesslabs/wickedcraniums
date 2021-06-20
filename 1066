@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1066",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiamuwu5qgnzmcpdntxzcauelv2vtzdabtx3a74wx6r5gilfahirsu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

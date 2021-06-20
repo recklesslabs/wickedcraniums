@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #709",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreickf5pbfbanwgfladrpx2xre7xdv7kyigkmlowmyy2imafr37vpr4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

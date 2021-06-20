@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2621",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia4lbjrq76vrxcgfzhr6tgfxbw5mo2gimlshj6f3j3npdkijt3f2m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

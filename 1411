@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1411",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigsthxkzm6qer2x4o3gppwtcwpgwu5zlgj3r7teutc3jnmhjrilbe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

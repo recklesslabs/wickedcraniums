@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #974",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieewncpcuvoquiuht5r544l2ax7p5kp27ea5gb5ylbdm3pql3mkyq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

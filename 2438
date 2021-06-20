@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2438",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiajapxtvthzihmwdq6zerq5zczca45puklfsv4xnqoobdihlo5saq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

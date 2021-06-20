@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2694",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtefj4i4ox6shnkjfke2x7wp35k7ajmw5rvi6tvtstjf5qg3tzyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

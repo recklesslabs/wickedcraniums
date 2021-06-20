@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2120",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidcqegc6pjzqfb7tavaxzff3bgcwn4i3kfo23bsowzah3vodndwyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

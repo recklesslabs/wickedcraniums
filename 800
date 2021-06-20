@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #800",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyc2bggr66mkthekxl25ndx3khugjqrcaoxff63v7sijzcw3ubg4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

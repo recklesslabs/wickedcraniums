@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2740",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmwiwcbtvzx7myq6qxvlmh5ieczx4ucx5a2tlve2rcfvancvun2i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

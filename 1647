@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1647",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4xijuw72nak6vuwcw6td3xrkdi6lvgsvbrmdpoxsl6winqe22uq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

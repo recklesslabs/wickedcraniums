@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #756",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibtuyrdrgc3ni7cszhtrbbs7uublptj4z7l4gnlqkz2d7kcikqd74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

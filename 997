@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #997",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidllzy6vzx4weplt6wj5jcecisgsyjoukj4ieask4wl2q4imfzwyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

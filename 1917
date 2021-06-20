@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1917",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigxpxmubc3hc5ukjtwtstldbne3jglrd33hjpgoaobnbaevihklxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

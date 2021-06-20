@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2397",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifp47ayeqoio7sa43nwmep2hnmlauwawvzxz2cgs4rvva6vfg4ini.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

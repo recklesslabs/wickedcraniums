@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2074",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahrnj2pdjkrgz27v72kbkhzvlnkbjojy3xjl5ssjk5pf7mxanutm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

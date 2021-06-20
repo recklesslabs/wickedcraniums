@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3069",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihrapuobxgnlngqnjz3z42ovfhmawfdlc6etfk7trw7m7zetifdaq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2361",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibnu2dfv3df2dqmwiqlhfoun6fcj27uwyb3eoc2whlk5zknmctb2a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1632",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidyi4iiqvn4ynuqkddsojzahsgx7veslqkmnmg3urqxss27aqwtvm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

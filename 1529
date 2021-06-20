@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1529",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpob25xz63kdfibhd3qeq2mokdftkjb7alydhwbkxwmkknvs6xae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

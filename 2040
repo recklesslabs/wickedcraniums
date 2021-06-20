@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2040",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihxlggn32gf6tbnqvrg6svuxk2z5q6enh63bzpxl5onrlyzod4b4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

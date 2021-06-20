@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1738",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifteestlasgaiw3bydan3m4zpks4qyghwcu3hj6bseudbgrpooxaa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

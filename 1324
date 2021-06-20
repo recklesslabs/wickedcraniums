@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1324",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreictcguu5lyfzy5biymuv2x7qut4hbrbut2gadajbj2nik6f2dzzwu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

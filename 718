@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #718",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigh7c6y4y3ifvx3qfprprbfpgq2imtcjnt3upgm2kivmhiv3lyqxu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

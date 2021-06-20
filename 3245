@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3245",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihfgmtlmwjotulik5t2by7vq2yfrvpm3wtr3dv3a6t4tdcvoartlq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1731",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicntvoylxmo6urvpsi56tgib73x77yls4jatkiy5qmcp34m5fh5ca.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

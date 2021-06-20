@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3042",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif3i7wvm476iwycmjsuosavkhpdeks6x4gkpjytoho7svam63gpei.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

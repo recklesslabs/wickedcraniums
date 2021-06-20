@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1357",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidcogxu3bxlny42cgwhvtkxuag26c42wtyywrwx2h5ofzbw3lo56q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

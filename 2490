@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2490",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihljosiv63x5qbak6kipzsqixuzzgatvhvmvee75qo75rgcn42n3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2188",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlhbbqgn2xhzwxu344nm3uw6n6v7lvvb2bmhj5k722f7mjsmopye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

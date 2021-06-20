@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2868",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicwodm2wkhnqxzbnl4uzvlpbttpqhfg44ggzrrzgdagze43q53zbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3097",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib64nsf2xset74yhb5uuoc7st5w7n4sthzmjx5msedvpfrfy35vqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1627",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeickziimahina4ixwpft2ujn7s7swm23mt4ilit2fh4bznwsk2hrg4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

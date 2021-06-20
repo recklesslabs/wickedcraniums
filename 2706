@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2706",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtproeigxythw5kjcszopb2rg6hrg5rbcmbwvn53edfx2xu2oggi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

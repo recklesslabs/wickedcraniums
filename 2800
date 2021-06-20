@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2800",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5ykfi4pyil3hx6eeiri5jvaadnkut7d5h4xqgxxrlb4h7o4kura.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

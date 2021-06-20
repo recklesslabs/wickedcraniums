@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3040",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7c4rrve2mvrf2jqtsp46qimzbbfkea47wj7z6wckrilodd6duea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

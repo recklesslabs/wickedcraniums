@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2573",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemqdluhb6y3zdjivb7uihnxpi5bvo7skec3fz6df67ym4pce7kga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

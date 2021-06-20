@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2604",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiekwkkvetygjun6zpqeoykpx3rjajknvnekw4wwtoobhiigehrrby.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

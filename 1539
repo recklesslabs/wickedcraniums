@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1539",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqxrzprfodpdyjm27pbd5u2r4ooylpjjflzmf7hoxm56zigqsa6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

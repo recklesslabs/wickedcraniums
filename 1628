@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1628",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreify3xizu2tjpr4ojz2h67nndtaa4b4e352gk5cyohbftrzcmzhr5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

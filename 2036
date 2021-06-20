@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2036",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidofowjfm32cwgd55x3u4a4o6n73hdzaz7onlpcum2fkegkbv4wam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

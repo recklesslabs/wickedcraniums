@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2964",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighn4ldok3qc7zvebwbclulwrtvztp3zh5zyuccv5werie3zcx5l4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

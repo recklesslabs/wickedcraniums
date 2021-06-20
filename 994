@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #994",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyeuwqwskj63wrbows5fh2fqbpqbq6kfu56jucbpq56n2i4rttvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

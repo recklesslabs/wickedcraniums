@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2178",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibtf3ghsesu47mxyfu75vf4jscg6a32seaiy4rn7vcorfxwkbgdhq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

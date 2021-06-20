@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #861",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicvvkjsfjkztip52h6pmraezjp6iq2otc4g6f6whqhtupnjnzbvee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

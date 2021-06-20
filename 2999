@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2999",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreify4wyljkyy2vf5brnz3evvrimd5abwrcwoz3qyhgdppvmliulzki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

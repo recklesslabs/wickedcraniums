@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3032",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicrpnfugjbnee7i4lryj4a5d7iv3htlaxqnzwfaael4ei6wmtmo2u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

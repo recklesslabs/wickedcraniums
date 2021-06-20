@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2827",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3uwyuipmmdivosunkwuaxv2ufermwqktuwkgplsxhwo6ob3ljre.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

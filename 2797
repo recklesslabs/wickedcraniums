@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2797",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihq3nabpuhpyul4aodewoagwxywd4gan3tam3rjarmumoyumg5hva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1103",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic7f3lx42ywkndygqporhsotkl2ijx2nfzasyemmjqhkessic7zam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

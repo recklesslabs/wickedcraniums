@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #720",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihjvw5tn7wvrchvkgwjhpdjnwi4tiyh77fskrqrrubj4fwmioakqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

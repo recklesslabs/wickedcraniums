@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2294",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihhomokhjh5fyap4ofifvlxqmbwmvtzbpukyuvkufc7bt2erdcdwq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

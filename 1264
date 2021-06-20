@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1264",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidak6uauvai2bqtp7rg3geoweixuivjrp2ler6jcjc7jbu4w4p3p4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

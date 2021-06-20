@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2483",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicof7sylvxtrjmrpgvys3l6bre4fmvkfdkzlk5b6o4tohzs7vbrue.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

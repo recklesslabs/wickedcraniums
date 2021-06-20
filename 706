@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #706",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreickea2bvnt3jrpiigcs3c3ao7qc2g527ekxgcny6ru26f77l3hky4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

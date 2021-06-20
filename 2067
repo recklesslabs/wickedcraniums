@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2067",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifuhrswxrwst34jbbymksc2ofas4u7tdhtyjjexqi5srx2yi6wgeu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

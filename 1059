@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1059",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmbq32raqdaca5hn34ak2shbfvaqn5f3nct744izsjjr4hg6cmgq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

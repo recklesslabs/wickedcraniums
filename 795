@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #795",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihj2fdd42svhlbb3naq524yg5llzsylhv5t5jzqmnfjdaoyzxrx34.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3041",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmxclr6zf2mer5wolucarn66isoyypuxipffecjmq4hcgsw73tny.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

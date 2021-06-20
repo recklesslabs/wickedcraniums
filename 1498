@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1498",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibwuphi27f2auj625as7mufzaddwr3wjadssaowjkpzi6cp6k5lyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2789",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih7jfu3stpmzamv2jbr6dqf6vxex7jbzk6o2iduzrbhpr3jguzfzy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

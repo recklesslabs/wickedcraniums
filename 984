@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #984",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreian74ogdmf4vqqpifqgqjqxz7azcujw5llt2ihoss4llpioz5rad4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

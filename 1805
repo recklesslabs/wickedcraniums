@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1805",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4svxn6frcrt6ldcargcrxqfb46kmo34s34m6flpjs5mw3gb47gy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

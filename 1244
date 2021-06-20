@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1244",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbblo3i4vmpv36w44dtbkuwi24gq5ga5i5fmwupkil4umqpeodfu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

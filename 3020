@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3020",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighjgej6udnlv7kevn2wywgogqgm63wg2ap4nwdbkgc5e64raiqiy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

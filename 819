@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #819",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpjjygfmlafkk3eazqw37kvj3t6ams7svazedmt2kcr3pr73ckiy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

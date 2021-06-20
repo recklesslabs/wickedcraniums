@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1812",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidf5dga7xwpbc2eldjwblfsurnsgtwkin4eogfs3u6pkii6y3d6ou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

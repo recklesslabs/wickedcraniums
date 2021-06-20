@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1401",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihowwfxcfvxlguhbwf2eq4duptcjsfumsqnt526drxsf5bfwukwo4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

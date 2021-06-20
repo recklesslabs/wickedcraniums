@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #724",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidhxluwpptilpbucn56b6pkfwynsqpm4uccekazwbetwlxwn5apki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

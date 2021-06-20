@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1925",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifevgutsv5p7t76rylst3z633jq7t3qhljglfd6fkuciu5t4yjlvm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

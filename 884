@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #884",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifmkgt563kg4xsort5tmculquzgn2og3oqfguosamcqhpfx5rkpza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

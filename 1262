@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1262",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigb5vofwfcibkrk6enmynepqi6r4qsyx2rcl3cog3agc4ttm44qrm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

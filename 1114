@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1114",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3gweqcuvt7srmx7isqdtrm6x3zvdavhogd7hqpr3epdstzjj4cq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

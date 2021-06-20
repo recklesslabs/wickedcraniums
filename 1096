@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1096",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5gtor3fcusnuzn6japy6i2z6kput6vqmpkmat6uxryq5ubea3wy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

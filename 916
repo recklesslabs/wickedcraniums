@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #916",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiagptrewevwmsfeh6aa4cyuguzwzuvpja4rleugh4r4al2ic2fj6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

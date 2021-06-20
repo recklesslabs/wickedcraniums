@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #804",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigw2xu3t2qqty2ajhfni3iabz4ztsadabsqiysidxvwk5fbw2uxd4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1156",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6bj3em7l4fn5jpk7ay7aokcpg7gpdmlha6wcec27z6chflfv4gy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

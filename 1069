@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1069",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihxn3ezvboddaf23zt6enhotcd6532mfuyviugcv3nax32lv45m6u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

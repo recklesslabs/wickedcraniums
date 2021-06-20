@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1266",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreievd6gavbwkyiojmnhrw2j5cqqg4k2ofcxjdtm3exgq442jkh2qku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

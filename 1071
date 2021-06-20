@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1071",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihsq62mhryogx3rx2vruiqjaqxake6zrc7mrrp7psefxfhafz2swm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

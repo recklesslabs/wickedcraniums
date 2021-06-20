@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1392",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidryxk7reratvbdj2lumo26zd7oinf6twsng3ahnffkotbtuy4kkq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

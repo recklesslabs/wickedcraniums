@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2210",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiedpbikahiqwfl34rodthieoj74q5lacqx3ftf4br7xcy74b3wera.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

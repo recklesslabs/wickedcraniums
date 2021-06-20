@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1697",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreighmjzeaotcbhoklikrhq3hxz42dah733taypsods3hrb4qpx3yoa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

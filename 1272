@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1272",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih4goyjrq3xhbo5edgnznpd7bxjjsxyjzhfa7vnwi5zozeacpnlye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

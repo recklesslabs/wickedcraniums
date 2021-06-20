@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3129",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibg2wxormnafhml5g2otvdkzlcszz52n5njehyvw3cgb3w2mvlqa4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

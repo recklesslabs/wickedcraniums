@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2371",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbyvnuz4jbj5a6hahu5xrdi3rsapdyplcyo2at6zmmjedz3s6lku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

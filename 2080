@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2080",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicwnudegi2whtr6fcvmdbb2ysqr3vsqlbgg24c7o64rs6kienu5lq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

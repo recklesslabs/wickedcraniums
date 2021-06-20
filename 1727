@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1727",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifi6kmjymn62qgveougxpf722t543ea22uqgf5fyn5l7bu5i7lfw4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

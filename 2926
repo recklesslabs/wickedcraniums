@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2926",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiapkvwgbik7jdeseyoq2dzgkvmdx3lud4q3apacgc7kubyvy52cly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

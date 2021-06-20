@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1443",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2onadcgymekdyilzpqt2os7qxaoenzysfnxsdkjvy7yq2dzs5pm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

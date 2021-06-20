@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1428",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibfqyfckvimgslkcbpbxq3cp6xcrn2gyhxzjhjjme2tzjiogw5ccm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

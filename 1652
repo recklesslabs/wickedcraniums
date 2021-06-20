@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1652",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiegpgmhxkgfdbgrhl4u65lrulswuhypagdm7ar4dznjoy3woo6vdi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

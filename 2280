@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2280",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5deeqapplpvbjbi36gfma5qpowbqq5aj6xnw2irsx6kbodoat7u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

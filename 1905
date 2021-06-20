@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1905",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielwe5mztegm2qod467b7h3leykwg44a6h6z5hv6uudxhtyvjj7jq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

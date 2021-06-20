@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #757",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadrf3j74serwzfjp6lr2bt2mkxdxvckjw2tyf43nj2cnazvz2gym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

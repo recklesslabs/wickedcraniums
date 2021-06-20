@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #708",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreickf3iz2eijhuwhcqxgjryrcihxypmj4kvhu3vgseoej3pxzrx6xe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

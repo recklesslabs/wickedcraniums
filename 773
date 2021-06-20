@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #773",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibz6rzcxk5hv6cgliex6pyzcoczpnqet53f2k5xzup6pcoel255j4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

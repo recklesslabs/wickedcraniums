@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2890",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidcpk6b5oui4bsmurkb7gc4hx7s3sjt3cpu73bwfs5xk7l3ssmste.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

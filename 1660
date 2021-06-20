@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1660",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiglckqc5c25lymrep7feyqnfp5gh2wcy4ezswzgdrqleseizit7my.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

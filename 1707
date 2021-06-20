@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1707",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiejdh56typjerum5lsasncyou6jkjgcsgvpaqtmyws7brg77rzal4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

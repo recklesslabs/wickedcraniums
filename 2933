@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2933",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifw2izjvo3vnywdnnxaurli6ox4zwyoxgiwvfktpqw2nssav5gbbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

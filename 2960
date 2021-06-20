@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2960",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3pesegtgae2dp276tuhwibbgegv2bp7a47vspc7yxylbvtacxpm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

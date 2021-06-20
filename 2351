@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2351",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5y4frfcrz7tulc2yes4a6fbdiiihto2ui56ysxo4pdxo6rq7bpm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

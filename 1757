@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1757",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigrmoevpgfufkjjcqvz74qnejv26giqdpkmyo6ibnvphvdyhyc2qe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1983",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibkjvyo6lx3mi6q5rhf2254oe2t6gl3hp7zy4jbrual57ut4j5shy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

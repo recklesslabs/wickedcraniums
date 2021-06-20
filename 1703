@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1703",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigv4hvckiktgs5wpwwno4mb2jjyr3lbqry4a67mqs4otfyb4crrwm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

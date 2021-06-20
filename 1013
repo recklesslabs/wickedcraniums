@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1013",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigi5mq72zv4poekqkc6yxmuchejurklpuejqi36zkc2uoqdorwmvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

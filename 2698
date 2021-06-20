@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2698",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexpmudpt3ynmppyv2krvqyfnrftylkmw5obo7dknl7t5m4drf3eq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

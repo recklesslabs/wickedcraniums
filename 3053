@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3053",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifvaawygigyst7meyz2lyhpb27zzjt4gk7oc2qmrimkrd2qnnvooq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

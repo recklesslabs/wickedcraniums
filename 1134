@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1134",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicq3bp3lnuj2y6immdl5uoatf6u7eteec27fkf242qjfgnz57byyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2042",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifj33efllxpgp2sgrgazq4gss2zktaceclb4vvyjkt4xh6lgp42sm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

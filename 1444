@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1444",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignbkamqwrwmq3mdonov442xtlmhqnxj7cyvue6shjrmtmphssoyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

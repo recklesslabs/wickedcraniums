@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2150",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiedieawjro77diitfsr5uzapdt473k746vydcxzmvael3nyr5d2su.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2750",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicxicimpsy6fr34whjphpcmnwwyq7uzeod4xlkmq3irsjdlconity.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

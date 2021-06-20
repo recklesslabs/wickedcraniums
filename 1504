@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1504",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifbmo5ssb3vg3u42f2acpodvyu6dqltpvsucinl4bq5xojtrxwusm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

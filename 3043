@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3043",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifgtglhtcjzpcr6re3dftlzyb33poel365b6k2rhmiqh7k632e5lq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

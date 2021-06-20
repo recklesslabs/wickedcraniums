@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1852",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig7g36lm3w77n2arwcyt7wdi4l7f7kcfzerht4eniiyslyo3mrm64.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

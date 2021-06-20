@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1075",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigq2ktulzje3cofhzsnijx22pznuddngvjnljkdplcedqs3hu7esu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

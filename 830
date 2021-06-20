@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #830",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiflvvoz26mnf4v3hxba5aj4ywmisvmrimiabus7fjqwagfbflow3e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

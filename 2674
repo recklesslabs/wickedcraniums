@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2674",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaua6ac6or3s542tcafijo22uewo3wpns2g2pfjnvk75plsbd6ms4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

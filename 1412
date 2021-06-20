@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1412",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigpd6l36znpoluzspuer733r4ltr62dkjgjb3lrtokajnwznssscy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

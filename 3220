@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3220",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibnzv7yywjuv5adzglbyvzsmdjohqdef2lrcsq7gpd55rvsutb4o4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

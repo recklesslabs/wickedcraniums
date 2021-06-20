@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1337",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidl3dth4togqjx2m3wygncmwqoiskk3ap2325ck3r7h37artn7c74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3191",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibjinoe5xokwilnmi4l3av5oaehux45nkoizm4h2lmqplaitrszee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

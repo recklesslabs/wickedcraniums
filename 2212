@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2212",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidfw76kqb76n3cjaqdbvmjzkpu3bpevydsuc2qlho4pst5wdsgk3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

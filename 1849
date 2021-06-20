@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1849",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiajeqh6oizstydq22wygtzjzuggny6qwfezeolch6eww4mgfjqrye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #996",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffxbtjvwpywyb253zfld6vhk55sqjfittrjtcrl7dacl4rar42za.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

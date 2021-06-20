@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1879",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicfs5s7s4jybl7x2ldx525omryyy3dt2foijwjpsd7ygypmemfyfa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

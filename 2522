@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2522",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2jzpslqvwxjuuq4ngnb2ahwyy4awvetvztiem3djsi43hvtvqku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

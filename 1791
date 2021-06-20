@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1791",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidmznrutnlieyzpks3hdgfejezqf4n4j4frng4ekbjeymavawydwa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #956",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicv5ldmbt6yaezqkvydustu4xmgmykvy7pdfpiwx7onxkc52eqh6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

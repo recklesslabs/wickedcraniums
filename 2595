@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2595",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpgd37bx5vmgcpbrzemd3bh5ergwpqwc4nscszv53vw2jpdvpz3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

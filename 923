@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #923",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicdh3x7r4lip3n6tdg73s3uuv6qzgsh7bcat4midlwcymtova6jxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

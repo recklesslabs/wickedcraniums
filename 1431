@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1431",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicco4i2ei25z6gszye3gmguaydcnv5wu2npqsdzwdvg6nqh4paayy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

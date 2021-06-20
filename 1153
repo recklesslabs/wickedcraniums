@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1153",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidaiw5vtdktp5qbd5v45wo657ubhq3l3dedzrfio2ivuwljtynoky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

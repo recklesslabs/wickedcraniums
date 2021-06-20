@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2669",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieti43km2iml6p2h6kv55vrfspqiew7efuf2fikz2uv6bdxobfohm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

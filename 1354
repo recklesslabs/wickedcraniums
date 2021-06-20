@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1354",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibfhovglr5aipomk7a6k5jehk62prwiydyj7lzecgtivlmv344nnq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

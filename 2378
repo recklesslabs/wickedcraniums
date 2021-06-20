@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2378",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasaj4mlnsouhy4v7hxp4haq4rp4oanefalc7gue5p7hf4nxf5hme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

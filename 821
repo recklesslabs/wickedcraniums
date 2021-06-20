@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #821",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiglomrt252ukkdeoxw5fwzmtcgpb6pkyz4zlx6rrc3hr7p5s4guaq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

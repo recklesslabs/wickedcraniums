@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1091",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic6pkovq2hoioreqssxsej6zmrmsvlhsec6vl2fbutu5vphfsmvxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

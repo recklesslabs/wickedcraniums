@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #968",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiegm5qinb63yhef4xvrqoxmo6jsgu3dr7g3dw4jdnf52vjfyj3zxm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2484",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6ssplnlvbfjuw2hgnsk7p27m6piayk2auzxoepvksvi5tlk4ewe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

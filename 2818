@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2818",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicnob7h3y455hupfzvjmb7pgjvt7j6ttm2zepgc2a5wujmwyegyl4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #737",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic3df7fg6jtqndd7dr4zdjziucmiiyk2t3w3zgzsmxepczor42jpq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

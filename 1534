@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1534",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibqtff2axi6ngfvppcr3usfk2jlsx53vhvrrsxqqskojel6uh44hu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

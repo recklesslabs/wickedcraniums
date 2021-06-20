@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2668",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig53kwpqyne4qoc2lblj3tq625rcsyej2tnjfk37l74xqfk36qtzu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

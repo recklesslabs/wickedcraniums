@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1884",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif34bsije233iatn4c7r6h4yclfqjyohjivvggsvpc255zxjzpv7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

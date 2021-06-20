@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2495",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihjrme3ljvpegk2edumpolqmsjbkkcrovotyle5lr7sgqluvgdoai.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

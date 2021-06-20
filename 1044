@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1044",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifvnqe3mkgqntr7zof54btnothb6f2egs3s2dlap7nqukach5lq5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

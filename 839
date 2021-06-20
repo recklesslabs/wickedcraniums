@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #839",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiarh2na5w56vtqxkvwd74iwd47emfb3m645sazsfuafl3rxwmlvd4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

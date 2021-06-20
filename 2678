@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2678",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6xsnyo5nfcbqoo7dtqxmxmjkxiiharna7u32faxcfr2zpbbofn4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

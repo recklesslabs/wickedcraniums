@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2557",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkuylegws2a7te5ubyoj5ogjazz25seuyxqfo33ixwqinupzw4se.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

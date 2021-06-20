@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #796",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib26um5gkfqu5vjfpxtznumcpk7laml3jipfblhxj3l5dlsi7updm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

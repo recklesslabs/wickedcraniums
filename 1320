@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1320",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebt7og2m7pbm5pc7iqk53p45k5f2vmh2ef62zjjp4tnstdnwdqqu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

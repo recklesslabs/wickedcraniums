@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3156",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiavbwdhdlt3jc7ojdrd4rmmggncttmjjzrjmajyysqwzltomjtszm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

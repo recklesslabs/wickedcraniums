@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1671",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibzv2vlyw6btf3hjbzke7hpwzyw3m5hoqhlt4ofjwqbmapzzpqiqa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

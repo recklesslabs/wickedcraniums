@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1187",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigr4pziiw6nx3l2u75vjqt6xldnynr4dcb5zcx6ml7soivwvvceje.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

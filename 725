@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #725",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib6pqdogd47hzodizot6ali32qz3y3bjrtkjt44ycaiifndu3uurm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

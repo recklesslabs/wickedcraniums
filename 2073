@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2073",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeidjemjov7ax5nc7hpxaiurzfwg2cdmtckkcwhw7v4vxkepmriyp44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

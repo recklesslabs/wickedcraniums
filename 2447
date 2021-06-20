@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2447",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibep3mwf4gvyoabbp6zjzfie5kzm25xzvl74yw4mr2y4kl46e6qme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

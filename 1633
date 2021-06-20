@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1633",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid447oxbyttoos47iwxf4gipn5yesvrgosy7mnosuobjnofg3svxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

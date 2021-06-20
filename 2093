@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2093",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihpqf3x3wcf2dmrczsqkot7nqr5mavjfkxtwe7xrsr4asjgfuoxv4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

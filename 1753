@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1753",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicxb3thxigfu66g6bf5yklp4g53cz54b3fmjeb7it3tr2rfxvw3iy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

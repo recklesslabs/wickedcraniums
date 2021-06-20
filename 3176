@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3176",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigzmmbkkazkzrfxqmgeleqot7iak5gizgzzmyfibwcta5a4atuzdi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

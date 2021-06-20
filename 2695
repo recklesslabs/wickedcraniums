@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2695",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid67b3bpbcfxln5my7rvsygbtrukqcgwi47m2dyui66gqs27mjhbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2680",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihojuekqdoblgkjzyk5wyod55oc5c2a4zjp3folgzyl5ugzcbvbqu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

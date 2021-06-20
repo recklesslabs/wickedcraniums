@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3045",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifr5rwnz25nk4jjuzn6durfkf2kng56eyfxh5jgg63vovooss7joe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

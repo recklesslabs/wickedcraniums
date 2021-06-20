@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1548",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbykkwni357oocxrubvxioskkqdzxgsclhy74lck55ahff5rep34.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

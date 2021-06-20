@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1089",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieykengjdupkxt3f6z723xdekwxzds4lyhqynfqgernegfxj6pnxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

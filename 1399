@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1399",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiah3sh3767y4w3f5nuvlxwcmo4p3tnnv3gmhlzzfyqv46qdinhe4y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

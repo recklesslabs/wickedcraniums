@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3243",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih64hr6yaz73lmegqetxelmhxas3nlvigjixa5tdv3ltbacxt4sym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

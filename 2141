@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2141",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlvch7iudfebwm565ef42z437aiitxguzremad6r2gsyewlndd54.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2289",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiccccyo3czdo7ttlbn36kondseef3wlrw64ayydhdfx2o2f25ed3e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

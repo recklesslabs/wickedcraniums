@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1379",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieaqz7vsnysfcx6llttevcudecr42ipxt4za3wjfxvvciv4ajdkaq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

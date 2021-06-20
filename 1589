@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1589",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihfa3zglnubvrx47exkccsrxe4xzdc3j6c4nkx55s557jj4majleq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

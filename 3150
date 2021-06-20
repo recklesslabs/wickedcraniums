@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3150",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifcprd4gl6boi6afoez7mdsyynsyn3k23eh7vxlrzi227mvyh2nku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

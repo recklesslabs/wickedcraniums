@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1160",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmqtmtbkzdqpuzffucengsfzir2f7how3ll7iecs2bc3bo56voi4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

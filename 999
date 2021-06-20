@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #999",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtiquubhgtfywofstn2wjrnunbo53lq5rw2owxqg5l5rdw24g33e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

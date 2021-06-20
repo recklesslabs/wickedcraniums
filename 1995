@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1995",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicnasaxqqx4m6jarejqral6tczm3ojupbireb55egihgkkyfz73na.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2116",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahvf4pljb2hizpvacealodk5rqq4fgskizf5ecxpkx276aj67cxm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

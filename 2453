@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2453",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiedunysrr4ppkg5e22akpegdcjcd4kied7u5qqekty6r4rdfrccaa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

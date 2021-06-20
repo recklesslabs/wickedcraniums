@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1819",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4kma7a2euvvygzzrcr74dblyt3nz76qdc524c6ilsqry4ptfksu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

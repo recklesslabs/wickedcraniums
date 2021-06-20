@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2586",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5zmf5ppxlorhf6uxp5m3xbijsqlm3tlgabl45fdrmabr7dc746u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

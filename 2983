@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2983",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemytrpew63prtlnb7dbua6sjq3z3libgbawbnru4m3mt6xkeq5yi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

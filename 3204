@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3204",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibgebu6w2gv2dhrbxfqe3cb2xmpicb3vpdlssl6u2o7djdg3ehypi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

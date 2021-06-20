@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3175",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigvghiraqsgtxyot6iliatati74hzhwlk6pmhfjvvjrxfjmcl22le.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

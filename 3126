@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3126",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7tr4rsoccvpfvpbrcihlz7ao5ton2p2qwbzln25otc3o6ejgvou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

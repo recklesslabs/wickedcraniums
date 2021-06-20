@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2743",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiciabyhobg3b7wrrnmhicbxphd2tntqnmnoxihy25b3auzgcsky7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1368",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiarrem6ubmgw4rv6vmj3z5cz76fv644he3livlnv6xrutasarczre.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

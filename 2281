@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2281",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif2eqxgfhp2oc5lbhny6bv2hmavoxjtha2sr5or7524lge3z3ol4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

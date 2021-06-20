@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #788",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiamfhdvrxmv3wdmohtrj4ug3kyojjywlwjd77bas45wpmq4pc7bhm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

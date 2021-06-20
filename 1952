@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1952",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif37xedw62qnobn3tfhpmkj4jea6mmqyco75vfboorfhcxff7utlq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

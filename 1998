@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1998",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibzm2bgc2477lycuu7lf64dktlyygkaq5abw7yqhw23klqazinkx4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

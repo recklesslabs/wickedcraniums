@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2681",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic6zs42zguxq3dp3tjypna3igf6hdgedhzkjw5egibmuqdatwazy4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

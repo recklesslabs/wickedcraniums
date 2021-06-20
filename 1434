@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1434",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigglzkxhw2r4jlkhmb2dfxma36x7xbdp5jswexuvjswun2b5msecy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

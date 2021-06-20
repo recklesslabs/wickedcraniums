@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2864",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif2sg56yxsw3opzk6x47luqkenz7wbjr4jwtavkz7izj2ibzfquk4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

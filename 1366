@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1366",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpmhvwvdf2fmgextkpmbshgdq5lsgohenmpkarxsnqtu4nogyw4e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

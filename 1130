@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1130",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibualfaevvxccnoscjloipaikpqr2snvsfgwv45ay4xi6anrvrmpy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

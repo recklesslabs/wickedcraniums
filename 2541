@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2541",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibvpuejj54awu4aijvsn5ay5jez2t3gatkt7zt5l26r4p4xhh5mdu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

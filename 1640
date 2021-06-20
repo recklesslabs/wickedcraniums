@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1640",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieojq6jp4j3ofzi7qkqcc62o45qgmzdlucwbl6xud4pjtgey7ybsi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

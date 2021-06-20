@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1500",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigc7b7gqsnd4vbhvobkvzcvibfzuofkncbttasp35m6vox5zftete.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

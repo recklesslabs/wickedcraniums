@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2946",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwbnjdp2z2bzerhfqeynrel4bfhcb6qshdmr3ilwfy7ab73ivqwe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

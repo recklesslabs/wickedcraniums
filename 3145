@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3145",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqw4e24il6pjw6hyysmx6p3q2trjm6nwdw7ebfxfwfjga6twvsc4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #836",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihnjnzj4pghyyzmgzzt2lihhwy6tvv2a7wjzzb5o44m4hqwpca4oy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

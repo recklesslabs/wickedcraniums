@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2270",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigbsxgnegpvdzr3kluo6hya3doa7zdqbhkwcea3ogw5yv7gfmbnzy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

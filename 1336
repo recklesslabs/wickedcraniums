@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1336",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigqrqdjxm2telxytwyg6hbobqquzhvcc2ar7cdsvseqis5gjrnne4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2842",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaw63y6imh42jd5c7yt5v33fyer743ypntryes7ixbrmgtzhhmrbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1687",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiae4peozfb7sgvy763enmi764ovt6gckegawlvfvqezjcj6utqmmi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

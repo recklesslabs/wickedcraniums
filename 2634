@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2634",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicm2zlh4xe3v3lewcboad2e4xs3jaiyya7nsltbm5bcwey3uh7xke.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana"
+    }
+  ]
+}

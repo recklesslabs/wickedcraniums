@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2021",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaddno7truan4mfbts4jjcm32dmbk5soxevca257o5sen4xbwyxwu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

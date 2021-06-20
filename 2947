@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2947",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif43wqfpc2ix5cwfbaoq36djrlonivcvqg3z6hhrxu2rgkz2i44wi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

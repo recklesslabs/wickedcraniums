@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1263",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidrez7oxsyg2gekndeudlqlridl2eun6rj25igax7mtpb6pqcxy4i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

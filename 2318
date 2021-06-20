@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2318",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibxk24h7qemq3527t6zl7z4ilhdc73drwwu77gr7jzfe4mnoqnoza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

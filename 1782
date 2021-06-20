@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1782",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicknaioqnuf7fl2cego2yummkgutmmsggwhslk5mnqqwj2wv4dvwq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

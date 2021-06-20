@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1345",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkird6sy2ij6hubqjlsy6eknmunfx7urcrpgddbmlipcop5j66si.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

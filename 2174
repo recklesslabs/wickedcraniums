@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2174",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiblmqn3lsfsa6syqvhp7rl6qjs4fytwiskcvcxmcxvqypwc6wfxpq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

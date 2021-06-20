@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1311",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreianu7bfomzqputojna4q34nrdaqz6pu3ubppy2tk7coc2meut246q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2790",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig2m57s6v5ecxp2hr2gozhgnyqusdrz6byvuqupcri37lhwejurha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

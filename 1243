@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1243",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieypjfhnpvjehn3citiwgdcn3wsbzccx2nzx26x4hxybz44srtwfm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

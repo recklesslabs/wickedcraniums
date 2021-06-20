@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1270",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvypzbtl2cfzw2ybe53e3fnqrjhmml65t3qnsp7y2oajhfxrumoq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

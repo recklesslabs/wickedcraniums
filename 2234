@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2234",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidbrzuf6adf2eby4jq63xgh5qebirstow5winycgab4e6hiqgg544.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

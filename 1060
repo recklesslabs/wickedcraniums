@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1060",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicf73hgyiz5b644ck2lsckkd7qiha2qa6w45bhshdpanryz5ekcxq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

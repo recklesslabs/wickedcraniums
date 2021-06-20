@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1355",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigzh4oqsh6rny72wmj77rlswivenw3z7nrcwzlubymm54n26mryam.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1525",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidyfh54nv5ck3illkn7uu6gjhhand5wwi4sfczppzvmyyb32iid5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SaintClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

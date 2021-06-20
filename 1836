@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1836",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifn3wrsoqayrwlro24esk73ye5e4cco5pwmbknxzr2uujb76pfwma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

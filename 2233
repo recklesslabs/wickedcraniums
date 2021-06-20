@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2233",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieszgbd2uu2n43342ovsbevtrqmu4kgbp2sdp2mcj4xtftiobr6s4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

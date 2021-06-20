@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #889",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifvtar4ojxuywzsnkyfcpksq32u4uq2vjhpvcgrkpo4oa4voucjqm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

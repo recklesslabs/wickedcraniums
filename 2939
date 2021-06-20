@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2939",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig3ya43c3xmgkivjcqzw52ueyzc3g3uuukn2lwr4z5ciwzg75qwta.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

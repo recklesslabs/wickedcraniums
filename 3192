@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3192",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifg7uure57flpfjfen5mkujs7fp3eseeqn443ttfzfyof7ju5o2ci.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

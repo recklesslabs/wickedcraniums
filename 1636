@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1636",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifnxaq3dwntomdc4mjzhmytxjj24q6pzsxlyhpq2kyb4cqr7zq4pe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

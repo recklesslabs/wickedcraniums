@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1711",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreierw4pft6dodiinqualsrg5hsrakooqrx6ws3zs7bvenbjwy5agly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

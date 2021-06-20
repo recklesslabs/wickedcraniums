@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #761",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie2fzio46r47eutyo7bzpkui2rg5k6eablvsm3yxq47u3nsv4eq6u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

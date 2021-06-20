@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2661",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdy4n66jq7bxzulrv46hp5d7asaiv3fi37nxwj4e7zder7rqlcmu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1433",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiegdsbtaaw5mxncwgmmcf2cc4bu4oei7swyunqes35juqruyhxazu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

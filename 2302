@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2302",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiawkgtlru7alfokqslxm4eafn4qglb7jmrar5nie5veb7qkbldq7e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

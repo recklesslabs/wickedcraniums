@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2889",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiewbmenzbd32x6azfmkaeojmx4lk5zuarepgyu6sqca5dfqaepncq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

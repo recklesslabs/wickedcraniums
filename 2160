@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2160",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbltwfm5gcgkg42fw75spfhapbvkdd5etyte7odhu6tkqf27hdmi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

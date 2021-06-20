@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2905",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiax44aieufefy2i4rfdaj7lpphuyt74w3fxye4utyq23mq5rmnhku.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

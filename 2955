@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2955",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieg72v57blgemom74ucaifecl6meklvxjzcvgaynf2xbo345wpury.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

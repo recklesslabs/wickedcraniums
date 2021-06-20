@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2018",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreics7jdxy6v3w2fla27k3p6bf56wusryvcpyyyfvu5fln365yo7fx4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

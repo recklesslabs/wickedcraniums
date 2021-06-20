@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2230",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifigfcbk7wamw3jxme4ewl2t3feuso6cjcicc4hvv3wzz2xswpsgu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

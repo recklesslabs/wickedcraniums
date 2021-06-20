@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1842",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidby7wt3eibbismqpmlei2bsdf4if3n6wlulswfuvlklvjcuzhuvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

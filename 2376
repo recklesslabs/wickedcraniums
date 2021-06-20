@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2376",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif3zlkd5ovxryqr7pjlrvi5rt7pomphatsbbwebg4gfbar7gcfug4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

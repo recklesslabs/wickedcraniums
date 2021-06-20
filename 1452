@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1452",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibopvxz3eh7pj4xcj4fdhpgm26j5ulxrz3jetyl7wx2ace36mn4su.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

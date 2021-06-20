@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2257",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidoorl2u443l2f2z4otm7jn6z4b6eszvdqv3arbsc3t4pjrcmsuey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

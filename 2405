@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2405",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaze4il3joxsfnb57zyaa2qqtukt5k5krwlir3yrqibkawmjrpf5i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

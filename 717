@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #717",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnbg5chmojv4bef7ipbiiga6yib25vdngealjafmtow773l5zoj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

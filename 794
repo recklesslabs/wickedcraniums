@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #794",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyzvceks6axgkk3eaoavxseia5rzfmd2rzpiu2h3dmh5z2g7xsj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3039",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihzexdrngj7a4q6lgi5ealt6xouzoriez5bjfk3sdtwim7fg7ct4m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1875",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib66xmgfemcyecwltfus74rbnpbc5szlrnbut6amp7rhh6jxs3e6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

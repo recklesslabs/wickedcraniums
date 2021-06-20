@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2237",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidr3kzdniwips66kfchv6nxktkb3z5xoyraot6vtvzkq7rfv44mva.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

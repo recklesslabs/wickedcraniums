@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2327",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicwxdohft4wgsa7g2ryphdmco4rre4xpi3qf34uc2skbzgzfjwmmi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

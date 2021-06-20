@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2781",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidteiv4gcilq555p6x3y5umzf52rkaufej5rh5ot3at7xzqcfwbqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2516",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigz23gqwjlk5pefblk3wtslrnze24nqzzupxcbpbw3xrpnqkuh35q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

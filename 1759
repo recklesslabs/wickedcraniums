@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1759",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifprog42ikh4qgj6pieigbdosiab6oacbe2der5xodaatj4azbwna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

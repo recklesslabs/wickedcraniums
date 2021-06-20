@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1113",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaywezrhuiv7mojgkbnqq6b5yg7qbta2sdjeg4jxhnotidkwv6gqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

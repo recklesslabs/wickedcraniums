@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1796",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifqoavug6ocv4zuuhsc2peq4isr3gflthvrecdomqj4tpfcqiu524.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

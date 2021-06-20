@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2303",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihlgqjsnkg7oxw4riimum43dywx26skkiotvlincr3cfy5cyljqny.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

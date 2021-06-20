@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1912",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicen44meis2hqrc4ps3nh7ufuhw7q52hzew4ujinygnng7q55dqz4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

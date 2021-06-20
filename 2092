@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2092",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiefw4ihtxxfyc3h7ewzf2laangiqhfdhu45jux4iilwemawms47pi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

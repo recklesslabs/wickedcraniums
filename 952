@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #952",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicwdk2k2es2ku2dpwhyornnt4erv4dy4twwdozydlp2vs5h5uxhau.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

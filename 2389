@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2389",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie34tlprgevosvadvkybkmny22ri7p7aepkmg2l2psoxmlpein4im.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

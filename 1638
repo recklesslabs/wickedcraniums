@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1638",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibahia2qkgfastl66wo7oojqjoqzs4t23ptiuvf23xyniewfjncru.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

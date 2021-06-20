@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1543",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigvv3e4fr664cbkfwjq375xdwl66q6ug6ytx56g7ywykgyu5zd5bi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

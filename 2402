@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2402",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieupfeacjxsa33larjnxvai23pimefvusajdbxjj4xvpiy5h5ha5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

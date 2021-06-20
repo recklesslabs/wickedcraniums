@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1115",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicmh25d2up5l36gib74pu237yv7q6nmrttaqaxty4yub5tmgrfqdy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

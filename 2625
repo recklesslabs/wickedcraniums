@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2625",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiczfyf7vs5fxa4wo5eky7x7v2jhwganj55c4haxufbok2cmcacg74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

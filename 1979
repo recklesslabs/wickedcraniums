@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1979",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiarums5n5l5umumxk2xx5eqkgfzbg4z4tkldsyfydx7iofjfhglnu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2050",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4lybyo546zog6wdm4go2fvputu4muygf4usfgcqugzdcryuxqke.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

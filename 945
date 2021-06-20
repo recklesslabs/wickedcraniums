@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #945",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigygsuy75bpheoilicmqnchq34i73cmhwanqnaoru4wuhtaw4a62q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

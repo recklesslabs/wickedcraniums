@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3077",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicx3eiiwdcxx3b2yvatjkjpal62wtyt5vg6oa3c3ud7o4gsfjagze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

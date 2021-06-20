@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2888",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiemgmez3gpy6kpfrdvacjyihg63vsbzlmqtqh6s3qcio523wpvnvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

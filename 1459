@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1459",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih5iipvquvikafminyknuikoydcuqsxthir7w45u5jld7mwazvney.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

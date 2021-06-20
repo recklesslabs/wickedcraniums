@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1276",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiashftpxvvlflj3bzpyhe2223hxvq3t5wf5l42urxfs7p6lbzhfja.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

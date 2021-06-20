@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1172",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadluipmtrjbxf7rqblvlnipodkw7wzn5przutex75kpuqr7n5byq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

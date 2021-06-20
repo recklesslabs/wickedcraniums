@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2934",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihidwoqwvfseeglmr35tqgtg73mw4ih476b2xlyw3lyspsvejvj7e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

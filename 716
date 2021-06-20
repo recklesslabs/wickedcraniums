@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #716",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6rzwja6ydhbtkniyt65gec7nzlds7sqsnfxqcgi6bbtonasf22q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

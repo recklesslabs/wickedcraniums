@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #745",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihaff4x3vjoifej55vj76sjcum7s2wof2likcmgkk3ntkfbmyffmu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

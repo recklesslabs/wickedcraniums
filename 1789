@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1789",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkokfjozrbe3ylcmkx35uxunpxeh5ffzlrnn26p2fwyg6ib37pma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

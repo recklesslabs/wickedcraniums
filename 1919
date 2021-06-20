@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1919",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigeioaj7owctvljl2akfivk36mxfuodpavc754v5unx55kf7snelu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

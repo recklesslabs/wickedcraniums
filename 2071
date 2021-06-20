@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2071",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic6ld4d2v4ezs5sbyxr3fbocmky5w7ltpl2w34robzow2exckrd3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1708",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeia7jtnqmddmjncd3aqvwqb5ouxdoo6zma6yaiwtjiv6geuczi5axm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

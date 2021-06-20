@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2616",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifr2ela4dswtlv6qvm6bl4prpbupc3juwjjkc3tocmh2rb3ybrvby.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

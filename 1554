@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1554",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidqexqsqg5gwqvklwu65q7disugfffuaxsv2i2hwmavmn6z2wstga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

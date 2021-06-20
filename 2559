@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2559",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid2m6o5nfehtk62zaim55ans2g7o3yqda5e65sf5zzt6lrsixrmly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2554",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifqmvgpgnoh2bwe2pbclycpxf7s6m3kig7cx4lt3g4eszzva7w2fm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

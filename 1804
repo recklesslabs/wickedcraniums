@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1804",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibb5ty4rttzl7dskndgdxbqtma4zopbiu7ulg2cz63ysp2q73iyca.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

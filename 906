@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #906",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifivysfabkrol42fd75fuksvf2vauipqp2vpcv7h5tkp26pj2wekq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

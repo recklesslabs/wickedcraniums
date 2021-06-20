@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2064",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibsart7i3uxrigs2qwnzsltwln6lcmbgwpn5w57nurj5bhacgwmbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

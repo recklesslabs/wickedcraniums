@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1364",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie3icnqbw7u37enczoqjeo35ilibhja2um3vlm44pxjjt7stxxywi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

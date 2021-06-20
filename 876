@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #876",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpilorj5igyvhcu7f5rqd3vws2irlrbj4zcjepx3236hly5hpxxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

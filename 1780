@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1780",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie7xqkzgnmjyef5uz4yr4wwjxcqygmbvxwpiolhikvte5vqxiqcza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #722",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiejctycqgiztjlw6kvh3sb5en7tr6chxijvqroekxq6xvtflzqjdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

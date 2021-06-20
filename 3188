@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3188",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreictdr2aebn2yvpq4qkvieakdhfl2rtsjihifawupmgworsinkknxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1872",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiclhjyegkfrc7sw24x6tlabjy3e3tizlkklxjqli6zyke7yc6p7mm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2594",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4oelx642utc2sjfriqwbv2syltteynavc4fbwqpjue7kwf3j3qe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

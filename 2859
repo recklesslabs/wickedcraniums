@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2859",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigvci7a5pu43clutngigvqeqdpn2ysx3grvgayu2divr5tx4ttcqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

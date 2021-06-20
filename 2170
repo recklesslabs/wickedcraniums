@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2170",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigm4scx3tai74flb7tgdpei7ytvjsyzwcvf2vyvp7yrtc5jope7xi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

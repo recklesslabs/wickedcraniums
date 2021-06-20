@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2676",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpajv2e3pt4tqxr3ijs3tmpwsrwsunhtucnhxxrtskgaeqtzcnvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

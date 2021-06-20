@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3110",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigarvnnipfu4wacc7uednosa6kd4oj5z226bhfppjeefrh7ixtpmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

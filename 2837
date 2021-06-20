@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2837",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihgyxlvno5txd5wrve2sp2x5s5nqux7cfczbpfoph3yykhuyq2syq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

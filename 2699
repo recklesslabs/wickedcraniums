@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2699",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7dr2ugdlsetueq5h42ykufntardr24uq2aprpn5ooujio2mt3sq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

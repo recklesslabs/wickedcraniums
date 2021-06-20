@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1667",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreica4bahjgz5yqalnpv7igrq3zttngskkh6nih54g7kd6sj3coo3oq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

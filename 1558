@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1558",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihch547aoeqe5ya5pxicrnheefwyjuglrzt2pwjpphviheh2d5tfy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

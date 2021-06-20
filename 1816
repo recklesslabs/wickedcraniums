@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1816",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiau2rpq4ynzfygqcgcsrfvfuqif2deki3t2gqnvqcferp3pfzhn6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

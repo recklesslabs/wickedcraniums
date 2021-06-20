@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2894",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebprcngp6uj763cm4e5o4k5tedfoghufdxq2kbvvffjvzfcl44jq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

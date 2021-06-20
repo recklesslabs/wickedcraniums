@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1977",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiebmqnu6w4ikvjlw77ue6ystlabd6rdpfifi7gfbl6r5zyyv6cu6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

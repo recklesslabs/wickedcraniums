@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2925",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiccy2zypgmp2f7adhik6cz7kdkgdzx5xm5fvdq2bzu3wjrn2dfavq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

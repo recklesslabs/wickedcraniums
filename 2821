@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2821",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiggu77ymizh5vnlqfyrlmgqdurk6c7dz7aohcsqme2wghhwjenfya.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

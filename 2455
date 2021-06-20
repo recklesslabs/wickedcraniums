@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2455",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahoxlzptyh2cu7rkh6kn6ld7d76migku35p6bt723ntuqgg2ftuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1297",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihz5v4olblmiq6bbbqbd37n5bphxqn26h6g75j2bugmb5pq2lge4y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

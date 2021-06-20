@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2944",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihlmh3aem4arn6ev7mqtm23ygsfm6xyt2pxqzoez5bjgwgpttdryu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

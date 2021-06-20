@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1353",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwsvxswgbxiczkl5pidhs4ghszkmmzcyux3xvfsghtvj6jn4cway.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

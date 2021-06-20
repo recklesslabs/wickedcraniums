@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2976",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaj6esawbe6wc5xnpojfdvdsvtuat2c5pxodmrazq7mcm4rsnvmce.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

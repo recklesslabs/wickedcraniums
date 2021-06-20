@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1056",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigl7i6epdduen4byrf7dvd2vuffr3a2u6fdfq6ex3tqn5hdozd6vm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

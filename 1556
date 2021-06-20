@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1556",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihy6jlxc4y5q7qtvhgpydsiq26glf3oxy33halhk6iomtbzfaoflm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

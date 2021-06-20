@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2832",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqcth2h37yd37hyi54ffiodqyzicnbevkf6wodsmko5zcohq6vay.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1021",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidozfgkqm3zfu3ex25qy7w65pixis5ctn5klxra56oxbevc4kksua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

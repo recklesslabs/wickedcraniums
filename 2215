@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2215",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihok5vnuswqvpmus2ejfnnhn7gzi6gyoaxglccopzvhi3ebhiut2q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

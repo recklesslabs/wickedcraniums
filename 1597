@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1597",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiezm7nwds4uz43ckwfqwn7u476yndvafnq7n7w25ktsfnikceo2je.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

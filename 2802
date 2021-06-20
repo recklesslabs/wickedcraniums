@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2802",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihd7q37wk5uj53bltsr5kktkeh4vhdwovopkzqgigd2eocxqdxyy4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

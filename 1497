@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1497",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif2tup7cwjynnanfpdgmwjiavs4i5gptfapsbhv6r3pk3e4y5c67m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2737",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtrdhw5khq2koioopavyqasjwkpbdbwcjwd7dmfb4byz2bku56le.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

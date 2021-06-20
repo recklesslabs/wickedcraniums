@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2373",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiezjc4kys3htr2zz3fxntjnrid2l2jpfd4r7nlhlnfx3yuxvd4qt4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

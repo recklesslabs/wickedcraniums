@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1395",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaamuvxhvlgd3jgovu34ggz6drp55rww5gmz3xd6vfytxog3lj4x4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

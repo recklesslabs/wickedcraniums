@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #744",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihtuvu6a6j7te7mtxabyqklwtz2llnyga2v7uwxp62esibxrd4m7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

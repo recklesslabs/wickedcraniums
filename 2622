@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2622",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiagm2jscjfjzaenaajuhuk3mldosmdlypz7chd37l766xj2u34djq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

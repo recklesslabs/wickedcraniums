@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2542",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid64hrhftvocvgyurinbfxyiat2aqueraxofyz72aowayesjykgc4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

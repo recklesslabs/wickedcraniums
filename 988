@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #988",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdh4mmh4ume2cwirklocejn6bmsxmy2biqjkaxeg5epd6ia3ef34.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

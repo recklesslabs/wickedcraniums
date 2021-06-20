@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #944",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigy4xmlljrolhjwsp6aprzqtn57ekkfss2wb66gbda3ymv3kftxlu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

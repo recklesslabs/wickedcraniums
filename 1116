@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1116",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreificn56rwpdjhiimwspeia6r2aktnmuznrnhztjhsadndpkiknega.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

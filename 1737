@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1737",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiej4kv6g7t7gkgz6636zxvcw7zbuba7w23y4jxn5urgas6atyibiq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

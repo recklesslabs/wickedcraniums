@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3073",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbhoi4yxrvpwkwaiy6j4zkxk7frroy5q6u7iyvk5tfgl6glhzjvu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

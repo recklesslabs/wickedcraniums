@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #750",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiabs2hjxrqj4elq23awcxbd6rnkr6qf4sipxrmcgwwzyfww2ihp4e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

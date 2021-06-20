@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3265",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiesds2rwr4mokgbws7ymg2verijzqf73rqsb4na7jklykijs6u6ka.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

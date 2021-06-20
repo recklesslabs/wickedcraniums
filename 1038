@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1038",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigdrxkkl455q7ctglkvy5ppj7coq34ihzsfhrd7tp3hoqvsxiarze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

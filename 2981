@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2981",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibvawqbug5xxbqvjjbz3xgjp6vze7rw5nrleidw7sowvcmt7af43q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

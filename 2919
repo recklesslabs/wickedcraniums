@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2919",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibttcqvj2wtvljnr4itve5lwtqjzk3t6c5weqbwp7e4pw3nybfy4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

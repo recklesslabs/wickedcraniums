@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #833",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifpbhlrkzd4glxmbazxz5pt2ddtabskj24i3su2fs4th3odnpoo5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1530",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibg2e2dsxjkbrk3tr24zx2rd23zv476klgpwvpuislkkyxujsbohi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

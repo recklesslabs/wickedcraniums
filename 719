@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #719",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidb2mcuzx573xfkadnxcypqr3p3u7dvcnzrjrbljkqm2ygoydewhi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

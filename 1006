@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1006",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreids5ioei2e3bwdfvx3bbdrfuuvnq72alo3h7raaoj5ewm5y56ll2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

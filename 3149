@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3149",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiamc7asg7eeukyylekfcrib2ai3ulv2vlik5cxspvmux2xbcfax24.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

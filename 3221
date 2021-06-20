@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3221",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiefsqpipkfffen6andc65vuvfo7ww6djm4k7b5n4zvkf6bwbqibie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

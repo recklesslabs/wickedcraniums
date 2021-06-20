@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2297",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicw4v6gt2jw637mxy3j6sox253gygovrnjjrdqxu2xwu64wb62miu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

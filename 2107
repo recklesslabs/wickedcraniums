@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2107",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibq6zmvznt5xfu6luzynjvmvy436jnb7zwkvkvh7zdayfw6wf52su.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana"
+    }
+  ]
+}

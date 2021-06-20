@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1237",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbwpabwzeooiddztao5iui5gnsxlglg627dsiirwtlxzl3a343dq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2505",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasnmjlfpl64v5qa6qysupx3lep5xkzxt67hbqcx2lpwl6wh6f3zy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

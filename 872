@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #872",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigcu3qdubxpze5j2ksk5mdu5odcbebzyenapcj7rkr6vpjr5bbflu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

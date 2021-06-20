@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2754",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid26zyswufsfebsi3acscbmaembisnixygzy7he6j3mah7px72bqe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

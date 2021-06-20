@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #781",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigbolwuhwkgtl6gxcdzzwsxk4bgp5amjtu4qu6jbbbocpckrebo7a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

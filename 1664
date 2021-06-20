@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1664",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibd4x3msbbuve73h3kkr64irv2z54lht7usdffbyqidjfkcsrydpu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3199",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicgl4uchp2f2k5xd3sxetl6wvkub2ppiaprcaht3hocppcw7o2nui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

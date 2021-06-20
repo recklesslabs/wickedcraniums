@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2857",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihp5pe7kzf6okdu3lsxxe5byie5t7bjivaumxf65gqe776igja2du.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

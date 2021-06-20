@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2416",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibuug67r4vcoiv42lf6weondq5yjyaw3vokjln4gmlvw4qelf7ose.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

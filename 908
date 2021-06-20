@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #908",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiekjf2lxxxnpmwbylbddze3uayxvpj25ivk2pnx32tbo7bx6ygenu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

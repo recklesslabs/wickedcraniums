@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #867",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif62ltxw7kkjhtpsy4x3vr6qu67wz2abwtnkg4btr5dxczla6tdiu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

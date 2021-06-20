@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1294",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3elriqzeen2qclk2zrwgy67n3mcnpn6p7q3ylz56t7rx3uditge.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1768",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif45l2nvyx6o4n2c7ohhqy5cnjmalr6ysudkxgumjjcsz4amr5jdu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

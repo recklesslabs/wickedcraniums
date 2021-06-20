@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #917",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiceeqmwotinuzuntqbb5h6noqxawwlz33wntqqz2neheukm3c2in4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

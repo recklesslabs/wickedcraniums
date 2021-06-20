@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1964",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidrrm2rwywbtk22sxqza3dvlzspdmw4zssh755kjufhyi4h5hnl5q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

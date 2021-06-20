@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1073",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia56ahdvhvwdfwcmxxeasazceyztiwfje4c2fcdxmtyqezyx42cna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

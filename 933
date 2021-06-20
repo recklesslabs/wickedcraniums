@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #933",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidmqzv3uucjelrtojyce25u4dqf4s3akhqw6kzvikhhzchcbkkzc4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

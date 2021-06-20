@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2332",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5ozixlpxkf6lt4vh3yxvwl4gmtv3bvdrkzwuunn7h4mun6owhbi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

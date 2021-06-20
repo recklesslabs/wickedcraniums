@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2357",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidl2kxw3qa5vmvgsq4z4bwb47uhwfuinvijexq3ujwq5ventd37ji.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

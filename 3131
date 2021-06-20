@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3131",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih4uajycqk6qoglp6fvumozuypciryykayln76nj6dzedpwhit5fm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

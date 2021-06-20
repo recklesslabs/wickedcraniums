@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2974",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigty6qdkfqpylal6rzmtmxnufwfxbdsfwhnjhac3xh72kcswfjfvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

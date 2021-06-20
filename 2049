@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2049",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidcmrkqrzc26ve7tjggzwtrmpugkfzviuckq53ulen5jkrptpeniu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

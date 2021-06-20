@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1732",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif62s26zz7eis4wqp6ct4ppd5pehhi2l4byagglm6cmxteje7lt4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

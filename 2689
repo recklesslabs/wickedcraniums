@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2689",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreice5gfeh22a4e2cggg72npuxa2vpezfiurdhkrtu7t6ilttg5vdmu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana"
+    }
+  ]
+}

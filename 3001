@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3001",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidsaqzxaags6lamm7gfnw6t4mhug6sgja7lbew23dtvw7zdem5pdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

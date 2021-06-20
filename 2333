@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2333",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiefv75fh66on6qh4oel52te6cith5t76iqat6olbmxyumywiwxt6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

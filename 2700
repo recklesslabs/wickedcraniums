@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2700",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieykjv4hbbagzf2ed7ho6tev43ibtdn4ywlakgea5fxpril5l4o4e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

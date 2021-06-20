@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2608",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib2mdxykxquugkl6vuqrh7m3ggjz7telyexapmmivqtwaqhb5tjoq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

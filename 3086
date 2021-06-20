@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3086",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihpzkeu45hxzireidny5fphmbiqdkkrsyy3c56ebrffxgeyjvnxeu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

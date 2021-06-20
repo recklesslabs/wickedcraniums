@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3058",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifxmcqgqed2akawopjohjy466vm5ajb3fy4opymgp7ktyc4cd56n4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

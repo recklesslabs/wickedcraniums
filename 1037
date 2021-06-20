@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1037",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih4vajxu53zg7p2fuv4q4zmcboyszxlgxt7glf22j57om2iyla5ii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

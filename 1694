@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1694",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffudpifg3ie5bxmyzrwsba76wuvk2b2idxp557hhha5yjag2iqum.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

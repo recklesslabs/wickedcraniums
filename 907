@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #907",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib3c6vk4mbdz6kfyvzichmtz4jt6pij3ko47c23wttf4rwatrvvfi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

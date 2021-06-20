@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2404",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaibrddktkhauuyfq3fympsszqmpmjndddrg7zloea7l4dhikj7va.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

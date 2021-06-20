@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #951",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibinlw6yr6hw525niypkfpci7rk26r6jasi2fuhcykktyj3som5oi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

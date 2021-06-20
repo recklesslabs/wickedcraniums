@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2853",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicjnjdm63kxvyqwannvmt6ckxgwx4pz7tupzt6jtygazvhukkybvi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

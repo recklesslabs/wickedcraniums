@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1016",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeib7rp3wbli6yhej75s7purpgycmnud5bziua3gtbaxrflmb4fmarq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

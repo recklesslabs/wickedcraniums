@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2813",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicxqpev6o57kseaem2465vxm4zjemjhx2zw2ey66paxcwhywdpmda.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

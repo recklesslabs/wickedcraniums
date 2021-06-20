@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2167",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigs3fagiinzszlxspo2mirc63bhog72xfa7lkjivpkwsmrhgf63ly.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

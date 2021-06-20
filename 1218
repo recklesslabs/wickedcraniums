@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1218",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifhhxt4iqlfgvzbxzgr2o25qdhp3k3jlflmmelhkcvchg6y4so42e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

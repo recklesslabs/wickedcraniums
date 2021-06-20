@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1598",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidirn2zoqwopu3uurra3ya7kji65hsa55gpnltfpefdg7knugassu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

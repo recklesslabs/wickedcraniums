@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2959",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigty4vkfjzelwokvpi2jzj62c2t7xw6mu5brmzjiltdo4mntim6pe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

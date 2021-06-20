@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1986",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidt5zmzneulfo6mb3hepynivievdwdythn4oblkcuhokqo6dwxnhq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

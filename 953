@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #953",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid4f3arem7hclr5buxh5r2fh5mgos2amrvi42awslln6x5z6d77ae.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

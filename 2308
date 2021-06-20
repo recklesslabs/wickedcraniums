@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2308",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibrepbejjrp2tgyx4ty3ozg6lopvs6s3l73hra6fpcy53ix2o5boe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

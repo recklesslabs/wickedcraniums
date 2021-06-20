@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2739",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibn5ll5xljekca63pjhmsuzkvabbda4z3hx7t5437hoewj6dkijla.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

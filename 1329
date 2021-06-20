@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1329",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigahammvzgdh3s4i4hy7vn3i64blqeheq3eu7ua4dziqr2hw2nnce.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

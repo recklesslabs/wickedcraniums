@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1674",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreierpkfwmp42gg5w3kesgdnj3q5mcnaysazonojazoffdvjwth5cem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

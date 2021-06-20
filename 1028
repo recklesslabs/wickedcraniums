@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1028",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidnj5fe3eo73hgxw6frutgsc6kmmpl4qc3q6crsdkl5kzcaa7akcm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

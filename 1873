@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1873",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiehj6wmrl2vsoq6widykbpim344tbrb6ho3ygdnunjgok42gd4yre.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

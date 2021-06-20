@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1275",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia6u762f5xctd4nu3zp62wh4lyfbt3pky42dhq4jcyw3biwc3ioqa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

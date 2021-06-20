@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2715",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreics5kmtnrajzenlh5pvb2em52yic2feawooykaw3ndmzrdixqw5ni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

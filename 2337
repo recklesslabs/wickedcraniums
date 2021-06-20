@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2337",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbvb232q5gqklds4ma2sh6izvv27725z4ddjb7ks57evdk5gqpdu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

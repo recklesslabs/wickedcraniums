@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2995",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidculorhefbtrzmckbvod667zvqssnqnmg2sttc7cf7qxpxr4oruy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

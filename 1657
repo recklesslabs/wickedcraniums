@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1657",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieeughml57466zy5fd4jh7sgxmhhebaub2aj57ec7ca766wle66ye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

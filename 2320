@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2320",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicvxrnthv74hypdu24xcl2eigrwnvn56wfhjmmymzolpyfdok65c4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

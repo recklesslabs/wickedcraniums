@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2599",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffq6xoyfprcft77shqfoiz2igze4nfapek7r5vf7hfl2nzsycdmy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

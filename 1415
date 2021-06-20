@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1415",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigyjk3i2yfxhqytvoq7djmgu3ssx54pkq5oe65l6pf46e7d5dd7lu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

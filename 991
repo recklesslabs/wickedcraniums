@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #991",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibvema6xytakekz7rwys7eeu6ftvxqhzdw7uhxh74bkgliogk2vpi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

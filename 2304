@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2304",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigirtk4jvrbprjacm7yo6jqlqgiaot63jon5t6f4o4xl7jgupf6xi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

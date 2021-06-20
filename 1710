@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1710",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreies5rs5u4ktiag6ka2hylqzxt66jfyvu6pozl5zqo6ilvotbmnyey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

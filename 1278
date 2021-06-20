@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1278",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiht5w5nrgolgp32orbotrii5xjidpu6ougil7rddchtmhhvm7yf6y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

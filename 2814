@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2814",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreichcbgp2pit2bdnot3bbyrc472amuhbccnh5ghtaqg4sguz3ujcxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

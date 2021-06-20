@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1713",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib3zpgapw577bwbczqif3mwsg2p3v6y2opwfeopwr4gd345rt6vtu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

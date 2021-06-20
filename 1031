@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1031",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiazlc6k6mkid44oyin5ej5y7nsxs5gd2g66pjfoj2tby7xmclyepy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

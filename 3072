@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3072",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibwbsyrsg24n62ljivw2ksy5w5nqt46uvczw5frp7bn3k5zt35b3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

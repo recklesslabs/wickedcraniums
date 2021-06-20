@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2569",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiav6tdjnbhbwfflc5bslfeoi65jya3tpw3vl7rmmwmnjo642v5rmq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

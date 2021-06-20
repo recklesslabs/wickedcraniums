@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3241",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigiinp2nvckot4rl2c65jvmhzfhwwkgmxjhl5k5cmtkabe265wb3m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

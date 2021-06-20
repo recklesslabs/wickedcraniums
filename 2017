@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2017",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidexhdxonug4hbkrqw42eauir2czcpsz6zzhh2ect26uashp73gjy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1347",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibdqgmi7faohen4iquhh5mwifpw45tkk37jhf7urt2cpna3wds57a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

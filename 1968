@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1968",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibvwrezytxbt5yhamtcp23ifgz6yo4vu5odsv4r5alticq3v7pgoa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1679",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiadnd66j5cdz7a56z5ou7ibrec3tnjgb3m3ifw23lc5cfdgt6yw3u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1095",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifhokqsat2n2euxbg3z7rlvew3b2iabzegfx7kmsvx37hgkth5xna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

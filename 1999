@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1999",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbp6jqf6v6rctbb2dvhq4lcctposyc3r77eaa3gtezb4ub4luwki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

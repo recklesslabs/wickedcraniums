@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1769",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyjwpwk7di6gwurpdwp27gqwvfgx5fi4md3r4efjlbmqbjeemehq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

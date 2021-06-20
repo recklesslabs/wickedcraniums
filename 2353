@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2353",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigbtyvrigjffvod74ip7txwgshn2kiqlruzjmxznv7tt36lu6dsiq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

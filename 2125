@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2125",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2so3xs7v5q5dxduptaduqst5ufjkt2p2pgaiwz6kxdwiwdozd54.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

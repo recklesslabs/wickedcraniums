@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3140",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7oeetfnmqal5loqb6lciczijzcyjge65s2yivg2zona65q3sz44.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

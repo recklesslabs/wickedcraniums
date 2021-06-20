@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1724",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiglrr2xonkkfs37toim6fqy3vogogpz4yrw4wex2ds4ktjrdzlsqq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

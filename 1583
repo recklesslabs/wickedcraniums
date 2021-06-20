@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1583",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieg3fx657e3jymyo7smovy5bz226t2raxpwbracmrsryw7izztzvm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

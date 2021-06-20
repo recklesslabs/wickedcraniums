@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #911",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3sfulok6khcbxwmfa3prr6etvr5qiu2ql4o74atrgxq2y7vqom4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1950",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibyxivigbzdnkt2ibxqdpujiaf436n7gpqg547dqltnv7yqzybtbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

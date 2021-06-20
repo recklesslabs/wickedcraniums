@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #969",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3ujpwm7ntgewjvluqbej2zxx2lbbrf67lehahhrkqttetsypz4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

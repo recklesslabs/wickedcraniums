@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3151",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihpyb6kpxoe54ky6p4crk7dxdl4jiux2f4cs5y3qgw24z6jqu3dxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

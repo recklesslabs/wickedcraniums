@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2016",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib3uqclqk5xh6sfdnotnhnpnr4icl2b4mjj4ykjo6oblqa4m4loai.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

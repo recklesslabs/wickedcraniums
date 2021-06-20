@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #711",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib7nxf326zmbm7ju7ftq5fjxozz4ahmacs66f7v77i3pukqnum4ey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

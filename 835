@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #835",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif74ki3g5ylvoukxxslxo3e4zgsuvwrsa4zapjkc4koxk7gn6pyv4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

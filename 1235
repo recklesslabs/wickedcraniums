@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1235",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzk2dhmfnvhqrme2cjpvjys5dnnu7ayi6plhxey7argmmbm5umyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

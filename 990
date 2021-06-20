@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #990",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigckllznkg2ryacql5jjkd75d2pbtzltgcuts6xet7tb6xs5y3zfe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

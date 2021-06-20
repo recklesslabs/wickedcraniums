@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1532",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeia7pyfnl5imqmqxmhs3elo5o7nnoo5ezdtlzh26iscqhpdeuh2ani.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

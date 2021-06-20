@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2809",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicq6ly7c6hb7edkfbymm2k42w5usdqidpquxjkmrhkan5gf6cjbri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #820",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeieo5qhcitk4wkcuehn5dqenkzjdxunlh5u36s6lqhtrlyfcdoha3a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2547",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihruncdnzkdayzjky5dyefrjfixbm5wt6y7qcnro227tkgdmkzkyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

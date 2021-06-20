@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #893",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihur2zqeesourc5lcfclmpkij7tyotfktkg5trzjxv2oq5wiygtdm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

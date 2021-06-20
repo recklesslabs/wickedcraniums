@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1696",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifbdowfjrcfuclwgtxvadrbhmgvx64onpmoza6kb2mrev2rcvthza.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

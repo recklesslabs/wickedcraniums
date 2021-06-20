@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #929",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6y6so3rgxxd3fslzc2t3exyodgpdxu2czeerhy3yplk3uo6x5uu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

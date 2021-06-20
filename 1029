@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1029",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia4upetz6leewoqoxjlk6mwzyzsdpzxfjuc72t2iuufp7pkt263m4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

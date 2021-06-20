@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3075",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaatg5fwfyelew6dfj2yf4jhexy3mk5icl3ngdgqo5onl2zyv7pdq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ChiefCranium"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

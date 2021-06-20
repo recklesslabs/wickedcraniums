@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2570",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7faj52q2w74ja43gxfl5awlji4ig7jspgrywx373v2noorluvqu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

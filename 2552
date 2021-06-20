@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2552",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigfd4co4t5suee5sv3fmsdkxreisjyr2sbyhsqiso4cfx6lgw6ccy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #760",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigrbe7daoxppsqxf4cgbv2ky2spr37sb6pdmhbeu2retqfqhsmfbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

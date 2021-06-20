@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2077",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif2zahhxqcjhtnjwy5h54bvb7opehfwy5urihpmk7tv5p6mrip73m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

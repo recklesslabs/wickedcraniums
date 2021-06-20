@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2940",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaxkoameehtbh46gm6mnm5xkncne5gvz7epjvoc2m3h5k3armt43u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

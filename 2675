@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2675",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid3oo5jemweiahwnvnbd3ppa2tnej5c4lv4uyx56pxtr2pubbpwj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

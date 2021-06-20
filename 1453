@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1453",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihncto3hmtsjitg3dlgl7rcyxxtbvgf5ez2whrkmk5on5gc3oho7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2432",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqizatk3faqqujsi34sqtisb3ab7zgcceodbixt3xaspsvhxx6dq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

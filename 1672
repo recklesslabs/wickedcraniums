@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1672",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2l5z4k2b6dhm4cqanfkbwqnlsyzjmxg4qhxwo3a6lqp5knrysxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

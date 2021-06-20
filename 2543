@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2543",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibp57eo5534cua57njwn2nka2butwqjzsdssiytlvqsq6sreqqckm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

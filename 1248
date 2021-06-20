@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1248",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifzejr2dpkztnrecjg4lensmptj6ziyctnr7bcckvaih4y3cavmbe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

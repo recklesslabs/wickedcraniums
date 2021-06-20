@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1104",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibkhidjvw67kj4nitlt5amcka3ipq6623x7njtk6ebt4i7mheqyqi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

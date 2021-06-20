@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2664",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigum6drpqcfsezjsfehdu5rnvrrha2co535pdwg6szwetqrwxy3uy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SaintClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

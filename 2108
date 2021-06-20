@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2108",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigoskzhk4r6tgyki4awj5r4gcyd4yhpql4da5fpgfaizw6zd2i6s4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

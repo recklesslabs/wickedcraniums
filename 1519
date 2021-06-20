@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1519",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreief4nsxksz6dpgp74u3mzg272n4qr7h264kxjats33mfx7lowfvue.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

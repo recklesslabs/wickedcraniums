@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2824",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihumnwv3udg43stb3espcl7zwdqhirkbvrucuewxfmf7bxvs5bu2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

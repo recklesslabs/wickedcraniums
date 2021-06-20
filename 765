@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #765",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibfdodiujwu4tborb5xl2ptaqumdjrh7hbz7fjlhxcrsn5ycqvjky.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

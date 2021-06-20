@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2602",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6pf3syqxvrwdt6jqoptk4zlafbqojf4bpltyo2w7c5zwz7tzqfu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

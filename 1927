@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1927",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihqekekdkbpi7ygd2kcfcagp2xe3haf2vrk365fqmgxwfdovieoyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

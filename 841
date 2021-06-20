@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #841",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicsp332p6c7jxvk7koqbl6me2dphr2r6ccwzwneyqpijclx7wy44u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

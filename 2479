@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2479",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiconj4vdh6uzc52xrgtjspuhs75ccxmb4r5g6qyf42kuqr2x2wr5e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

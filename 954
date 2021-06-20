@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #954",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiariwiyi57tjjcvzlsrcrkkbb6u3u4ehtlsc7cwqze3eocyjobhj4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

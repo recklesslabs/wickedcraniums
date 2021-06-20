@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2360",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiagygekycn7uqjunn5lzqi76ncysy7eoz6kex5252t4zf4z5jcvga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

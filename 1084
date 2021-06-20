@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1084",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibu3vjsuolncqfijhe2qou4xwrwjfmtvsv3behnjf4tr3ld5jnaou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

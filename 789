@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #789",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeieopuqfbt5f6bsbzjigl4v6yvro7ab6fp7xu62gjxaqpgi3yyj3yq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

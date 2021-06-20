@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1765",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicyaij37v4tdutmxsl3s4ewpxxpfs3kougtjw4ia225x65jeog5jy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

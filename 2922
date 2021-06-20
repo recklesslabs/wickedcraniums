@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2922",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih3ztg6alixhlutybm6h5r33c6obznazvxqyudv7cjfqpet42u5li.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Footballer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2249",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigs33zlrkordvreb6bm375446jkjgdj2kkd2nxx3sjiqlkxnbstvy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

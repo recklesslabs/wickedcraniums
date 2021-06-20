@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3037",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifwvksoeivtuzo42rds6llngbo4jovx4z6mpcgeq5cky55tcjkilq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1787",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiasrzl5o55pfcsfj5l6k6id657stuvwokfb6jlaxg526st7vlbm2y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

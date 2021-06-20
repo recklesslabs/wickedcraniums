@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2137",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia5tm5d2dkaahru4rpecdrn7qwavdasqwpqrri7wtnjzkl5im7224.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

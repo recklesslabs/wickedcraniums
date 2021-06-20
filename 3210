@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3210",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiariuyvfbpdcfdn7z26beadyulnnz7aroxlgqh47rbuclizrn6h34.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

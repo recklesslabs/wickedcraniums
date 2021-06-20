@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3167",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiedd5tzvlehpfeafpt7tb5imbgz6bazprmx7f55pjyeoe473lhbb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

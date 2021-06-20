@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1516",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiayfxvlaeebyjiljl743l6hywwd27tygwpj6io2o6be5zaxpjbhwu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

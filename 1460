@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1460",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid4p5ohulji7bom73zljaz5afz6t6pvm6hs4cz62oud7c2hwuqiqu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

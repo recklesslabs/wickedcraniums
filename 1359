@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1359",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibzlvizn6r3t5gdt2yedf3xh6c5jo6omoxytu35gkf54zrixaupty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

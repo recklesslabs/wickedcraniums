@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2171",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreictrejywu73owva2eivj6njs2irwjozrued4ywrsirsbtg2xgqq2u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

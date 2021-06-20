@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2513",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreignfjsz6xjbvme7b2t3ovux7ytimkvh6rklozxpfb5svqn4a3gxre.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

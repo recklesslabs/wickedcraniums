@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1502",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiggp7iplecv242ufoupxm7wljyrzmmhwdlmi36yxizwpj73jfzsli.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

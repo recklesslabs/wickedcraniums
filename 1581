@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1581",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih3k2n5ldhuh3gzgjt7mdmyyahqvrqds5xgn5gkzshffo36s4fh5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

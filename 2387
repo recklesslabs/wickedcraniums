@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2387",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicibworquyr6vvz4vcrjksmm4itmc2kjql3ytjrk36sdkdng6o6qm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

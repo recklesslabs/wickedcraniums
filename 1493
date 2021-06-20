@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1493",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigc3sk4wge3jei2xowv66dgezkwmpifpnf3l2unbuohxn2ciphfy4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

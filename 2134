@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2134",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaopsff6xh6c7a3vjem2fu4ym5dguakuhvwtjkx46faz7q7drxer4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

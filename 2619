@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2619",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifptsihsi23j3nycm4yldsj7jjvt77p3tcch7q4py4eriiwu5ae4m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

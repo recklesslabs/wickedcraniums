@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2126",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidhs3xaw6o6wmhthkdub7inhguhqe5m7fikimdamwfedxpin3et2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

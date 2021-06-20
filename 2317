@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2317",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic6icydgchkw4sqcro2b6l3edrsij45jzgqttcnc6lxinsfxwa3zy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

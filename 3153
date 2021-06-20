@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3153",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigi5diuiev7uz7cgvscafiecei2otpw3e2q3lak4gd7wwbwmvzqfq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

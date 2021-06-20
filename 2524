@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2524",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibb4kw5spey7zcgjpsrbcddlx2xhyjl5q2uqrwtiohegv2llnfq6u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

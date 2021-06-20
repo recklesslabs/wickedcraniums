@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2957",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiezx2j3f5m4mr2nckhrr2rnekwuzakuaback6phlkoasuf4pfar6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1689",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5cw7dzpfg6qj6q6ala5duqzntieqgykhiylvyfaxedy5pp4y7wq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2283",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiawwk42yutznkmi2qeslhmmvphjlckbu3zu2bx2c3x4wlgoo47f4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

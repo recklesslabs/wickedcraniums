@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1301",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie2rgfyjqww5kh66niivq4kkps7bdtcfvep6kxvzwmqh4mrzwi3fa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

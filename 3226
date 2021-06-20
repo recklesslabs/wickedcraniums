@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3226",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihd6ch6mrn4qhc4p5f2p5bvrcqxrbms4eu4e4w4jutf7nkehhh6y4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

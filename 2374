@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2374",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicg3zp5cbqtetpidczbktuel3mg46s7qt6h2x4vfom47mzuwgsxse.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

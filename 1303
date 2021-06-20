@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #1303",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicqyrh4srf4mu35jzz25iieryb7par4mqamujo6di6vut5dbw6pd4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

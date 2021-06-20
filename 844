@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #844",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigiefmcsy7gapdsrg5ec5tb3ghr5jnn7twm3dz6a5aqfl7uuyemga.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

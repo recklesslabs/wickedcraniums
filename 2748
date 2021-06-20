@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2748",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifldjtkyh37pr332nuffhockri5d3ukb3m7ens2pbetedyzyxdfiy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

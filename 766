@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #766",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkzovkpfrzuusjfo6uiskzje5wxbp75xagjvfjhmsd77zhwkwgum.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

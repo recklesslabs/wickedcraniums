@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2808",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib57vjyt7s6iii46zttdcnixfe2vp6rxslb4654ddvyrqlkqdhvme.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

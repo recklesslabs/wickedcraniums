@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #895",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiat5jgryp7keyukkceroeyqz4vu5q72t5s3eob6kkirkkyhwfhqpe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

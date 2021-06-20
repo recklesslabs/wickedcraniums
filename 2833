@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2833",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtokihnyabfba6n66chpiqv4qpmmuqrn2u2g3pdtyfrlvyy4nnym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

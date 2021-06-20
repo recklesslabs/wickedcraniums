@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #817",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibox4hupklrunzjyoh3sddulgekadn37obnckqmnhf5rxjsfomffe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3092",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibn7xbkhdulh35nh64nr5rijdtsdpliuugjwhy4gk74gw2jc6itpu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

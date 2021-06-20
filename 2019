@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #2019",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie3lhx5ineaiolcd2ebzipw5rnza4ipbmc2xxggcwnilx6g3vdbqq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

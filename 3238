@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #3238",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifolmcwcir6fx2cgxwvriquoi4hn4dsek4c3phmnxybrciejkiism.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}
