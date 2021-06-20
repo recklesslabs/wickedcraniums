@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #455",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibppfnhpi7lmrxbzdxemmycwsyksh2wmwepnopo5esmcb37v53eti.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

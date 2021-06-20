@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #561",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifhzxsq3yztu66eukpr74h6m2mysbmi7rlf3k7hpvbsknbnxypm4a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

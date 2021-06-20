@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #320",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigb5sb4t37oal6ksfixxrs2vjrb7n663xqamwziczyti324ofs3eq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

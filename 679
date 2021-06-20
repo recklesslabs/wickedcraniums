@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #679",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibreeexvsnbyqunv3uv7igff77utk4ilireigrokj24blpvx4rerq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

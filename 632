@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #632",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicseve2a3nx63qoriaug5xdovluvtwz2k2yvhorysyrq5g5way7y4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

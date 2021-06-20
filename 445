@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #445",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreici52bi7xixjiki424gp3i5nldzne5vhj2jkzl2ermluj3ogd7lna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

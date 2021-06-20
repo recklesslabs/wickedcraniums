@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #689",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig4n24oif6ivoki4p5h4yv2rurm46dp4jm23otw3pq4jvip7v2ylq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

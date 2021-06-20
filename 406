@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #406",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihbacuqmtcrunu2ldsr555rz2vg4yu37x52rwmhrodepeejum2dh4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

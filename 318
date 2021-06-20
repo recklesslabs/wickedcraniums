@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #318",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidrnauk6elemyctzx3cug2si67v4w2x2vl3cfyzg2roukmqgecc7m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

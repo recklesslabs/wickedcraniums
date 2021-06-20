@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #458",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiajdf4tlfa7tebdthba3icijp7acanhyemyizxo5rx6bgijkkj7r4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

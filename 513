@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #513",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiazp7k7wjtyychjiai7yzskx4qeq5eufdgnqiblmed7ogouv2bn7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

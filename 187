@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #187",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihcxb7w32dyvzcqc2w3y5b5zernyehduqzxgk5ufkwjdyuazzwcze.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

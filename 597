@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #597",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih4fiexrfegvu2fkpgkghytgvux5ooqissmasag4hw4hmrwsoqexi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

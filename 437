@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #437",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifmnlfbp6iy2dtlp6cxp5wzp6rcztmwkngoktk5d4fv5pwuplhdfa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

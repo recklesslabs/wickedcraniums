@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #391",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihkx7lxgbjmklkbmhaugf3ef4bwefiroc2q5cal7k5cgiornct23e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

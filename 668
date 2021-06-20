@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #668",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidmyupj6xh5jaj7jc2dhgc7m7yyalhgdolqaformfddhjb23czqoi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

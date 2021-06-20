@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #170",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie5lzkjimpf7gwotx77z5wwhhy3bw3obkn4m4bq7q6jdlzqe3dizm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

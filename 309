@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #309",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigohcejcmoip3ap765ucn4xtqlbc74nwwjmleviuiw3maxaqsun5a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

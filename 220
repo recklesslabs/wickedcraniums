@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #220",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtz7uwpj2iash4vezlnhrmkppmkdt33aiornb6fq4cgize74sfdu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

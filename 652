@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #652",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihr32z42ved5egx6wizi7gyhvu7u7iasameewi6upxwpbckw5d5s4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

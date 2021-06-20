@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #154",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielt5wodf36fdc6wqq6mcpokuwwk5gktutr4edjf4xf4draefuoyi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

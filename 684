@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #684",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigttkoiakzoeq7zmydijzn47q6kzsms5gcz2dbtnx4gvnmbirt6m4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

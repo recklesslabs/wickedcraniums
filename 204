@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #204",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbmlq3epphborml4kq7uoa654tqmrsbe5z7yg3xq7wpaji36mllq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

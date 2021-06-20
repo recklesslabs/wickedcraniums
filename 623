@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #623",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibi6pwio3dfgdybmqh7xc4yqxl7asa53pdrws43luftc6xxfkahna.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

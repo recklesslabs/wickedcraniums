@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #690",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidmwpgwx6d5m4nzasyub4ytk3bnhn4mdy5bhlb3mtzfuwg3wdsmwm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

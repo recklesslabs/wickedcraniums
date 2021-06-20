@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #100",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibrkyt4vb5lejacpd6kap2734iduf46hbfrsihzohy4hvrvbq65ya.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

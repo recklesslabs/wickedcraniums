@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #347",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidpvjkwiatgrrcnilxvfjbozpfn22gvmxis2ziyntzuvwbbjtqw74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

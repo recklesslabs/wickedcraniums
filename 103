@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #103",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigjzvxkw62ffgsep5cm7ct666tkb6e7s4ba7tdjt2tfn5kccimsxa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #488",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid27vs4su4qg5rzrrbp4hjb6sz3filuejbv6ef5lgl4a7cewkioju.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

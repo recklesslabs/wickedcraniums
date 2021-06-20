@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #244",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigbsxt3g5jnjc6x6yd5et6d3fd5427qcnrqrffugbfikdtig4lzi4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

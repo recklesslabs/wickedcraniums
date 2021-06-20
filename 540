@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #540",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia6rq3btvdcu3dd7yhmmsvau7x5mg3lzhknhddjkzn2e2zbrcj2ey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

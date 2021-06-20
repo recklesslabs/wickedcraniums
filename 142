@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #142",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihhdlah5zhm7j5uxb6thmdtktyu2aasrq7ybfz7z76a52356atppi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

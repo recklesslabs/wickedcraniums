@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #306",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicaba7hzsj3rvv4m2zn34nqdzgmgjhzbndfdulvdai4uhzfq7pqxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #420",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreievlbauqe6cvwufjgo3niiaa4icbeanintgz3s2eo25nzerqzd6ni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

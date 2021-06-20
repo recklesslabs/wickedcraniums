@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #330",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiali3nw5j323buthdzyb5leekixaei6rx2ig2hp74ek4dcosrybiy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

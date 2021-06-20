@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #81",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiandfzfvhg4o3mbgii62i2yqcakt4lgmvnq7pyyleuj6w2cmqtmbq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "MaskParty"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

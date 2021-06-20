@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #129",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicrd2ntk4hlpkdmcvee5744cr4tj4owterda7d43x4u62zbwiuye4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #51",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicirivbdo5ny4ksayask3xs7m43re6wla7fe74qlotoerheuc23ne.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

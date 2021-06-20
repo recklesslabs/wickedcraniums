@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #266",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiepg6cjnkstomeiyt2pc47znz2cqdizcgrhle5mjvnnjk5bn6gmhe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

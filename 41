@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #41",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigaefzuq4wkcktdfz3ttbzxrte7eiavcstag2koh7kwyecgk47d4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

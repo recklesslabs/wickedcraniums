@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #201",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdtacb4ogvldosqqqyatwjrju4b37gcwanxkfjl5d6r5ljjxnf7a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SailorClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

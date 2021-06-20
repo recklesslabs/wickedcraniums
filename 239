@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #239",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidzllij5cnii22kxlyfn4d5ce7omzxo6cufevlv6ntfo64oyge7qq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

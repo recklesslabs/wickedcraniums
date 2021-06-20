@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #465",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifis5aivdrsls3n2p3pirbevjc7vvp64cmm4v2wrk45s5nns6zjsy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

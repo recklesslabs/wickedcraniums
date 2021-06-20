@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #344",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigfnmcvswnt5vycft7l2a7n7dzmgp6tpbcxkmm2kjdswa6fzlrute.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

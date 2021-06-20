@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #655",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigtslo4qj3vesicqkinjk7ykdtixl6qi3xvyajqrluqwdvmiv5z6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

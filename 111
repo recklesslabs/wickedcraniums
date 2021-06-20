@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #111",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahmynm7g3rug4foukepqnhibst7ykphtcwzhapuk6fve3sp3uqzu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #353",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibj7iwr2523vhiwoi22s3wba6ry4526ohpxm3zpw2u7gdtlkiqz7i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

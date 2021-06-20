@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #159",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidi2ekq3tpmsrbloxalabz3pwb4plv5o3z4rvgti5lvnuuifbfhwy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

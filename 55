@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #55",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif7mwm6nhzsazeuws7cluadqyb3wm7m5ccdbvus5lndsopqub7tri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

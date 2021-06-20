@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #387",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihjq2vtyo32pppsdgzmr3y2sp5veetkaanvwhzoshhkhhozjhw6bm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

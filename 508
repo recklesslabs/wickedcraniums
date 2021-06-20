@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #508",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaqd35sms5njayzunjhgdrmz3jv3cls7iyqtr22wo5qn6degaxkvq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

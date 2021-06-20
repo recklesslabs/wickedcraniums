@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #571",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifph5q2hjrelyjcmhmm6ho2htv2mqnvcqfclhv7awmqs75cyptmxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

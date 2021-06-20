@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #377",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4a6cqngdao2r2nnjur3wyxrzrnr7asokg5k5auvdw55g3cfswje.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

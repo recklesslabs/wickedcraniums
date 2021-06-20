@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #489",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreididfw7t2z4ceht5c5r7swsyzq7jgfhuvdfdf2gsssj56kqghu2q4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

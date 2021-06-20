@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #127",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicdu3ckwydj4q5ygjuavhnekvel42gusdg5hrar6dkfflo6h5p2rm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

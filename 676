@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #676",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiax25n2jmjgvuzbefc2dafvsdnbd5jkszqn52xcyhmjio6btms3sy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

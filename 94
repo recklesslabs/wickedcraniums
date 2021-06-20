@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #94",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidgt4ikrnekskn3dze66fso6wq7mltfgs4mb2lokehdfwibwvwese.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

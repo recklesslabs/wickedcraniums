@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #236",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibykj34tamdb2wq76m6bclnqmgfqiqmgptkxbvnofb76orbr7mcuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

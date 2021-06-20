@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #478",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibbktsrr5hu6bsbkgtaci4h4hrz6por6aqhtcramsoyl4ljefokri.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

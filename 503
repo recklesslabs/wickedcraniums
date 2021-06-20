@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #503",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibc4pt2jwhfaytuo6ffvmx53h5eelaelbd7ljj4rcdk5ypnvd34wy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

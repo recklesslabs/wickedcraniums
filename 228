@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #228",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5y4dmlgildlc2rjorjv5dxnspcu7aizaal5tokww2kvqtxobeni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

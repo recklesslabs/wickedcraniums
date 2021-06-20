@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #144",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigigv6yrpk7zi3cpfuaruz3vyrd3j243shaok56hlc2aw3coqfs4y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

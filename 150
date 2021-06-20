@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #150",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieatvj3v676k3pahbhujevtz3hhdyoetpvkt3dcc6a5kujviig45u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

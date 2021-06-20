@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #152",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifmkh6pqzbv2b4oskec57hkqzxybnw6m6qbxaxee67fxnga5fftia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PsychedelicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #210",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5mbrsffrhjt2biakvtwhwcxuvldum2yr66yqjb2qxslo6askjsm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

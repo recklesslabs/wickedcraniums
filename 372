@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #372",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibf63qimlfbkfcrfi3tmph2nlravpklv7yhaimrypbuwulmgzwg4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

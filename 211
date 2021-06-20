@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #211",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigr7th7qn3rcrvrxp3uhsjomsdx5wuft74rhc3vjxsvwfm2flxw34.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

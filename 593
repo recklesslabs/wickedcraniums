@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #593",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihh3o6bh4mqr4m3hbhmdtgwiso7tcrnchiqsv6ynqxa2jspjlu75e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

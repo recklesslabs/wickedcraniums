@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #566",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihsonw3qfleeudkom7tmn7jnhepolss5wnpjz6hyxrxwkjrvh6dlu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

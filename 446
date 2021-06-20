@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #446",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidfsw7373ztnfn7ag5da4v7ynk3yooyvyold33xqu5h3pmqlvaj3i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

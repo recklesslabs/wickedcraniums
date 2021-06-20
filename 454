@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #454",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihzofpociabd42brvasqycpolf73vjbqcy4msxhwkwxnhhgtjz764.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #699",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdvumqmr6cch75kbfhwchyzm5ocp6b6b2x3gp2h6vwge44danqja.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

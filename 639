@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #639",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihcf4qugxniidnalw6an4h2hp3js4tc5ekekcijfzyxifwnt5knou.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

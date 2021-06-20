@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #198",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrijqnpbygrigz2t4lp2q3q35sjlabxo2kgnofu5jxt5fgxicd7e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

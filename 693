@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #693",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifobsyjqqv65toivifhvnsh7qi3svrcw3jmmqnjmlpuh5wnzrl6g4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

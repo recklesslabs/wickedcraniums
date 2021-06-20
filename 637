@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #637",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig6ttkyeako37smhw5rytmfkkemwbaz7bxcj6op4wkx4bak7lqilu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

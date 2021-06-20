@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #577",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreig5y3tgoekjb6t64xpwuo53zfskeyg7emrwkywq3ozwaeowe5jmk4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

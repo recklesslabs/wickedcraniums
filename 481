@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #481",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidcv6mziw4cxqoe3235wnbhdu62shhuc6y5h5xptvb7okb4tnnhyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

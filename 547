@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #547",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigknalscj5dd2bl3ao27yjtf2wxstlpjby3r2mcy4uoyylh45cnzm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

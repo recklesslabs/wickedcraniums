@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #119",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidktj2ujhwhqzq5vrvpdklqerygtqdtyhqtwb75wztwg4fswt2qsq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

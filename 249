@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #249",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibipcbsmv7sdhn4aac5gg5paubef2dci5lb7kypems5wbvkarkfx4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

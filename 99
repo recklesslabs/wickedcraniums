@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #99",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicw6rjth2k6lp35okecgpcdhpcxwjmbk2pawvztf7s2tywcj3isjy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

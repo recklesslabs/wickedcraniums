@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #253",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihdxstwdpz5zetbgbcm4t4yvtp2duydlv5cntdcdonbd6iwliy2au.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

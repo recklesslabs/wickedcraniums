@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #279",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5w6v6digo4xy34ruwrciintdmlbjkcciur6sunb5nmrk2zhcvcy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

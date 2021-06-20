@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #499",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifr4dxoadt663p6j4e2igt23rhnx2tmrywwkdvenqcowg7onfvdxu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FurCape"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

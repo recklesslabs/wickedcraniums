@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #642",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreickfx3dbipswijzl5opuellynbyo46cfdxt3tkeilef2ntkqp74ny.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

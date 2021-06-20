@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #241",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigctddc7ag42stggkzsl7g54xr7b2vspfetnnjgkbfjuhbkcd5ljq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

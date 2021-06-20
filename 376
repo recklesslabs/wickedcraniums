@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #376",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifhmgky6bvnkk5ozggvnb74xghpvvsf44xrpcrsmetq6nop4vhyje.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

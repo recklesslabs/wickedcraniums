@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #619",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4hcz2dotz6zgbexikej6yqrbvyiudmlzwho6st5xwi5qy7ewmoq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ArmyGeneral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

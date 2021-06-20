@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #428",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreied4ig4b2kyqfciylu7nemhwsorpvasp5zranwntncpdrvwh2wknu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

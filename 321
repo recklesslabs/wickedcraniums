@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #321",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib323u3qnghsnheyxc4r33kbtt4q5fryu2csu62jfx5ozgfzlhiua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

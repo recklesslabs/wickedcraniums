@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #342",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibontrq5wd55kdcyqtrw6435bfxxkjh7tnwxtrzhkeqehou3xomye.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

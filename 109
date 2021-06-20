@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #109",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieqm25wt7pldnbw6j3p6oc3bqwrolsmgmg6vjiezlaj6l6hjkhafa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

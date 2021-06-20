@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #554",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeiai4rptsha54sebpezqzxbnyyinwe3mcwjh44oa6huch2sdjvmh5y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

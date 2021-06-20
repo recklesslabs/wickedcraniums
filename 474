@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #474",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmiqet5twigyqcbvsamgx7p3rgrppt3ylgdnlixrcw4vh6bws3l4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

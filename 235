@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #235",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffiqwbbkv42lietrlytn6ii7q4oazkdm4bf2f7m5rjt2zihmlama.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

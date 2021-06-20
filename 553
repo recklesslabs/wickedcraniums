@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #553",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihao4dc43svk33empafponcn6vnymzbl52foluweftq2rkzsoddhi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

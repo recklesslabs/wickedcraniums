@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #221",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihshvz4lq3pfchr4j4ga26v2ycyfofefmlugirwbmzxgxpkr7m4dy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

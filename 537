@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #537",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreido2roxilpqr7h6paq7lewg2br23bkbfckww6wubkwy2kvhaewswq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

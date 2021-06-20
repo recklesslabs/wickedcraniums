@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #546",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiggxib5kvfi2wekajmh56wk32mhqky4l2kh7uymemsgmj26r3wb4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

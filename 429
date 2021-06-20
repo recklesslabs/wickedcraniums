@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #429",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicxbftu6zusfwy5ojvwm7ano2s45ms3xyo6hrtqcgvemmj3jhddca.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

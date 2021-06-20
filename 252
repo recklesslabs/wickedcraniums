@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #252",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifhfnibnjshp2nbdgqjha4ux4755ihsizz6cxtwy4ezvt3eywcmni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

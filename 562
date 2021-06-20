@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #562",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiarmypwnwm5n66exd7uthykpqlbigaz2fjal3afh7lku6qwidkagm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

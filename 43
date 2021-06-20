@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #43",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifrwmkjfd4wzaie35rvukaq3tzxqiyctw73prgsdf43wzx6zxv6r4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

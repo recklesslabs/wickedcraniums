@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #80",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihfxrnubor6gkbfkrowueku3frpjhb27zsj6b7mev25czpkp5wt3q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

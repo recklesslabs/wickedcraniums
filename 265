@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #265",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibrgrl7aobwoubeghw4hm7t6hrzcy44peqemtievcxnmmmpt6sqbq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

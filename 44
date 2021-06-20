@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #44",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiejeap5k5fiipnlzja4xbyqkr6gkqte4xfbqv23ofvmtdoiq2v3zu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

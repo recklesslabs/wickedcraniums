@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #40",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeih2pgx7xvksozuc6rgnbvv2fwyqxzglrqy52t76lkxcaiz33nwpii.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

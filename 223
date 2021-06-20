@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #223",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexgzf5povvchb7eh7lzas2zw7x5p2onz6f5f6znunfbcsmztduk4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

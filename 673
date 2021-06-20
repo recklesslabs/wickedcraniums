@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #673",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidtnzklamxa3ha3zxuq4h35yduocz63ylooxitoupve7u7zqa7mie.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

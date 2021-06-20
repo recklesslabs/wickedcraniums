@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #413",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicggt5abzq64svwlr775kd7r5w4mdkellhguzyzjhd5lx4z2yalw4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

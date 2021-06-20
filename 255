@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #255",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihl63qi55tewpjuypfsx4buaj3yrnjczyrumyjye56g6zarp4b5he.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

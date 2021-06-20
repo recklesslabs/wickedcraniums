@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #75",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia5nxh5hvk73rxm74kppczj6wtrsztiiuvrxdvhsqa5e5qjw2ebru.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

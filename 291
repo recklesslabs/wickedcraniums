@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #291",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifkunncpxllgrlug4jmvdm5nrdcgkndvy6kbr3ythxhdljbb2h6fe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WinterCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

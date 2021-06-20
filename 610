@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #610",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihaa3hmwrxpdacq4kvdw3qr66zh65kqhwdblnh2armkrgpnpponla.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}

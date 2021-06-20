@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #427",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibuqm3dudu5vo4cv3umliqy5ftkvn6isszghhhb7snkiga3fs5d4m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #78",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihpaxbusfmmy2yf5w7jv2qb4rffodvzgysai7yctnagpocox7g27u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

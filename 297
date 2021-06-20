@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #297",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreick3vkeezunhyjejelm5trcx7allq2l4uye6ekls4zxfxxkrxsxhm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

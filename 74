@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #74",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidbt26j7jmqkho3coo4vtpq7pqschxqqg56zlvxov5chwekoo2uoq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

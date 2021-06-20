@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #295",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiatyedgnm3jvznjmg2ths2ujtws25dujg2edg3oosnssthlgh7t4u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHazeO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

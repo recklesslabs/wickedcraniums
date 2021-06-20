@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #301",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyipkyxv5qhmibkrl3y2xngw34kerpffu65u3f2yxvuzmb6fdnke.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

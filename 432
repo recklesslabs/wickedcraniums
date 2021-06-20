@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #432",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifmm2ygp5khr5rur5xjnl626dyz72jwld5ixmvrsf7nbpndhixs7i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

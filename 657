@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #657",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiddcbvylzrcxx5cmnh6qcaynqifk2474sgu3llrf2lvnqrvmql6u4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

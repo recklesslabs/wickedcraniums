@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #319",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifhnyprigmhu6nfcw33vx7lapjzhnmhje5dodwmjrnm6lyl2e55l4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

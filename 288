@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #288",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigczo6xe5tkouvy6lbqgesqryre6po5l4yj3gl7odoyti5qvrkcey.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

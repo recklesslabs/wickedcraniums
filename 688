@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #688",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidfpnctx4fmgqpzafexksyko32ce5hapgxk2sen5ho67b6v53e27e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

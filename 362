@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #362",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiarhhc6ibmuxfzm2ruym32gfuamqhfa5ovnuunqh7oicjynnwdeyy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

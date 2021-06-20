@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #106",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiax4qlvjrfda2feo7g2yrkqd6dqqi4opoqjmrdyiwitljtvsrcfv4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #656",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeigui4g5l4i2w3xi5tpoh2efeiiqpd2ne7nljsxzvcw6acuozfgri4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

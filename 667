@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #667",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif5jwgj3r2b7l2bvu6sb7qtupzcartxdatr7bddsxq5i5wscfrbua.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BowlerHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

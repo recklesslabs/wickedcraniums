@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #222",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieg3tbilsjajfil6ghnn3u2wpdbi2ujpcggfuyqd753ap3z5eohm4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

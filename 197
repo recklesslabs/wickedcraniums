@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #197",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicsokgxzf6hddycdqgrlch6hovlwu2cckdtho3xmioaqzud2sob7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

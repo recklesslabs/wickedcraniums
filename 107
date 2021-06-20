@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #107",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihxjhgcllzh3qitzf7j375gon4l76zxrgjd2tb3h657ahmk4udrea.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

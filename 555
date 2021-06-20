@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #555",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiexggeokl3d427k4a2vhkkvgxkixbfabwt4yxz4q5vir4bvvufzhq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

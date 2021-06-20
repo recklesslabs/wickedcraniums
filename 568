@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #568",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihwdzgit5mm4tzgrlfup2t2oefym674bnoyovvudxqgzscui6hl6m.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

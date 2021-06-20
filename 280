@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #280",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih5afrr56pqhh55y6fjlvqbpdneakvho54wnftusqwoyapdgkzjxe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

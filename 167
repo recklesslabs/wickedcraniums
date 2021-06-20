@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #167",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibxcuqqohwnria7mic5th3qbs33liueear6aut4jpknu4tgkbjiia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #696",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicsb4657rrgxrpwsm4uycbv5ojojhz7itlqbewjdrimgxnvur27rq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VarsityJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

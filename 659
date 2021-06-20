@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #659",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiavo6fhaozvzdqech7ewndyfrspayw2put5hflvzxaqijgg7jtde4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Noodles"
+    }
+  ]
+}

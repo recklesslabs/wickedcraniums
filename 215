@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #215",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiftzjn6mckxaht5fnhuz4qhntzo6qfqybx6x4ic4yuk6mga2zrwoa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

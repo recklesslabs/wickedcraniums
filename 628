@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #628",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicz3vfoebm7v3r342j5g2o6b2tvgan3j2bmeqd2qidka2rz7dvv2e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

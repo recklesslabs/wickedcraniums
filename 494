@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #494",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaqwpblwb4lg7p477y7yu5en3d7culymyfqyhmndifyd7of4dcdqy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SurgicalCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

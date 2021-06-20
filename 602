@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #602",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihh2ibkalwa3i55dlgfzz3gaslzbrxd6mntcnal7qjrnlrib63vcy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "MotorSuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #77",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreienhjiu2mekrxgyf5ivf27r3zc3mh2vxlnelgqv4ky2hh3ihd7dcm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

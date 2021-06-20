@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #56",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiavnhbphgbbmnwwyojbfi27v2nnkjaauqdox2s7xs4d7bv7hgoa54.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

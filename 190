@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #190",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihaoqhjuilup522eibw3fmkchun6raqqyg5fvgd4f5mopegiibbpy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sarcastic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

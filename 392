@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #392",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiegr3y3otecjggikhrg3c5e6lgoej4fm4elnfms7caniz6sjhbtb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

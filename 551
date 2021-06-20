@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #551",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifljcjwwqgvh3z6dwtk6yd5uhfyuru3dd3xr4atbn6t3tpr7efk74.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #237",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifrffvmhnonzt4p4xavucnmxwpmtosvehsflpwxmgu5tofcb33xbu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana"
+    }
+  ]
+}

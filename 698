@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #698",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicim3dq2qlpwnoozunbgjqvcbutkllmm4sgeeicxiruybzfiv4ccm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

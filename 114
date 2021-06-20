@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #114",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihtm73kcs6bmzexpjmbspzx4bx3tf5qxtle6j7qn76zf5aka5g2c4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PenguinTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

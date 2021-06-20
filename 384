@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #384",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicu4idjvzcrauiahpvxfltdua7kygyqo5za67wmqrvhbwducourma.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

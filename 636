@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #636",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifli62sawsm54mrb6zth4icpgbo7lyfdonshy7gz6ic5fol4x344u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PaleO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

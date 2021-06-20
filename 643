@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #643",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic6qebh5cjdmbtcgcksetqt2rycxqfyo7cbd4udqx3fn6sgqv3kni.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FireFighter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

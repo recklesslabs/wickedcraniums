@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #213",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia2c5ninou7x4bgn7irpk3ciu3g767mearcl5zqlffokacltvk4gi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

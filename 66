@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #66",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidv4uiultrftdnxmes73byf2hmd3qhxkpbyrryy6jkyhu7ivmupwa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "LeopardO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Monk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

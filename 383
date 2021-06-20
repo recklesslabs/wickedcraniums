@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #383",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih3somow2any6ulmjxe2x3cwcc3gvvhjyzv55qqttmgcmu73dgs5u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DoctorCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

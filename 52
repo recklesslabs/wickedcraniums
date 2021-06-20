@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #52",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeic5hvtr44ra5tbo2gvpa2szglyinhkx34gyy3erst34j245lt6auq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

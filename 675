@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #675",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiffgwdlzi4ymfgpver7ujpvp4r6tgqqfjafltrhspqme6b7m5wrde.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

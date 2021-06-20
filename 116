@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #116",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiafzvtopta44opb5jgj3yx6lj4fxwmlcaxsxdwb5moxgeqtvbqqoi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

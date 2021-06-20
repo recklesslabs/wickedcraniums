@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #302",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigwjjplwhgnv5ospgwoth33ywk4e75b3c4y5c5y2kmgtgkwxl66qa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

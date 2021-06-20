@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #487",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreielrkid5hhwkrz7wquuprm5qfsmifcguy33szrioya3iu2fggzvuu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PufferJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

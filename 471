@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #471",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdl5jar6o3a6zce23qfmgk7w7ngzcrr746ckbusykooec7y2einq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

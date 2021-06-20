@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #538",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifd4n2ywg2gg7lniilc7bldbaswexga7qs7euvstkvmdiquycszi4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AquaHaze"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #282",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiepjsee3x5e5loz4hrfxiaxvifnlsy4uwif4zsmme2djjglrxhqha.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SchizophrenicO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

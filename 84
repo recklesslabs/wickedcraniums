@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #84",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieveotrcsjgqyol7fiothizmnliq2gzphtjk3kbtaqmyj6yqrxwre.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheikh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

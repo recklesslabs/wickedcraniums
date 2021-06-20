@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #79",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibgnedlzmhg7ldqasw64zokre3foukijdnldfjwsznelgpyeu5qim.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kurta"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

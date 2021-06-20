@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #475",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib4oktjkk5xn52wapxtmezptmbcb6qgfqvc6e5wlb2d2ebdzolfge.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

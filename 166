@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #166",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiht7rfgrperqckt27jghif64xrocnogu7g3vwakymr675nmciyccy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

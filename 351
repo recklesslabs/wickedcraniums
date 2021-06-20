@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #351",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiay35ai52qoxuz2urqogtnhtltdluijc4d6d2pintkfb7r3mcmu4q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

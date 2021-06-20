@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #680",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia3ld44apptdbgqnmegr255hyzmyi5frv2eqlncazymwnzof6vaiy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BoneTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

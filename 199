@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #199",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih644ggjtni6ct5u6ysu3s4jlgmii2xcx2qudyhvqfku2fnmjg3oa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadScarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

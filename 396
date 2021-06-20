@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #396",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih2wrxlr7phs6gxahc466xalb4ofvjpo7oerlgsjlx3gu4drrcz7y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPinkO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

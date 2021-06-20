@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #462",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicmw437k3t5btzfoytzis5aivat6g75r2rytupcbogf2d5cdlrcbm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

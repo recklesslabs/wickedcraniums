@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #286",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieax7rweacf3ylbbi2sbbjwizxqn6ind37ovbjk4gnbsdsazv27ym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

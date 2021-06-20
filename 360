@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #360",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaxhgcxxarcfzch54ga3wwzgjedwjo7uagis5jrhnfx64nou2xbxy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DoctorMask"
+    }
+  ]
+}

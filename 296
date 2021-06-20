@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #296",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihyz76qsenmzo7ffdd2tglqcqe5m2ti2np7ojo7ia3dyfuga7lqbe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MilitaryBeret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fumes"
+    }
+  ]
+}

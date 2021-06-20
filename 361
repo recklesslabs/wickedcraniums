@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #361",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreih562ijg5fklg3k5jj5dip4whlrgbciivjh3blbgwomyqbvn4juv4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

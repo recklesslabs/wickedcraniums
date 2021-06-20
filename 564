@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #564",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib6calbzy5tnmcnyuwhpkdfdfmfjstsnoymy35cnwyjcjoa7an5z4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

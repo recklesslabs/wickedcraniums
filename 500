@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #500",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigf3rrpljrsiqkne22u6hwgbqf3a23ovv3xtw4tp7yphnkajzczfi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "RiceHat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

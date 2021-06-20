@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #430",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibqovoc3xqbcqcej3t6lam5gkzjz4d4llpudgtb3o72utjogw4pbe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

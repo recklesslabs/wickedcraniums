@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #155",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidomqrigbzhbfhjv7xhjx5e6meaqqlgnmvjzhajlhpidzuwavsw2u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

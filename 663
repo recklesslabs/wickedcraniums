@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #663",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihj74ioe2rj4xtxc6ad6e36nm62no73cgrkwhzhuvijojfemfbfui.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

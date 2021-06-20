@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #686",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidmv34pvo432xv2627peov7niokz7nc2d43w4nsnlbit5lo3v2cqq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

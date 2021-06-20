@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #464",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlvm2wophb22v6bqarq5fkyzb3pwgiwgcsyfvm6aazppbmuyu77a.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #660",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihijymblncrgaciespcpb4reylafxcz32d2xdj2r64niju6nwae5e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GoldenTeeth"
+    }
+  ]
+}

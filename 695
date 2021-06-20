@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #695",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeicvlyy6qousngblpwpe3clx7ftzrkazfdg2tejijwl4wyhrq3acqq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LeatherJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

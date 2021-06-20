@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #482",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidlolwp6k24wv35am2idzr67siwb5rxppdu2wmwapd45al2dpbvty.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PoloShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

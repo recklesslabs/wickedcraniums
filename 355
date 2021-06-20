@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #355",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieupsu7waucdynwv6hoholpiym75wbxzgr5hxixzq7qog2zxurdpq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

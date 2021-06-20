@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #303",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic5d6rh3vwo3p7mgggwgfxjv35tuczpn5owv7p7v62vpqw4jckm6e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HawaiianShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

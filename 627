@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #627",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibgc5aepa364o2egpye4q4opiopzf6p4nto5xnyy3x6wl4hay2bte.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

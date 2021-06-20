@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #148",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeibjhkdnv76tek7y6u24nwpzlc4nismcbv42pjigicqhxiuyb6dfv4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GhostShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

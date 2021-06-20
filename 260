@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #260",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaf4ol3veh7fjhz3m7h77hqiau7wfdnuxdubfu2tlheqek5dzhbzu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

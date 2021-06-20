@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #431",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid4emsdepaa77nv5b4yts64xefygpydyvzm2kdmnxqcd46tualwda.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PilotClothes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

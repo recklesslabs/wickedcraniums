@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #68",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibe3evi77huxknuvxzowwrc2fwrwjrorfilx6vhbmpk7jpgp4cway.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWoodO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #267",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicfunsr2d5644i5fi26vvhc2h4aw6cuwqwqfwzmuhfc2xt2gnndnu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popping"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

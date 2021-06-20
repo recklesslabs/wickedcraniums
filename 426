@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #426",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihqyhfwnh5ajc5fxu2ldbvj5yyb4ezfkwm3z2udts7b2apzck4mbq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SilverO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Watery"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grenade"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #509",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeihd5ygkul272aw6wh736gdbyic27xhebv2dznm5vs6xj355sgc5fe.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LogoTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

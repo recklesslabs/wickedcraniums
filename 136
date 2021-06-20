@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #136",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigobh6swi52j4o2rmfncqzjcssh7qbittsrhqhlin2mpnnbysb46u.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Firefighter"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wheat"
+    }
+  ]
+}

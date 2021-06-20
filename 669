@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #669",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifnh4bbbkrpo52hvmkbwxwvgwcnuyssbdd26v52fe5k35g7ugagfy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ushanka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

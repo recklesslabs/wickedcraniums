@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #243",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie23wxvbuerdudbpexiz6s25gsws4ywexwhddmgsp4vvrjiorxk6i.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AlienTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

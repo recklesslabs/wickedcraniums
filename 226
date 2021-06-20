@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #226",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicyhi5et3n7jhns7lvdwkuglvou2rrkbbsxgeo2z2kvslqpv3eiki.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frameless"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Persona"
+    }
+  ]
+}

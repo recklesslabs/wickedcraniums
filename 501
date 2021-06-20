@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #501",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreif776yui42psdit4cbi6hk5ydv3ur52drqsc6dpqc5izvovpjfv7q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MidnightExpress"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ski"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "RedShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

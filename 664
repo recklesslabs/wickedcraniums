@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #664",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigfv6s42mm2w6xttohdyfwnpidii6ucbwperi53wqijyv4yhq56re.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WickedMan"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

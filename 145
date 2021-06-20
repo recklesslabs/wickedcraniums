@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #145",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibvnvrsnwac3lldvrgzrwp5a5hbp4zjogdzrndc6yxr7dtdnfrika.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BroadBeard"
+    }
+  ]
+}

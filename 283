@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #283",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic2zivko7onorzu7hvin5qtthy4ks3mycnpwldtuuuj6fjeyu5xiy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "KhakiJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

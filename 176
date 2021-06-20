@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #176",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreian5f7r6vx676ru27hlcocy3oxouefpkawgjw6kuslya4v5lvz7ia.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

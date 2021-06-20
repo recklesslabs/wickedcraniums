@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #70",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreib3osyo5rmog35pssnqgsmeb2qcfbkpauueez7asnec7obh5l6xee.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Witch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

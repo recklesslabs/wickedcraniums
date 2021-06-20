@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #414",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibx7jlkrx6coechnujffwhz4njo6plx2gbyf42k4lnui6vmbrhncu.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WinterGaze"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bike"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

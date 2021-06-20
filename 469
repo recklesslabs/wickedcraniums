@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #469",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid4dpbxovxstnvw5ngtcfbbwqoyyqi4vfavos677aqyo3mxfoctfy.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "EmeraldO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

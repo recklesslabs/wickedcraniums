@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #580",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifgq4dr7c6o75aybkmcidq4xldzbpo7ahldxdtina7y53uwev74au.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "PrimO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SuitAndTie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ]
+}

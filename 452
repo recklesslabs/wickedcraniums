@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #452",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreieat3hedsjfjb6cxuhdamisnvfighn5ghtvp7h5e66cvyaaqt2gka.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BlackTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

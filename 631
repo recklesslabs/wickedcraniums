@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #631",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreief36sd6k7x4nbsuuyo2ugph4ioqdnx3uq53yo34kwhvhhadkeymm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloak"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ReversedCap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

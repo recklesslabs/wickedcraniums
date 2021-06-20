@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #281",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiaa2ohsu5z7g5ume3wf7kn4wb25hl47qnfdyrnq5fl3kflwjcyowa.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DenimJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

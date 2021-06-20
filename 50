@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #50",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibncm4zj37kz66efn732ljftfupw6ilchlykh5crvmb6urfbhhjym.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizophrenic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SpiderShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

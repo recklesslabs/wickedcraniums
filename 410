@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #410",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihqlqgekr4cng3mhravld542seporuynlin5t7fgpn6mif3pcyvje.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ReptileO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DeadStones"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

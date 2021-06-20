@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #651",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreic4bwqtwen5m5n5vjymvb32sz3bqgbrzdvl3brelpezk5kg3wkq2q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NightCharmer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electronic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tape"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #614",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifdonx2tzderikgyh7r3exr6zhfjyp47piapkfzs7ebifubet5kb4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

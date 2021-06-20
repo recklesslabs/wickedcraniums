@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #556",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigqnmo2k6qlrcssu3mfv5nekqypkyun4u3x6oomu6npgkmgogq23q.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGrayO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "PeanutHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

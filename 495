@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #495",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigddni6g2dul3hybm3m6u5us7qsein6n235urptekmzdxt5vilb4y.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana"
+    }
+  ]
+}

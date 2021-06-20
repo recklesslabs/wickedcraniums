@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #521",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreicpjxgpycodrshpwmsl6wgd6soqtg6o7thmycr7jaa5on5cdkjod4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BakersChocolate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "GoldenO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SovietEraCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    }
+  ]
+}

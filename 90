@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #90",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreia76a75jlploubxtfr3xfeduioliqgpgtwoybtaqupd3fc3iyqlxq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WaterSkullTee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Leprechaun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

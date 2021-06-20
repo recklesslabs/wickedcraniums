@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #366",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigokjzojueydvomkiw62xzyyq6ztvnkmtjsbsn6lve2ikpepnojwi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "NoEyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

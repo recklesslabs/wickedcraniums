@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #125",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihrb5xr5kmdc63puuvopqtpelllljpay6k7ebenmomrirr7unzm3e.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TheOGO"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    }
+  ]
+}

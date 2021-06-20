@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #615",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreie4th3iiwm22xgjoektafcfdaklnj3adpywx55kkt6qisi2nh3cdi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maire"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aviator"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "PointedBeard"
+    }
+  ]
+}

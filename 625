@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #625",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidkxmkggn676htooawdlvrhtm6hctifeysj46jwp74op23cty5dte.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "CarouselPink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SkullShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

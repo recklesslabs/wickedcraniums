@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #259",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafybeifbzzxwe32i674m2yoe7u6iwxha2v7g47xvysxtwgzzwwytneyvuq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MardiGras"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TankTop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}

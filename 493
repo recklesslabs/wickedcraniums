@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #493",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiag6vilfprnjpx2lxzc7g6f2aa3566zg2ule2ro4u3dmaeukxerzi.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BomberJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turban"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "NoAccessory"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #272",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreigap4rnzka4cu2td2h6wxgsldxkojp6cpszkjntpiy6xi2rwluncm.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "WoodBark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "AthensGray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GoldenRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Construction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "DiamondTeeth"
+    }
+  ]
+}

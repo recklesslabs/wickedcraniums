@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #245",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreifcrbnzkiygd3nkgwuokt2nzx3iqifmxgldf2r5hno2zwjdismfn4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ViolentViolet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Prim"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sombrero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #370",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahk4xno3d6oo2wtnpfrobif3jrutpnsdgjohkkws3z2gj6den3py.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Zeus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SweaterAndShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "OxygenMask"
+    }
+  ]
+}

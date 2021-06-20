@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #234",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreiahmm2vvdlahutj3nvk6el75fqsxkntn643wuuni4jxuerlfylxg4.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BlueWhale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TealHoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    }
+  ]
+}

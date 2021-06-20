@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #374",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreidvmgftxc3e7njwvqgfddrrpkskcynllbciqeuq2fuqmawqgysiem.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TheWicked"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TornTShirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BarbedWire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

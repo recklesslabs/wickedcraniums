@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #681",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreibr5brbo7ohozahczitwwnaaitq6ajqfp7lbhlmh4vpclrv3msyla.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BrownPod"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tribal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diver"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LongCoat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigar"
+    }
+  ]
+}

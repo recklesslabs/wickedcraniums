@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #346",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreihmbb4pv6d24ngtwplugbhkqq6jjzmkvfp3gp2cyczbohd5ajbvgq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rooibos"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SpringWood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SilverRound"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HalfSleeveJacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Spoon"
+    }
+  ]
+}

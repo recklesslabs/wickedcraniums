@@ -1,0 +1,31 @@
+{
+  "name": "Wicked Cranium #45",
+  "external_link": "https://wickedcranium.com/",
+  "image": "https://bafkreid6hke7ez2lfwbzsb325v6wqou7jqo63nfarijmvfjq5hb3r7wfjq.ipfs.dweb.link",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pohutukawa"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Satanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazer"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BathRobe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BoneMask"
+    }
+  ]
+}
